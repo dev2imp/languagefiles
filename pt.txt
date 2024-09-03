@@ -1,3830 +1,3830 @@
-<p>avião</p>
-<p>hospedeira</p>
-<p>linha aérea</p>
-<p>aeroporto</p>
-<p>autocarro do aeroporto</p>
-<p>chegada</p>
-<p>recolha de bagagem</p>
-<p>cartão de embarque</p>
-<p>comandante</p>
-<p>check in</p>
-<p>tripulação</p>
-<p>alfândega</p>
-<p>atraso</p>
-<p>partida</p>
-<p>sala de embarque</p>
-<p>saída de emergência</p>
-<p>VOO</p>
-<p>número de voo</p>
-<p>porta de embarque</p>
-<p>jacto</p>
-<p>aterrar</p>
-<p>hora local</p>
-<p>não fumar</p>
-<p>não fumadores</p>
-<p>passageiro</p>
-<p>passaporte</p>
-<p>controlo de passaportes</p>
-<p>piloto</p>
-<p>pista</p>
-<p>lugar</p>
-<p>cinto de segurança</p>
-<p>velocidade</p>
-<p>comissário de bordo</p>
-<p>descolar</p>
-<p>janela</p>
-<p>asa</p>
-<p>cerveja</p>
-<p>conta</p>
-<p>garrafa</p>
-<p>tigela</p>
-<p>bolo</p>
-<p>cozinheiro</p>
-<p>café</p>
-<p>chávena</p>
-<p>garfo</p>
-<p>copo</p>
-<p>faca</p>
-<p>ementa</p>
-<p>leite</p>
-<p>prato</p>
-<p>recibo</p>
-<p>sandes</p>
-<p>guardanapo</p>
-<p>petisco</p>
-<p>sopa</p>
-<p>colher</p>
-<p>açúcar</p>
-<p>adoçante</p>
-<p>mesa</p>
-<p>chá</p>
-<p>colher de chá</p>
-<p>gorjeta</p>
-<p>empregado</p>
-<p>empregada</p>
-<p>água</p>
-<p>vinho</p>
-<p>lista de vinhos</p>
-<p>parque de campismo</p>
-<p>mochila</p>
-<p>cobertor</p>
-<p>caravana</p>
-<p>tarifa</p>
-<p>fechado</p>
-<p>utensílios de cozinha</p>
-<p>água potável</p>
-<p>cheio</p>
-<p>lona impermeável</p>
-<p>pedir boleia</p>
-<p>quanto</p>?
-<p>bilhete de identidade</p>
-<p>cozinha</p>
-<p>luz</p>
-<p>uma noite</p>
-<p>uma semana</p>
-<p>casa de banho pública</p>
-<p>corda</p>
-<p>lixo</p>
-<p>frigideira</p>
-<p>duche</p>
-<p>saco de cama</p>
-<p>telefone</p>
-<p>tenda</p>
-<p>hoje à noite</p>
-<p>roulotte</p>
-<p>pousada de juventude</p>
-<p>blusa</p>
-<p>soutien</p>
-<p>saia</p>
-<p>casaco</p>
-<p>sobretudo</p>
-<p>cuecas</p>
-<p>camisa</p>
-<p>sapatos</p>
-<p>calções</p>
-<p>vestido</p>
-<p>chinelos</p>
-<p>peúgas</p>
-<p>meias</p>
-<p>fato</p>
-<p>fato de banho</p>
-<p>gravata</p>
-<p>calças</p>
-<p>roupa interior</p>
-<p>camisola interior</p>
-<p>Austrália</p> 
-<p>Áustria</p> 
-<p>Bélgica</p> 
-<p>Canadá</p>
-<p>Dinamarca</p>
-<p>Inglaterra</p>
-<p>Finlândia</p>
-<p>França</p>
-<p>Alemanha</p>
-<p>Grécia</p>
-<p>Holanda</p>
-<p>Itália</p>
-<p>Luxemburgo</p>
-<p>Irlanda</p>
-<p>Nova Zelândia</p>
-<p>Noruega</p> 
-<p>Escócia</p>
-<p>África do Sul</p>
-<p>Espanha</p>
-<p>Suécia</p>
-<p>Estados Unidos da América</p>
-<p>País de Gales</p>
-<p>Domingo</p> 
-<p>Segunda feira</p>
-<p>Terça feira</p> 
-<p>Quarta feira</p>
-<p>Quinta feira</p> 
-<p>Sexta feira</p>
-<p>Sábado</p>
-<p>Janeiro</p> 
-<p>Fevereiro</p>
-<p>Março</p>
-<p>Abril</p>
-<p>Maio</p>
-<p>Junho</p>
-<p>Julho</p>
-<p>Agosto</p>
-<p>Setembro</p>
-<p>Outubro</p>
-<p>Novembro</p>
-<p>Dezembro</p>
-<p>Primavera</p>
-<p>Verão</p>
-<p>Outono</p>
-<p>Inverno</p>
-<p>Véspera de Natal</p> 
-<p>Natal</p>
-<p>Véspera de Ano Novo</p>
-<p>Dia de Ano Novo</p>
-<p>Carnaval</p>
-<p>Sexta feira Santa</p>
-<p>Domingo de Páscoa</p> 
-<p>Dia da Revolução</p>
-<p>1 de Maio</p> 
-<p>Corpo de Deus</p>
-<p>13 de Junho</p>
-<p>24 de Junho</p>
-<p>10 de Junho</p>
-<p>Dia da Assunção</p> 
-<p>5 de Outubro</p>
-<p>Dia de Todos os Santos</p>
-<p>1 de Dezembro</p>
-<p>8 de Dezembro</p>
-<p>amêndoa</p>
-<p>maçã</p> 
-<p>alperce</p>
-<p>feijão</p>
-<p>beterraba</p>
-<p>biscoito</p>
-<p>feijão frade</p>
-<p>pequeno almoço</p> 
-<p>bolo</p>
-<p>queijo</p>
-<p>grão</p>
-<p>batata frita</p>
-<p>pepino</p> 
-<p>chouriço</p>
-<p>café</p>
-<p>jantar</p>
-<p>OVO</p>
-<p>aguardente</p>
-<p>peixe</p>
-<p>alho</p>
-<p>uva</p>
-<p>feijão encarnado</p>
-<p>limão</p>
-<p>alface</p>
-<p>almoço</p>
-<p>tremoço</p>
-<p>carne</p>
-<p>melão</p>
-<p>leite</p>
-<p>azeite</p>
-<p>omolete</p>
-<p>cebola</p>
-<p>laranja</p>
-<p>ervilha</p> 
-<p>pessego</p> 
-<p>pêra</p> 
-<p>pimenta</p> 
-<p>ananás</p>
-<p>batata</p>
-<p>arroz</p>
-<p>sal</p>
-<p>salsicha</p>
-<p>caracol</p>
-<p>refrigerante</p>
-<p>água com gás</p>
-<p>água sem gás</p>
-<p>açúcar ceia</p>
-<p>chá</p>
-<p>tomate</p>
-<p>vegetariano</p>
-<p>água</p>
-<p>melancia</p>
-<p>acidente</p>
-<p>alérgico</p>
-<p>ambulância</p>
-<p>anémico</p>
-<p>anti tétano</p>
-<p>braço</p> 
-<p>artrite</p> 
-<p>aspirina</p>
-<p>asma</p>
-<p>dor nas costas</p>
-<p>ligadura</p>
-<p>picada</p> 
-<p>bolha</p>
-<p>sangue</p>
-<p>tensão arterial</p>
-<p>análise ao sangue</p>
-<p>bronquite</p> 
-<p>queimadura</p>
-<p>peito</p> 
-<p>frio</p>
-<p>uma constipação</p>
-<p>prisão de ventre</p>
-<p>lentes de contacto</p>
-<p>contagioso</p>
-<p>calo</p>
-<p>tosse</p>
-<p>cortar</p>
-<p>dentista</p>
-<p>diabético</p>
-<p>diarreia</p>
-<p>com tonturas</p>
-<p>médico</p>
-<p>dor de ouvidos</p>
-<p>serviços de urgência</p>
-<p>febre</p> 
-<p>chumbo</p>
-<p>dedo</p>
-<p>primeiros socorros</p>
-<p>gripe</p>
-<p>pé</p>
-<p>fractura</p>
-<p>óculos</p>
-<p>febre do feno</p>
-<p>dor de cabeça</p>
-<p>centro de saúde</p>
-<p>coração</p> 
-<p>enfarte</p> 
-<p>hospital</p>
-<p>doente</p> 
-<p>azia</p>
-<p>injecção</p>
-<p>comichão</p>
-<p>rim</p>
-<p>perna</p>
-<p>inchaço</p>
-<p>enxaqueca</p>
-<p>náusea</p>
-<p>pescoço</p> 
-<p>enfermeira</p>
-<p>operação</p> 
-<p>oftalmologista</p>
-<p>dor</p>
-<p>penicilina</p> 
-<p>dores de período</p>
-<p>penso</p>
-<p>pneumonia</p> 
-<p>grávida</p>
-<p>receita médica</p>
-<p>reumatismo</p>
-<p>escaldar</p> 
-<p>arranhão</p>
-<p>dor de garganta</p>
-<p>estilhaço</p>
-<p>entorse</p>
-<p>picada</p> 
-<p>estômago</p>
-<p>temperatura</p>
-<p>dor de dentes</p>
-<p>enjoo</p> 
-<p>úlcera</p>
-<p>vacina</p> 
-<p>vomitar</p>
-<p>varanda</p>
-<p>casa de banho</p>
-<p>cama</p>
-<p>quarto de dormir</p>
-<p>conta</p>
-<p>pequeno almoço</p> 
-<p>água fria</p>
-<p>sala de jantar</p>
-<p>jantar</p>
-<p>quarto de casal</p>
-<p>chamada para acordar</p>
-<p>câmbio</p>
-<p>hall de entrada</p>
-<p>pensão completa</p>
-<p>rés do chão</p>
-<p>meia pensão</p> 
-<p>água quente</p>
-<p>bilhete de identidade</p>
-<p>chave</p> 
-<p>elevador</p>
-<p>sala de estar</p>
-<p>almoço</p>
-<p>gerente</p> 
-<p>uma noite</p>
-<p>recepção</p>
-<p>reservar</p>
-<p>restaurante</p>
-<p>quarto</p>
-<p>serviço de quartos</p>
-<p>TV por satélite</p>
-<p>duche</p>
-<p>quarto individual</p> 
-<p>telefonista</p>
-<p>casa de banho</p> 
-<p>quarto com duas camas</p>
-<p>mala</p>
-<p>travão</p>
-<p>avaria</p>
-<p>via para transportes públicos</p>
-<p>carro</p>
-<p>caravana</p>
-<p>autocarro</p>
-<p>estação de autocarro</p>
-<p>esquina</p>
-<p>cruzamento</p>
-<p>sem saída</p>
-<p>gasóleo</p> 
-<p>desvio</p>
-<p>conduzir</p>
-<p>carta de condução</p>
-<p>fim da auto estrada</p>
-<p>motor</p>
-<p>tubo de escape</p>
-<p>correia da ventoinha</p>
-<p>estação de serviço</p>
-<p>mudanças</p>
-<p>dar prioridade</p>
-<p>médios</p> 
-<p>máximos</p>
-<p>veículo pesado</p>
-<p>passagem de nível</p> 
-<p>camião</p>
-<p>espelho</p>
-<p>mota</p>
-<p>auto estrada</p>
-<p>proibido estacionar</p>
-<p>matrícula</p>
-<p>óleo</p>
-<p>à esquerda</p>
-<p>à direita</p>
-<p>sentido único</p>
-<p>zona pedonal</p>
-<p>gasolina</p>
-<p>estação de serviço</p>
-<p>furo</p>
-<p>bicha, fila</p>
-<p>estrada</p>
-<p>estrada vedada ao trânsito</p>
-<p>obras na estrada</p>
-<p>luzes laterais</p>
-<p>derrapar</p>
-<p>limite de velocidade</p>
-<p>volante</p> 
-<p>em frente</p>
-<p>portagem</p>
-<p>rebocar</p>
-<p>centro da cidade</p>
-<p>engarrafamento</p>
-<p>semáforos</p>
-<p>camião</p>
-<p>pneu</p>
-<p>pressão de ar</p> 
-<p>furgoneta</p>
-<p>roda</p>
-<p>Apelido</p> 
-<p>Nome</p>
-<p>Idade</p> 
-<p>Morada</p>
-<p>Data de Nascimento</p>
-<p>Naturalidade</p>
-<p>Nacionalidade</p>
-<p>Número do passaporte</p>
-<p>Local e data de emissão</p>
-<p>bilheteira</p>
-<p>carruagem restaurante</p>
-<p>compartimento</p>
-<p>ligação</p>
-<p>partida</p> 
-<p>alarme</p>
-<p>entrada</p>
-<p>saída</p>
-<p>primeira classe</p>
-<p>entrar</p>
-<p>sair</p>
-<p>guarda</p> 
-<p>informações</p>
-<p>depósito de bagagens</p>
-<p>perdidos e achados</p>
-<p>bagagem</p>
-<p>quiosque</p>
-<p>proibido fumar</p>
-<p>plataforma</p>
-<p>carril</p>
-<p>caminho de ferro</p>
-<p>bilhete de ida e volta</p>
-<p>reservas</p>
-<p>segunda classe</p>
-<p>bilhete simples</p>
-<p>mala</p>
-<p>revisor</p>
-<p>horário</p>
-<p>via</p>
-<p>semáforos</p>
-<p>comboio</p>
-<p>comboio eléctrico</p>
-<p>sala de espera</p>
-<p>destinatário</p>
-<p>via aérea</p>
-<p>por e mail</p>
-<p>cobrança</p>
-<p>balcão</p> 
-<p>distribuição</p> 
-<p>preencher</p>
-<p>correio azul</p>
-<p>formulário</p>
-<p>carta</p>
-<p>marco do correio</p>
-<p>vale postal</p>
-<p>pela internet</p>
-<p>encomenda</p>
-<p>correio</p>
-<p>tarifas postais</p>
-<p>vale postal</p> 
-<p>postal</p> 
-<p>código postal</p>
-<p>posta restante</p>
-<p>carteiro</p> 
-<p>correios</p>
-<p>carta registada</p> 
-<p>carta registada com aviso de recepção</p>
-<p>serviço de mensagens escritas  SME</p>
-<p>selo</p>
-<p>via superfície</p> 
-<p>telegrama</p>
-<p>equipamento áudio</p>
-<p>padaria</p>
-<p>pechincha</p>
-<p>livraria</p> 
-<p>boutique</p>
-<p>talho</p>
-<p>comprar</p>
-<p>pastelaria</p>
-<p>barato</p>
-<p>farmácia</p>
-<p>grande armazém</p>
-<p>agência imobiliária</p>
-<p>moda</p>
-<p>peixaria</p>
-<p>florista</p>
-<p>ir às compras</p>
-<p>mercearia</p>
-<p>electro domésticos</p>
-<p>loja de ferragens</p>
-<p>roupa de senhora</p>
-<p>roupa de homens</p>
-<p>tabacaria</p>
-<p>hipermercado</p> 
-<p>pré pagamento</p>
-<p>preço</p> 
-<p>recibo</p>
-<p>loja de discos</p>
-<p>saldo</p>
-<p>sapataria</p>
-<p>loja</p>
-<p>centro comercial</p>
-<p>loja de artesenato</p>
-<p>oferta limitada</p>
-<p>gastar</p> 
-<p>papelaria</p>
-<p>supermercado</p>
-<p>alfaiate</p>
-<p>caixa</p>
-<p>recibo de caixa</p>
-<p>loja de brinquedos</p>
-<p>agência de viagens</p>
-<p>atletismo</p>
-<p>bola</p> 
-<p>praia</p> 
-<p>bicicleta</p>
-<p>aluguer de barcos</p> 
-<p>perigo</p>
-<p>mergulhar</p>
-<p>prancha de saltos</p>
-<p>pesca</p>
-<p>cana de pesca</p>
-<p>barbatanas</p>
-<p>futebol</p>
-<p>jogo de futebol</p>
-<p>golfe</p>
-<p>campo de golfe</p> 
-<p>ginástica</p> 
-<p>hóquei</p> 
-<p>jogging</p>
-<p>lago</p>
-<p>nadador salvador</p>
-<p>alpinismo</p>
-<p>proibido acampar</p>
-<p>proibido nadar</p> 
-<p>garrafa de oxigénio</p>
-<p>gaivota</p> 
-<p>corrida</p>
-<p>raqueta</p>
-<p>equitação</p>
-<p>barco a remos</p>
-<p>correr</p>
-<p>prancha à vela</p>
-<p>velejar</p> 
-<p>areia</p>
-<p>mar</p>
-<p>patinar</p> 
-<p>patins</p>
-<p>respirador aquático</p>
-<p>estádio</p>
-<p>bronzeador</p>
-<p>nadar</p>
-<p>piscina</p>
-<p>ténis</p>
-<p>campo de ténis</p>
-<p>raqueta de ténis</p>
-<p>tenda</p>
-<p>maré  alta, baixa</p>
-<p>pesca submarina</p>
-<p>voleibol</p>
-<p>esqui aquático</p> 
-<p>onda</p>
-<p>fato isotérmico</p>
-<p>windsurf</p>
-<p>iate</p>
-<p>chamada</p> 
-<p>código</p>
-<p>marcar</p>
-<p>sinal</p>
-<p>urgência</p>
-<p>informações</p>
-<p>extensão</p>
-<p>chamada internacional</p>
-<p>número</p> 
-<p>telefonista</p>
-<p>telefone público</p> 
-<p>auscultador</p>
-<p>chamada paga no destinatário</p>
-<p>lista telefónica</p>
-<p>uma hora</p>
-<p>uma e cinco</p>
-<p>duas e um quarto</p>
-<p>três e trinta</p>
-<p>vinte para as quatro</p>
-<p>um quarto para as cinco</p>
-<p>catorze horas</p>
-<p>quinze e trinta</p>
-<p>dezoito e quarenta e cinco  um quarto para as sete</p>
-<p>meio dia</p>
-<p>meia noite</p>
-<p>neste momento</p>
-<p>dia</p>
-<p>cedo</p>
-<p>quinzena</p>
-<p>meia hora</p>
-<p>hora</p>
-<p>em mil novecentos e oitenta e nove</p>
-<p>dentro de três dias</p> 
-<p>ontem à noite</p>
-<p>a semana passada</p>
-<p>o ano passado</p> 
-<p>tarde</p>
-<p>minuto</p>
-<p>mês</p>
-<p>a semana que vem</p>
-<p>o ano que vem</p>
-<p>um quarto de hora</p>
-<p>segundo</p>
-<p>esta tarde</p>
-<p>esta noite</p>
-<p>esta manhã</p>
-<p>esta semana</p>
-<p>hoje</p>
-<p>amanhã</p>
-<p>amanhã de manhã</p>
-<p>hoje a noite</p>
-<p>há dois dias</p>
-<p>ano</p>
-<p>ontem</p>
-<p>mau tempo</p>
-<p>brisa</p>
-<p>tempo frio</p>
-<p>nuvem</p>
-<p>tempo seco</p>
-<p>tremor de terra</p>
-<p>bom tempo</p>
-<p>nevoeiro</p>
-<p>granizo</p>
-<p>furacão</p>
-<p>gelo</p>
-<p>raio, faísca</p>
-<p>tempo quente</p>
-<p>tempo húmido</p>
-<p>vento</p>
-<p>neblina</p>
-<p>chuva</p>
-<p>arco íris</p>
-<p>tempo chuvoso</p>
-<p>neve</p>
-<p>temporal</p> 
-<p>tempestade</p> 
-<p>trovão</p>
-<p>Verbos</p>
-<p>Ser</p>
-<p>Estar</p>
-<p>Ter</p>
-<p>Fazer</p>
-<p>Ir</p>
-<p>Ver</p>
-<p>Chegar</p>
-<p>Comer</p>
-<p>Dar</p>
-<p>Poder</p>
-<p>Saber</p>
-<p>Querer</p>
-<p>Falar</p>
-<p>Pegar</p>
-<p>Pegar</p>
-<p>Dizer</p>
-<p>Ouvir</p>
-<p>Sentir</p>
-<p>Conhecer</p>
-<p>Amar</p>
-<p>Viver</p>
-<p>Trabalhar</p>
-<p>Estudar</p>
-<p>Dormir</p>
-<p>Tomar</p>
-<p>Beber</p>
-<p>Sair</p>
-<p>Entrar</p>
-<p>Voltar</p>
-<p>Partir</p>
-<p>Continuar</p>
-<p>Pensar</p>
-<p>Achar</p>
-<p>Esperar</p>
-<p>Andar</p>
-<p>Correr</p>
-<p>Nadar</p>
-<p>Chorar</p>
-<p>Rir</p>
-<p>Gostar</p>
-<p>Odiar</p>
-<p>Escutar</p>
-<p>Ler</p>
-<p>Escrever</p>
-<p>Brincar</p>
-<p>Comprar</p>
-<p>Vender</p>
-<p>Pedir</p>
-<p>Responder</p>
-<p>Encontrar</p>
-<p>Perder</p>
-<p>Ganhar</p>
-<p>Procurar</p>
-<p>Esperar</p>
-<p>Aceitar</p>
-<p>Recusar</p>
-<p>Mudar</p>
-<p>Esquecer</p>
-<p>Lembrar</p>
-<p>Convidar</p>
-<p>Conversar</p>
-<p>Chegar</p>
-<p>Morar</p>
-<p>Morrer</p>
-<p>Nascer</p>
-<p>Crescer</p>
-<p>Envelhecer</p>
-<p>Casar</p>
-<p>Divorciar</p>
-<p>Namorar</p>
-<p>Separar</p>
-<p>Compreender</p>
-<p>Ensinar</p>
-<p>Aprender</p>
-<p>Ajudar</p>
-<p>Proteger</p>
-<p>Atacar</p>
-<p>Defender</p>
-<p>Conquistar</p>
-<p>Dominar</p>
-<p>Libertar</p>
-<p>Construir</p>
-<p>Destruir</p>
-<p>Arrumar</p>
-<p>Limpar</p>
-<p>Organizar</p>
-<p>Escolher</p>
-<p>Decidir</p>
-<p>Inventar</p>
-<p>Criar</p>
-<p>Desenvolver</p>
-<p>Pesquisar</p>
-<p>Estudar</p>
-<p>Concluir</p>
-<p>Realizar</p>
-<p>Alcançar</p>
-<p>Tentar</p>
-<p>Falhar</p>
-<p>Conseguir</p>
-<p>Superar</p>
-<p>Cumprir</p>
-<p>Quebrar</p>
-<p>Consertar</p>
-<p>Gastar</p>
-<p>Poupar</p>
-<p>Investir</p>
-<p>Negociar</p>
-<p>Comunicar</p>
-<p>Expressar</p>
-<p>Compartilhar</p>
-<p>Esconder</p>
-<p>Revelar</p>
-<p>Convidar</p>
-<p>Reunir</p>
-<p>Despedir</p>
-<p>Contratar</p>
-<p>Demitir</p>
-<p>Demorar</p>
-<p>Atrasar</p>
-<p>Adiantar</p>
-<p>Começar</p>
-<p>Parar</p>
-<p>Continuar</p>
-<p>Terminar</p>
-<p>Concluir</p>
-<p>Sugerir</p>
-<p>Recomendar</p>
-<p>Aconselhar</p>
-<p>Prevenir</p>
-<p>Adiar</p>
-<p>Cancelar</p>
-<p>Permitir</p>
-<p>Impedir</p>
-<p>Exigir</p>
-<p>Proibir</p>
-<p>Possuir</p>
-<p>Adorar</p>
-<p>Prestar</p>
-<p>Receber</p>
-<p>Convidar</p>
-<p>Comerçar</p>
-<p>Acabar</p>
-<p>Contar</p>
-<p>Trazer</p>
-<p>Levar</p>
-<p>Colocar</p>
-<p>Tirar</p>
-<p>Empurrar</p>
-<p>Puxar</p>
-<p>Movimentar</p>
-<p>Virar</p>
-<p>Seguir</p>
-<p>Deixar</p>
-<p>Permitir</p>
-<p>Negar</p>
-<p>Jurar</p>
-<p>Prometer</p>
-<p>Comerçar</p>
-<p>Aparecer</p>
-<p>Desaparecer</p>
-<p>Obedecer</p>
-<p>Desobedecer</p>
-<p>Cumprimentar</p>
-<p>Despedir</p>
-<p>Cumprimentar</p>
-<p>Corresponder</p>
-<p>Ressarcir</p>
-<p>Contribuir</p>
-<p>Entregar</p>
-<p>Receber</p>
-<p>Cumprir</p>
-<p>Promover</p>
-<p>Premiar</p>
-<p>Castigar</p>
-<p>Acusar</p>
-<p>Julgar</p>
-<p>Absolver</p>
-<p>Condenar</p>
-<p>Desafiar</p>
-<p>Aceitar</p>
-<p>Rejeitar</p>
-<p>Tolerar</p>
-<p>Respeitar</p>
-<p>Desrespeitar</p>
-<p>Desculpar</p>
-<p>Agradecer</p>
-<p>Elogiar</p>
-<p>Criticar</p>
-<p>Insultar</p>
-<p>Exigir</p>
-<p>Implorar</p>
-<p>Lamentar</p>
-<p>Culpar</p>
-<p>Envergonhar</p>
-<p>Orgulhar</p>
-<p>Consolar</p>
-<p>Enganar</p>
-<p>Trair</p>
-<p>Convencer</p>
-<p>Engolir</p>
-<p>Cors</p>
-<p>Branco</p> 
-<p>Preto</p> 
-<p>Vermelho</p> 
-<p>Azul</p> 
-<p>Amarelo</p> 
-<p>Verde</p>
-<p>Frases para iniciantes</p>
-<p>Olá</p>
-<p>Oi</p>
-<p>Ei</p>
-<p>Olá</p>
-<p>Tchau</p>
-<p>Bye Bye</p>
-<p>Te vejo mais tarde</p>
-<p>Tomar cuidado</p>
-<p>Tenha um bom dia</p>
-<p>Sim</p>
-<p>Sim</p>
-<p>Claro !</p>
-<p>Não</p>
-<p>Não</p>
-<p>Sem chance !</p>
-<p>Como vai ?</p>
-<p>Como tá indo ?</p>
-<p>Como estão as coisas ?</p>
-<p>Como vai a vida ?</p>
-<p>Como você tem estado ?</p>
-<p>Como está sua família ?</p>
-<p>E aí ?</p>
-<p>O que há de novo ?</p>
-<p>O que você tem feito ultimamente ?</p>
-<p>Estou bem , obrigado . E você ?</p>
-<p>Muito bom</p>
-<p>Nada mal</p>
-<p>Ótimo !</p>
-<p>Não poderia estar melhor!</p>
-<p>Não posso reclamar</p>
-<p>Eu estive ocupado</p>
-<p>Mesmo que sempre</p>
-<p>Não é tão bom</p>
-<p>Poderia ser melhor</p>
-<p>A maneira de responder a E aí ?</p>
-<p>O que há de novo  ?</p>
-<p>Obrigado</p>
-<p>Muito obrigado</p>
-<p>Muito obrigado</p>
-<p>Um milhão de agradecimentos!</p>
-<p>Obrigado pela ajuda</p>
-<p>Obrigado por me ajudar</p>
-<p>Eu realmente gostei disso</p>
-<p>Estou muito grato</p>
-<p>Isso é tão gentil da sua parte</p>
-<p>Eu não posso te agradecer o suficiente</p>
-<p>para coisas extremamente importantes</p>
-<p>eu devo-te uma</p>
-<p>De nada</p>
-<p>Sem problemas</p>
-<p>Sem problemas</p>
-<p>Não mencione isso</p>
-<p>O prazer é meu</p>
-<p>A qualquer momento</p>
-<p>Foi o mínimo que pude fazer</p>
-<p>Feliz em ajudar</p>
-<p>Claro !</p>
-<p>Obrigado</p>
-<p>use isso quando você também tiver algo para agradecer à outra pessoa</p>
-<p>Eu sinto muito que ...</p>
-<p>É minha culpa</p>
-<p>Estou assumindo a responsabilidade pelo problema</p>
-<p>para problemas muito pequenos</p>
-<p>Eu deveria ter ...</p>
-<p>Eu peço desculpas por ...</p>
-<p>Maneiras de responder a um pedido de desculpas</p>
-<p>Isso está ok</p>
-<p>Acontece</p>
-<p>Sem problemas</p>
-<p>Não se preocupe com isso</p>
-<p>eu perdôo você</p>
-<p>para problemas sérios</p>
-<p>Frases para apresentações</p>
-<p>Eu só queria me apresentar , sou ...</p>
-<p>Acho que não nos conhecemos antes do meu nome . . .</p>
-<p>Isso é ...</p>
-<p>Eu gostaria que você conhecesse ...</p>
-<p>Voce ja conheceu ...  ?</p>
-<p>Eu gostaria de te apresentar ...</p>
-<p>Prazer em conhecê-lo</p>
-<p>É um prazer conhecer você</p>
-<p>Da mesma maneira</p>
-<p>E você</p>
-<p>Realmente  ?</p>
-<p>É interessante</p>
-<p>Certo</p>
-<p>Claro</p>
-<p>Foi bom conversar com você</p>
-<p>Bem , está ficando tarde</p>
-<p>De qualquer forma , eu deveria ir</p>
-<p>Desculpe , mas receio que precise . . .</p>
-<p>Sinto muito por interrompê-lo , mas na verdade preciso correr</p>
-<p>Olá , aqui é Jane</p>
-<p>Posso falar com John Smith ?</p>
-<p>O João está aí ?</p>
-<p>Estou ligando sobre ...</p>
-<p>Estou retornando sua ligação</p>
-<p>Um momento por favor</p>
-<p>Espere um segundo</p>
-<p>Ele não está aqui . Gostaria de deixar uma mensagem ? *****</p>
-<p>Você poderia pedir a ele para me ligar de volta ?</p>
-<p>Obrigado por ligar</p>
-<p>Você pode me dizer   ..  ?</p>
-<p>Você poderia me dizer   ..  ?</p>
-<p>Eu gostaria de saber   ..</p>
-<p>Você sabe   ..</p>
-<p>Você tem alguma ideia   ..  ?</p>
-<p>Alguém poderia me dizer   .. ?</p>
-<p>Você saberia   ..  ?</p>
-<p>Eu não suponho que você saberia   .. ?</p>
-<p>Eu estava me perguntando ...</p>
-<p>Estou ligando para saber ...</p>
-<p>use esta frase no telefone</p>
-<p>Eu não faço ideia</p>
-<p>Eu não tenho ideia</p>
-<p>Eu não posso te ajudar nisso</p>
-<p>Hiç fikrim yok</p>
-<p>eu não tenho certeza</p>
-<p>Eu também estive me perguntando isso</p>
-<p>O que você pensa sobre   ...?</p>
-<p>Como você se sente sobre ...?</p>
-<p>Qual é a sua opinião sobre   ...?</p>
-<p>Qual é a sua opinião sobre   ...?</p>
-<p>Na minha opinião ...</p>
-<p>Eu diria   ...</p>
-<p>Pessoalmente , acho que acredito  ...</p>
-<p>Se você me perguntar   ...</p>
-<p>Do jeito que eu vejo  ...</p>
-<p>Do meu ponto de vista ...</p>
-<p>Frases para não ter opinião</p>
-<p>Eu nunca pensei muito nisso</p>
-<p>Eu não tenho sentimentos fortes de qualquer maneira</p>
-<p>Não faz nenhuma diferença para mim</p>
-<p>Não tenho opinião sobre o assunto</p>
-<p>muito</p>
-<p>Qualquer que seja</p>
-<p>Exatamente</p>
-<p>Absolutamente</p>
-<p>Isso é tão verdade</p>
-<p>Isso é certeza</p>
-<p>Concordo</p>
-<p>Eu não poderia concordar mais com você</p>
-<p>Isso é exatamente o que eu penso</p>
-<p>É exatamente assim que me sinto</p>
-<p>Conte-me sobre isso!</p>
-<p>Você está me dizendo !</p>
-<p>Eu direi !</p>
-<p>eu suponho que sim</p>
-<p>estou de acordo</p>
-<p>Eu não acho</p>
-<p>Eu peço desculpa mas não concordo</p>
-<p>Receio não concordar</p>
-<p>Eu não tenho tanta certeza disso</p>
-<p>Não é assim que eu vejo</p>
-<p>Não necessariamente</p>
-<p>Sim mas ...</p>
-<p>Pelo contrário</p>
-<p>muito forte discordo totalmente</p>
-<p>Frases para responder às boas notícias</p>
-<p>Parabéns !</p>
-<p>Isso é ótimo  !</p>
-<p>Que maravilha !</p>
-<p>Incrível  !</p>
-<p>Eu estou tão feliz por você  !</p>
-<p>Frases para responder a más notícias</p>
-<p>Oh não ...</p>
-<p>Isso é terrível</p>
-<p>Pobre voce</p>
-<p>Eu sinto muito por ouvir isso</p>
-<p>Sinto muito pela sua perda</p>
-<p>Está livre ...</p>
-<p>Você está fazendo alguma coisa ...</p>
-<p>Deixe-me verificar minha agenda</p>
-<p>Você quer ...</p>
-<p>Você gostaria de ...</p>
-<p>Eu adoraria  !</p>
-<p>Parece bom  !</p>
-<p>Eu adoraria , mas tenho outro compromisso</p>
-<p>Eu não acho que posso</p>
-<p>Talvez outra hora</p>
-<p>mais formal Você gostaria de uma bebida ?</p>
-<p>Você quer um pouco de água  ?</p>
-<p>Posso pegar algo para você comer ?</p>
-<p>Isso seria ótimo , obrigado</p>
-<p>sim</p>
-<p>Não , obrigado , estou bem</p>
-<p>não</p>
-<p>Eu vou ...</p>
-<p>Estou planejando ...</p>
-<p>Eu espero ...</p>
-<p>Eu gostaria de ...</p>
-<p>Eu poderia ...</p>
-<p>Eu posso ...</p>
-<p>Estou pensando em ...</p>
-<p>Eu amo ...</p>
-<p>Eu realmente gosto ...</p>
-<p>Eu vivo para ...</p>
-<p>Eu sou louco por ...</p>
-<p>Não sou muito fã de ...</p>
-<p>não é minha xícara de chá</p>
-<p>Eu realmente não me importo ...</p>
-<p>Não estou por dentro ...</p>
-<p>Eu não aguento ...</p>
-<p>Que tal ...?</p>
-<p>Por que você não ...?</p>
-<p>Talvez nós devessemos ...  .</p>
-<p>Eu recomendaria .. ..</p>
-<p>Você já pensou sobre ...?</p>
-<p>Frases para perguntar e falar sobre empregos</p>
-<p>Onde você trabalha  ?</p>
-<p>O que você faz  ?</p>
-<p>Você trabalha com o que  ?</p>
-<p>Eu trabalho em ...</p>
-<p>Eu sou um ...</p>
-<p>Eu estou desempregado</p>
-<p>Estou entre empregos no momento</p>
-<p>Estou procurando trabalho</p>
-<p>Eu administro meu próprio negócio</p>
-<p>Sou freelancer ...</p>
-<p>estou aposentado</p>
-<p>Sou solteiro</p>
-<p>eu tenho um namorado</p>
-<p>eu tenho uma namorada</p>
-<p>Estamos noivos</p>
-<p>Nós vamos nos casar</p>
-<p>Vamos nos casar em junho</p>
-<p>Eu sou casado</p>
-<p>Estou casado há ...</p>
-<p>Eu sou divorciado</p>
-<p>estou viúvo</p>
-<p>meu marido morreu</p>
-<p>minha esposa morreu</p>
-<p>Não estou procurando nada sério</p>
-<p>Eu ainda não superei meu ex</p>
-<p>Perdão ?</p>
-<p>Você se importaria de repetir isso ?</p>
-<p>O que você quer dizer  ?</p>
-<p>pedindo mais informações</p>
-<p>Não tenho certeza se te sigo</p>
-<p>Eu não entendo</p>
-<p>Você poderia explicar ...?</p>
-<p>Maneiras de verificar se a outra pessoa</p>
-<p>Você entende o que eu estou dizendo  ?</p>
-<p>Isso faz sentido  ?</p>
-<p>Você sabe o que eu quero dizer  ?</p>
-<p>Você está comigo até agora ?</p>
-<p>Está claro  ?</p>
-<p>Eu preciso de uma pequena ajuda</p>
-<p>Você poderia me ajudar  ?</p>
-<p>Você poderia me ajudar  ?</p>
-<p>geralmente usado para tarefas físicas</p>
-<p>Você poderia poupar alguns minutos ?</p>
-<p>Você poderia me fazer um favor  ?</p>
-<p>Maneiras de pedir a outra pessoa para fazer algo</p>
-<p>mais formal Você se importaria  ...?</p>
-<p>Você poderia , por favor ...?</p>
-<p>Você pode ...?</p>
-<p>Por favor ...</p>
-<p>Eu apreciaria se você pudesse ...</p>
-<p>Desculpe interromper , mas ...</p>
-<p>Com licença , posso falar com você um minuto ?</p>
-<p>Você tem um minuto  ?</p>
-<p>Posso pular aqui ?</p>
-<p>Desculpe</p>
-<p>Eu só quero dizer isso ...</p>
-<p>Posso dar uma palavrinha ?</p>
-<p>Mantenha o bom trabalho  !</p>
-<p>Essa foi uma boa tentativa</p>
-<p>Isso é uma melhoria real</p>
-<p>Você está no caminho certo</p>
-<p>Você quase conseguiu</p>
-<p>Você está indo bem</p>
-<p>Não desista !</p>
-<p>Mantenha-se firme  !</p>
-<p>Você consegue  !</p>
-<p>Dê o seu melhor</p>
-<p>melhor tiro</p>
-<p>melhor tentar</p>
-<p>melhor esforço</p>
-<p>Bom trabalho  !</p>
-<p>Você foi ótimo !</p>
-<p>Eu não estou feliz com isso</p>
-<p>Sinto muito , mas isso é inaceitável</p>
-<p>não estou muito satisfeito  ...</p>
-<p>Eu não aguento quando  ...</p>
-<p>Isso é uma merda</p>
-<p>Esquecendo</p>
-<p>Eu vou sempre lembrar ...</p>
-<p>Nunca esquecerei ...</p>
-<p>Se eu me lembro bem ...</p>
-<p>Pelo que me lembro ...</p>
-<p>Tenho uma vaga lembrança de ...</p>
-<p>Está na ponta da língua</p>
-<p>Estou tentando lembrar , mas não consigo lembrar</p>
-<p>Minha mente ficou em branco</p>
-<p>Eu não conseguia me lembrar de pensar em nada</p>
-<p>Não toca uma campainha</p>
-<p>não parece familiar</p>
-<p>Por favor , lembre-se de ...</p>
-<p>Por favor , não se esqueça de ...</p>
-<p>Gostaria de lembrá-lo sobre ...</p>
-<p>Você não se esqueceu de  .. . não é ?</p>
-<p>Isso me escapou completamente !</p>
-<p>Eu me esqueci completamente disso  !</p>
-<p>Frases para dizer que algo é fácil</p>
-<p>Difícil</p>
-<p>É moleza</p>
-<p>É uma coisa fácil</p>
-<p>É uma brisa</p>
-<p>Qualquer um pode fazer isso</p>
-<p>Não há nada nisso</p>
-<p>É difícil</p>
-<p>É um pouco complicado</p>
-<p>É muito difícil</p>
-<p>Não é um passeio no parque</p>
-<p>É muito exigente</p>
-<p>leva muito tempo e energia</p>
-<p>Ela tem vinte e poucos anos</p>
-<p>Ele está com quase trinta anos</p>
-<p>Ela acabou de completar seis anos</p>
-<p>Não seja infantil  !</p>
-<p>Eu não sou tão jovem como costumava ser</p>
-<p>Ainda não superei a colina !</p>
-<p>sobre a colina</p>
-<p>ele não é jovem</p>
-<p>Ela é sábia além de sua idade</p>
-<p>ela é jovem , mas tem a sabedoria de uma pessoa mais velha</p>
-<p>Estou tendo um momento sênior</p>
-<p>estou sendo esquecido</p>
-<p>Ele viveu até uma idade avançada</p>
-<p>Você tem ...?</p>
-<p>Onde posso encontrar ...?</p>
-<p>Estou apenas navegando</p>
-<p>olhando casualmente</p>
-<p>Estou procurando por ...</p>
-<p>Quanto é este  ?</p>
-<p>Isto está à venda ?</p>
-<p>Posso experimentar ?</p>
-<p>Eu vou levar  !</p>
-<p>Vocês aceitam cartões de crédito  ?</p>
-<p>Eu gostaria de devolver esta troca</p>
-<p>Estou morrendo de fome !</p>
-<p>eu estou faminto</p>
-<p>Vamos comer alguma coisa</p>
-<p>Que tal comer fora hoje à noite ?</p>
-<p>Coma em um restaurante</p>
-<p>Eu trouxe alguns lanches</p>
-<p>Esta sopa é deliciosa !</p>
-<p>Poderia me dar outra porção de  ...?</p>
-<p>outra ajudando</p>
-<p>outra porção</p>
-<p>Eu terei ...</p>
-<p>Podemos pegar o cheque , por favor ?</p>
-<p>estou cheio</p>
-<p>estou satisfeito</p>
-<p>Estou cheio</p>
-<p>Comi muito , talvez até demais !</p>
-<p>Onde está o controle remoto ?</p>
-<p>controlo remoto</p>
-<p>controle remoto</p>
-<p>Existe alguma coisa boa ?</p>
-<p>Posso mudar de canal ?</p>
-<p>eu já vi esse episódio</p>
-<p>Esta é uma reprise</p>
-<p>Eu amo esse show !</p>
-<p>Existem muitos comerciais</p>
-<p>Pare de navegar pelos canais</p>
-<p>canal de surf</p>
-<p>mudando de canal rapidamente</p>
-<p>Confira o guia da TV</p>
-<p>É o final da temporada !</p>
-<p>o episódio final da temporada</p>
-<p>Você tem alguma mala para despachar ?</p>
-<p>Você gostaria de um assento na janela ou no corredor ?</p>
-<p>corredor</p>
-<p>corredor</p>
-<p>Aqui está seu cartão de embarque</p>
-<p>cartão de embarque</p>
-<p>Seu voo sai do portão   ...</p>
-<p>O número do seu assento é  ...</p>
-<p>O voo está embarcando agora</p>
-<p>passageiros podem entrar no avião</p>
-<p>Seu voo atrasou</p>
-<p>Seu voo foi cancelado</p>
-<p>Esta é a chamada final para o vôo</p>
-<p>Qual o propósito da sua viagem  ?</p>
-<p>Custou uma fortuna</p>
-<p>Custou um braço e uma perna</p>
-<p>Isso é um roubo</p>
-<p>caro , muito mais caro do que deveria ser</p>
-<p>Eu não posso pagar por isso</p>
-<p>Não tenho dinheiro suficiente para comprá-lo</p>
-<p>Isso é um pouco caro</p>
-<p>Isso é bastante razoável</p>
-<p>é um bom preço</p>
-<p>Está com 10% de desconto</p>
-<p>há um desconto de 10%</p>
-<p>Isso é um bom negócio</p>
-<p>um bom valor para a quantidade de dinheiro</p>
-<p>Foi uma verdadeira pechincha</p>
-<p>Foi muito barato</p>
-<p>extremamente barato</p>
-<p>Está agradável e quente hoje</p>
-<p>Está absolutamente fervendo !</p>
-<p>ebulição</p>
-<p>extremamente quente</p>
-<p>Estamos tendo uma verdadeira onda de calor</p>
-<p>onda de calor</p>
-<p>muitos dias consecutivos de clima quente</p>
-<p>O sol está muito forte hoje</p>
-<p>Está quente e úmido</p>
-<p>Está um pouco frio</p>
-<p>Está congelando</p>
-<p>extremamente frio</p>
-<p>A temperatura está caindo</p>
-<p>Certifique-se de agrupar</p>
-<p>empacotar</p>
-<p>vista roupas quentes para se proteger do frio</p>
-<p>Estamos esperando algum clima de inverno</p>
-<p>clima frio</p>
-<p>neve</p>
-<p>saudação</p>
-<p>granizo</p>
-<p>gelo</p>
-<p>Está chuviscando</p>
-<p>chovendo levemente</p>
-<p>Está derramando</p>
-<p>chovendo intensamente</p>
-<p>Está chovendo muito</p>
-<p>chovendo intensamente</p>
-<p>Eu fui pego por uma chuva torrencial</p>
-<p>Eu acho que a chuva está diminuindo</p>
-<p>deixando</p>
-<p>ficando mais leve e parando</p>
-<p>Estou exausta</p>
-<p>Estou morto de cansaço</p>
-<p>Estou cagado</p>
-<p>estou exausto</p>
-<p>estou cansado</p>
-<p>Estou ficando sem fumaça</p>
-<p>Estou correndo vazio</p>
-<p>Mal consigo manter meus olhos abertos</p>
-<p>Estou indo para a cama</p>
-<p>eu vou bater no saco</p>
-<p>Ir para a cama</p>
-<p>ir para a cama</p>
-<p>É hora de dormir para mim</p>
-<p>Frases para Promessas Resoluções</p>
-<p>Eu realmente deveria  ...</p>
-<p>Eu prometo que vou  ...</p>
-<p>eu juro que vou</p>
-<p>Eu não vou  ...</p>
-<p>uma promessa muito forte</p>
-<p>Não importa o que aconteça , eu vou  ...</p>
-<p>Faça chuva ou faça sol , eu vou  ...</p>
-<p>Desculpas para chegar atrasado</p>
-<p>Desculpe estou atrasado</p>
-<p>eu dormi demais</p>
-<p>Dormi mais do que deveria</p>
-<p>Meu alarme não disparou</p>
-<p>Eu tive que esperar séculos por um ônibus</p>
-<p>O ônibus estava atrasado</p>
-<p>O trânsito estava terrível</p>
-<p>Não consegui encontrar uma vaga para estacionar</p>
-<p>Me perdi vindo aqui</p>
-<p>Eu estava preso em uma reunião</p>
-<p>amarrado</p>
-<p>ocupado</p>
-<p>impossível escapar</p>
-<p>Acabei de perder a noção do tempo</p>
-<p>Eu não percebi que horas eram</p>
-<p>Isso mesmo</p>
-<p>Isso é certo</p>
-<p>Você acertou em cheio</p>
-<p>Você acertou em cheio</p>
-<p>eu suponho que sim</p>
-<p>Receio que você esteja certo</p>
-<p>use isso em resposta a más notícias</p>
-<p>dizer que as más notícias estão corretas</p>
-<p>Receio que isso não esteja certo</p>
-<p>Acho que você está errado</p>
-<p>Não , você entendeu errado</p>
-<p>Não , está tudo errado</p>
-<p>Ele é muito afiado</p>
-<p>Ela é brilhante</p>
-<p>Ele é muito brilhante</p>
-<p>Ela é um gênio</p>
-<p>Ele é um biscoito inteligente</p>
-<p>Ele não é a ferramenta mais afiada do galpão</p>
-<p>Ela tem algumas cartas a menos de um baralho</p>
-<p>Ele é um pouco lento</p>
-<p>Ela é uma completa idiota</p>
-<p>Ele é realmente burro</p>
-<p>Sem comentários</p>
-<p>Eu não tenho liberdade para dizer</p>
-<p>Não tenho permissão para fornecer as informações</p>
-<p>Espere e veja</p>
-<p>você descobrirá a resposta mais tarde</p>
-<p>Deixe-me voltar para você</p>
-<p>Eu te darei a resposta mais tarde</p>
-<p>Sinto muito , isso é confidencial</p>
-<p>Sinto muito , isso é pessoal</p>
-<p>Eu prefiro não falar sobre isso</p>
-<p>Não é da sua conta</p>
-<p>Não é da tua conta</p>
-<p>Por que você quer saber  ?</p>
-<p>e são bastante rudes r</p>
-<p>Ele está com pouco dinheiro</p>
-<p>Ele está quebrado</p>
-<p>ele não tem dinheiro</p>
-<p>Sua conta bancária está a descoberto</p>
-<p>Ele está apenas sobrevivendo</p>
-<p>ele mal consegue sobreviver com pouco dinheiro</p>
-<p>Ele ganha salário mínimo</p>
-<p>ele ganha o salário mínimo</p>
-<p>Ele está ganhando centavos</p>
-<p>Ele está economizando e economizando</p>
-<p>Ela é muito rica</p>
-<p>Ela está muito bem</p>
-<p>Ela está carregada</p>
-<p>Ela é podre de rica</p>
-<p>Ela herdou uma fortuna</p>
-<p>Ela está fazendo uma matança</p>
-<p>Ela está ganhando dinheiro</p>
-<p>Ela está rolando na massa</p>
-<p>muito pouco dinheiro</p>
-<p>A taxa de criminalidade aumentou</p>
-<p>A taxa de criminalidade aumentou</p>
-<p>Houve um aumento acentuado da criminalidade</p>
-<p>afiado</p>
-<p>repentino e grande</p>
-<p>Houve um aumento gradual da criminalidade</p>
-<p>Houve um aumento na criminalidade</p>
-<p>espinho</p>
-<p>um aumento repentino e depois uma diminuição</p>
-<p>A taxa de criminalidade atingiu seu pico</p>
-<p>pico</p>
-<p>o ponto mais alto</p>
-<p>A taxa de criminalidade estabilizou</p>
-<p>permaneceu no mesmo nível</p>
-<p>Houve uma ligeira diminuição na criminalidade</p>
-<p>A taxa de criminalidade caiu</p>
-<p>A taxa de criminalidade despencou</p>
-<p>diminuiu muito , muito rapidamente</p>
-<p>Ela nasceu para  ...</p>
-<p>Ele é natural</p>
-<p>Ela poderia fazer isso enquanto dormia</p>
-<p>Ele sabe disso de dentro para fora</p>
-<p>Ela sabe como a palma da sua mão</p>
-<p>Ela é uma enciclopédia ambulante de  ...</p>
-<p>Ele está em uma classe própria</p>
-<p>Ele é o melhor no negócio</p>
-<p>Ela é muito talentosa</p>
-<p>Ele é um gênio</p>
-<p>Você poderia me dar um minuto ?</p>
-<p>Espera um segundo</p>
-<p>Só um segundo</p>
-<p>Aguentar   ...</p>
-<p>Deixa eu ver pensar  ...</p>
-<p>Eu estarei com você</p>
-<p>Tenha paciencia comigo</p>
-<p>Isso terá que esperar</p>
-<p>Ser paciente</p>
-<p>Não tão rápido  !</p>
-<p>Tenha calma  !</p>
-<p>tomar medidas imprudentes</p>
-<p>Se eu tivesse que adivinhar , eu diria  ...</p>
-<p>É difícil dizer , mas acho que  ...</p>
-<p>Pensando bem , eu diria  ...</p>
-<p>o que me lembro de estimar , sem verificar as estatísticas reais</p>
-<p>É sobre   ...</p>
-<p>Está por aí  ...</p>
-<p>Eu não ficaria surpreso se  ...</p>
-<p>Há uma boa chance  ...</p>
-<p>Tenho um pressentimento  ...</p>
-<p>Eu aposto   ...</p>
-<p>Seu palpite é tão bom quanto o meu</p>
-<p>eu não sei</p>
-<p>Estou debatendo entre  ...</p>
-<p>Eu não consigo me decidir</p>
-<p>Estou em cima do muro</p>
-<p>Eu estou no meio</p>
-<p>Eu não sei o que decidir</p>
-<p>vou levar isso em consideração</p>
-<p>Por outro lado   ...</p>
-<p>Estou tendo dúvidas</p>
-<p>Estou reconsiderando minha decisão</p>
-<p>eu mudei de ideia</p>
-<p>Ele convenceu me convenceu a   ...</p>
-<p>Olhando para trás , sei que foi a decisão certa</p>
-<p>Você decide</p>
-<p>Você pode decidir</p>
-<p>Boa sorte  !</p>
-<p>Mais sorte da próxima vez</p>
-<p>Apenas minha sorte  !</p>
-<p>Sortudo  !</p>
-<p>Isso foi um golpe de sorte</p>
-<p>um evento repentino de boa sorte</p>
-<p>Algumas pessoas têm toda a sorte</p>
-<p>Por sorte   ...</p>
-<p>por acaso</p>
-<p>Ele está sem sorte</p>
-<p>ele está tendo um longo período de azar ou dificuldade</p>
-<p>Não tive essa sorte , algo bom que poderia ter acontecido , não aconteceu</p>
-<p>Que azar !</p>
-<p>Frases para alívio de preocupações</p>
-<p>Estou com medo disso  ...</p>
-<p>Não consigo deixar de pensar isso  ...</p>
-<p>Tem me mantido acordado à noite</p>
-<p>E se   ...?</p>
-<p>Uau !</p>
-<p>Obrigado Senhor  !</p>
-<p>Que alivio  !</p>
-<p>Você me deixou preocupado por um momento</p>
-<p>Você não tem ideia do alívio que é</p>
-<p>Isso é uma grande carga que tirei da minha mente</p>
-<p>Frases para falar sobre o futuro</p>
-<p>Isso vai acontecer a qualquer momento</p>
-<p>Está ao virar da esquina</p>
-<p>Isso não vai acontecer em nossa vida</p>
-<p>nos próximos 10 anos</p>
-<p>É um sinal do que está por vir</p>
-<p>indica como as coisas serão no futuro</p>
-<p>Estou contando os dias até  ...</p>
-<p>Estou animado com o evento futuro ,</p>
-<p>Mal posso esperar para que isso aconteça</p>
-<p>Cedo ou tarde   ...</p>
-<p>Está fadado a acontecer eventualmente</p>
-<p>isso definitivamente acontecerá em algum momento no futuro</p>
-<p>Eu vou resolver isso</p>
-<p>Farei isso em algum momento no futuro ,</p>
-<p>mas não sei exatamente quando</p>
-<p>Eu farei isso imediatamente</p>
-<p>Eu vou direto ao assunto</p>
-<p>Eu farei isso imediatamente</p>
-<p>O tempo vai dizer</p>
-<p>Você está bonita</p>
-<p>Você está maravilhosa  !</p>
-<p>Que bonito  !</p>
-<p>eu gosto do seu</p>
-<p>A lasanha é deliciosa</p>
-<p>Você é um cozinheiro fantástico</p>
-<p>Meus cumprimentos ao chefe  !</p>
-<p>Que belo apartamento !</p>
-<p>Você tem uma bela casa</p>
-<p>Ela é tão fofa  !</p>
-<p>Seus filhos são muito divertidos</p>
-<p>Frases para certeza</p>
-<p>Probabilidade</p>
-<p>tenho certeza absoluta</p>
-<p>Tenho certeza de que   ...</p>
-<p>Não tenho dúvidas disso  ...</p>
-<p>Estou cem por cento certo</p>
-<p>Estou convencido de que   ...</p>
-<p>As chances são de que   ...</p>
-<p>isso provavelmente vai acontecer</p>
-<p>As probabilidades são de que   ...</p>
-<p>isso provavelmente vai acontecer</p>
-<p>Duvido seriamente</p>
-<p>Eu não acho</p>
-<p>Provavelmente não</p>
-<p>Não é muito provável</p>
-<p>Não há muita chance disso</p>
-<p>Eu ficaria muito surpreso se isso acontecesse</p>
-<p>eu não apostaria nisso</p>
-<p>há uma pequena chance de que isso aconteça  ... mas provavelmente não acontecerá</p>
-<p>Isso nunca vai acontecer</p>
-<p>Interessante chato</p>
-<p>É fascinante</p>
-<p>É intrigante</p>
-<p>Eu não consegui me afastar</p>
-<p>Eu não consegui largar</p>
-<p>Eu estava tão envolvido que perdi a noção do tempo</p>
-<p>Não faz nada para mim</p>
-<p>Eu estava entediado até as lágrimas</p>
-<p>Eu estava entediado até a morte</p>
-<p>Eu estava morrendo de tédio</p>
-<p>É tão emocionante quanto ver a tinta secar</p>
-<p>É muito chato</p>
-<p>Qual é o problema  ?</p>
-<p>O que está errado  ?</p>
-<p>Você está bem  ?</p>
-<p>Você parece um pouco para baixo</p>
-<p>um pouco triste</p>
-<p>Há algo que eu possa fazer para ajudar ?</p>
-<p>Alegrar  ! Levante o queixo !</p>
-<p>Não é tão ruim</p>
-<p>Tudo ficará bem</p>
-<p>Olhe pelo lado bom</p>
-<p>considere os aspectos positivos</p>
-<p>Não é o fim do mundo</p>
-<p>Que pena  !</p>
-<p>Que pena</p>
-<p>Que decepcionante</p>
-<p>Isso é ruim</p>
-<p>Desapontamento</p>
-<p>Foi uma verdadeira decepção</p>
-<p>Não correspondeu às minhas expectativas</p>
-<p>Okay , certo</p>
-<p>Você está brincando</p>
-<p>Você está puxando minha perna</p>
-<p>Isso é um pouco exagerado</p>
-<p>Ele está esticando a verdade</p>
-<p>Ele não está dizendo toda a verdade</p>
-<p>Ela está sendo econômica com a verdade</p>
-<p>ela está mentindo ou não está dizendo toda a verdade</p>
-<p>A história dele é suspeita</p>
-<p>Isso é uma mentira descarada</p>
-<p>Isso é um monte de mentiras</p>
-<p>Expressões para pessoas más</p>
-<p>Ele é um canalha</p>
-<p>desagradável , suspeito , deixa você com medo , inquieto</p>
-<p>Ele é um pervertido</p>
-<p>alguém com tendências sexuais repugnantes</p>
-<p>Ele é um doente</p>
-<p>Ele é um canalha</p>
-<p>Ele é um idiota</p>
-<p>ela é irritante e desagradável</p>
-<p>Ela é uma psicopata</p>
-<p>louco , irracional</p>
-<p>Ele gritou</p>
-<p>Ela gritou</p>
-<p>eu sussurrei</p>
-<p>falou com uma voz extremamente baixa</p>
-<p>Nós conversamos</p>
-<p>tivemos uma conversa</p>
-<p>Ele resmunga , cutuca em voz baixa , não claramente , sem abrir muito a boca</p>
-<p>Meus filhos choramingaram</p>
-<p>reclamou</p>
-<p>Ele divagou</p>
-<p>Ele continuou e continuou</p>
-<p>falei demais sem parar</p>
-<p>Ela gaguejou</p>
-<p>Eu gritei com meu marido</p>
-<p>disse uma observação rápida e irritada</p>
-<p>Ele murmurou , falou em voz baixa , geralmente fazendo reclamações ou comentários negativos</p>
-<p>Ela estava radiante</p>
-<p>ela tinha um sorriso grande e radiante</p>
-<p>As crianças sorriam de orelha a orelha</p>
-<p>Ele parecia confuso</p>
-<p>confuso</p>
-<p>Ela sorriu</p>
-<p>tinha um pequeno sorriso</p>
-<p>Ele estremeceu quando o médico lhe deu uma injeção</p>
-<p>teve uma rápida expressão de dor</p>
-<p>Ela me deu um olhar sujo</p>
-<p>me olhou com raiva</p>
-<p>Ela corou</p>
-<p>o rosto dela ficou vermelho porque ela estava com vergonha</p>
-<p>Seus olhos estavam vidrados</p>
-<p>ele apareceu</p>
-<p>Por que a cara comprida ?</p>
-<p>uma expressão para perguntar por que alguém parece triste ou chateado</p>
-<p>Sua expressão era ilegível</p>
-<p>você não pode saber o que ela está sentindo</p>
-<p>Frases para descrever ofensa ou perturbação</p>
-<p>Pessoas</p>
-<p>Eles começaram com o pé esquerdo</p>
-<p>quando se conheceram , eles não se davam bem</p>
-<p>Ele pegou o lado ruim do professor</p>
-<p>Ela se ofendeu com o comentário dele</p>
-<p>Ele tem um peso no ombro</p>
-<p>ele se ofende facilmente</p>
-<p>Ela ficou fora de forma</p>
-<p>Ele saiu bufando</p>
-<p>Ela pegou a calcinha em um maço</p>
-<p>Ele tem um fusível curto</p>
-<p>ele fica com raiva facilmente</p>
-<p>Ela desprezou minha mãe</p>
-<p>ela insultou desrespeitou minha mãe</p>
-<p>Ele ficou com o nariz fora de controle</p>
-<p>tudo significa que a pessoa ficou irritada , irritada</p>
-<p>Meu voo estava com overbook</p>
-<p>havia muitos passageiros e poucos assentos</p>
-<p>Meu voo atrasou</p>
-<p>Minha bagagem foi perdida</p>
-<p>Eu estava com jet lag</p>
-<p>Me senti cansado por causa da diferença de fuso horário entre minha origem e destino</p>
-<p>Meu hotel ficava em uma área decadente</p>
-<p>Fui assaltado</p>
-<p>Fui assaltado na rua</p>
-<p>O tempo estava miserável</p>
-<p>Eu tenho as corridas</p>
-<p>O lugar era uma armadilha para turistas</p>
-<p>feito apenas para turistas</p>
-<p>Eu mal podia esperar para voltar para casa</p>
-<p>É por minha conta</p>
-<p>Eu vou te pagar uma bebida</p>
-<p>Eu gostaria de fazer um brinde</p>
-<p>Eu gostaria de homenagear uma ideia de evento pessoal</p>
-<p>Um brinde à  ... sua saúde</p>
-<p>o ano Novo</p>
-<p>nosso sucesso !</p>
-<p>Outra rodada de bebidas , por favor</p>
-<p>Coloque na minha conta</p>
-<p>conta para pagar mais tarde , antes de sair</p>
-<p>Ele está um pouco embriagado</p>
-<p>um pouco bêbado</p>
-<p>Ele está completamente bêbado , desperdiçado e engessado</p>
-<p>Ela está tentando afogar suas mágoas</p>
-<p>beber álcool para aliviar a dor , tristeza</p>
-<p>Eu sou o motorista designado</p>
-<p>Não estou bebendo álcool porque levarei outras pessoas para casa mais tarde</p>
-<p>Eu tive uma ressaca</p>
-<p>Eu estava de ressaca</p>
-<p>a sensação ruim que você tem pela manhã depois de beber demais</p>
-<p>É leve como uma pena</p>
-<p>Está tão seco quanto um osso</p>
-<p>É tão plano quanto uma panqueca</p>
-<p>Ele está tão louco quanto uma vespa</p>
-<p>É tão antigo quanto as colinas</p>
-<p>É tão rápido quanto um raio</p>
-<p>Ela está tão doente quanto um cachorro</p>
-<p>Ele é tão forte quanto um boi</p>
-<p>Eles são tão diferentes quanto a noite e o dia</p>
-<p>Ela é tão teimosa quanto uma mula</p>
-<p>Ele é tão orgulhoso quanto um pavão</p>
-<p>Ela é tão branca quanto um lençol</p>
-<p>É tão sólido quanto uma rocha</p>
-<p>Está como novo</p>
-<p>É tão claro quanto lama</p>
-<p>não está nada claro</p>
-<p>um</p>
-<p>dois</p>
-<p>três</p>
-<p>quatro</p>
-<p>cinco</p>
-<p>seis</p>
-<p>Sete</p>
-<p>oito</p>
-<p>nove</p>
-<p>dez</p>
-<p>onze</p>
-<p>doze</p>
-<p>treze</p>
-<p>quatorze</p>
-<p>quinze</p>
-<p>dezesseis</p>
-<p>dezessete</p>
-<p>dezoito</p>
-<p>dezenove</p>
-<p>vinte</p>
-<p>trinta</p>
-<p>quarenta</p>
-<p>cinquenta</p>
-<p>sessenta</p>
-<p>setenta</p>
-<p>oitenta</p>
-<p>noventa</p>
-<p>cem</p>
-<p>mil</p>
-<p>cem mil</p>
-<p>milhão</p>
-<p>mil novecentos e noventa</p>
-<p>primeiro</p>
-<p>segundo</p>
-<p>terceiro</p>
-<p>quarto</p>
-<p>quinto</p>
-<p>sexto</p>
-<p>sétimo</p>
-<p>oitavo</p>
-<p>nono</p>
-<p>décimo</p>
-<p>décima primeira</p>
-<p>décimo segundo</p>
-<p>décimo terceiro</p>
-<p>décimo quarto</p>
-<p>décimo quinto</p>
-<p>décimo sexto</p>
-<p>décimo sétimo</p>
-<p>décimo oitavo</p>
-<p>décimo nono</p>
-<p>vigésimo</p>
-<p>número ímpar</p>
-<p>números pares</p>
-<p>Adição</p>
-<p>Subtração</p>
-<p>Multiplicação</p>
-<p>Divisão</p>
-<p>Vermelho</p>
-<p>Laranja</p>
-<p>Amarelo</p>
-<p>Verde</p>
-<p>Azul</p>
-<p>Roxo</p>
-<p>Rosa</p>
-<p>Marrom</p>
-<p>Branco</p>
-<p>Preto</p>
-<p>Cinza</p>
-<p>Bege</p>
-<p>Turquesa</p>
-<p>Índigo</p>
-<p>Lavanda</p>
-<p>Estados Unidos</p>
-<p>Reino Unido</p>
-<p>Canadá</p>
-<p>Austrália</p>
-<p>Alemanha</p>
-<p>França</p>
-<p>Itália</p>
-<p>Espanha</p>
-<p>China</p>
-<p>Japão</p>
-<p>Índia</p>
-<p>Brasil</p>
-<p>México</p>
-<p>Rússia</p>
-<p>África do Sul</p>
-<p>Argentina</p>
-<p>Arábia Saudita</p>
-<p>Egito</p>
-<p>Nigéria</p>
-<p>Quênia</p>
-<p>África</p>
-<p>Antártica</p>
-<p>Ásia</p>
-<p>Europa</p>
-<p>América do Norte</p>
-<p>América do Sul</p>
-<p>Austrália</p>
-<p>Planeta</p>
-<p>Globo</p>
-<p>Mundo</p>
-<p>Terra</p>
-<p>terra</p>
-<p>Gaia</p>
-<p>Esfera</p>
-<p>Esfera</p>
-<p>Terra</p>
-<p>Solo</p>
-<p>Chão</p>
-<p>Ambiente</p>
-<p>Natureza</p>
-<p>Biosfera</p>
-<p>Ecossistema</p>
-<p>Habitat</p>
-<p>Terreno</p>
-<p>Superfície</p>
-<p>crosta</p>
-<p>Manto</p>
-<p>Universo</p>
-<p>Cosmos</p>
-<p>Espaço sideral</p>
-<p>Galáxia</p>
-<p>Estrela</p>
-<p>Planeta</p>
-<p>Sistema solar</p>
-<p>Astronauta</p>
-<p>Foguete</p>
-<p>Satélite</p>
-<p>Cometa</p>
-<p>Asteróide</p>
-<p>Meteoróide</p>
-<p>Buraco negro</p>
-<p>Nebulosa</p>
-<p>constelação</p>
-<p>Nave espacial</p>
-<p>Lunar</p>
-<p>Gravidade</p>
-<p>Órbita</p>
-<p>Ambiente</p>
-<p>Região selvagem</p>
-<p>Animais selvagens</p>
-<p>Ecossistema</p>
-<p>Habitat</p>
-<p>Flora</p>
-<p>Fauna</p>
-<p>Conservação</p>
-<p>Biodiversidade</p>
-<p>Paisagem</p>
-<p>Cenário</p>
-<p>Recursos naturais</p>
-<p>Ecologia</p>
-<p>Sustentabilidade</p>
-<p>Região selvagem</p>
-<p>Verdura</p>
-<p>Clima</p>
-<p>Clima</p>
-<p>Floresta</p>
-<p>oceano</p>
-<p>Cachorro</p>
-<p>Gato</p>
-<p>Elefante</p>
-<p>Leão</p>
-<p>Tigre</p>
-<p>Girafa</p>
-<p>Zebra</p>
-<p>Macaco</p>
-<p>Gorila</p>
-<p>Urso</p>
-<p>Panda</p>
-<p>Coala</p>
-<p>Canguru</p>
-<p>Hipopótamo</p>
-<p>Lobo</p>
-<p>Raposa</p>
-<p>Coelho</p>
-<p>Cervo</p>
-<p>alce</p>
-<p>Esquilo</p>
-<p>Esquilo</p>
-<p>Lontra</p>
-<p>Castor</p>
-<p>Texugo</p>
-<p>Guaxinim</p>
-<p>Skunk</p>
-<p>Rato</p>
-<p>Rato</p>
-<p>Hamster</p>
-<p>Porquinho da índia</p>
-<p>Chinchila</p>
-<p>Furão</p>
-<p>Ouriço</p>
-<p>Porco-espinho</p>
-<p>Bastão</p>
-<p>Golfinho</p>
-<p>Baleia</p>
-<p>Tubarão</p>
-<p>Polvo</p>
-<p>Lula</p>
-<p>Medusa</p>
-<p>Estrela do Mar</p>
-<p>Cavalo marinho</p>
-<p>Caranguejo</p>
-<p>Lagosta</p>
-<p>Camarão</p>
-<p>ostra</p>
-<p>Molusco</p>
-<p>Lesma</p>
-<p>Lesma</p>
-<p>Minhoca</p>
-<p>Lagarta</p>
-<p>Borboleta</p>
-<p>Mariposa</p>
-<p>Abelha</p>
-<p>Vespa</p>
-<p>Formiga</p>
-<p>gafanhoto</p>
-<p>Grilo</p>
-<p>Joaninha</p>
-<p>Besouro</p>
-<p>Voar</p>
-<p>Mosquito</p>
-<p>Libélula</p>
-<p>Libelinha</p>
-<p>Vaga-lume</p>
-<p>Barata</p>
-<p>Louva-Deus</p>
-<p>Tarântula</p>
-<p>Viúva Negra</p>
-<p>Escorpião</p>
-<p>Centopéia</p>
-<p>Milípede</p>
-<p>Sanguessuga</p>
-<p>Minhoca</p>
-<p>Lombriga</p>
-<p>Tênia</p>
-<p>Flatworm</p>
-<p>Toupeira-nariz-de-estrela</p>
-<p>Ornitorrinco</p>
-<p>Equidna</p>
-<p>Demônio da Tasmânia</p>
-<p>Rato canguru</p>
-<p>Canguru</p>
-<p>Vombate</p>
-<p>Quokka</p>
-<p>Coala</p>
-<p>Tigre da Tasmânia</p>
-<p>Dingo</p>
-<p>Quoll</p>
-<p>Numbate</p>
-<p>Bilby</p>
-<p>Bandicoot</p>
-<p>Planador do açúcar</p>
-<p>Raposa voadora</p>
-<p>Panda vermelho</p>
-<p>Raposa feneco</p>
-<p>Raposa Ártica</p>
-<p>Lobo cinza</p>
-<p>Coiote</p>
-<p>Cão selvagem africano</p>
-<p>Lobo-guará</p>
-<p>Raposa vermelha</p>
-<p>Tigre de bengala</p>
-<p>Tigre siberiano</p>
-<p>Tigre de Sumatra</p>
-<p>Tigre branco</p>
-<p>Tigre dourado</p>
-<p>Tigre malaio</p>
-<p>Leopardo</p>
-<p>Leopardo da neve</p>
-<p>guepardo</p>
-<p>Jaguar</p>
-<p>Puma</p>
-<p>Lince</p>
-<p>Lince</p>
-<p>Caracal</p>
-<p>Jaguatirica</p>
-<p>Serval</p>
-<p>Margay</p>
-<p>Oncila</p>
-<p>Gato manchado enferrujado</p>
-<p>Puma</p>
-<p>Leão</p>
-<p>Leão africano</p>
-<p>Leão asiático</p>
-<p>Leão da Montanha</p>
-<p>Pantera negra</p>
-<p>Leão branco</p>
-<p>Chita Rei</p>
-<p>Gato de Pallas</p>
-<p>Jaguarundi</p>
-<p>lince canadense</p>
-<p>lince ibérico</p>
-<p>Leopardo árabe</p>
-<p>Leopardo de Amur</p>
-<p>Leopardo nublado</p>
-<p>Gato pescador</p>
-<p>Gato leopardo</p>
-<p>Gato marmorizado</p>
-<p>Gato de areia</p>
-<p>Gato tigre</p>
-<p>Gato selvagem</p>
-<p>onda americana</p>
-<p>Pêlo curto americano</p>
-<p>fio de arame americano</p>
-<p>Balinês</p>
-<p>Bengala</p>
-<p>Carro</p>
-<p>Caminhão</p>
-<p>Motocicleta</p>
-<p>Bicicleta</p>
-<p>Ônibus</p>
-<p>furgão</p>
-<p>Trem</p>
-<p>Barco</p>
-<p>Enviar</p>
-<p>Avião</p>
-<p>Helicóptero</p>
-<p>Jato</p>
-<p>Submarino</p>
-<p>Lambreta</p>
-<p>Trator</p>
-<p>Segway</p>
-<p>Skate</p>
-<p>Hovercraft</p>
-<p>Cenoura</p>
-<p>Batata</p>
-<p>Tomate</p>
-<p>Cebola</p>
-<p>Alface</p>
-<p>Pepino</p>
-<p>Pimentão</p>
-<p>Espinafre</p>
-<p>Brócolis</p>
-<p>Couve-flor</p>
-<p>Vagens</p>
-<p>Ervilhas</p>
-<p>Beringela</p>
-<p>Abobrinha</p>
-<p>Rabanete</p>
-<p>Salsão</p>
-<p>Milho</p>
-<p>Espargos</p>
-<p>Cogumelo</p>
-<p>Beterraba</p>
-<p>Maçã</p>
-<p>Banana</p>
-<p>Laranja</p>
-<p>manga</p>
-<p>Abacaxi</p>
-<p>Morango</p>
-<p>Melancia</p>
-<p>Uva</p>
-<p>kiwi</p>
-<p>Pêssego</p>
-<p>Pera</p>
-<p>Cereja</p>
-<p>Mirtilo</p>
-<p>Framboesa</p>
-<p>Amora</p>
-<p>Limão</p>
-<p>Lima</p>
-<p>Mamão</p>
-<p>Abacate</p>
-<p>Ameixa</p>
-<p>Doutor</p>
-<p>Professor</p>
-<p>Engenheiro</p>
-<p>Enfermeira</p>
-<p>Advogado</p>
-<p>Contador</p>
-<p>Programador</p>
-<p>Chefe de cozinha</p>
-<p>Cientista</p>
-<p>Artista</p>
-<p>Arquiteto</p>
-<p>Policial</p>
-<p>Bombeiro</p>
-<p>Paramédico</p>
-<p>Dentista</p>
-<p>Farmacêutico</p>
-<p>Veterinário</p>
-<p>Eletricista</p>
-<p>Encanador</p>
-<p>Carpinteiro</p>
-<p>Mecânico</p>
-<p>Piloto</p>
-<p>Comissária de bordo</p>
-<p>Bibliotecário</p>
-<p>Professor</p>
-<p>investigador</p>
-<p>Jornalista</p>
-<p>Escritor</p>
-<p>editor</p>
-<p>Tradutor</p>
-<p>Ator</p>
-<p>Músico</p>
-<p>Dançarino</p>
-<p>Cantor</p>
-<p>Atleta</p>
-<p>Treinador</p>
-<p>Treinador pessoal</p>
-<p>Conselheiro financeiro</p>
-<p>Corretor de imóveis</p>
-<p>Vendedor</p>
-<p>Gerente de marketing</p>
-<p>Gerente de Recursos Humanos</p>
-<p>Representante de atendimento ao cliente</p>
-<p>Recepcionista</p>
-<p>Auxiliar Administrativo</p>
-<p>secretário</p>
-<p>Assistente executivo</p>
-<p>Planeador de eventos</p>
-<p>Designer gráfico</p>
-<p>Gerente de mídia social</p>
-<p>Cozinha</p>
-<p>Frigorífico</p>
-<p>Forno</p>
-<p>Forno</p>
-<p>Microondas</p>
-<p>Lava-louças</p>
-<p>Afundar</p>
-<p>Armários</p>
-<p>Bancada</p>
-<p>Torradeira</p>
-<p>Liquidificador</p>
-<p>Máquina de café</p>
-<p>Chaleira</p>
-<p>Tábua de cortar</p>
-<p>Tigelas</p>
-<p>Escorredor de macarrão</p>
-<p>Tachos e panelas</p>
-<p>Utensílios</p>
-<p>colheres</p>
-<p>garfos</p>
-<p>facas</p>
-<p>Pratos</p>
-<p>Tigelas</p>
-<p>Copos</p>
-<p>Canecas</p>
-<p>Tupperware</p>
-<p>Abridor de lata</p>
-<p>Saca rolhas</p>
-<p>Ralador</p>
-<p>Sala de estar</p>
-<p>Sofá</p>
-<p>Cadeirão</p>
-<p>Mesa de café</p>
-<p>suporte de TV</p>
-<p>Estante</p>
-<p>Lâmpada</p>
-<p>Tapete</p>
-<p>Almofadas</p>
-<p>Lançar o cobertor</p>
-<p>Controle remoto</p>
-<p>Porta-copos</p>
-<p>arte de parede</p>
-<p>Cortinas</p>
-<p>Vaso</p>
-<p>Plantar</p>
-<p>Molduras</p>
-<p>Mesa de apoio</p>
-<p>otomano</p>
-<p>Luminária de piso</p>
-<p>Lareira</p>
-<p>Quarto</p>
-<p>Cama</p>
-<p>Colchão</p>
-<p>Mesa de cabeceira</p>
-<p>Cômoda</p>
-<p>Guarda-roupa</p>
-<p>Camisa</p>
-<p>Camiseta</p>
-<p>Blusa</p>
-<p>camisa polo</p>
-<p>Regata</p>
-<p>Suéter</p>
-<p>Casaco</p>
-<p>Capuz</p>
-<p>Jaqueta</p>
-<p>Casaco</p>
-<p>Blazer</p>
-<p>Terno</p>
-<p>Vestir</p>
-<p>Saia</p>
-<p>Calça</p>
-<p>Jeans</p>
-<p>Shorts</p>
-<p>Legging</p>
-<p>Calça</p>
-<p>Capri</p>
-<p>Macacão</p>
-<p>Macacão</p>
-<p>Macacão</p>
-<p>Túnica</p>
-<p>Colete</p>
-<p>Gravata</p>
-<p>Gravata borboleta</p>
-<p>Lenço</p>
-<p>Xaile</p>
-<p>Enrolar</p>
-<p>Poncho</p>
-<p>Quimono</p>
-<p>Robe</p>
-<p>Roupão de banho</p>
-<p>Macacão</p>
-<p>Maiô</p>
-<p>Camisola</p>
-<p>Anágua</p>
-<p>Anágua</p>
-<p>Anágua</p>
-<p>Espartilho</p>
-<p>Sutiã</p>
-<p>Calcinhas</p>
-<p>Pugilistas</p>
-<p>Cuecas</p>
-<p>Correia</p>
-<p>Meias</p>
-<p>Meia-calça</p>
-<p>Aquecedores de perna</p>
-<p>Meias</p>
-<p>Luvas</p>
-<p>Luvas</p>
-<p>Aquecedores de braço</p>
-<p>Pulseiras</p>
-<p>Arco de cabelo</p>
-<p>Chapéu</p>
-<p>gorro</p>
-<p>Boné</p>
-<p>Boina</p>
-<p>Fedora</p>
-<p>chapéu de sol</p>
-<p>Viseira</p>
-<p>Gorro</p>
-<p>Lenço</p>
-<p>Elástico de cabelo</p>
-<p>Presilha de cabelo</p>
-<p>Laço de cabelo</p>
-<p>Alfinete</p>
-<p>Protetores de ouvido</p>
-<p>Oculos de sol</p>
-<p>Óculos</p>
-<p>Óculos</p>
-<p>Óculos de segurança</p>
-<p>Colar</p>
-<p>Pingente</p>
-<p>Gargantilha</p>
-<p>Corrente</p>
-<p>Pulseira</p>
-<p>Pulseira</p>
-<p>Manguito</p>
-<p>Tornozeleira</p>
-<p>Anel</p>
-<p>Brincos</p>
-<p>Pregos</p>
-<p>Aros</p>
-<p>Brincos pendentes</p>
-<p>Broche</p>
-<p>Alfinete</p>
-<p>Alfinete de lapela</p>
-<p>Distintivo</p>
-<p>Correção</p>
-<p>Bordado</p>
-<p>Aplique</p>
-<p>Strass</p>
-<p>Lantejoulas</p>
-<p>Botões</p>
-<p>Zíperes</p>
-<p>Fivelas</p>
-<p>Cintos</p>
-<p>Suspensórios</p>
-<p>Maçã</p>
-<p>Banana</p>
-<p>Laranja</p>
-<p>Uva</p>
-<p>Morango</p>
-<p>Melancia</p>
-<p>Abacaxi</p>
-<p>manga</p>
-<p>kiwi</p>
-<p>Pêssego</p>
-<p>Pera</p>
-<p>Cereja</p>
-<p>Mirtilo</p>
-<p>Framboesa</p>
-<p>Amora</p>
-<p>Limão</p>
-<p>Lima</p>
-<p>Abacate</p>
-<p>Tomate</p>
-<p>Batata</p>
-<p>Cenoura</p>
-<p>Cebola</p>
-<p>Alho</p>
-<p>Alface</p>
-<p>Espinafre</p>
-<p>Brócolis</p>
-<p>Couve-flor</p>
-<p>Pepino</p>
-<p>Pimentão</p>
-<p>Beringela</p>
-<p>Cogumelo</p>
-<p>Abobrinha</p>
-<p>Milho</p>
-<p>Arroz</p>
-<p>Pão</p>
-<p>Massa</p>
-<p>Macarrão</p>
-<p>Cereal</p>
-<p>Aveia</p>
-<p>Panqueca</p>
-<p>Waffle</p>
-<p>Ovo</p>
-<p>Bacon</p>
-<p>Salsicha</p>
-<p>presunto</p>
-<p>Frango</p>
-<p>Carne bovina</p>
-<p>Carne de porco</p>
-<p>Peixe</p>
-<p>Camarão</p>
-<p>Ensolarado</p>
-<p>Nublado</p>
-<p>Chuvoso</p>
-<p>Ventoso</p>
-<p>Tormentoso</p>
-<p>Nevado</p>
-<p>Enevoado</p>
-<p>Nublado</p>
-<p>Nebuloso</p>
-<p>Claro</p>
-<p>Parcialmente nublado</p>
-<p>Trovoada</p>
-<p>Raio</p>
-<p>Trovão</p>
-<p>Tempestade</p>
-<p>Tempestade de neve</p>
-<p>Nevasca</p>
-<p>Chuvisco</p>
-<p>Banho</p>
-<p>Granizo</p>
-<p>Gelo</p>
-<p>geada</p>
-<p>Névoa</p>
-<p>Orvalho</p>
-<p>Arco-íris</p>
-<p>raio de Sol</p>
-<p>Luz solar</p>
-<p>Onda de calor</p>
-<p>Onda de frio</p>
-<p>Brisa</p>
-<p>Rajada</p>
-<p>vendaval</p>
-<p>Furacão</p>
-<p>Tornado</p>
-<p>Tufão</p>
-<p>Monção</p>
-<p>Seca</p>
-<p>Enchente</p>
-<p>Deslizamento de lama</p>
-<p>Avalanche</p>
-<p>Índice de calor</p>
-<p>Vento frio</p>
-<p>Umidade</p>
-<p>Temperatura</p>
-<p>Barômetro</p>
-<p>Termômetro</p>
-<p>Anemômetro</p>
-<p>Pluviômetro</p>
-<p>Cobertura de nuvens</p>
-<p>Pressão atmosférica</p>
-<p>Feliz</p>
-<p>Triste</p>
-<p>Nervoso</p>
-<p>Excitado</p>
-<p>Assustado</p>
-<p>Nervoso</p>
-<p>Calma</p>
-<p>Descontraído</p>
-<p>Ansioso</p>
-<p>Depressivo</p>
-<p>Alegre</p>
-<p>Contente</p>
-<p>Grato</p>
-<p>Frustrado</p>
-<p>Surpreso</p>
-<p>Decepcionado</p>
-<p>Orgulhoso</p>
-<p>Confiante</p>
-<p>Esperançoso</p>
-<p>Curioso</p>
-<p>Entusiasmado</p>
-<p>Entediado</p>
-<p>Sozinho</p>
-<p>Amado</p>
-<p>Rejeitado</p>
-<p>Culpado</p>
-<p>Ciúmes</p>
-<p>Inseguro</p>
-<p>Sobrecarregado</p>
-<p>Otimista</p>
-<p>Pessimista</p>
-<p>Divertido</p>
-<p>Confuso</p>
-<p>Envergonhado</p>
-<p>Cansado</p>
-<p>Energético</p>
-<p>Irritado</p>
-<p>Mal-humorado</p>
-<p>Tímido</p>
-<p>Lamentável</p>
-<p>Satisfeito</p>
-<p>Desconfortável</p>
-<p>Preocupado</p>
-<p>Aliviado</p>
-<p>Empático</p>
-<p>Compassivo</p>
-<p>Apático</p>
-<p>Indiferente</p>
-<p>Muito feliz</p>
-<p>Melancólico</p>
-<p>Família e Relacionamentos</p>
-<p>Saúde</p>
-<p>Corpo</p>
-<p>Bem-estar</p>
-<p>Fitness</p>
-<p>Exercício</p>
-<p>Nutrição</p>
-<p>Dieta</p>
-<p>Higiene</p>
-<p>Limpeza</p>
-<p>Dormir</p>
-<p>Descansar</p>
-<p>Relaxamento</p>
-<p>Estresse</p>
-<p>Ansiedade</p>
-<p>Depressão</p>
-<p>Saúde mental</p>
-<p>Saúde física</p>
-<p>Bem estar</p>
-<p>Medicamento</p>
-<p>Doutor</p>
-<p>Médico</p>
-<p>Enfermeira</p>
-<p>Cirurgião</p>
-<p>Dentista</p>
-<p>Optometrista</p>
-<p>Farmacêutico</p>
-<p>Paciente</p>
-<p>Hospital</p>
-<p>Clínica</p>
-<p>Farmacia</p>
-<p>Encontro</p>
-<p>Checar</p>
-<p>Diagnóstico</p>
-<p>Tratamento</p>
-<p>Terapia</p>
-<p>Medicamento</p>
-<p>Prescrição</p>
-<p>Vacina</p>
-<p>Imunização</p>
-<p>Alergia</p>
-<p>Infecção</p>
-<p>Doença</p>
-<p>Doença</p>
-<p>Ferida</p>
-<p>Dor</p>
-<p>Sintoma</p>
-<p>Febre</p>
-<p>Frio</p>
-<p>Gripe</p>
-<p>Dor de cabeça</p>
-<p>Dor de garganta</p>
-<p>Tosse</p>
-<p>Nariz escorrendo</p>
-<p>Fadiga</p>
-<p>Fraqueza</p>
-<p>Náusea</p>
-<p>Vômito</p>
-<p>Diarréia</p>
-<p>Constipação</p>
-<p>Coração</p>
-<p>Pulmões</p>
-<p>Cérebro</p>
-<p>Estômago</p>
-<p>Fígado</p>
-<p>Rins</p>
-<p>Intestinos</p>
-<p>Ossos</p>
-<p>Músculos</p>
-<p>Pele</p>
-<p>Cabelo</p>
-<p>Olhos</p>
-<p>Ouvidos</p>
-<p>Nariz</p>
-<p>Boca</p>
-<p>Dentes</p>
-<p>Gengivas</p>
-<p>Língua</p>
-<p>Garganta</p>
-<p>Frequência cardíaca</p>
-<p>Pressão arterial</p>
-<p>Colesterol</p>
-<p>Açúcar no sangue</p>
-<p>IMC (Índice de Massa Corporal)</p>
-<p>Peso</p>
-<p>Altura</p>
-<p>Nível de condicionamento físico</p>
-<p>Hidratação</p>
-<p>Rotina de exercicios</p>
-<p>Exercícios</p>
-<p>Atividade física</p>
-<p>Exercício cardiovascular</p>
-<p>Treinamento de força</p>
-<p>Flexibilidade</p>
-<p>Alongamento</p>
-<p>Ioga</p>
-<p>Pilates</p>
-<p>Meditação</p>
-<p>Exercícios de respiração</p>
-<p>Técnicas de relaxamento</p>
-<p>Autocuidados</p>
-<p>Mãe</p>
-<p>Pai</p>
-<p>Pai</p>
-<p>Criança</p>
-<p>Filho</p>
-<p>Filha</p>
-<p>Irmão</p>
-<p>Irmão</p>
-<p>Irmã</p>
-<p>Avó</p>
-<p>Avô</p>
-<p>Avó</p>
-<p>Neto</p>
-<p>Neto</p>
-<p>Neta</p>
-<p>Tia</p>
-<p>Tio</p>
-<p>Sobrinha</p>
-<p>Sobrinho</p>
-<p>Primo</p>
-<p>Cônjuge</p>
-<p>Marido</p>
-<p>Esposa</p>
-<p>Parceiro</p>
-<p>Namorado</p>
-<p>Namorada</p>
-<p>Noiva</p>
-<p>Noiva</p>
-<p>Em lei</p>
-<p>Sogra</p>
-<p>Sogro</p>
-<p>Cunhado</p>
-<p>Cunhada</p>
-<p>Genro</p>
-<p>Nora</p>
-<p>Padrasto</p>
-<p>Madrasta</p>
-<p>Padrasto</p>
-<p>Passo filho</p>
-<p>Enteado</p>
-<p>Enteada</p>
-<p>Meio-irmão</p>
-<p>Meio-irmão</p>
-<p>Meia-irmã</p>
-<p>pai adotivo</p>
-<p>criança adotada</p>
-<p>Guardião</p>
-<p>Ala</p>
-<p>Pai adotivo</p>
-<p>Criança adotada</p>
-<p>Educação</p>
-<p>Escola</p>
-<p>Aprendizado</p>
-<p>Sala de aula</p>
-<p>Professor</p>
-<p>Estudante</p>
-<p>Lição</p>
-<p>Assunto</p>
-<p>Currículo</p>
-<p>Livro didático</p>
-<p>Pasta de trabalho</p>
-<p>Atribuição</p>
-<p>Trabalho de casa</p>
-<p>Teste</p>
-<p>Exame</p>
-<p>Questionário</p>
-<p>Nota</p>
-<p>Boletim</p>
-<p>Comparecimento</p>
-<p>Ausência</p>
-<p>Atrasado</p>
-<p>Colega de classe</p>
-<p>Trabalho em equipe</p>
-<p>Projeto</p>
-<p>Apresentação</p>
-<p>Estudar</p>
-<p>Grupo de Estudos</p>
-<p>Materiais de estudo</p>
-<p>Biblioteca</p>
-<p>Livros</p>
-<p>Leitura</p>
-<p>Escrita</p>
-<p>Aritmética</p>
-<p>Matemática</p>
-<p>Álgebra</p>
-<p>Geometria</p>
-<p>Cálculo</p>
-<p>Estatisticas</p>
-<p>Ciência</p>
-<p>Biologia</p>
-<p>Química</p>
-<p>Física</p>
-<p>Ciência da Terra</p>
-<p>Ciência ambiental</p>
-<p>Estudos Sociais</p>
-<p>História</p>
-<p>Geografia</p>
-<p>Educação cívica</p>
-<p>Economia</p>
-<p>Governo</p>
-<p>Artes da linguagem</p>
-<p>Inglês</p>
-<p>Literatura</p>
-<p>Escrita</p>
-<p>Gramática</p>
-<p>Vocabulário</p>
-<p>Ortografia</p>
-<p>Compreensão de leitura</p>
-<p>Fonética</p>
-<p>Círculo de literatura</p>
-<p>Escrita criativa</p>
-<p>Ensaio</p>
-<p>Parágrafo</p>
-<p>Frase</p>
-<p>Palavra</p>
-<p>Frase</p>
-<p>Parágrafo</p>
-<p>Composição</p>
-<p>Narrativa</p>
-<p>Escrita expositiva</p>
-<p>Escrita persuasiva</p>
-<p>Pesquisar</p>
-<p>Citação</p>
-<p>Plágio</p>
-<p>Bibliografia</p>
-<p>Referência</p>
-<p>Enciclopédia</p>
-<p>Dicionário</p>
-<p>Dicionário de sinônimos</p>
-<p>Internet</p>
-<p>Local na rede Internet</p>
-<p>Mecanismo de busca</p>
-<p>Recursos online</p>
-<p>Multimídia</p>
-<p>Audiovisual</p>
-<p>Vídeo</p>
-<p>Áudio</p>
-<p>Software de apresentação</p>
-<p>Apresentações</p>
-<p>Power Point</p>
-<p>Apresentações Google</p>
-<p>Quadro interativo</p>
-<p>Quadro inteligente</p>
-<p>Tecnologia de sala de aula</p>
-<p>Computador</p>
-<p>Computador portátil</p>
-<p>Tábua</p>
-<p>Smartphone</p>
-<p>Aplicativo</p>
-<p>Programas</p>
-<p>Hardware</p>
-<p>segurança na Internet</p>
-<p>Cidadania digital</p>
-<p>Cyberbullying</p>
-<p>Etiqueta on-line</p>
-<p>Mídia social</p>
-<p>Comunicação</p>
-<p>Colaboração</p>
-<p>Pensamento crítico</p>
-<p>Solução de problemas</p>
-<p>Criatividade</p>
-<p>Inovação</p>
-<p>Investigação</p>
-<p>Investigação</p>
-<p>Observação</p>
-<p>Experimentar</p>
-<p>Hipótese</p>
-<p>Dados</p>
-<p>Conclusão</p>
-<p>Análise</p>
-<p>Interpretação</p>
-<p>Observação</p>
-<p>Descoberta</p>
-<p>Exploração</p>
-<p>Viagem ao campo</p>
-<p>Museu</p>
-<p>Aquário</p>
-<p>Jardim zoológico</p>
-<p>Centro natural</p>
-<p>Jardim Botânico</p>
-<p>Planetário</p>
-<p>Observatório</p>
-<p>Local historico</p>
-<p>Museu de Arte</p>
-<p>Museu de Ciências</p>
-<p>Museu de História Natural</p>
-<p>Exposições interativas</p>
-<p>Atividades manuais</p>
-<p>Oficina</p>
-<p>Demonstração</p>
-<p>Palestra</p>
-<p>Seminário</p>
-<p>Oficina</p>
-<p>Conferência</p>
-<p>Simpósio</p>
-<p>Painel de discussão</p>
-<p>Discurso importante</p>
-<p>Apresentação</p>
-<p>Palestrante</p>
-<p>Público</p>
-<p>Participante</p>
-<p>Oficina</p>
-<p>Curso</p>
-<p>Oficina</p>
-<p>Treinamento</p>
-<p>Seminário</p>
-<p>Seminário on-line</p>
-<p>Oficina</p>
-<p>Retiro</p>
-<p>Conferência</p>
-<p>Série de palestras</p>
-<p>Certificado</p>
-<p>Diploma</p>
-<p>Grau</p>
-<p>diploma de bacharel</p>
-<p>Mestrado</p>
-<p>Doutorado</p>
-<p>Doutorado</p>
-<p>Grau de associado</p>
-<p>Escola vocacional</p>
-<p>Escola Técnica</p>
-<p>Faculdade Comunitária</p>
-<p>Faculdade</p>
-<p>Universidade</p>
-<p>Departamento</p>
-<p>Faculdade</p>
-<p>Professor</p>
-<p>Instrutor</p>
-<p>Conferencista</p>
-<p>Tutor</p>
-<p>Estudante graduado</p>
-<p>Estudante graduado</p>
-<p>Ex-alunos</p>
-<p>Campus</p>
-<p>Dormitório</p>
-<p>Salão de residência</p>
-<p>União de Estudantes</p>
-<p>Cantina</p>
-<p>Sala de jantar</p>
-<p>Ginásio</p>
-<p>Instalações esportivas</p>
-<p>Campo de atletismo</p>
-<p>Acompanhar</p>
-<p>Piscina</p>
-<p>Tribunal</p>
-<p>Auditório</p>
-<p>Teatro</p>
-<p>Estágio</p>
-<p>Ensaio</p>
-<p>Desempenho</p>
-<p>Orçamento</p>
-<p>Poupança</p>
-<p>Investimento</p>
-<p>Aposentadoria</p>
-<p>Renda</p>
-<p>Despesa</p>
-<p>Dívida</p>
-<p>Crédito</p>
-<p>Empréstimo</p>
-<p>Hipoteca</p>
-<p>Interesse</p>
-<p>Diretor</p>
-<p>Ativo</p>
-<p>Responsabilidade</p>
-<p>Equilíbrio</p>
-<p>Fluxo de caixa</p>
-<p>Meta financeira</p>
-<p>Fundo de emergência</p>
-<p>Juros compostos</p>
-<p>Taxa de porcentagem anual</p>
-<p>Pontuação de crédito</p>
-<p>Relatório de crédito</p>
-<p>conta bancária</p>
-<p>Conta corrente</p>
-<p>Conta poupança</p>
-<p>Comprovante de depósito</p>
-<p>Conta do mercado monetário</p>
-<p>Fundo mútuo</p>
-<p>Estoque</p>
-<p>Ligação</p>
-<p>Dividendo</p>
-<p>Ganhos de capital</p>
-<p>Portfólio</p>
-<p>Alocação de ativos</p>
-<p>Diversificação</p>
-<p>Tolerância de risco</p>
-<p>Inflação</p>
-<p>Deflação</p>
-<p>Recessão</p>
-<p>Desaceleração econômica</p>
-<p>Mercado em alta</p>
-<p>Mercado baixista</p>
-<p>Taxa de câmbio</p>
-<p>Moeda</p>
-<p>câmbio</p>
-<p>Fundo de hedge</p>
-<p>Imposto</p>
-<p>Dedução fiscal</p>
-<p>Taxa de crédito</p>
-<p>Declaração de imposto</p>
-<p>Computador</p>
-<p>Computador portátil</p>
-<p>Tábua</p>
-<p>Smartphone</p>
-<p>Relógio inteligente</p>
-<p>Fones de ouvido</p>
-<p>Fones de ouvido</p>
-<p>Palestrante</p>
-<p>Televisão</p>
-<p>Monitor</p>
-<p>Teclado</p>
-<p>Rato</p>
-<p>Impressora</p>
-<p>Scanner</p>
-<p>Roteador</p>
-<p>Modem</p>
-<p>Ethernet</p>
-<p>Bluetooth</p>
-<p>Disco rígido</p>
-<p>Disco de Estado Sólido</p>
-<p>Armazenamento na núvem</p>
-<p>Sistema operacional</p>
-<p>Programas</p>
-<p>Aplicativo</p>
-<p>Navegador</p>
-<p>Mídia social</p>
-<p>Local na rede Internet</p>
-<p>Mecanismo de busca</p>
-<p>E-mail</p>
-<p>Vídeo conferência</p>
-<p>Realidade virtual</p>
-<p>Realidade aumentada</p>
-<p>Console de jogos</p>
-<p>Controlador</p>
-<p>Fone de ouvido VR</p>
-<p>Óculos AR</p>
-<p>Rastreador de condicionamento físico</p>
-<p>Drone</p>
-<p>Câmera de ação</p>
-<p>Câmera digital</p>
-<p>Filmadora</p>
-<p>GPS</p>
-<p>Navegação por satélite</p>
-<p>Leitor eletrônico</p>
-<p>Dispositivos domésticos inteligentes</p>
-<p>Termostato</p>
-<p>Câmera de segurança</p>
-<p>Robô</p>
-<p>Esportes</p>
-<p>Fotografia</p>
-<p>Jardinagem</p>
-<p>Culinária</p>
-<p>Cozimento</p>
-<p>Pintura</p>
-<p>Desenho</p>
-<p>Esboçando</p>
-<p>Escultura</p>
-<p>Cerâmica</p>
-<p>Tricô</p>
-<p>Crochê</p>
-<p>De costura</p>
-<p>Acolchoado</p>
-<p>Construindo</p>
-<p>Carpintaria</p>
-<p>Metalurgia</p>
-<p>Construção de modelo</p>
-<p>Origami</p>
-<p>Caligrafia</p>
-<p>Escrita</p>
-<p>Leitura</p>
-<p>Tocando instrumentos musicais</p>
-<p>Cantoria</p>
-<p>Dançando</p>
-<p>Ioga</p>
-<p>Meditação</p>
-<p>Caminhada</p>
-<p>Acampamento</p>
-<p>pescaria</p>
-<p>Caçando</p>
-<p>Observação de pássaros</p>
-<p>Observação de estrelas</p>
-<p>Astronomia</p>
-<p>Colecionando selos</p>
-<p>Coletando moedas</p>
-<p>Coletando pedras</p>
-<p>Coletando conchas</p>
-<p>Colecionando antiguidades</p>
-<p>Coletando recordações</p>
-<p>Viajando</p>
-<p>Explorando</p>
-<p>Passeio turístico</p>
-<p>Esportes de aventura</p>
-<p>Mergulho</p>
-<p>Pára-quedismo</p>
-<p>Parapente</p>
-<p>escalada de montanha</p>
-<p>Surfar</p>
-<p>Skate</p>
-<p>Se chover , as ruas inundam .</p>
-<p>Se como demais , sinto-me mal .</p>
-<p>Se ela trabalhar duro , ela terá sucesso .</p>
-<p>Se você misturar azul e amarelo , obterá verde .</p>
-<p>Se chegarem atrasados , perderão o ônibus .</p>
-<p>Se ele se exercita regularmente , ele permanece saudável .</p>
-<p>Se o sol se põe , escurece .</p>
-<p>Se os pássaros cantam , é de manhã .</p>
-<p>Se nevar muito , as escolas fecham .</p>
-<p>Se não regarmos as plantas , elas morrem .</p>
-<p>Se eu estudar , entendo melhor .</p>
-<p>Se ela pratica piano , ela melhora .</p>
-<p>Se você deixar cair o vidro , ele quebra .</p>
-<p>Se pouparem dinheiro , podem comprar uma casa .</p>
-<p>Se ele toma café tarde , não consegue dormir .</p>
-<p>Se chover amanhã , levo um guarda-chuva .</p>
-<p>Se ela estudar muito , ela passará no exame .</p>
-<p>Se terminarem o trabalho mais cedo , irão ao cinema .</p>
-<p>Se você regar as plantas , elas crescerão mais rápido .</p>
-<p>Se ele praticar regularmente , ele se tornará um guitarrista melhor .</p>
-<p>Se economizarmos dinheiro suficiente , sairemos de férias no próximo ano .</p>
-<p>Se o trem chegar na hora certa , eu o pegarei .</p>
-<p>Se o sol se pôr cedo , escurecerá mais cedo .</p>
-<p>Se você não se apressar , perderá o ônibus .</p>
-<p>Se ela preparar o jantar esta noite , eu lavarei a louça .</p>
-<p>Se vencerem a partida , avançarão para a final .</p>
-<p>Se ele perder o voo , terá que remarcar .</p>
-<p>Se eu terminar meu projeto hoje , relaxarei amanhã .</p>
-<p>Se chegarem atrasados , o evento começará sem eles .</p>
-<p>Se você praticar inglês diariamente , você melhorará rapidamente .</p>
-<p>Se eu ganhasse na loteria , compraria uma casa . (Presente condicional)</p>
-<p>Se ela estudasse mais , teria notas melhores . (Presente condicional contínuo)</p>
-<p>Se fossem para a cama mais cedo , sentir-se-iam mais descansados . (Presente condicional)</p>
-<p>Se chovesse , eu ficaria em casa . (Presente condicional contínuo)</p>
-<p>Se ele ouvisse o médico , estaria se sentindo melhor . (Presente condicional contínuo)</p>
-<p>Se tivéssemos mais tempo , viajaríamos com mais frequência . (Presente condicional contínuo)</p>
-<p>Se você me ligasse , eu estaria esperando sua ligação . (Presente condicional contínuo)</p>
-<p>Se ela falasse francês fluentemente , estaria trabalhando em Paris . (Presente condicional)</p>
-<p>Se eles entendessem as instruções , estariam se saindo melhor . (Presente condicional contínuo)</p>
-<p>Se eu tivesse mais experiência , estaria me candidatando a cargos mais altos . (Presente condicional contínuo)</p>
-<p>Se nevasse , estaríamos construindo um boneco de neve . (Presente condicional contínuo)</p>
-<p>Se ele se alimentasse de maneira mais saudável , ele se sentiria com mais energia . (Presente condicional contínuo)</p>
-<p>Se ela praticasse mais , tocaria melhor piano . (Presente condicional contínuo)</p>
-<p>Se economizassem mais dinheiro , estariam viajando pelo mundo . (Presente condicional contínuo)</p>
-<p>Se você se exercitasse regularmente , você se sentiria mais forte . (Presente condicional contínuo)</p>
-<p>Se eu tivesse estudado mais , teria passado no exame .</p>
-<p>Se ela tivesse chegado na hora certa , teria pegado o trem .</p>
-<p>Se tivessem ouvido a previsão do tempo , não teriam sido apanhados pela chuva .</p>
-<p>Se ele tivesse economizado dinheiro , já teria comprado um carro .</p>
-<p>Se tivéssemos tomado o voo anterior , teríamos evitado o atraso .</p>
-<p>Se você tivesse pedido ajuda , eu teria ajudado você .</p>
-<p>Se ela tivesse terminado a sua licenciatura , teria continuado os seus estudos .</p>
-<p>Se tivessem seguido as instruções , não teriam cometido erros .</p>
-<p>Se eu soubesse da festa , teria comparecido .</p>
-<p>Se ele tivesse praticado mais , teria se saído melhor no concerto .</p>
-<p>Se ela tivesse ligado antes , eu estaria disponível para conversar .</p>
-<p>Se tivessem estudado no estrangeiro , teriam aprendido uma nova língua .</p>
-<p>Se você tivesse se exercitado regularmente , estaria em melhor forma .</p>
-<p>Se tivéssemos saído mais cedo , teríamos chegado ao destino a tempo .</p>
-<p>Se ele tivesse preparado o jantar , teríamos desfrutado de uma refeição deliciosa .</p>
-<p>Se eu tivesse terminado meu trabalho mais cedo , estaria relaxado agora .</p>
-<p>Se ela tivesse estudado mais , teria um melhor desempenho nas aulas .</p>
-<p>Se tivessem economizado dinheiro , não estariam com dificuldades financeiras .</p>
-<p>Se ele tivesse ouvido meu conselho , estaria em uma situação melhor .</p>
-<p>Se tivéssemos saído na hora certa , não estaríamos presos no trânsito .</p>
-<p>Se você tivesse tomado café da manhã , não estaria com fome agora .</p>
-<p>Se ela tivesse pegado o ônibus , não se atrasaria para a reunião .</p>
-<p>Se tivessem praticado mais , seriam mais habilidosos agora .</p>
-<p>Se eu tivesse me lembrado de trazer meu guarda-chuva , não estaria me molhando .</p>
-<p>Se ele tivesse se candidatado ao emprego , estaria trabalhando lá agora .</p>
-<p>Se ela tivesse ligado antes , eu estaria esperando a ligação dela .</p>
-<p>Se tivessem reservado as passagens com antecedência , estariam viajando agora .</p>
-<p>Se você tivesse se exercitado regularmente , você se sentiria mais saudável agora .</p>
-<p>Se tivéssemos prestado atenção na aula , estaríamos entendendo o assunto agora .</p>
-<p>Se ele tivesse limpado seu quarto , agora estaria arrumado .</p>
-<p>Presente simples</p>
-<p>Ajudo meu vizinho todos os dias .</p>
-<p>Eu ensino inglês na escola local .</p>
-<p>Ela toca piano todas as noites .</p>
-<p>Tomamos café pela manhã .</p>
-<p>Eles saem para passear depois do jantar .</p>
-<p>Eu li um livro antes de dormir .</p>
-<p>Ele prepara o jantar para sua família todas as noites .</p>
-<p>Ouvimos música enquanto trabalhamos .</p>
-<p>Eles estudam juntos na biblioteca .</p>
-<p>Ela pratica ioga pela manhã .</p>
-<p>Os pássaros cantam do lado de fora da minha janela todas as manhãs .</p>
-<p>O sol nasce no leste  .</p>
-<p>O trem chega às 9 horas todas as manhãs .</p>
-<p>Chove muito na época das chuvas .</p>
-<p>A terra gira em torno do Sol  .</p>
-<p>Presente perfeito</p>
-<p>Ajudei demais meu vizinho esta semana .</p>
-<p>Eu terminei meu dever de casa  .</p>
-<p>Ela visitou Paris várias vezes .</p>
-<p>Já vimos esse filme antes .</p>
-<p>Eles moram nesta cidade há dez anos .</p>
-<p>Ele estudou espanhol por dois anos .</p>
-<p>A empresa concluiu o projeto antes do previsto .</p>
-<p>Perdi minhas chaves novamente .</p>
-<p>Viajamos para muitos países .</p>
-<p>Ela terminou sua refeição .</p>
-<p>Eles já se conheceram antes .</p>
-<p>Ele alcançou seus objetivos .</p>
-<p>Eu li esse livro .</p>
-<p>Nós conversamos por telefone .</p>
-<p>Ela encontrou um novo emprego .</p>
-<p>Eles escreveram muitas cartas .</p>
-<p>Presente contínuo</p>
-<p>Estou ajudando meu vizinho enquanto ele arruma sua casa .</p>
-<p>Estou trabalhando em minha tarefa .</p>
-<p>Ela está lendo um livro agora .</p>
-<p>Estamos ouvindo música no momento .</p>
-<p>Eles estão jogando futebol no parque .</p>
-<p>Ele está escrevendo um e-mail para seu amigo .</p>
-<p>Os alunos estão estudando para os exames .</p>
-<p>Estou assistindo TV com minha família .</p>
-<p>Vamos jantar juntos esta noite .</p>
-<p>Ela está preparando o jantar na cozinha .</p>
-<p>Eles estão trabalhando em um novo projeto no trabalho .</p>
-<p>Ele está pintando um quadro em seu quarto .</p>
-<p>O bebê está dormindo pacificamente no berço .</p>
-<p>Estamos planejando uma viagem para as férias de verão .</p>
-<p>Ela está praticando piano na sala de estar .</p>
-<p>Eles estão construindo uma casa no bairro .</p>
-<p>Presente Perfeito Contínuo</p>
-<p>Tenho ajudado meu vizinho desde que me mudei .</p>
-<p>Estou trabalhando neste projeto há horas .</p>
-<p>Ela vem estudando inglês há um ano .</p>
-<p>Estamos esperando o ônibus desde manhã .</p>
-<p>Eles moram nesta cidade há cinco anos .</p>
-<p>Ele trabalha como professor há muito tempo .</p>
-<p>As crianças brincaram lá fora a tarde toda .</p>
-<p>Tenho tentado entrar em contato com você por telefone .</p>
-<p>Estamos viajando pela Europa há semanas .</p>
-<p>Ela está escrevendo seu romance há meses .</p>
-<p>Eles estão construindo uma casa para sua família .</p>
-<p>Ele aprendeu a tocar violão desde criança .</p>
-<p>Há muito tempo que esperávamos por este momento .</p>
-<p>Ela leciona na universidade há muitos anos .</p>
-<p>Eles estão praticando para o próximo show .</p>
-<p>Tenho trabalhado para melhorar minhas habilidades .</p>
-<p>Pretérito</p>
-<p>Ajudei meu vizinho ontem .</p>
-<p>Eu ajudei meu vizinho a limpar seu sótão antes de consertar seu carro .</p>
-<p>Eu estava ajudando meu vizinho quando ele me trouxe chá gelado .</p>
-<p>Eu estava ajudando meu vizinho há um ano antes que ele finalmente me agradecesse .</p>
-<p>Ajudei meu vizinho ontem .</p>
-<p>Ensinei inglês na escola local no ano passado .</p>
-<p>Ela tocou piano ontem à noite .</p>
-<p>Tomamos café pela manhã .</p>
-<p>Eles foram dar um passeio depois do jantar .</p>
-<p>Ele preparou o jantar para sua família ontem à noite .</p>
-<p>Eu li um livro antes de dormir .</p>
-<p>Ouvimos música enquanto trabalhávamos .</p>
-<p>Eles estudaram juntos na biblioteca .</p>
-<p>Ela praticava ioga pela manhã .</p>
-<p>Passado Perfeito</p>
-<p>Eu ajudei meu vizinho a limpar seu sótão antes de consertar seu carro .</p>
-<p>Eu tinha terminado minha lição de casa antes de ir para a cama .</p>
-<p>Ela havia visitado Paris antes de se mudar para Londres .</p>
-<p>Tínhamos visto esse filme antes de ser lançado .</p>
-<p>Eu ajudei meu vizinho a limpar seu sótão antes de consertar seu carro .</p>
-<p>Ela havia visitado Paris antes de se mudar para Londres .</p>
-<p>Tínhamos terminado o dever de casa antes de irmos para a cama .</p>
-<p>Eles tinham visto aquele filme antes de ser lançado .</p>
-<p>Ele estudou espanhol durante dois anos antes de viajar para a Espanha .</p>
-<p>A empresa concluiu o projeto antes do prazo previsto .</p>
-<p>Eu havia perdido minhas chaves novamente antes de encontrá-las no bolso da jaqueta .</p>
-<p>Havíamos viajado para muitos países antes de nos estabelecermos .</p>
-<p>Ela terminou a refeição antes de sair do restaurante .</p>
-<p>Eles se conheceram antes de perceberem que eram colegas de classe .</p>
-<p>Passado contínuo</p>
-<p>Eu estava ajudando meu vizinho quando ele me trouxe chá gelado .</p>
-<p>Eu estava trabalhando em minha tarefa quando faltou energia .</p>
-<p>Eu estava ajudando meu vizinho quando ele me trouxe chá gelado .</p>
-<p>Ela estava lendo um livro quando o telefone tocou .</p>
-<p>Estávamos ouvindo música enquanto trabalhávamos no jardim .</p>
-<p>Eles estavam jogando futebol quando começou a chover .</p>
-<p>Ele estava escrevendo um e-mail quando faltou energia .</p>
-<p>Os alunos estudaram para os exames a noite toda .</p>
-<p>Eu estava assistindo TV quando a campainha tocou .</p>
-<p>Estávamos jantando quando os convidados chegaram .</p>
-<p>Ela estava preparando o jantar na cozinha enquanto ouvia música .</p>
-<p>Eles estavam trabalhando em um novo projeto quando o chefe ligou .</p>
-<p>Passado Perfeito Contínuo</p>
-<p>Eu estava ajudando meu vizinho há um ano antes que ele finalmente me agradecesse .</p>
-<p>Eu estava trabalhando neste projeto há horas quando você ligou .</p>
-<p>Eu estava ajudando meu vizinho há um ano antes que ele finalmente me agradecesse .</p>
-<p>Ela estava estudando inglês há um ano antes de fazer o teste de proficiência .</p>
-<p>Estávamos esperando o ônibus há mais de uma hora antes que ele finalmente chegasse .</p>
-<p>Eles moravam nesta cidade há cinco anos antes de decidirem se mudar .</p>
-<p>Ele já trabalhava como professor há muito tempo antes de mudar de carreira .</p>
-<p>As crianças brincaram lá fora a tarde toda antes de começar a chover .</p>
-<p>Eu estava tentando entrar em contato com você por telefone há horas antes de finalmente conseguir .</p>
-<p>Estávamos viajando pela Europa há semanas antes de ficarmos sem dinheiro .</p>
-<p>Ela estava escrevendo seu romance há meses antes de finalmente terminá-lo .</p>
-<p>Eles construíram uma casa para sua família durante anos antes de se mudarem .</p>
-<p>Futuro</p>
-<p>Vou ajudar meu vizinho amanhã .</p>
-<p>Terei ajudado meu vizinho cem vezes até o final do mês .</p>
-<p>Estarei ajudando meu vizinho no próximo mês , quando ele se mudar .</p>
-<p>Estarei ajudando meu vizinho por um ano no próximo mês .</p>
-<p>Vou ajudar meu vizinho amanhã .</p>
-<p>Ela cantará no show da próxima semana .</p>
-<p>Ele visitará seus pais neste fim de semana .</p>
-<p>Jantaremos às 7 horas desta noite .</p>
-<p>Eles sairão de férias no próximo mês .</p>
-<p>Ela terminará seu projeto até o final da semana .</p>
-<p>Ele comprará um carro novo no próximo ano .</p>
-<p>Iniciaremos nossa jornada de manhã cedo .</p>
-<p>Eles nos encontrarão no restaurante mais tarde .</p>
-<p>Vou aprender a tocar violão no próximo verão .</p>
-<p>Futuro perfeito</p>
-<p>Terei ajudado meu vizinho cem vezes até o final do mês .</p>
-<p>Ela terá terminado seu projeto antes do prazo .</p>
-<p>Ele terá concluído sua graduação no próximo ano .</p>
-<p>Teremos viajado para muitos países quando nos aposentarmos .</p>
-<p>Eles terão se mudado para uma nova casa no próximo mês .</p>
-<p>Ela terá aprendido francês até o final do ano .</p>
-<p>Ele terá economizado dinheiro suficiente para comprar uma casa até lá .</p>
-<p>Teremos terminado nosso jantar quando eles chegarem .</p>
-<p>Eles terão concluído o projeto antes do prazo .</p>
-<p>Terei escrito meu livro no próximo verão .</p>
-<p>Futuro contínuo</p>
-<p>Estarei ajudando meu vizinho no próximo mês , quando ele se mudar .</p>
-<p>Estarei ajudando meu vizinho amanhã .</p>
-<p>Ela estará estudando para o exame na próxima semana .</p>
-<p>Ele estará trabalhando no projeto o dia todo amanhã .</p>
-<p>Estaremos viajando para Paris nesta época no próximo mês .</p>
-<p>Eles estarão se preparando para a festa quando você chegar .</p>
-<p>Ela estará preparando o jantar quando ele chegar em casa .</p>
-<p>Ele estará jogando futebol com seus amigos esta noite .</p>
-<p>Estaremos assistindo o pôr do sol na praia amanhã a esta hora .</p>
-<p>Eles discutirão os planos para o futuro na reunião da próxima semana .</p>
-<p>Estarei dormindo quando você me ligar amanhã de manhã .</p>
-<p>Estarei ajudando meu vizinho amanhã .</p>
-<p>Ela estará estudando para o exame na próxima semana .</p>
-<p>Ele estará trabalhando no projeto o dia todo amanhã .</p>
-<p>Estaremos viajando para Paris nesta época no próximo mês .</p>
-<p>Eles estarão se preparando para a festa quando você chegar .</p>
-<p>Ela estará preparando o jantar quando ele chegar em casa .</p>
-<p>Ele estará jogando futebol com seus amigos esta noite .</p>
-<p>Estaremos assistindo o pôr do sol na praia amanhã a esta hora .</p>
-<p>Eles discutirão os planos para o futuro na reunião da próxima semana .</p>
-<p>Estarei dormindo quando você me ligar amanhã de manhã .</p>
-<p>Futuro Perfeito Contínuo</p>
-<p>Estarei ajudando meu vizinho por um ano no próximo mês .</p>
-<p>Estarei ajudando meu vizinho por uma hora quando você chegar .</p>
-<p>Ela estará estudando para o exame por duas horas ao meio-dia .</p>
-<p>Ele estará trabalhando no projeto por três dias seguidos até sexta-feira .</p>
-<p>Estaremos viajando por um mês quando voltarmos para casa .</p>
-<p>Eles estarão se preparando para a festa há semanas quando ela finalmente acontecer .</p>
-<p>Ela estará preparando o jantar há uma hora quando ele chegar em casa .</p>
-<p>Ele estará jogando futebol com os amigos há duas horas quando escurecer .</p>
-<p>Estaremos assistindo o pôr do sol na praia por uma hora quando você chegar .</p>
-<p>Eles estarão discutindo os planos há horas quando a reunião terminar .</p>
-<p>Estarei dormindo por oito horas quando você me acordar .</p>
-<p>O sol nasceu brilhantemente no horizonte .</p>
-<p>Ela dançou graciosamente pelo palco .</p>
-<p>O gato se esticou preguiçosamente à luz do sol .</p>
-<p>Ele aguardava ansiosamente a chegada de seus amigos .</p>
-<p>A chuva caía suavemente contra a vidraça .</p>
-<p>Eles riram muito da piada .</p>
-<p>As flores desabrocharam lindamente no jardim .</p>
-<p>O pássaro cantou melodiosamente na árvore .</p>
-<p>Ela estudou diligentemente para os exames .</p>
-<p>O bebê riu alegremente enquanto brincava .</p>
-<p>Ele suspirou cansado depois de um longo dia de trabalho .</p>
-<p>Eles conversaram animadamente enquanto tomavam uma xícara de café .</p>
-<p>O vento uivou ferozmente durante a tempestade .</p>
-<p>As crianças correram animadamente pelo playground .</p>
-<p>Ela suspirou satisfeita enquanto relaxava na praia .</p>
-<p>Ele sorriu calorosamente ao ver sua família .</p>
-<p>As folhas farfalhavam suavemente com a brisa .</p>
-<p>Eles discutiram acaloradamente sobre o assunto .</p>
-<p>O relógio batia continuamente na parede .</p>
-<p>Ela cantou lindamente durante o show .</p>
-<p>O cachorro latiu alto para o carteiro .</p>
-<p>Ele assobiava alegremente enquanto trabalhava .</p>
-<p>A lua brilhava intensamente no céu noturno .</p>
-<p>Eles se abraçaram fortemente depois de ficarem separados por tanto tempo .</p>
-<p>Ela acenou tristemente quando o trem partiu .</p>
-<p>Ele bocejou sonolento enquanto subia na cama .</p>
-<p>O café tinha um gosto amargo depois de ficar sentado por tanto tempo .</p>
-<p>Eles sussurraram conspiratoriamente no canto .</p>
-<p>Ela engasgou de surpresa com a notícia inesperada .</p>
-<p>O fogo crepitava calorosamente na lareira .</p>
-<p>Ele franziu a testa em desaprovação para a bagunça .</p>
-<p>O oceano rugiu com raiva durante a tempestade .</p>
-<p>Eles sorriram agradecidos pela gentileza de estranhos .</p>
-<p>Ela cantarolava baixinho enquanto trabalhava .</p>
-<p>Ele riu baixinho com a lembrança .</p>
-<p>A chuva batia suavemente no telhado .</p>
-<p>Eles suspiraram de alívio quando a provação terminou .</p>
-<p>Ela corou timidamente quando ele a elogiou .</p>
-<p>Ele fez uma careta de dor quando deu uma topada no dedão do pé .</p>
-<p>O carro buzinou alto no trânsito .</p>
-<p>Eles riram ruidosamente da piada .</p>
-<p>Ela suspirou de frustração com a falha do computador .</p>
-<p>Ele assobiou apreciativamente ao pôr do sol .</p>
-<p>A torcida torceu com entusiasmo pelo time vencedor .</p>
-<p>Eles se abraçaram com força para se aquecerem no frio .</p>
-<p>Ela sorriu tranquilizadoramente para sua amiga nervosa .</p>
-<p>Ele sorriu presunçosamente depois de vencer a discussão .</p>
-<p>O bebê gorgolejava feliz nos braços da mãe .</p>
-<p>A árvore balançava suavemente com a brisa .</p>
-<p>Eles olharam amorosamente nos olhos um do outro .</p>
-<p>Ela andou na ponta dos pés em silêncio para evitar acordar o bebê .</p>
-<p>Ele tremia nervosamente antes de seu grande discurso .</p>
-<p>O relógio tocou alto no silêncio .</p>
-<p>Eles bateram palmas com entusiasmo no final da apresentação .</p>
-<p>Ela girou graciosamente pela pista de dança .</p>
-<p>Ele suspirou em resignação com o resultado inevitável .</p>
-<p>Os flocos de neve flutuaram suavemente no chão .</p>
-<p>Eles se abraçaram fortemente em despedida no aeroporto .</p>
-<p>Ela sorriu maliciosamente com a piada de sua amiga .</p>
-<p>Ele estremeceu incontrolavelmente de frio .</p>
-<p>O rio corria pacificamente pelo vale .</p>
-<p>Eles riram ruidosamente no show de comédia .</p>
-<p>Ela sorriu calorosamente ao ver sua família .</p>
-<p>Ele franziu a testa com desaprovação para a maca no chão .</p>
-<p>O cachorro latiu animado ao ver seu dono .</p>
-<p>Eles suspiraram de alívio quando chegaram ao seu destino .</p>
-<p>Ela engasgou de horror ao ver o acidente .</p>
-<p>Ele assobiou alegremente enquanto caminhava pela rua .</p>
-<p>O fogo crepitava alegremente na lareira .</p>
-<p>Eles sussurraram conspiratoriamente no canto da sala .</p>
-<p>Ela cantarolava baixinho para si mesma enquanto trabalhava .</p>
-<p>Ele riu baixinho ao lembrar da piada .</p>
-<p>A chuva batia suavemente na vidraça .</p>
-<p>Eles suspiraram satisfeitos enquanto relaxavam na praia .</p>
-<p>Ela corou timidamente com o elogio .</p>
-<p>Ele fez uma careta de dor quando bateu o dedo do pé na mesa .</p>
-<p>O carro buzinou alto enquanto passava .</p>
-<p>Eles riram muito do filme engraçado .</p>
-<p>Ela suspirou de frustração quando o computador travou .</p>
-<p>Ele assobiou apreciativamente ao lindo pôr do sol .</p>
-<p>A torcida aplaudiu ruidosamente quando o time da casa marcou um gol .</p>
-<p>Eles se abraçaram com força para se aquecerem no frio do inverno .</p>
-<p>Ela sorriu tranquilizadoramente para sua amiga nervosa .</p>
-<p>Ele sorriu presunçosamente depois de vencer a discussão .</p>
-<p>O bebê riu alegremente enquanto brincava com seus brinquedos .</p>
-<p>A árvore balançava suavemente com a brisa .</p>
-<p>Eles olharam amorosamente nos olhos um do outro .</p>
-<p>Ela andou na ponta dos pés em silêncio para não acordar o bebê adormecido .</p>
-<p>Ele tremia nervosamente antes de seu grande discurso .</p>
-<p>O relógio tocou alto no silêncio .</p>
-<p>Eles bateram palmas com entusiasmo no final da apresentação .</p>
-<p>Ela girou graciosamente pela pista de dança .</p>
-<p>Ele suspirou em resignação com o resultado inevitável .</p>
-<p>Os flocos de neve caíram suavemente no chão .</p>
-<p>Eles se abraçaram fortemente em despedida na estação de trem .</p>
-<p>Ela sorriu maliciosamente com a piada de sua amiga .</p>
-<p>Ele estremeceu incontrolavelmente de frio .</p>
-<p>O rio corria pacificamente pelo campo .</p>
-<p>Eles riram ruidosamente no show de comédia .</p>
-<p>Ela sorriu calorosamente ao ver sua família .</p>
-<p>Era uma vez uma tartaruga e uma lebre que viviam na floresta .</p>
-<p>A lebre tinha muito orgulho de sua velocidade e muitas vezes se gabava disso para os outros animais .</p>
-<p>A tartaruga , por outro lado , era lenta mas firme e nunca se gabava das suas capacidades .</p>
-<p>Um dia , a lebre desafiou a tartaruga para uma corrida .</p>
-<p>A tartaruga aceitou o desafio e a corrida ficou marcada para o dia seguinte .</p>
-<p>No dia da corrida , todos os animais se reuniram para assistir .</p>
-<p>A lebre correu na frente assim que a corrida começou , deixando a tartaruga bem atrás .</p>
-<p>Confiante na vitória , a lebre decidiu tirar uma soneca debaixo de uma árvore no meio da corrida .</p>
-<p>Enquanto isso , a tartaruga continuava avançando em seu ritmo lento , mas constante .</p>
-<p>Quando a lebre acordou , percebeu que a tartaruga não estava à vista .</p>
-<p>Ele rapidamente começou a correr novamente , mas já era tarde demais .</p>
-<p>Quando chegou à linha de chegada , a tartaruga já a havia cruzado e vencido a corrida .</p>
-<p>A moral da história é que devagar e sempre vence a corrida .</p>
-<p>ser</p>
-<p>ter</p>
-<p>fazer</p>
-<p>dizer</p>
-<p>pegar</p>
-<p>fazer</p>
-<p>ir</p>
-<p>saber</p>
-<p>pegar</p>
-<p>ver</p>
-<p>vir</p>
-<p>pensar</p>
-<p>olhar</p>
-<p>querer</p>
-<p>dar</p>
-<p>usar</p>
-<p>encontrar</p>
-<p>dizer</p>
-<p>perguntar</p>
-<p>trabalhar</p>
-<p>parecer</p>
-<p>sentir</p>
-<p>tentar</p>
-<p>deixar</p>
-<p>chamar</p>
-<p>deve</p>
-<p>poderia</p>
-<p>incluir</p>
-<p>precisar</p>
-<p>tornar-se</p>
-<p>significar</p>
-<p>manter</p>
-<p>deixar</p>
-<p>começar</p>
-<p>parecer</p>
-<p>ajuda</p>
-<p>falar</p>
-<p>vez</p>
-<p>começar</p>
-<p>mostrar</p>
-<p>ouvir</p>
-<p>jogar</p>
-<p>correr</p>
-<p>mover</p>
-<p>como</p>
-<p>ao vivo</p>
-<p>acreditar</p>
-<p>segurar</p>
-<p>trazer</p>
-<p>acontecer</p>
-<p>escrever</p>
-<p>fornecer</p>
-<p>sentar</p>
-<p>ficar</p>
-<p>perder</p>
-<p>pagar</p>
-<p>encontrar</p>
-<p>incluir</p>
-<p>continuar</p>
-<p>definir</p>
-<p>aprender</p>
-<p>mudar</p>
-<p>liderar</p>
-<p>entender</p>
-<p>assistir</p>
-<p>seguir</p>
-<p>parar</p>
-<p>criar</p>
-<p>falar</p>
-<p>ler</p>
-<p>permitir</p>
-<p>adicionar</p>
-<p>gastar</p>
-<p>crescer</p>
-<p>abrir</p>
-<p>andar</p>
-<p>ganhar</p>
-<p>oferecer</p>
-<p>lembrar</p>
-<p>amor</p>
-<p>considerar</p>
-<p>aparecer</p>
-<p>comprar</p>
-<p>espere</p>
-<p>servir</p>
-<p>morrer</p>
-<p>enviar</p>
-<p>esperar</p>
-<p>construir</p>
-<p>ficar</p>
-<p>cair</p>
-<p>corte</p>
-<p>alcançar</p>
-<p>matar</p>
-<p>permanecer</p>
-<p>sugerir</p>
-<p>elevação</p>
-<p>passar</p>
-<p>vender</p>
-<p>exigir</p>
-<p>relatório</p>
-<p>decidir</p>
-<p>puxar</p>
-<p>quebrar</p>
-<p>receber</p>
-<p>concordar</p>
-<p>retornar</p>
-<p>explicar</p>
-<p>ter esperança</p>
-<p>desenvolver</p>
-<p>carregar</p>
-<p>quebrar</p>
-<p>trabalhar</p>
-<p>jogar</p>
-<p>falar</p>
-<p>correr</p>
-<p>mover</p>
-<p>tentar</p>
-<p>vez</p>
-<p>perguntar</p>
-<p>precisar</p>
-<p>sentir</p>
-<p>tornar-se</p>
-<p>deixar</p>
-<p>colocar</p>
-<p>significar</p>
-<p>manter</p>
-<p>deixar</p>
-<p>começar</p>
-<p>parecer</p>
-<p>ajuda</p>
-<p>falar</p>
-<p>mostrar</p>
-<p>ouvir</p>
-<p>jogar</p>
-<p>correr</p>
-<p>mover</p>
-<p>como</p>
-<p>ao vivo</p>
-<p>acreditar</p>
-<p>segurar</p>
-<p>trazer</p>
-<p>acontecer</p>
-<p>escrever</p>
-<p>fornecer</p>
-<p>sentar</p>
-<p>ficar</p>
-<p>perder</p>
-<p>pagar</p>
-<p>encontrar</p>
-<p>incluir</p>
-<p>continuar</p>
-<p>definir</p>
-<p>aprender</p>
-<p>mudar</p>
-<p>liderar</p>
-<p>entender</p>
-<p>assistir</p>
-<p>seguir</p>
-<p>parar</p>
-<p>criar</p>
-<p>falar</p>
-<p>ler</p>
-<p>permitir</p>
-<p>adicionar</p>
-<p>gastar</p>
-<p>crescer</p>
-<p>abrir</p>
-<p>andar</p>
-<p>ganhar</p>
-<p>oferecer</p>
-<p>lembrar</p>
-<p>amor</p>
-<p>considerar</p>
-<p>aparecer</p>
-<p>comprar</p>
-<p>espere</p>
-<p>servir</p>
-<p>morrer</p>
-<p>enviar</p>
-<p>esperar</p>
-<p>construir</p>
-<p>ficar</p>
-<p>cair</p>
-<p>corte</p>
-<p>alcançar</p>
-<p>matar</p>
-<p>permanecer</p>
-<p>sugerir</p>
-<p>elevação</p>
-<p>passar</p>
-<p>vender</p>
-<p>exigir</p>
-<p>relatório</p>
-<p>decidir</p>
-<p>puxar</p>
-<p>quebrar</p>
-<p>receber</p>
-<p>concordar</p>
-<p>retornar</p>
-<p>explicar</p>
-<p>ter esperança</p>
-<p>desenvolver</p>
-<p>carregar</p>
-<p>quebrar</p>
-<p>trabalhar</p>
-<p>jogar</p>
-<p>falar</p>
-<p>correr</p>
-<p>mover</p>
-<p>tentar</p>
-<p>vez</p>
-<p>perguntar</p>
-<p>precisar</p>
-<p>sentir</p>
-<p>tornar-se</p>
-<p>deixar</p>
-<p>colocar</p>
-<p>significar</p>
-<p>manter</p>
-<p>deixar</p>
-<p>começar</p>
-<p>parecer</p>
-<p>ajuda</p>
-<p>falar</p>
-<p>mostrar</p>
-<p>ouvir</p>
-<p>jogar</p>
-<p>correr</p>
-<p>mover</p>
-<p>como</p>
-<p>ao vivo</p>
-<p>acreditar</p>
-<p>segurar</p>
-<p>trazer</p>
-<p>acontecer</p>
-<p>escrever</p>
-<p>fornecer</p>
-<p>sentar</p>
-<p>ficar</p>
-<p>perder</p>
-<p>pagar</p>
-<p>encontrar</p>
-<p>incluir</p>
-<p>continuar</p>
-<p>definir</p>
-<p>aprender</p>
-<p>mudar</p>
-<p>liderar</p>
-<p>entender</p>
-<p>assistir</p>
-<p>seguir</p>
-<p>parar</p>
-<p>criar</p>
-<p>falar</p>
-<p>ler</p>
-<p>permitir</p>
-<p>adicionar</p>
-<p>gastar</p>
-<p>crescer</p>
-<p>abrir</p>
-<p>andar</p>
-<p>ganhar</p>
-<p>oferecer</p>
-<p>lembrar</p>
-<p>amor</p>
-<p>considerar</p>
-<p>aparecer</p>
-<p>comprar</p>
-<p>espere</p>
-<p>servir</p>
-<p>morrer</p>
-<p>enviar</p>
-<p>esperar</p>
-<p>construir</p>
-<p>ficar</p>
-<p>cair</p>
-<p>corte</p>
-<p>alcançar</p>
-<p>matar</p>
-<p>permanecer</p>
-<p>sugerir</p>
-<p>elevação</p>
-<p>passar</p>
-<p>vender</p>
-<p>exigir</p>
-<p>relatório</p>
-<p>decidir</p>
-<p>puxar</p>
-<p>quebrar</p>
-<p>receber</p>
-<p>concordar</p>
-<p>retornar</p>
-<p>explicar</p>
-<p>ter esperança</p>
-<p>desenvolver</p>
-<p>carregar</p>
-<p>quebrar</p>
-<p>trabalhar</p>
-<p>jogar</p>
-<p>bom</p>
-<p>valor</p>
-<p>para</p>
-<p>o</p>
-<p>quantia</p>
-<p>de</p>
-<p>dinheiro</p>
-<p>pequeno</p>
-<p>pedaço</p>
-<p>bêbado</p>
-<p>triste</p>
-<p>repentino</p>
-<p>evento</p>
-<p>sorte</p>
-<p>aumentar</p>
-<p>e</p>
-<p>então</p>
-<p>diminuir</p>
-<p>muito</p>
-<p>forte</p>
-<p>promessa</p>
-<p>ausência</p>
-<p>absolutamente</p>
-<p>contador</p>
-<p>agir</p>
-<p>seu</p>
-<p>idade</p>
-<p>Ação</p>
-<p>Câmera</p>
-<p>ator</p>
-<p>adicionar</p>
-<p>Adição</p>
-<p>administrativo</p>
-<p>assistente</p>
-<p>adotado</p>
-<p>criança</p>
-<p>adotivo</p>
-<p>pai</p>
-<p>aventura</p>
-<p>Esportes</p>
-<p>África</p>
-<p>africano</p>
-<p>leão</p>
-<p>selvagem</p>
-<p>cachorro</p>
-<p>concordar</p>
-<p>avião</p>
-<p>corredor</p>
-<p>álgebra</p>
-<p>todos</p>
-<p>significar</p>
-<p>pessoa</p>
-<p>pegou</p>
-<p>irritado</p>
-<p>incomodado</p>
-<p>alergia</p>
-<p>permitir</p>
-<p>ex-alunos</p>
-<p>americano</p>
-<p>ondulação</p>
-<p>cabelo curto</p>
-<p>fio de arame</p>
-<p>Amur</p>
-<p>leopardo</p>
-<p>divertido</p>
-<p>um</p>
-<p>expressão</p>
-<p>para</p>
-<p>perguntar</p>
-<p>por que</p>
-<p>alguém</p>
-<p>visual</p>
-<p>ou</p>
-<p>chateado</p>
-<p>análise</p>
-<p>são</p>
-<p>em vez de</p>
-<p>rude</p>
-<p>R</p>
-<p>você</p>
-<p>anemômetro</p>
-<p>nervoso</p>
-<p>tornozeleira</p>
-<p>anual</p>
-<p>percentagem</p>
-<p>avaliar</p>
-<p>outro</p>
-<p>ajudando</p>
-<p>parte</p>
-<p>redondo</p>
-<p>bebidas</p>
-<p>por favor</p>
-<p>formiga</p>
-<p>Antártica</p>
-<p>ansiedade</p>
-<p>ansioso</p>
-<p>qualquer um</p>
-<p>pode</p>
-<p>fazer</p>
-<p>isto</p>
-<p>a qualquer momento</p>
-<p>de qualquer forma</p>
-<p>deve</p>
-<p>pegar</p>
-<p>indo</p>
-<p>apático</p>
-<p>aplicativo</p>
-<p>aparecer</p>
-<p>maçã</p>
-<p>aplicativo</p>
-<p>encontro</p>
-<p>aquário</p>
-<p>ar</p>
-<p>copos</p>
-<p>árabe</p>
-<p>arquiteto</p>
-<p>ártico</p>
-<p>raposa</p>
-<p>certo</p>
-<p>fazendo</p>
-<p>qualquer coisa</p>
-<p>livre</p>
-<p>com</p>
-<p>meu</p>
-<p>então</p>
-<p>distante</p>
-<p>Argentina</p>
-<p>aritmética</p>
-<p>braço</p>
-<p>aquecedores</p>
-<p>cadeirão</p>
-<p>arte</p>
-<p>museu</p>
-<p>artista</p>
-<p>como</p>
-<p>lembrar</p>
-<p>seria</p>
-<p>ter</p>
-<p>Ásia</p>
-<p>asiático</p>
-<p>Perguntando</p>
-<p>mais</p>
-<p>Informação</p>
-<p>espargos</p>
-<p>ativo</p>
-<p>alocação</p>
-<p>atribuição</p>
-<p>associado</p>
-<p>grau</p>
-<p>asteróide</p>
-<p>astronauta</p>
-<p>astronomia</p>
-<p>atleta</p>
-<p>Atlético</p>
-<p>campo</p>
-<p>atmosférico</p>
-<p>pressão</p>
-<p>comparecimento</p>
-<p>público</p>
-<p>áudio</p>
-<p>audiovisual</p>
-<p>auditório</p>
-<p>aumentado</p>
-<p>realidade</p>
-<p>tia</p>
-<p>Austrália</p>
-<p>avalanche</p>
-<p>abacate</p>
-<p>incrível</p>
-<p>bacharelado</p>
-<p>bacon</p>
-<p>distintivo</p>
-<p>texugo</p>
-<p>cozimento</p>
-<p>equilíbrio</p>
-<p>balinês</p>
-<p>banana</p>
-<p>bandicoot</p>
-<p>pulseira</p>
-<p>banco</p>
-<p>conta</p>
-<p>barômetro</p>
-<p>bastão</p>
-<p>roupão de banho</p>
-<p>ser</p>
-<p>paciente</p>
-<p>gorro</p>
-<p>urso</p>
-<p>mercado</p>
-<p>batidas</p>
-<p>Castor</p>
-<p>tornar-se</p>
-<p>cama</p>
-<p>quarto</p>
-<p>abelha</p>
-<p>carne bovina</p>
-<p>beterraba</p>
-<p>besouro</p>
-<p>começar</p>
-<p>principiante</p>
-<p>frases</p>
-<p>bege</p>
-<p>acreditar</p>
-<p>Sino</p>
-<p>pimenta</p>
-<p>cintos</p>
-<p>Bengala</p>
-<p>tigre</p>
-<p>boina</p>
-<p>melhor</p>
-<p>esforço</p>
-<p>tomada</p>
-<p>tentar</p>
-<p>melhorar</p>
-<p>próximo</p>
-<p>tempo</p>
-<p>bibliografia</p>
-<p>bicicleta</p>
-<p>Bilby</p>
-<p>conta</p>
-<p>pagar</p>
-<p>mais tarde</p>
-<p>antes</p>
-<p>deixar</p>
-<p>biodiversidade</p>
-<p>biologia</p>
-<p>biosfera</p>
-<p>observação de pássaros</p>
-<p>preto</p>
-<p>buraco</p>
-<p>pantera</p>
-<p>viúva</p>
-<p>Amora</p>
-<p>blazer</p>
-<p>liquidificador</p>
-<p>a</p>
-<p>b</p>
-<p>c</p>
-<p>d</p>
-<p>e</p>
-<p>f</p>
-<p>g</p>
-<p>h</p>
-<p>i</p>
-<p>j</p>
-<p>k</p>
-<p>l</p>
-<p>m</p>
-<p>n</p>
-<p>o</p>
-<p>p</p>
-<p>q</p>
-<p>r</p>
-<p>s</p>
-<p>t</p>
-<p>u</p>
-<p>v</p>
-<p>c</p>
-<p>x</p>
-<p>y</p>
-<p>z</p>
+avião
+hospedeira
+linha aérea
+aeroporto
+autocarro do aeroporto
+chegada
+recolha de bagagem
+cartão de embarque
+comandante
+check in
+tripulação
+alfândega
+atraso
+partida
+sala de embarque
+saída de emergência
+VOO
+número de voo
+porta de embarque
+jacto
+aterrar
+hora local
+não fumar
+não fumadores
+passageiro
+passaporte
+controlo de passaportes
+piloto
+pista
+lugar
+cinto de segurança
+velocidade
+comissário de bordo
+descolar
+janela
+asa
+cerveja
+conta
+garrafa
+tigela
+bolo
+cozinheiro
+café
+chávena
+garfo
+copo
+faca
+ementa
+leite
+prato
+recibo
+sandes
+guardanapo
+petisco
+sopa
+colher
+açúcar
+adoçante
+mesa
+chá
+colher de chá
+gorjeta
+empregado
+empregada
+água
+vinho
+lista de vinhos
+parque de campismo
+mochila
+cobertor
+caravana
+tarifa
+fechado
+utensílios de cozinha
+água potável
+cheio
+lona impermeável
+pedir boleia
+quanto?
+bilhete de identidade
+cozinha
+luz
+uma noite
+uma semana
+casa de banho pública
+corda
+lixo
+frigideira
+duche
+saco de cama
+telefone
+tenda
+hoje à noite
+roulotte
+pousada de juventude
+blusa
+soutien
+saia
+casaco
+sobretudo
+cuecas
+camisa
+sapatos
+calções
+vestido
+chinelos
+peúgas
+meias
+fato
+fato de banho
+gravata
+calças
+roupa interior
+camisola interior
+Austrália 
+Áustria 
+Bélgica 
+Canadá
+Dinamarca
+Inglaterra
+Finlândia
+França
+Alemanha
+Grécia
+Holanda
+Itália
+Luxemburgo
+Irlanda
+Nova Zelândia
+Noruega 
+Escócia
+África do Sul
+Espanha
+Suécia
+Estados Unidos da América
+País de Gales
+Domingo 
+Segunda feira
+Terça feira 
+Quarta feira
+Quinta feira 
+Sexta feira
+Sábado
+Janeiro 
+Fevereiro
+Março
+Abril
+Maio
+Junho
+Julho
+Agosto
+Setembro
+Outubro
+Novembro
+Dezembro
+Primavera
+Verão
+Outono
+Inverno
+Véspera de Natal 
+Natal
+Véspera de Ano Novo
+Dia de Ano Novo
+Carnaval
+Sexta feira Santa
+Domingo de Páscoa 
+Dia da Revolução
+1 de Maio 
+Corpo de Deus
+13 de Junho
+24 de Junho
+10 de Junho
+Dia da Assunção 
+5 de Outubro
+Dia de Todos os Santos
+1 de Dezembro
+8 de Dezembro
+amêndoa
+maçã 
+alperce
+feijão
+beterraba
+biscoito
+feijão frade
+pequeno almoço 
+bolo
+queijo
+grão
+batata frita
+pepino 
+chouriço
+café
+jantar
+OVO
+aguardente
+peixe
+alho
+uva
+feijão encarnado
+limão
+alface
+almoço
+tremoço
+carne
+melão
+leite
+azeite
+omolete
+cebola
+laranja
+ervilha 
+pessego 
+pêra 
+pimenta 
+ananás
+batata
+arroz
+sal
+salsicha
+caracol
+refrigerante
+água com gás
+água sem gás
+açúcar ceia
+chá
+tomate
+vegetariano
+água
+melancia
+acidente
+alérgico
+ambulância
+anémico
+anti tétano
+braço 
+artrite 
+aspirina
+asma
+dor nas costas
+ligadura
+picada 
+bolha
+sangue
+tensão arterial
+análise ao sangue
+bronquite 
+queimadura
+peito 
+frio
+uma constipação
+prisão de ventre
+lentes de contacto
+contagioso
+calo
+tosse
+cortar
+dentista
+diabético
+diarreia
+com tonturas
+médico
+dor de ouvidos
+serviços de urgência
+febre 
+chumbo
+dedo
+primeiros socorros
+gripe
+pé
+fractura
+óculos
+febre do feno
+dor de cabeça
+centro de saúde
+coração 
+enfarte 
+hospital
+doente 
+azia
+injecção
+comichão
+rim
+perna
+inchaço
+enxaqueca
+náusea
+pescoço 
+enfermeira
+operação 
+oftalmologista
+dor
+penicilina 
+dores de período
+penso
+pneumonia 
+grávida
+receita médica
+reumatismo
+escaldar 
+arranhão
+dor de garganta
+estilhaço
+entorse
+picada 
+estômago
+temperatura
+dor de dentes
+enjoo 
+úlcera
+vacina 
+vomitar
+varanda
+casa de banho
+cama
+quarto de dormir
+conta
+pequeno almoço 
+água fria
+sala de jantar
+jantar
+quarto de casal
+chamada para acordar
+câmbio
+hall de entrada
+pensão completa
+rés do chão
+meia pensão 
+água quente
+bilhete de identidade
+chave 
+elevador
+sala de estar
+almoço
+gerente 
+uma noite
+recepção
+reservar
+restaurante
+quarto
+serviço de quartos
+TV por satélite
+duche
+quarto individual 
+telefonista
+casa de banho 
+quarto com duas camas
+mala
+travão
+avaria
+via para transportes públicos
+carro
+caravana
+autocarro
+estação de autocarro
+esquina
+cruzamento
+sem saída
+gasóleo 
+desvio
+conduzir
+carta de condução
+fim da auto estrada
+motor
+tubo de escape
+correia da ventoinha
+estação de serviço
+mudanças
+dar prioridade
+médios 
+máximos
+veículo pesado
+passagem de nível 
+camião
+espelho
+mota
+auto estrada
+proibido estacionar
+matrícula
+óleo
+à esquerda
+à direita
+sentido único
+zona pedonal
+gasolina
+estação de serviço
+furo
+bicha, fila
+estrada
+estrada vedada ao trânsito
+obras na estrada
+luzes laterais
+derrapar
+limite de velocidade
+volante 
+em frente
+portagem
+rebocar
+centro da cidade
+engarrafamento
+semáforos
+camião
+pneu
+pressão de ar 
+furgoneta
+roda
+Apelido 
+Nome
+Idade 
+Morada
+Data de Nascimento
+Naturalidade
+Nacionalidade
+Número do passaporte
+Local e data de emissão
+bilheteira
+carruagem restaurante
+compartimento
+ligação
+partida 
+alarme
+entrada
+saída
+primeira classe
+entrar
+sair
+guarda 
+informações
+depósito de bagagens
+perdidos e achados
+bagagem
+quiosque
+proibido fumar
+plataforma
+carril
+caminho de ferro
+bilhete de ida e volta
+reservas
+segunda classe
+bilhete simples
+mala
+revisor
+horário
+via
+semáforos
+comboio
+comboio eléctrico
+sala de espera
+destinatário
+via aérea
+por e mail
+cobrança
+balcão 
+distribuição 
+preencher
+correio azul
+formulário
+carta
+marco do correio
+vale postal
+pela internet
+encomenda
+correio
+tarifas postais
+vale postal 
+postal 
+código postal
+posta restante
+carteiro 
+correios
+carta registada 
+carta registada com aviso de recepção
+serviço de mensagens escritas  SME
+selo
+via superfície 
+telegrama
+equipamento áudio
+padaria
+pechincha
+livraria 
+boutique
+talho
+comprar
+pastelaria
+barato
+farmácia
+grande armazém
+agência imobiliária
+moda
+peixaria
+florista
+ir às compras
+mercearia
+electro domésticos
+loja de ferragens
+roupa de senhora
+roupa de homens
+tabacaria
+hipermercado 
+pré pagamento
+preço 
+recibo
+loja de discos
+saldo
+sapataria
+loja
+centro comercial
+loja de artesenato
+oferta limitada
+gastar 
+papelaria
+supermercado
+alfaiate
+caixa
+recibo de caixa
+loja de brinquedos
+agência de viagens
+atletismo
+bola 
+praia 
+bicicleta
+aluguer de barcos 
+perigo
+mergulhar
+prancha de saltos
+pesca
+cana de pesca
+barbatanas
+futebol
+jogo de futebol
+golfe
+campo de golfe 
+ginástica 
+hóquei 
+jogging
+lago
+nadador salvador
+alpinismo
+proibido acampar
+proibido nadar 
+garrafa de oxigénio
+gaivota 
+corrida
+raqueta
+equitação
+barco a remos
+correr
+prancha à vela
+velejar 
+areia
+mar
+patinar 
+patins
+respirador aquático
+estádio
+bronzeador
+nadar
+piscina
+ténis
+campo de ténis
+raqueta de ténis
+tenda
+maré  alta, baixa
+pesca submarina
+voleibol
+esqui aquático 
+onda
+fato isotérmico
+windsurf
+iate
+chamada 
+código
+marcar
+sinal
+urgência
+informações
+extensão
+chamada internacional
+número 
+telefonista
+telefone público 
+auscultador
+chamada paga no destinatário
+lista telefónica
+uma hora
+uma e cinco
+duas e um quarto
+três e trinta
+vinte para as quatro
+um quarto para as cinco
+catorze horas
+quinze e trinta
+dezoito e quarenta e cinco  um quarto para as sete
+meio dia
+meia noite
+neste momento
+dia
+cedo
+quinzena
+meia hora
+hora
+em mil novecentos e oitenta e nove
+dentro de três dias 
+ontem à noite
+a semana passada
+o ano passado 
+tarde
+minuto
+mês
+a semana que vem
+o ano que vem
+um quarto de hora
+segundo
+esta tarde
+esta noite
+esta manhã
+esta semana
+hoje
+amanhã
+amanhã de manhã
+hoje a noite
+há dois dias
+ano
+ontem
+mau tempo
+brisa
+tempo frio
+nuvem
+tempo seco
+tremor de terra
+bom tempo
+nevoeiro
+granizo
+furacão
+gelo
+raio, faísca
+tempo quente
+tempo húmido
+vento
+neblina
+chuva
+arco íris
+tempo chuvoso
+neve
+temporal 
+tempestade 
+trovão
+Verbos
+Ser
+Estar
+Ter
+Fazer
+Ir
+Ver
+Chegar
+Comer
+Dar
+Poder
+Saber
+Querer
+Falar
+Pegar
+Pegar
+Dizer
+Ouvir
+Sentir
+Conhecer
+Amar
+Viver
+Trabalhar
+Estudar
+Dormir
+Tomar
+Beber
+Sair
+Entrar
+Voltar
+Partir
+Continuar
+Pensar
+Achar
+Esperar
+Andar
+Correr
+Nadar
+Chorar
+Rir
+Gostar
+Odiar
+Escutar
+Ler
+Escrever
+Brincar
+Comprar
+Vender
+Pedir
+Responder
+Encontrar
+Perder
+Ganhar
+Procurar
+Esperar
+Aceitar
+Recusar
+Mudar
+Esquecer
+Lembrar
+Convidar
+Conversar
+Chegar
+Morar
+Morrer
+Nascer
+Crescer
+Envelhecer
+Casar
+Divorciar
+Namorar
+Separar
+Compreender
+Ensinar
+Aprender
+Ajudar
+Proteger
+Atacar
+Defender
+Conquistar
+Dominar
+Libertar
+Construir
+Destruir
+Arrumar
+Limpar
+Organizar
+Escolher
+Decidir
+Inventar
+Criar
+Desenvolver
+Pesquisar
+Estudar
+Concluir
+Realizar
+Alcançar
+Tentar
+Falhar
+Conseguir
+Superar
+Cumprir
+Quebrar
+Consertar
+Gastar
+Poupar
+Investir
+Negociar
+Comunicar
+Expressar
+Compartilhar
+Esconder
+Revelar
+Convidar
+Reunir
+Despedir
+Contratar
+Demitir
+Demorar
+Atrasar
+Adiantar
+Começar
+Parar
+Continuar
+Terminar
+Concluir
+Sugerir
+Recomendar
+Aconselhar
+Prevenir
+Adiar
+Cancelar
+Permitir
+Impedir
+Exigir
+Proibir
+Possuir
+Adorar
+Prestar
+Receber
+Convidar
+Comerçar
+Acabar
+Contar
+Trazer
+Levar
+Colocar
+Tirar
+Empurrar
+Puxar
+Movimentar
+Virar
+Seguir
+Deixar
+Permitir
+Negar
+Jurar
+Prometer
+Comerçar
+Aparecer
+Desaparecer
+Obedecer
+Desobedecer
+Cumprimentar
+Despedir
+Cumprimentar
+Corresponder
+Ressarcir
+Contribuir
+Entregar
+Receber
+Cumprir
+Promover
+Premiar
+Castigar
+Acusar
+Julgar
+Absolver
+Condenar
+Desafiar
+Aceitar
+Rejeitar
+Tolerar
+Respeitar
+Desrespeitar
+Desculpar
+Agradecer
+Elogiar
+Criticar
+Insultar
+Exigir
+Implorar
+Lamentar
+Culpar
+Envergonhar
+Orgulhar
+Consolar
+Enganar
+Trair
+Convencer
+Engolir
+Cors
+Branco 
+Preto 
+Vermelho 
+Azul 
+Amarelo 
+Verde
+Frases para iniciantes
+Olá
+Oi
+Ei
+Olá
+Tchau
+Bye Bye
+Te vejo mais tarde
+Tomar cuidado
+Tenha um bom dia
+Sim
+Sim
+Claro !
+Não
+Não
+Sem chance !
+Como vai ?
+Como tá indo ?
+Como estão as coisas ?
+Como vai a vida ?
+Como você tem estado ?
+Como está sua família ?
+E aí ?
+O que há de novo ?
+O que você tem feito ultimamente ?
+Estou bem , obrigado . E você ?
+Muito bom
+Nada mal
+Ótimo !
+Não poderia estar melhor!
+Não posso reclamar
+Eu estive ocupado
+Mesmo que sempre
+Não é tão bom
+Poderia ser melhor
+A maneira de responder a E aí ?
+O que há de novo  ?
+Obrigado
+Muito obrigado
+Muito obrigado
+Um milhão de agradecimentos!
+Obrigado pela ajuda
+Obrigado por me ajudar
+Eu realmente gostei disso
+Estou muito grato
+Isso é tão gentil da sua parte
+Eu não posso te agradecer o suficiente
+para coisas extremamente importantes
+eu devo-te uma
+De nada
+Sem problemas
+Sem problemas
+Não mencione isso
+O prazer é meu
+A qualquer momento
+Foi o mínimo que pude fazer
+Feliz em ajudar
+Claro !
+Obrigado
+use isso quando você também tiver algo para agradecer à outra pessoa
+Eu sinto muito que ...
+É minha culpa
+Estou assumindo a responsabilidade pelo problema
+para problemas muito pequenos
+Eu deveria ter ...
+Eu peço desculpas por ...
+Maneiras de responder a um pedido de desculpas
+Isso está ok
+Acontece
+Sem problemas
+Não se preocupe com isso
+eu perdôo você
+para problemas sérios
+Frases para apresentações
+Eu só queria me apresentar , sou ...
+Acho que não nos conhecemos antes do meu nome . . .
+Isso é ...
+Eu gostaria que você conhecesse ...
+Voce ja conheceu ...  ?
+Eu gostaria de te apresentar ...
+Prazer em conhecê-lo
+É um prazer conhecer você
+Da mesma maneira
+E você
+Realmente  ?
+É interessante
+Certo
+Claro
+Foi bom conversar com você
+Bem , está ficando tarde
+De qualquer forma , eu deveria ir
+Desculpe , mas receio que precise . . .
+Sinto muito por interrompê-lo , mas na verdade preciso correr
+Olá , aqui é Jane
+Posso falar com John Smith ?
+O João está aí ?
+Estou ligando sobre ...
+Estou retornando sua ligação
+Um momento por favor
+Espere um segundo
+Ele não está aqui . Gostaria de deixar uma mensagem ? *****
+Você poderia pedir a ele para me ligar de volta ?
+Obrigado por ligar
+Você pode me dizer   ..  ?
+Você poderia me dizer   ..  ?
+Eu gostaria de saber   ..
+Você sabe   ..
+Você tem alguma ideia   ..  ?
+Alguém poderia me dizer   .. ?
+Você saberia   ..  ?
+Eu não suponho que você saberia   .. ?
+Eu estava me perguntando ...
+Estou ligando para saber ...
+use esta frase no telefone
+Eu não faço ideia
+Eu não tenho ideia
+Eu não posso te ajudar nisso
+Hiç fikrim yok
+eu não tenho certeza
+Eu também estive me perguntando isso
+O que você pensa sobre   ...?
+Como você se sente sobre ...?
+Qual é a sua opinião sobre   ...?
+Qual é a sua opinião sobre   ...?
+Na minha opinião ...
+Eu diria   ...
+Pessoalmente , acho que acredito  ...
+Se você me perguntar   ...
+Do jeito que eu vejo  ...
+Do meu ponto de vista ...
+Frases para não ter opinião
+Eu nunca pensei muito nisso
+Eu não tenho sentimentos fortes de qualquer maneira
+Não faz nenhuma diferença para mim
+Não tenho opinião sobre o assunto
+muito
+Qualquer que seja
+Exatamente
+Absolutamente
+Isso é tão verdade
+Isso é certeza
+Concordo
+Eu não poderia concordar mais com você
+Isso é exatamente o que eu penso
+É exatamente assim que me sinto
+Conte-me sobre isso!
+Você está me dizendo !
+Eu direi !
+eu suponho que sim
+estou de acordo
+Eu não acho
+Eu peço desculpa mas não concordo
+Receio não concordar
+Eu não tenho tanta certeza disso
+Não é assim que eu vejo
+Não necessariamente
+Sim mas ...
+Pelo contrário
+muito forte discordo totalmente
+Frases para responder às boas notícias
+Parabéns !
+Isso é ótimo  !
+Que maravilha !
+Incrível  !
+Eu estou tão feliz por você  !
+Frases para responder a más notícias
+Oh não ...
+Isso é terrível
+Pobre voce
+Eu sinto muito por ouvir isso
+Sinto muito pela sua perda
+Está livre ...
+Você está fazendo alguma coisa ...
+Deixe-me verificar minha agenda
+Você quer ...
+Você gostaria de ...
+Eu adoraria  !
+Parece bom  !
+Eu adoraria , mas tenho outro compromisso
+Eu não acho que posso
+Talvez outra hora
+mais formal Você gostaria de uma bebida ?
+Você quer um pouco de água  ?
+Posso pegar algo para você comer ?
+Isso seria ótimo , obrigado
+sim
+Não , obrigado , estou bem
+não
+Eu vou ...
+Estou planejando ...
+Eu espero ...
+Eu gostaria de ...
+Eu poderia ...
+Eu posso ...
+Estou pensando em ...
+Eu amo ...
+Eu realmente gosto ...
+Eu vivo para ...
+Eu sou louco por ...
+Não sou muito fã de ...
+não é minha xícara de chá
+Eu realmente não me importo ...
+Não estou por dentro ...
+Eu não aguento ...
+Que tal ...?
+Por que você não ...?
+Talvez nós devessemos ...  .
+Eu recomendaria .. ..
+Você já pensou sobre ...?
+Frases para perguntar e falar sobre empregos
+Onde você trabalha  ?
+O que você faz  ?
+Você trabalha com o que  ?
+Eu trabalho em ...
+Eu sou um ...
+Eu estou desempregado
+Estou entre empregos no momento
+Estou procurando trabalho
+Eu administro meu próprio negócio
+Sou freelancer ...
+estou aposentado
+Sou solteiro
+eu tenho um namorado
+eu tenho uma namorada
+Estamos noivos
+Nós vamos nos casar
+Vamos nos casar em junho
+Eu sou casado
+Estou casado há ...
+Eu sou divorciado
+estou viúvo
+meu marido morreu
+minha esposa morreu
+Não estou procurando nada sério
+Eu ainda não superei meu ex
+Perdão ?
+Você se importaria de repetir isso ?
+O que você quer dizer  ?
+pedindo mais informações
+Não tenho certeza se te sigo
+Eu não entendo
+Você poderia explicar ...?
+Maneiras de verificar se a outra pessoa
+Você entende o que eu estou dizendo  ?
+Isso faz sentido  ?
+Você sabe o que eu quero dizer  ?
+Você está comigo até agora ?
+Está claro  ?
+Eu preciso de uma pequena ajuda
+Você poderia me ajudar  ?
+Você poderia me ajudar  ?
+geralmente usado para tarefas físicas
+Você poderia poupar alguns minutos ?
+Você poderia me fazer um favor  ?
+Maneiras de pedir a outra pessoa para fazer algo
+mais formal Você se importaria  ...?
+Você poderia , por favor ...?
+Você pode ...?
+Por favor ...
+Eu apreciaria se você pudesse ...
+Desculpe interromper , mas ...
+Com licença , posso falar com você um minuto ?
+Você tem um minuto  ?
+Posso pular aqui ?
+Desculpe
+Eu só quero dizer isso ...
+Posso dar uma palavrinha ?
+Mantenha o bom trabalho  !
+Essa foi uma boa tentativa
+Isso é uma melhoria real
+Você está no caminho certo
+Você quase conseguiu
+Você está indo bem
+Não desista !
+Mantenha-se firme  !
+Você consegue  !
+Dê o seu melhor
+melhor tiro
+melhor tentar
+melhor esforço
+Bom trabalho  !
+Você foi ótimo !
+Eu não estou feliz com isso
+Sinto muito , mas isso é inaceitável
+não estou muito satisfeito  ...
+Eu não aguento quando  ...
+Isso é uma merda
+Esquecendo
+Eu vou sempre lembrar ...
+Nunca esquecerei ...
+Se eu me lembro bem ...
+Pelo que me lembro ...
+Tenho uma vaga lembrança de ...
+Está na ponta da língua
+Estou tentando lembrar , mas não consigo lembrar
+Minha mente ficou em branco
+Eu não conseguia me lembrar de pensar em nada
+Não toca uma campainha
+não parece familiar
+Por favor , lembre-se de ...
+Por favor , não se esqueça de ...
+Gostaria de lembrá-lo sobre ...
+Você não se esqueceu de  .. . não é ?
+Isso me escapou completamente !
+Eu me esqueci completamente disso  !
+Frases para dizer que algo é fácil
+Difícil
+É moleza
+É uma coisa fácil
+É uma brisa
+Qualquer um pode fazer isso
+Não há nada nisso
+É difícil
+É um pouco complicado
+É muito difícil
+Não é um passeio no parque
+É muito exigente
+leva muito tempo e energia
+Ela tem vinte e poucos anos
+Ele está com quase trinta anos
+Ela acabou de completar seis anos
+Não seja infantil  !
+Eu não sou tão jovem como costumava ser
+Ainda não superei a colina !
+sobre a colina
+ele não é jovem
+Ela é sábia além de sua idade
+ela é jovem , mas tem a sabedoria de uma pessoa mais velha
+Estou tendo um momento sênior
+estou sendo esquecido
+Ele viveu até uma idade avançada
+Você tem ...?
+Onde posso encontrar ...?
+Estou apenas navegando
+olhando casualmente
+Estou procurando por ...
+Quanto é este  ?
+Isto está à venda ?
+Posso experimentar ?
+Eu vou levar  !
+Vocês aceitam cartões de crédito  ?
+Eu gostaria de devolver esta troca
+Estou morrendo de fome !
+eu estou faminto
+Vamos comer alguma coisa
+Que tal comer fora hoje à noite ?
+Coma em um restaurante
+Eu trouxe alguns lanches
+Esta sopa é deliciosa !
+Poderia me dar outra porção de  ...?
+outra ajudando
+outra porção
+Eu terei ...
+Podemos pegar o cheque , por favor ?
+estou cheio
+estou satisfeito
+Estou cheio
+Comi muito , talvez até demais !
+Onde está o controle remoto ?
+controlo remoto
+controle remoto
+Existe alguma coisa boa ?
+Posso mudar de canal ?
+eu já vi esse episódio
+Esta é uma reprise
+Eu amo esse show !
+Existem muitos comerciais
+Pare de navegar pelos canais
+canal de surf
+mudando de canal rapidamente
+Confira o guia da TV
+É o final da temporada !
+o episódio final da temporada
+Você tem alguma mala para despachar ?
+Você gostaria de um assento na janela ou no corredor ?
+corredor
+corredor
+Aqui está seu cartão de embarque
+cartão de embarque
+Seu voo sai do portão   ...
+O número do seu assento é  ...
+O voo está embarcando agora
+passageiros podem entrar no avião
+Seu voo atrasou
+Seu voo foi cancelado
+Esta é a chamada final para o vôo
+Qual o propósito da sua viagem  ?
+Custou uma fortuna
+Custou um braço e uma perna
+Isso é um roubo
+caro , muito mais caro do que deveria ser
+Eu não posso pagar por isso
+Não tenho dinheiro suficiente para comprá-lo
+Isso é um pouco caro
+Isso é bastante razoável
+é um bom preço
+Está com 10% de desconto
+há um desconto de 10%
+Isso é um bom negócio
+um bom valor para a quantidade de dinheiro
+Foi uma verdadeira pechincha
+Foi muito barato
+extremamente barato
+Está agradável e quente hoje
+Está absolutamente fervendo !
+ebulição
+extremamente quente
+Estamos tendo uma verdadeira onda de calor
+onda de calor
+muitos dias consecutivos de clima quente
+O sol está muito forte hoje
+Está quente e úmido
+Está um pouco frio
+Está congelando
+extremamente frio
+A temperatura está caindo
+Certifique-se de agrupar
+empacotar
+vista roupas quentes para se proteger do frio
+Estamos esperando algum clima de inverno
+clima frio
+neve
+saudação
+granizo
+gelo
+Está chuviscando
+chovendo levemente
+Está derramando
+chovendo intensamente
+Está chovendo muito
+chovendo intensamente
+Eu fui pego por uma chuva torrencial
+Eu acho que a chuva está diminuindo
+deixando
+ficando mais leve e parando
+Estou exausta
+Estou morto de cansaço
+Estou cagado
+estou exausto
+estou cansado
+Estou ficando sem fumaça
+Estou correndo vazio
+Mal consigo manter meus olhos abertos
+Estou indo para a cama
+eu vou bater no saco
+Ir para a cama
+ir para a cama
+É hora de dormir para mim
+Frases para Promessas Resoluções
+Eu realmente deveria  ...
+Eu prometo que vou  ...
+eu juro que vou
+Eu não vou  ...
+uma promessa muito forte
+Não importa o que aconteça , eu vou  ...
+Faça chuva ou faça sol , eu vou  ...
+Desculpas para chegar atrasado
+Desculpe estou atrasado
+eu dormi demais
+Dormi mais do que deveria
+Meu alarme não disparou
+Eu tive que esperar séculos por um ônibus
+O ônibus estava atrasado
+O trânsito estava terrível
+Não consegui encontrar uma vaga para estacionar
+Me perdi vindo aqui
+Eu estava preso em uma reunião
+amarrado
+ocupado
+impossível escapar
+Acabei de perder a noção do tempo
+Eu não percebi que horas eram
+Isso mesmo
+Isso é certo
+Você acertou em cheio
+Você acertou em cheio
+eu suponho que sim
+Receio que você esteja certo
+use isso em resposta a más notícias
+dizer que as más notícias estão corretas
+Receio que isso não esteja certo
+Acho que você está errado
+Não , você entendeu errado
+Não , está tudo errado
+Ele é muito afiado
+Ela é brilhante
+Ele é muito brilhante
+Ela é um gênio
+Ele é um biscoito inteligente
+Ele não é a ferramenta mais afiada do galpão
+Ela tem algumas cartas a menos de um baralho
+Ele é um pouco lento
+Ela é uma completa idiota
+Ele é realmente burro
+Sem comentários
+Eu não tenho liberdade para dizer
+Não tenho permissão para fornecer as informações
+Espere e veja
+você descobrirá a resposta mais tarde
+Deixe-me voltar para você
+Eu te darei a resposta mais tarde
+Sinto muito , isso é confidencial
+Sinto muito , isso é pessoal
+Eu prefiro não falar sobre isso
+Não é da sua conta
+Não é da tua conta
+Por que você quer saber  ?
+e são bastante rudes r
+Ele está com pouco dinheiro
+Ele está quebrado
+ele não tem dinheiro
+Sua conta bancária está a descoberto
+Ele está apenas sobrevivendo
+ele mal consegue sobreviver com pouco dinheiro
+Ele ganha salário mínimo
+ele ganha o salário mínimo
+Ele está ganhando centavos
+Ele está economizando e economizando
+Ela é muito rica
+Ela está muito bem
+Ela está carregada
+Ela é podre de rica
+Ela herdou uma fortuna
+Ela está fazendo uma matança
+Ela está ganhando dinheiro
+Ela está rolando na massa
+muito pouco dinheiro
+A taxa de criminalidade aumentou
+A taxa de criminalidade aumentou
+Houve um aumento acentuado da criminalidade
+afiado
+repentino e grande
+Houve um aumento gradual da criminalidade
+Houve um aumento na criminalidade
+espinho
+um aumento repentino e depois uma diminuição
+A taxa de criminalidade atingiu seu pico
+pico
+o ponto mais alto
+A taxa de criminalidade estabilizou
+permaneceu no mesmo nível
+Houve uma ligeira diminuição na criminalidade
+A taxa de criminalidade caiu
+A taxa de criminalidade despencou
+diminuiu muito , muito rapidamente
+Ela nasceu para  ...
+Ele é natural
+Ela poderia fazer isso enquanto dormia
+Ele sabe disso de dentro para fora
+Ela sabe como a palma da sua mão
+Ela é uma enciclopédia ambulante de  ...
+Ele está em uma classe própria
+Ele é o melhor no negócio
+Ela é muito talentosa
+Ele é um gênio
+Você poderia me dar um minuto ?
+Espera um segundo
+Só um segundo
+Aguentar   ...
+Deixa eu ver pensar  ...
+Eu estarei com você
+Tenha paciencia comigo
+Isso terá que esperar
+Ser paciente
+Não tão rápido  !
+Tenha calma  !
+tomar medidas imprudentes
+Se eu tivesse que adivinhar , eu diria  ...
+É difícil dizer , mas acho que  ...
+Pensando bem , eu diria  ...
+o que me lembro de estimar , sem verificar as estatísticas reais
+É sobre   ...
+Está por aí  ...
+Eu não ficaria surpreso se  ...
+Há uma boa chance  ...
+Tenho um pressentimento  ...
+Eu aposto   ...
+Seu palpite é tão bom quanto o meu
+eu não sei
+Estou debatendo entre  ...
+Eu não consigo me decidir
+Estou em cima do muro
+Eu estou no meio
+Eu não sei o que decidir
+vou levar isso em consideração
+Por outro lado   ...
+Estou tendo dúvidas
+Estou reconsiderando minha decisão
+eu mudei de ideia
+Ele convenceu me convenceu a   ...
+Olhando para trás , sei que foi a decisão certa
+Você decide
+Você pode decidir
+Boa sorte  !
+Mais sorte da próxima vez
+Apenas minha sorte  !
+Sortudo  !
+Isso foi um golpe de sorte
+um evento repentino de boa sorte
+Algumas pessoas têm toda a sorte
+Por sorte   ...
+por acaso
+Ele está sem sorte
+ele está tendo um longo período de azar ou dificuldade
+Não tive essa sorte , algo bom que poderia ter acontecido , não aconteceu
+Que azar !
+Frases para alívio de preocupações
+Estou com medo disso  ...
+Não consigo deixar de pensar isso  ...
+Tem me mantido acordado à noite
+E se   ...?
+Uau !
+Obrigado Senhor  !
+Que alivio  !
+Você me deixou preocupado por um momento
+Você não tem ideia do alívio que é
+Isso é uma grande carga que tirei da minha mente
+Frases para falar sobre o futuro
+Isso vai acontecer a qualquer momento
+Está ao virar da esquina
+Isso não vai acontecer em nossa vida
+nos próximos 10 anos
+É um sinal do que está por vir
+indica como as coisas serão no futuro
+Estou contando os dias até  ...
+Estou animado com o evento futuro ,
+Mal posso esperar para que isso aconteça
+Cedo ou tarde   ...
+Está fadado a acontecer eventualmente
+isso definitivamente acontecerá em algum momento no futuro
+Eu vou resolver isso
+Farei isso em algum momento no futuro ,
+mas não sei exatamente quando
+Eu farei isso imediatamente
+Eu vou direto ao assunto
+Eu farei isso imediatamente
+O tempo vai dizer
+Você está bonita
+Você está maravilhosa  !
+Que bonito  !
+eu gosto do seu
+A lasanha é deliciosa
+Você é um cozinheiro fantástico
+Meus cumprimentos ao chefe  !
+Que belo apartamento !
+Você tem uma bela casa
+Ela é tão fofa  !
+Seus filhos são muito divertidos
+Frases para certeza
+Probabilidade
+tenho certeza absoluta
+Tenho certeza de que   ...
+Não tenho dúvidas disso  ...
+Estou cem por cento certo
+Estou convencido de que   ...
+As chances são de que   ...
+isso provavelmente vai acontecer
+As probabilidades são de que   ...
+isso provavelmente vai acontecer
+Duvido seriamente
+Eu não acho
+Provavelmente não
+Não é muito provável
+Não há muita chance disso
+Eu ficaria muito surpreso se isso acontecesse
+eu não apostaria nisso
+há uma pequena chance de que isso aconteça  ... mas provavelmente não acontecerá
+Isso nunca vai acontecer
+Interessante chato
+É fascinante
+É intrigante
+Eu não consegui me afastar
+Eu não consegui largar
+Eu estava tão envolvido que perdi a noção do tempo
+Não faz nada para mim
+Eu estava entediado até as lágrimas
+Eu estava entediado até a morte
+Eu estava morrendo de tédio
+É tão emocionante quanto ver a tinta secar
+É muito chato
+Qual é o problema  ?
+O que está errado  ?
+Você está bem  ?
+Você parece um pouco para baixo
+um pouco triste
+Há algo que eu possa fazer para ajudar ?
+Alegrar  ! Levante o queixo !
+Não é tão ruim
+Tudo ficará bem
+Olhe pelo lado bom
+considere os aspectos positivos
+Não é o fim do mundo
+Que pena  !
+Que pena
+Que decepcionante
+Isso é ruim
+Desapontamento
+Foi uma verdadeira decepção
+Não correspondeu às minhas expectativas
+Okay , certo
+Você está brincando
+Você está puxando minha perna
+Isso é um pouco exagerado
+Ele está esticando a verdade
+Ele não está dizendo toda a verdade
+Ela está sendo econômica com a verdade
+ela está mentindo ou não está dizendo toda a verdade
+A história dele é suspeita
+Isso é uma mentira descarada
+Isso é um monte de mentiras
+Expressões para pessoas más
+Ele é um canalha
+desagradável , suspeito , deixa você com medo , inquieto
+Ele é um pervertido
+alguém com tendências sexuais repugnantes
+Ele é um doente
+Ele é um canalha
+Ele é um idiota
+ela é irritante e desagradável
+Ela é uma psicopata
+louco , irracional
+Ele gritou
+Ela gritou
+eu sussurrei
+falou com uma voz extremamente baixa
+Nós conversamos
+tivemos uma conversa
+Ele resmunga , cutuca em voz baixa , não claramente , sem abrir muito a boca
+Meus filhos choramingaram
+reclamou
+Ele divagou
+Ele continuou e continuou
+falei demais sem parar
+Ela gaguejou
+Eu gritei com meu marido
+disse uma observação rápida e irritada
+Ele murmurou , falou em voz baixa , geralmente fazendo reclamações ou comentários negativos
+Ela estava radiante
+ela tinha um sorriso grande e radiante
+As crianças sorriam de orelha a orelha
+Ele parecia confuso
+confuso
+Ela sorriu
+tinha um pequeno sorriso
+Ele estremeceu quando o médico lhe deu uma injeção
+teve uma rápida expressão de dor
+Ela me deu um olhar sujo
+me olhou com raiva
+Ela corou
+o rosto dela ficou vermelho porque ela estava com vergonha
+Seus olhos estavam vidrados
+ele apareceu
+Por que a cara comprida ?
+uma expressão para perguntar por que alguém parece triste ou chateado
+Sua expressão era ilegível
+você não pode saber o que ela está sentindo
+Frases para descrever ofensa ou perturbação
+Pessoas
+Eles começaram com o pé esquerdo
+quando se conheceram , eles não se davam bem
+Ele pegou o lado ruim do professor
+Ela se ofendeu com o comentário dele
+Ele tem um peso no ombro
+ele se ofende facilmente
+Ela ficou fora de forma
+Ele saiu bufando
+Ela pegou a calcinha em um maço
+Ele tem um fusível curto
+ele fica com raiva facilmente
+Ela desprezou minha mãe
+ela insultou desrespeitou minha mãe
+Ele ficou com o nariz fora de controle
+tudo significa que a pessoa ficou irritada , irritada
+Meu voo estava com overbook
+havia muitos passageiros e poucos assentos
+Meu voo atrasou
+Minha bagagem foi perdida
+Eu estava com jet lag
+Me senti cansado por causa da diferença de fuso horário entre minha origem e destino
+Meu hotel ficava em uma área decadente
+Fui assaltado
+Fui assaltado na rua
+O tempo estava miserável
+Eu tenho as corridas
+O lugar era uma armadilha para turistas
+feito apenas para turistas
+Eu mal podia esperar para voltar para casa
+É por minha conta
+Eu vou te pagar uma bebida
+Eu gostaria de fazer um brinde
+Eu gostaria de homenagear uma ideia de evento pessoal
+Um brinde à  ... sua saúde
+o ano Novo
+nosso sucesso !
+Outra rodada de bebidas , por favor
+Coloque na minha conta
+conta para pagar mais tarde , antes de sair
+Ele está um pouco embriagado
+um pouco bêbado
+Ele está completamente bêbado , desperdiçado e engessado
+Ela está tentando afogar suas mágoas
+beber álcool para aliviar a dor , tristeza
+Eu sou o motorista designado
+Não estou bebendo álcool porque levarei outras pessoas para casa mais tarde
+Eu tive uma ressaca
+Eu estava de ressaca
+a sensação ruim que você tem pela manhã depois de beber demais
+É leve como uma pena
+Está tão seco quanto um osso
+É tão plano quanto uma panqueca
+Ele está tão louco quanto uma vespa
+É tão antigo quanto as colinas
+É tão rápido quanto um raio
+Ela está tão doente quanto um cachorro
+Ele é tão forte quanto um boi
+Eles são tão diferentes quanto a noite e o dia
+Ela é tão teimosa quanto uma mula
+Ele é tão orgulhoso quanto um pavão
+Ela é tão branca quanto um lençol
+É tão sólido quanto uma rocha
+Está como novo
+É tão claro quanto lama
+não está nada claro
+um
+dois
+três
+quatro
+cinco
+seis
+Sete
+oito
+nove
+dez
+onze
+doze
+treze
+quatorze
+quinze
+dezesseis
+dezessete
+dezoito
+dezenove
+vinte
+trinta
+quarenta
+cinquenta
+sessenta
+setenta
+oitenta
+noventa
+cem
+mil
+cem mil
+milhão
+mil novecentos e noventa
+primeiro
+segundo
+terceiro
+quarto
+quinto
+sexto
+sétimo
+oitavo
+nono
+décimo
+décima primeira
+décimo segundo
+décimo terceiro
+décimo quarto
+décimo quinto
+décimo sexto
+décimo sétimo
+décimo oitavo
+décimo nono
+vigésimo
+número ímpar
+números pares
+Adição
+Subtração
+Multiplicação
+Divisão
+Vermelho
+Laranja
+Amarelo
+Verde
+Azul
+Roxo
+Rosa
+Marrom
+Branco
+Preto
+Cinza
+Bege
+Turquesa
+Índigo
+Lavanda
+Estados Unidos
+Reino Unido
+Canadá
+Austrália
+Alemanha
+França
+Itália
+Espanha
+China
+Japão
+Índia
+Brasil
+México
+Rússia
+África do Sul
+Argentina
+Arábia Saudita
+Egito
+Nigéria
+Quênia
+África
+Antártica
+Ásia
+Europa
+América do Norte
+América do Sul
+Austrália
+Planeta
+Globo
+Mundo
+Terra
+terra
+Gaia
+Esfera
+Esfera
+Terra
+Solo
+Chão
+Ambiente
+Natureza
+Biosfera
+Ecossistema
+Habitat
+Terreno
+Superfície
+crosta
+Manto
+Universo
+Cosmos
+Espaço sideral
+Galáxia
+Estrela
+Planeta
+Sistema solar
+Astronauta
+Foguete
+Satélite
+Cometa
+Asteróide
+Meteoróide
+Buraco negro
+Nebulosa
+constelação
+Nave espacial
+Lunar
+Gravidade
+Órbita
+Ambiente
+Região selvagem
+Animais selvagens
+Ecossistema
+Habitat
+Flora
+Fauna
+Conservação
+Biodiversidade
+Paisagem
+Cenário
+Recursos naturais
+Ecologia
+Sustentabilidade
+Região selvagem
+Verdura
+Clima
+Clima
+Floresta
+oceano
+Cachorro
+Gato
+Elefante
+Leão
+Tigre
+Girafa
+Zebra
+Macaco
+Gorila
+Urso
+Panda
+Coala
+Canguru
+Hipopótamo
+Lobo
+Raposa
+Coelho
+Cervo
+alce
+Esquilo
+Esquilo
+Lontra
+Castor
+Texugo
+Guaxinim
+Skunk
+Rato
+Rato
+Hamster
+Porquinho da índia
+Chinchila
+Furão
+Ouriço
+Porco-espinho
+Bastão
+Golfinho
+Baleia
+Tubarão
+Polvo
+Lula
+Medusa
+Estrela do Mar
+Cavalo marinho
+Caranguejo
+Lagosta
+Camarão
+ostra
+Molusco
+Lesma
+Lesma
+Minhoca
+Lagarta
+Borboleta
+Mariposa
+Abelha
+Vespa
+Formiga
+gafanhoto
+Grilo
+Joaninha
+Besouro
+Voar
+Mosquito
+Libélula
+Libelinha
+Vaga-lume
+Barata
+Louva-Deus
+Tarântula
+Viúva Negra
+Escorpião
+Centopéia
+Milípede
+Sanguessuga
+Minhoca
+Lombriga
+Tênia
+Flatworm
+Toupeira-nariz-de-estrela
+Ornitorrinco
+Equidna
+Demônio da Tasmânia
+Rato canguru
+Canguru
+Vombate
+Quokka
+Coala
+Tigre da Tasmânia
+Dingo
+Quoll
+Numbate
+Bilby
+Bandicoot
+Planador do açúcar
+Raposa voadora
+Panda vermelho
+Raposa feneco
+Raposa Ártica
+Lobo cinza
+Coiote
+Cão selvagem africano
+Lobo-guará
+Raposa vermelha
+Tigre de bengala
+Tigre siberiano
+Tigre de Sumatra
+Tigre branco
+Tigre dourado
+Tigre malaio
+Leopardo
+Leopardo da neve
+guepardo
+Jaguar
+Puma
+Lince
+Lince
+Caracal
+Jaguatirica
+Serval
+Margay
+Oncila
+Gato manchado enferrujado
+Puma
+Leão
+Leão africano
+Leão asiático
+Leão da Montanha
+Pantera negra
+Leão branco
+Chita Rei
+Gato de Pallas
+Jaguarundi
+lince canadense
+lince ibérico
+Leopardo árabe
+Leopardo de Amur
+Leopardo nublado
+Gato pescador
+Gato leopardo
+Gato marmorizado
+Gato de areia
+Gato tigre
+Gato selvagem
+onda americana
+Pêlo curto americano
+fio de arame americano
+Balinês
+Bengala
+Carro
+Caminhão
+Motocicleta
+Bicicleta
+Ônibus
+furgão
+Trem
+Barco
+Enviar
+Avião
+Helicóptero
+Jato
+Submarino
+Lambreta
+Trator
+Segway
+Skate
+Hovercraft
+Cenoura
+Batata
+Tomate
+Cebola
+Alface
+Pepino
+Pimentão
+Espinafre
+Brócolis
+Couve-flor
+Vagens
+Ervilhas
+Beringela
+Abobrinha
+Rabanete
+Salsão
+Milho
+Espargos
+Cogumelo
+Beterraba
+Maçã
+Banana
+Laranja
+manga
+Abacaxi
+Morango
+Melancia
+Uva
+kiwi
+Pêssego
+Pera
+Cereja
+Mirtilo
+Framboesa
+Amora
+Limão
+Lima
+Mamão
+Abacate
+Ameixa
+Doutor
+Professor
+Engenheiro
+Enfermeira
+Advogado
+Contador
+Programador
+Chefe de cozinha
+Cientista
+Artista
+Arquiteto
+Policial
+Bombeiro
+Paramédico
+Dentista
+Farmacêutico
+Veterinário
+Eletricista
+Encanador
+Carpinteiro
+Mecânico
+Piloto
+Comissária de bordo
+Bibliotecário
+Professor
+investigador
+Jornalista
+Escritor
+editor
+Tradutor
+Ator
+Músico
+Dançarino
+Cantor
+Atleta
+Treinador
+Treinador pessoal
+Conselheiro financeiro
+Corretor de imóveis
+Vendedor
+Gerente de marketing
+Gerente de Recursos Humanos
+Representante de atendimento ao cliente
+Recepcionista
+Auxiliar Administrativo
+secretário
+Assistente executivo
+Planeador de eventos
+Designer gráfico
+Gerente de mídia social
+Cozinha
+Frigorífico
+Forno
+Forno
+Microondas
+Lava-louças
+Afundar
+Armários
+Bancada
+Torradeira
+Liquidificador
+Máquina de café
+Chaleira
+Tábua de cortar
+Tigelas
+Escorredor de macarrão
+Tachos e panelas
+Utensílios
+colheres
+garfos
+facas
+Pratos
+Tigelas
+Copos
+Canecas
+Tupperware
+Abridor de lata
+Saca rolhas
+Ralador
+Sala de estar
+Sofá
+Cadeirão
+Mesa de café
+suporte de TV
+Estante
+Lâmpada
+Tapete
+Almofadas
+Lançar o cobertor
+Controle remoto
+Porta-copos
+arte de parede
+Cortinas
+Vaso
+Plantar
+Molduras
+Mesa de apoio
+otomano
+Luminária de piso
+Lareira
+Quarto
+Cama
+Colchão
+Mesa de cabeceira
+Cômoda
+Guarda-roupa
+Camisa
+Camiseta
+Blusa
+camisa polo
+Regata
+Suéter
+Casaco
+Capuz
+Jaqueta
+Casaco
+Blazer
+Terno
+Vestir
+Saia
+Calça
+Jeans
+Shorts
+Legging
+Calça
+Capri
+Macacão
+Macacão
+Macacão
+Túnica
+Colete
+Gravata
+Gravata borboleta
+Lenço
+Xaile
+Enrolar
+Poncho
+Quimono
+Robe
+Roupão de banho
+Macacão
+Maiô
+Camisola
+Anágua
+Anágua
+Anágua
+Espartilho
+Sutiã
+Calcinhas
+Pugilistas
+Cuecas
+Correia
+Meias
+Meia-calça
+Aquecedores de perna
+Meias
+Luvas
+Luvas
+Aquecedores de braço
+Pulseiras
+Arco de cabelo
+Chapéu
+gorro
+Boné
+Boina
+Fedora
+chapéu de sol
+Viseira
+Gorro
+Lenço
+Elástico de cabelo
+Presilha de cabelo
+Laço de cabelo
+Alfinete
+Protetores de ouvido
+Oculos de sol
+Óculos
+Óculos
+Óculos de segurança
+Colar
+Pingente
+Gargantilha
+Corrente
+Pulseira
+Pulseira
+Manguito
+Tornozeleira
+Anel
+Brincos
+Pregos
+Aros
+Brincos pendentes
+Broche
+Alfinete
+Alfinete de lapela
+Distintivo
+Correção
+Bordado
+Aplique
+Strass
+Lantejoulas
+Botões
+Zíperes
+Fivelas
+Cintos
+Suspensórios
+Maçã
+Banana
+Laranja
+Uva
+Morango
+Melancia
+Abacaxi
+manga
+kiwi
+Pêssego
+Pera
+Cereja
+Mirtilo
+Framboesa
+Amora
+Limão
+Lima
+Abacate
+Tomate
+Batata
+Cenoura
+Cebola
+Alho
+Alface
+Espinafre
+Brócolis
+Couve-flor
+Pepino
+Pimentão
+Beringela
+Cogumelo
+Abobrinha
+Milho
+Arroz
+Pão
+Massa
+Macarrão
+Cereal
+Aveia
+Panqueca
+Waffle
+Ovo
+Bacon
+Salsicha
+presunto
+Frango
+Carne bovina
+Carne de porco
+Peixe
+Camarão
+Ensolarado
+Nublado
+Chuvoso
+Ventoso
+Tormentoso
+Nevado
+Enevoado
+Nublado
+Nebuloso
+Claro
+Parcialmente nublado
+Trovoada
+Raio
+Trovão
+Tempestade
+Tempestade de neve
+Nevasca
+Chuvisco
+Banho
+Granizo
+Gelo
+geada
+Névoa
+Orvalho
+Arco-íris
+raio de Sol
+Luz solar
+Onda de calor
+Onda de frio
+Brisa
+Rajada
+vendaval
+Furacão
+Tornado
+Tufão
+Monção
+Seca
+Enchente
+Deslizamento de lama
+Avalanche
+Índice de calor
+Vento frio
+Umidade
+Temperatura
+Barômetro
+Termômetro
+Anemômetro
+Pluviômetro
+Cobertura de nuvens
+Pressão atmosférica
+Feliz
+Triste
+Nervoso
+Excitado
+Assustado
+Nervoso
+Calma
+Descontraído
+Ansioso
+Depressivo
+Alegre
+Contente
+Grato
+Frustrado
+Surpreso
+Decepcionado
+Orgulhoso
+Confiante
+Esperançoso
+Curioso
+Entusiasmado
+Entediado
+Sozinho
+Amado
+Rejeitado
+Culpado
+Ciúmes
+Inseguro
+Sobrecarregado
+Otimista
+Pessimista
+Divertido
+Confuso
+Envergonhado
+Cansado
+Energético
+Irritado
+Mal-humorado
+Tímido
+Lamentável
+Satisfeito
+Desconfortável
+Preocupado
+Aliviado
+Empático
+Compassivo
+Apático
+Indiferente
+Muito feliz
+Melancólico
+Família e Relacionamentos
+Saúde
+Corpo
+Bem-estar
+Fitness
+Exercício
+Nutrição
+Dieta
+Higiene
+Limpeza
+Dormir
+Descansar
+Relaxamento
+Estresse
+Ansiedade
+Depressão
+Saúde mental
+Saúde física
+Bem estar
+Medicamento
+Doutor
+Médico
+Enfermeira
+Cirurgião
+Dentista
+Optometrista
+Farmacêutico
+Paciente
+Hospital
+Clínica
+Farmacia
+Encontro
+Checar
+Diagnóstico
+Tratamento
+Terapia
+Medicamento
+Prescrição
+Vacina
+Imunização
+Alergia
+Infecção
+Doença
+Doença
+Ferida
+Dor
+Sintoma
+Febre
+Frio
+Gripe
+Dor de cabeça
+Dor de garganta
+Tosse
+Nariz escorrendo
+Fadiga
+Fraqueza
+Náusea
+Vômito
+Diarréia
+Constipação
+Coração
+Pulmões
+Cérebro
+Estômago
+Fígado
+Rins
+Intestinos
+Ossos
+Músculos
+Pele
+Cabelo
+Olhos
+Ouvidos
+Nariz
+Boca
+Dentes
+Gengivas
+Língua
+Garganta
+Frequência cardíaca
+Pressão arterial
+Colesterol
+Açúcar no sangue
+IMC (Índice de Massa Corporal)
+Peso
+Altura
+Nível de condicionamento físico
+Hidratação
+Rotina de exercicios
+Exercícios
+Atividade física
+Exercício cardiovascular
+Treinamento de força
+Flexibilidade
+Alongamento
+Ioga
+Pilates
+Meditação
+Exercícios de respiração
+Técnicas de relaxamento
+Autocuidados
+Mãe
+Pai
+Pai
+Criança
+Filho
+Filha
+Irmão
+Irmão
+Irmã
+Avó
+Avô
+Avó
+Neto
+Neto
+Neta
+Tia
+Tio
+Sobrinha
+Sobrinho
+Primo
+Cônjuge
+Marido
+Esposa
+Parceiro
+Namorado
+Namorada
+Noiva
+Noiva
+Em lei
+Sogra
+Sogro
+Cunhado
+Cunhada
+Genro
+Nora
+Padrasto
+Madrasta
+Padrasto
+Passo filho
+Enteado
+Enteada
+Meio-irmão
+Meio-irmão
+Meia-irmã
+pai adotivo
+criança adotada
+Guardião
+Ala
+Pai adotivo
+Criança adotada
+Educação
+Escola
+Aprendizado
+Sala de aula
+Professor
+Estudante
+Lição
+Assunto
+Currículo
+Livro didático
+Pasta de trabalho
+Atribuição
+Trabalho de casa
+Teste
+Exame
+Questionário
+Nota
+Boletim
+Comparecimento
+Ausência
+Atrasado
+Colega de classe
+Trabalho em equipe
+Projeto
+Apresentação
+Estudar
+Grupo de Estudos
+Materiais de estudo
+Biblioteca
+Livros
+Leitura
+Escrita
+Aritmética
+Matemática
+Álgebra
+Geometria
+Cálculo
+Estatisticas
+Ciência
+Biologia
+Química
+Física
+Ciência da Terra
+Ciência ambiental
+Estudos Sociais
+História
+Geografia
+Educação cívica
+Economia
+Governo
+Artes da linguagem
+Inglês
+Literatura
+Escrita
+Gramática
+Vocabulário
+Ortografia
+Compreensão de leitura
+Fonética
+Círculo de literatura
+Escrita criativa
+Ensaio
+Parágrafo
+Frase
+Palavra
+Frase
+Parágrafo
+Composição
+Narrativa
+Escrita expositiva
+Escrita persuasiva
+Pesquisar
+Citação
+Plágio
+Bibliografia
+Referência
+Enciclopédia
+Dicionário
+Dicionário de sinônimos
+Internet
+Local na rede Internet
+Mecanismo de busca
+Recursos online
+Multimídia
+Audiovisual
+Vídeo
+Áudio
+Software de apresentação
+Apresentações
+Power Point
+Apresentações Google
+Quadro interativo
+Quadro inteligente
+Tecnologia de sala de aula
+Computador
+Computador portátil
+Tábua
+Smartphone
+Aplicativo
+Programas
+Hardware
+segurança na Internet
+Cidadania digital
+Cyberbullying
+Etiqueta on-line
+Mídia social
+Comunicação
+Colaboração
+Pensamento crítico
+Solução de problemas
+Criatividade
+Inovação
+Investigação
+Investigação
+Observação
+Experimentar
+Hipótese
+Dados
+Conclusão
+Análise
+Interpretação
+Observação
+Descoberta
+Exploração
+Viagem ao campo
+Museu
+Aquário
+Jardim zoológico
+Centro natural
+Jardim Botânico
+Planetário
+Observatório
+Local historico
+Museu de Arte
+Museu de Ciências
+Museu de História Natural
+Exposições interativas
+Atividades manuais
+Oficina
+Demonstração
+Palestra
+Seminário
+Oficina
+Conferência
+Simpósio
+Painel de discussão
+Discurso importante
+Apresentação
+Palestrante
+Público
+Participante
+Oficina
+Curso
+Oficina
+Treinamento
+Seminário
+Seminário on-line
+Oficina
+Retiro
+Conferência
+Série de palestras
+Certificado
+Diploma
+Grau
+diploma de bacharel
+Mestrado
+Doutorado
+Doutorado
+Grau de associado
+Escola vocacional
+Escola Técnica
+Faculdade Comunitária
+Faculdade
+Universidade
+Departamento
+Faculdade
+Professor
+Instrutor
+Conferencista
+Tutor
+Estudante graduado
+Estudante graduado
+Ex-alunos
+Campus
+Dormitório
+Salão de residência
+União de Estudantes
+Cantina
+Sala de jantar
+Ginásio
+Instalações esportivas
+Campo de atletismo
+Acompanhar
+Piscina
+Tribunal
+Auditório
+Teatro
+Estágio
+Ensaio
+Desempenho
+Orçamento
+Poupança
+Investimento
+Aposentadoria
+Renda
+Despesa
+Dívida
+Crédito
+Empréstimo
+Hipoteca
+Interesse
+Diretor
+Ativo
+Responsabilidade
+Equilíbrio
+Fluxo de caixa
+Meta financeira
+Fundo de emergência
+Juros compostos
+Taxa de porcentagem anual
+Pontuação de crédito
+Relatório de crédito
+conta bancária
+Conta corrente
+Conta poupança
+Comprovante de depósito
+Conta do mercado monetário
+Fundo mútuo
+Estoque
+Ligação
+Dividendo
+Ganhos de capital
+Portfólio
+Alocação de ativos
+Diversificação
+Tolerância de risco
+Inflação
+Deflação
+Recessão
+Desaceleração econômica
+Mercado em alta
+Mercado baixista
+Taxa de câmbio
+Moeda
+câmbio
+Fundo de hedge
+Imposto
+Dedução fiscal
+Taxa de crédito
+Declaração de imposto
+Computador
+Computador portátil
+Tábua
+Smartphone
+Relógio inteligente
+Fones de ouvido
+Fones de ouvido
+Palestrante
+Televisão
+Monitor
+Teclado
+Rato
+Impressora
+Scanner
+Roteador
+Modem
+Ethernet
+Bluetooth
+Disco rígido
+Disco de Estado Sólido
+Armazenamento na núvem
+Sistema operacional
+Programas
+Aplicativo
+Navegador
+Mídia social
+Local na rede Internet
+Mecanismo de busca
+E-mail
+Vídeo conferência
+Realidade virtual
+Realidade aumentada
+Console de jogos
+Controlador
+Fone de ouvido VR
+Óculos AR
+Rastreador de condicionamento físico
+Drone
+Câmera de ação
+Câmera digital
+Filmadora
+GPS
+Navegação por satélite
+Leitor eletrônico
+Dispositivos domésticos inteligentes
+Termostato
+Câmera de segurança
+Robô
+Esportes
+Fotografia
+Jardinagem
+Culinária
+Cozimento
+Pintura
+Desenho
+Esboçando
+Escultura
+Cerâmica
+Tricô
+Crochê
+De costura
+Acolchoado
+Construindo
+Carpintaria
+Metalurgia
+Construção de modelo
+Origami
+Caligrafia
+Escrita
+Leitura
+Tocando instrumentos musicais
+Cantoria
+Dançando
+Ioga
+Meditação
+Caminhada
+Acampamento
+pescaria
+Caçando
+Observação de pássaros
+Observação de estrelas
+Astronomia
+Colecionando selos
+Coletando moedas
+Coletando pedras
+Coletando conchas
+Colecionando antiguidades
+Coletando recordações
+Viajando
+Explorando
+Passeio turístico
+Esportes de aventura
+Mergulho
+Pára-quedismo
+Parapente
+escalada de montanha
+Surfar
+Skate
+Se chover , as ruas inundam .
+Se como demais , sinto-me mal .
+Se ela trabalhar duro , ela terá sucesso .
+Se você misturar azul e amarelo , obterá verde .
+Se chegarem atrasados , perderão o ônibus .
+Se ele se exercita regularmente , ele permanece saudável .
+Se o sol se põe , escurece .
+Se os pássaros cantam , é de manhã .
+Se nevar muito , as escolas fecham .
+Se não regarmos as plantas , elas morrem .
+Se eu estudar , entendo melhor .
+Se ela pratica piano , ela melhora .
+Se você deixar cair o vidro , ele quebra .
+Se pouparem dinheiro , podem comprar uma casa .
+Se ele toma café tarde , não consegue dormir .
+Se chover amanhã , levo um guarda-chuva .
+Se ela estudar muito , ela passará no exame .
+Se terminarem o trabalho mais cedo , irão ao cinema .
+Se você regar as plantas , elas crescerão mais rápido .
+Se ele praticar regularmente , ele se tornará um guitarrista melhor .
+Se economizarmos dinheiro suficiente , sairemos de férias no próximo ano .
+Se o trem chegar na hora certa , eu o pegarei .
+Se o sol se pôr cedo , escurecerá mais cedo .
+Se você não se apressar , perderá o ônibus .
+Se ela preparar o jantar esta noite , eu lavarei a louça .
+Se vencerem a partida , avançarão para a final .
+Se ele perder o voo , terá que remarcar .
+Se eu terminar meu projeto hoje , relaxarei amanhã .
+Se chegarem atrasados , o evento começará sem eles .
+Se você praticar inglês diariamente , você melhorará rapidamente .
+Se eu ganhasse na loteria , compraria uma casa . (Presente condicional)
+Se ela estudasse mais , teria notas melhores . (Presente condicional contínuo)
+Se fossem para a cama mais cedo , sentir-se-iam mais descansados . (Presente condicional)
+Se chovesse , eu ficaria em casa . (Presente condicional contínuo)
+Se ele ouvisse o médico , estaria se sentindo melhor . (Presente condicional contínuo)
+Se tivéssemos mais tempo , viajaríamos com mais frequência . (Presente condicional contínuo)
+Se você me ligasse , eu estaria esperando sua ligação . (Presente condicional contínuo)
+Se ela falasse francês fluentemente , estaria trabalhando em Paris . (Presente condicional)
+Se eles entendessem as instruções , estariam se saindo melhor . (Presente condicional contínuo)
+Se eu tivesse mais experiência , estaria me candidatando a cargos mais altos . (Presente condicional contínuo)
+Se nevasse , estaríamos construindo um boneco de neve . (Presente condicional contínuo)
+Se ele se alimentasse de maneira mais saudável , ele se sentiria com mais energia . (Presente condicional contínuo)
+Se ela praticasse mais , tocaria melhor piano . (Presente condicional contínuo)
+Se economizassem mais dinheiro , estariam viajando pelo mundo . (Presente condicional contínuo)
+Se você se exercitasse regularmente , você se sentiria mais forte . (Presente condicional contínuo)
+Se eu tivesse estudado mais , teria passado no exame .
+Se ela tivesse chegado na hora certa , teria pegado o trem .
+Se tivessem ouvido a previsão do tempo , não teriam sido apanhados pela chuva .
+Se ele tivesse economizado dinheiro , já teria comprado um carro .
+Se tivéssemos tomado o voo anterior , teríamos evitado o atraso .
+Se você tivesse pedido ajuda , eu teria ajudado você .
+Se ela tivesse terminado a sua licenciatura , teria continuado os seus estudos .
+Se tivessem seguido as instruções , não teriam cometido erros .
+Se eu soubesse da festa , teria comparecido .
+Se ele tivesse praticado mais , teria se saído melhor no concerto .
+Se ela tivesse ligado antes , eu estaria disponível para conversar .
+Se tivessem estudado no estrangeiro , teriam aprendido uma nova língua .
+Se você tivesse se exercitado regularmente , estaria em melhor forma .
+Se tivéssemos saído mais cedo , teríamos chegado ao destino a tempo .
+Se ele tivesse preparado o jantar , teríamos desfrutado de uma refeição deliciosa .
+Se eu tivesse terminado meu trabalho mais cedo , estaria relaxado agora .
+Se ela tivesse estudado mais , teria um melhor desempenho nas aulas .
+Se tivessem economizado dinheiro , não estariam com dificuldades financeiras .
+Se ele tivesse ouvido meu conselho , estaria em uma situação melhor .
+Se tivéssemos saído na hora certa , não estaríamos presos no trânsito .
+Se você tivesse tomado café da manhã , não estaria com fome agora .
+Se ela tivesse pegado o ônibus , não se atrasaria para a reunião .
+Se tivessem praticado mais , seriam mais habilidosos agora .
+Se eu tivesse me lembrado de trazer meu guarda-chuva , não estaria me molhando .
+Se ele tivesse se candidatado ao emprego , estaria trabalhando lá agora .
+Se ela tivesse ligado antes , eu estaria esperando a ligação dela .
+Se tivessem reservado as passagens com antecedência , estariam viajando agora .
+Se você tivesse se exercitado regularmente , você se sentiria mais saudável agora .
+Se tivéssemos prestado atenção na aula , estaríamos entendendo o assunto agora .
+Se ele tivesse limpado seu quarto , agora estaria arrumado .
+Presente simples
+Ajudo meu vizinho todos os dias .
+Eu ensino inglês na escola local .
+Ela toca piano todas as noites .
+Tomamos café pela manhã .
+Eles saem para passear depois do jantar .
+Eu li um livro antes de dormir .
+Ele prepara o jantar para sua família todas as noites .
+Ouvimos música enquanto trabalhamos .
+Eles estudam juntos na biblioteca .
+Ela pratica ioga pela manhã .
+Os pássaros cantam do lado de fora da minha janela todas as manhãs .
+O sol nasce no leste  .
+O trem chega às 9 horas todas as manhãs .
+Chove muito na época das chuvas .
+A terra gira em torno do Sol  .
+Presente perfeito
+Ajudei demais meu vizinho esta semana .
+Eu terminei meu dever de casa  .
+Ela visitou Paris várias vezes .
+Já vimos esse filme antes .
+Eles moram nesta cidade há dez anos .
+Ele estudou espanhol por dois anos .
+A empresa concluiu o projeto antes do previsto .
+Perdi minhas chaves novamente .
+Viajamos para muitos países .
+Ela terminou sua refeição .
+Eles já se conheceram antes .
+Ele alcançou seus objetivos .
+Eu li esse livro .
+Nós conversamos por telefone .
+Ela encontrou um novo emprego .
+Eles escreveram muitas cartas .
+Presente contínuo
+Estou ajudando meu vizinho enquanto ele arruma sua casa .
+Estou trabalhando em minha tarefa .
+Ela está lendo um livro agora .
+Estamos ouvindo música no momento .
+Eles estão jogando futebol no parque .
+Ele está escrevendo um e-mail para seu amigo .
+Os alunos estão estudando para os exames .
+Estou assistindo TV com minha família .
+Vamos jantar juntos esta noite .
+Ela está preparando o jantar na cozinha .
+Eles estão trabalhando em um novo projeto no trabalho .
+Ele está pintando um quadro em seu quarto .
+O bebê está dormindo pacificamente no berço .
+Estamos planejando uma viagem para as férias de verão .
+Ela está praticando piano na sala de estar .
+Eles estão construindo uma casa no bairro .
+Presente Perfeito Contínuo
+Tenho ajudado meu vizinho desde que me mudei .
+Estou trabalhando neste projeto há horas .
+Ela vem estudando inglês há um ano .
+Estamos esperando o ônibus desde manhã .
+Eles moram nesta cidade há cinco anos .
+Ele trabalha como professor há muito tempo .
+As crianças brincaram lá fora a tarde toda .
+Tenho tentado entrar em contato com você por telefone .
+Estamos viajando pela Europa há semanas .
+Ela está escrevendo seu romance há meses .
+Eles estão construindo uma casa para sua família .
+Ele aprendeu a tocar violão desde criança .
+Há muito tempo que esperávamos por este momento .
+Ela leciona na universidade há muitos anos .
+Eles estão praticando para o próximo show .
+Tenho trabalhado para melhorar minhas habilidades .
+Pretérito
+Ajudei meu vizinho ontem .
+Eu ajudei meu vizinho a limpar seu sótão antes de consertar seu carro .
+Eu estava ajudando meu vizinho quando ele me trouxe chá gelado .
+Eu estava ajudando meu vizinho há um ano antes que ele finalmente me agradecesse .
+Ajudei meu vizinho ontem .
+Ensinei inglês na escola local no ano passado .
+Ela tocou piano ontem à noite .
+Tomamos café pela manhã .
+Eles foram dar um passeio depois do jantar .
+Ele preparou o jantar para sua família ontem à noite .
+Eu li um livro antes de dormir .
+Ouvimos música enquanto trabalhávamos .
+Eles estudaram juntos na biblioteca .
+Ela praticava ioga pela manhã .
+Passado Perfeito
+Eu ajudei meu vizinho a limpar seu sótão antes de consertar seu carro .
+Eu tinha terminado minha lição de casa antes de ir para a cama .
+Ela havia visitado Paris antes de se mudar para Londres .
+Tínhamos visto esse filme antes de ser lançado .
+Eu ajudei meu vizinho a limpar seu sótão antes de consertar seu carro .
+Ela havia visitado Paris antes de se mudar para Londres .
+Tínhamos terminado o dever de casa antes de irmos para a cama .
+Eles tinham visto aquele filme antes de ser lançado .
+Ele estudou espanhol durante dois anos antes de viajar para a Espanha .
+A empresa concluiu o projeto antes do prazo previsto .
+Eu havia perdido minhas chaves novamente antes de encontrá-las no bolso da jaqueta .
+Havíamos viajado para muitos países antes de nos estabelecermos .
+Ela terminou a refeição antes de sair do restaurante .
+Eles se conheceram antes de perceberem que eram colegas de classe .
+Passado contínuo
+Eu estava ajudando meu vizinho quando ele me trouxe chá gelado .
+Eu estava trabalhando em minha tarefa quando faltou energia .
+Eu estava ajudando meu vizinho quando ele me trouxe chá gelado .
+Ela estava lendo um livro quando o telefone tocou .
+Estávamos ouvindo música enquanto trabalhávamos no jardim .
+Eles estavam jogando futebol quando começou a chover .
+Ele estava escrevendo um e-mail quando faltou energia .
+Os alunos estudaram para os exames a noite toda .
+Eu estava assistindo TV quando a campainha tocou .
+Estávamos jantando quando os convidados chegaram .
+Ela estava preparando o jantar na cozinha enquanto ouvia música .
+Eles estavam trabalhando em um novo projeto quando o chefe ligou .
+Passado Perfeito Contínuo
+Eu estava ajudando meu vizinho há um ano antes que ele finalmente me agradecesse .
+Eu estava trabalhando neste projeto há horas quando você ligou .
+Eu estava ajudando meu vizinho há um ano antes que ele finalmente me agradecesse .
+Ela estava estudando inglês há um ano antes de fazer o teste de proficiência .
+Estávamos esperando o ônibus há mais de uma hora antes que ele finalmente chegasse .
+Eles moravam nesta cidade há cinco anos antes de decidirem se mudar .
+Ele já trabalhava como professor há muito tempo antes de mudar de carreira .
+As crianças brincaram lá fora a tarde toda antes de começar a chover .
+Eu estava tentando entrar em contato com você por telefone há horas antes de finalmente conseguir .
+Estávamos viajando pela Europa há semanas antes de ficarmos sem dinheiro .
+Ela estava escrevendo seu romance há meses antes de finalmente terminá-lo .
+Eles construíram uma casa para sua família durante anos antes de se mudarem .
+Futuro
+Vou ajudar meu vizinho amanhã .
+Terei ajudado meu vizinho cem vezes até o final do mês .
+Estarei ajudando meu vizinho no próximo mês , quando ele se mudar .
+Estarei ajudando meu vizinho por um ano no próximo mês .
+Vou ajudar meu vizinho amanhã .
+Ela cantará no show da próxima semana .
+Ele visitará seus pais neste fim de semana .
+Jantaremos às 7 horas desta noite .
+Eles sairão de férias no próximo mês .
+Ela terminará seu projeto até o final da semana .
+Ele comprará um carro novo no próximo ano .
+Iniciaremos nossa jornada de manhã cedo .
+Eles nos encontrarão no restaurante mais tarde .
+Vou aprender a tocar violão no próximo verão .
+Futuro perfeito
+Terei ajudado meu vizinho cem vezes até o final do mês .
+Ela terá terminado seu projeto antes do prazo .
+Ele terá concluído sua graduação no próximo ano .
+Teremos viajado para muitos países quando nos aposentarmos .
+Eles terão se mudado para uma nova casa no próximo mês .
+Ela terá aprendido francês até o final do ano .
+Ele terá economizado dinheiro suficiente para comprar uma casa até lá .
+Teremos terminado nosso jantar quando eles chegarem .
+Eles terão concluído o projeto antes do prazo .
+Terei escrito meu livro no próximo verão .
+Futuro contínuo
+Estarei ajudando meu vizinho no próximo mês , quando ele se mudar .
+Estarei ajudando meu vizinho amanhã .
+Ela estará estudando para o exame na próxima semana .
+Ele estará trabalhando no projeto o dia todo amanhã .
+Estaremos viajando para Paris nesta época no próximo mês .
+Eles estarão se preparando para a festa quando você chegar .
+Ela estará preparando o jantar quando ele chegar em casa .
+Ele estará jogando futebol com seus amigos esta noite .
+Estaremos assistindo o pôr do sol na praia amanhã a esta hora .
+Eles discutirão os planos para o futuro na reunião da próxima semana .
+Estarei dormindo quando você me ligar amanhã de manhã .
+Estarei ajudando meu vizinho amanhã .
+Ela estará estudando para o exame na próxima semana .
+Ele estará trabalhando no projeto o dia todo amanhã .
+Estaremos viajando para Paris nesta época no próximo mês .
+Eles estarão se preparando para a festa quando você chegar .
+Ela estará preparando o jantar quando ele chegar em casa .
+Ele estará jogando futebol com seus amigos esta noite .
+Estaremos assistindo o pôr do sol na praia amanhã a esta hora .
+Eles discutirão os planos para o futuro na reunião da próxima semana .
+Estarei dormindo quando você me ligar amanhã de manhã .
+Futuro Perfeito Contínuo
+Estarei ajudando meu vizinho por um ano no próximo mês .
+Estarei ajudando meu vizinho por uma hora quando você chegar .
+Ela estará estudando para o exame por duas horas ao meio-dia .
+Ele estará trabalhando no projeto por três dias seguidos até sexta-feira .
+Estaremos viajando por um mês quando voltarmos para casa .
+Eles estarão se preparando para a festa há semanas quando ela finalmente acontecer .
+Ela estará preparando o jantar há uma hora quando ele chegar em casa .
+Ele estará jogando futebol com os amigos há duas horas quando escurecer .
+Estaremos assistindo o pôr do sol na praia por uma hora quando você chegar .
+Eles estarão discutindo os planos há horas quando a reunião terminar .
+Estarei dormindo por oito horas quando você me acordar .
+O sol nasceu brilhantemente no horizonte .
+Ela dançou graciosamente pelo palco .
+O gato se esticou preguiçosamente à luz do sol .
+Ele aguardava ansiosamente a chegada de seus amigos .
+A chuva caía suavemente contra a vidraça .
+Eles riram muito da piada .
+As flores desabrocharam lindamente no jardim .
+O pássaro cantou melodiosamente na árvore .
+Ela estudou diligentemente para os exames .
+O bebê riu alegremente enquanto brincava .
+Ele suspirou cansado depois de um longo dia de trabalho .
+Eles conversaram animadamente enquanto tomavam uma xícara de café .
+O vento uivou ferozmente durante a tempestade .
+As crianças correram animadamente pelo playground .
+Ela suspirou satisfeita enquanto relaxava na praia .
+Ele sorriu calorosamente ao ver sua família .
+As folhas farfalhavam suavemente com a brisa .
+Eles discutiram acaloradamente sobre o assunto .
+O relógio batia continuamente na parede .
+Ela cantou lindamente durante o show .
+O cachorro latiu alto para o carteiro .
+Ele assobiava alegremente enquanto trabalhava .
+A lua brilhava intensamente no céu noturno .
+Eles se abraçaram fortemente depois de ficarem separados por tanto tempo .
+Ela acenou tristemente quando o trem partiu .
+Ele bocejou sonolento enquanto subia na cama .
+O café tinha um gosto amargo depois de ficar sentado por tanto tempo .
+Eles sussurraram conspiratoriamente no canto .
+Ela engasgou de surpresa com a notícia inesperada .
+O fogo crepitava calorosamente na lareira .
+Ele franziu a testa em desaprovação para a bagunça .
+O oceano rugiu com raiva durante a tempestade .
+Eles sorriram agradecidos pela gentileza de estranhos .
+Ela cantarolava baixinho enquanto trabalhava .
+Ele riu baixinho com a lembrança .
+A chuva batia suavemente no telhado .
+Eles suspiraram de alívio quando a provação terminou .
+Ela corou timidamente quando ele a elogiou .
+Ele fez uma careta de dor quando deu uma topada no dedão do pé .
+O carro buzinou alto no trânsito .
+Eles riram ruidosamente da piada .
+Ela suspirou de frustração com a falha do computador .
+Ele assobiou apreciativamente ao pôr do sol .
+A torcida torceu com entusiasmo pelo time vencedor .
+Eles se abraçaram com força para se aquecerem no frio .
+Ela sorriu tranquilizadoramente para sua amiga nervosa .
+Ele sorriu presunçosamente depois de vencer a discussão .
+O bebê gorgolejava feliz nos braços da mãe .
+A árvore balançava suavemente com a brisa .
+Eles olharam amorosamente nos olhos um do outro .
+Ela andou na ponta dos pés em silêncio para evitar acordar o bebê .
+Ele tremia nervosamente antes de seu grande discurso .
+O relógio tocou alto no silêncio .
+Eles bateram palmas com entusiasmo no final da apresentação .
+Ela girou graciosamente pela pista de dança .
+Ele suspirou em resignação com o resultado inevitável .
+Os flocos de neve flutuaram suavemente no chão .
+Eles se abraçaram fortemente em despedida no aeroporto .
+Ela sorriu maliciosamente com a piada de sua amiga .
+Ele estremeceu incontrolavelmente de frio .
+O rio corria pacificamente pelo vale .
+Eles riram ruidosamente no show de comédia .
+Ela sorriu calorosamente ao ver sua família .
+Ele franziu a testa com desaprovação para a maca no chão .
+O cachorro latiu animado ao ver seu dono .
+Eles suspiraram de alívio quando chegaram ao seu destino .
+Ela engasgou de horror ao ver o acidente .
+Ele assobiou alegremente enquanto caminhava pela rua .
+O fogo crepitava alegremente na lareira .
+Eles sussurraram conspiratoriamente no canto da sala .
+Ela cantarolava baixinho para si mesma enquanto trabalhava .
+Ele riu baixinho ao lembrar da piada .
+A chuva batia suavemente na vidraça .
+Eles suspiraram satisfeitos enquanto relaxavam na praia .
+Ela corou timidamente com o elogio .
+Ele fez uma careta de dor quando bateu o dedo do pé na mesa .
+O carro buzinou alto enquanto passava .
+Eles riram muito do filme engraçado .
+Ela suspirou de frustração quando o computador travou .
+Ele assobiou apreciativamente ao lindo pôr do sol .
+A torcida aplaudiu ruidosamente quando o time da casa marcou um gol .
+Eles se abraçaram com força para se aquecerem no frio do inverno .
+Ela sorriu tranquilizadoramente para sua amiga nervosa .
+Ele sorriu presunçosamente depois de vencer a discussão .
+O bebê riu alegremente enquanto brincava com seus brinquedos .
+A árvore balançava suavemente com a brisa .
+Eles olharam amorosamente nos olhos um do outro .
+Ela andou na ponta dos pés em silêncio para não acordar o bebê adormecido .
+Ele tremia nervosamente antes de seu grande discurso .
+O relógio tocou alto no silêncio .
+Eles bateram palmas com entusiasmo no final da apresentação .
+Ela girou graciosamente pela pista de dança .
+Ele suspirou em resignação com o resultado inevitável .
+Os flocos de neve caíram suavemente no chão .
+Eles se abraçaram fortemente em despedida na estação de trem .
+Ela sorriu maliciosamente com a piada de sua amiga .
+Ele estremeceu incontrolavelmente de frio .
+O rio corria pacificamente pelo campo .
+Eles riram ruidosamente no show de comédia .
+Ela sorriu calorosamente ao ver sua família .
+Era uma vez uma tartaruga e uma lebre que viviam na floresta .
+A lebre tinha muito orgulho de sua velocidade e muitas vezes se gabava disso para os outros animais .
+A tartaruga , por outro lado , era lenta mas firme e nunca se gabava das suas capacidades .
+Um dia , a lebre desafiou a tartaruga para uma corrida .
+A tartaruga aceitou o desafio e a corrida ficou marcada para o dia seguinte .
+No dia da corrida , todos os animais se reuniram para assistir .
+A lebre correu na frente assim que a corrida começou , deixando a tartaruga bem atrás .
+Confiante na vitória , a lebre decidiu tirar uma soneca debaixo de uma árvore no meio da corrida .
+Enquanto isso , a tartaruga continuava avançando em seu ritmo lento , mas constante .
+Quando a lebre acordou , percebeu que a tartaruga não estava à vista .
+Ele rapidamente começou a correr novamente , mas já era tarde demais .
+Quando chegou à linha de chegada , a tartaruga já a havia cruzado e vencido a corrida .
+A moral da história é que devagar e sempre vence a corrida .
+ser
+ter
+fazer
+dizer
+pegar
+fazer
+ir
+saber
+pegar
+ver
+vir
+pensar
+olhar
+querer
+dar
+usar
+encontrar
+dizer
+perguntar
+trabalhar
+parecer
+sentir
+tentar
+deixar
+chamar
+deve
+poderia
+incluir
+precisar
+tornar-se
+significar
+manter
+deixar
+começar
+parecer
+ajuda
+falar
+vez
+começar
+mostrar
+ouvir
+jogar
+correr
+mover
+como
+ao vivo
+acreditar
+segurar
+trazer
+acontecer
+escrever
+fornecer
+sentar
+ficar
+perder
+pagar
+encontrar
+incluir
+continuar
+definir
+aprender
+mudar
+liderar
+entender
+assistir
+seguir
+parar
+criar
+falar
+ler
+permitir
+adicionar
+gastar
+crescer
+abrir
+andar
+ganhar
+oferecer
+lembrar
+amor
+considerar
+aparecer
+comprar
+espere
+servir
+morrer
+enviar
+esperar
+construir
+ficar
+cair
+corte
+alcançar
+matar
+permanecer
+sugerir
+elevação
+passar
+vender
+exigir
+relatório
+decidir
+puxar
+quebrar
+receber
+concordar
+retornar
+explicar
+ter esperança
+desenvolver
+carregar
+quebrar
+trabalhar
+jogar
+falar
+correr
+mover
+tentar
+vez
+perguntar
+precisar
+sentir
+tornar-se
+deixar
+colocar
+significar
+manter
+deixar
+começar
+parecer
+ajuda
+falar
+mostrar
+ouvir
+jogar
+correr
+mover
+como
+ao vivo
+acreditar
+segurar
+trazer
+acontecer
+escrever
+fornecer
+sentar
+ficar
+perder
+pagar
+encontrar
+incluir
+continuar
+definir
+aprender
+mudar
+liderar
+entender
+assistir
+seguir
+parar
+criar
+falar
+ler
+permitir
+adicionar
+gastar
+crescer
+abrir
+andar
+ganhar
+oferecer
+lembrar
+amor
+considerar
+aparecer
+comprar
+espere
+servir
+morrer
+enviar
+esperar
+construir
+ficar
+cair
+corte
+alcançar
+matar
+permanecer
+sugerir
+elevação
+passar
+vender
+exigir
+relatório
+decidir
+puxar
+quebrar
+receber
+concordar
+retornar
+explicar
+ter esperança
+desenvolver
+carregar
+quebrar
+trabalhar
+jogar
+falar
+correr
+mover
+tentar
+vez
+perguntar
+precisar
+sentir
+tornar-se
+deixar
+colocar
+significar
+manter
+deixar
+começar
+parecer
+ajuda
+falar
+mostrar
+ouvir
+jogar
+correr
+mover
+como
+ao vivo
+acreditar
+segurar
+trazer
+acontecer
+escrever
+fornecer
+sentar
+ficar
+perder
+pagar
+encontrar
+incluir
+continuar
+definir
+aprender
+mudar
+liderar
+entender
+assistir
+seguir
+parar
+criar
+falar
+ler
+permitir
+adicionar
+gastar
+crescer
+abrir
+andar
+ganhar
+oferecer
+lembrar
+amor
+considerar
+aparecer
+comprar
+espere
+servir
+morrer
+enviar
+esperar
+construir
+ficar
+cair
+corte
+alcançar
+matar
+permanecer
+sugerir
+elevação
+passar
+vender
+exigir
+relatório
+decidir
+puxar
+quebrar
+receber
+concordar
+retornar
+explicar
+ter esperança
+desenvolver
+carregar
+quebrar
+trabalhar
+jogar
+bom
+valor
+para
+o
+quantia
+de
+dinheiro
+pequeno
+pedaço
+bêbado
+triste
+repentino
+evento
+sorte
+aumentar
+e
+então
+diminuir
+muito
+forte
+promessa
+ausência
+absolutamente
+contador
+agir
+seu
+idade
+Ação
+Câmera
+ator
+adicionar
+Adição
+administrativo
+assistente
+adotado
+criança
+adotivo
+pai
+aventura
+Esportes
+África
+africano
+leão
+selvagem
+cachorro
+concordar
+avião
+corredor
+álgebra
+todos
+significar
+pessoa
+pegou
+irritado
+incomodado
+alergia
+permitir
+ex-alunos
+americano
+ondulação
+cabelo curto
+fio de arame
+Amur
+leopardo
+divertido
+um
+expressão
+para
+perguntar
+por que
+alguém
+visual
+ou
+chateado
+análise
+são
+em vez de
+rude
+R
+você
+anemômetro
+nervoso
+tornozeleira
+anual
+percentagem
+avaliar
+outro
+ajudando
+parte
+redondo
+bebidas
+por favor
+formiga
+Antártica
+ansiedade
+ansioso
+qualquer um
+pode
+fazer
+isto
+a qualquer momento
+de qualquer forma
+deve
+pegar
+indo
+apático
+aplicativo
+aparecer
+maçã
+aplicativo
+encontro
+aquário
+ar
+copos
+árabe
+arquiteto
+ártico
+raposa
+certo
+fazendo
+qualquer coisa
+livre
+com
+meu
+então
+distante
+Argentina
+aritmética
+braço
+aquecedores
+cadeirão
+arte
+museu
+artista
+como
+lembrar
+seria
+ter
+Ásia
+asiático
+Perguntando
+mais
+Informação
+espargos
+ativo
+alocação
+atribuição
+associado
+grau
+asteróide
+astronauta
+astronomia
+atleta
+Atlético
+campo
+atmosférico
+pressão
+comparecimento
+público
+áudio
+audiovisual
+auditório
+aumentado
+realidade
+tia
+Austrália
+avalanche
+abacate
+incrível
+bacharelado
+bacon
+distintivo
+texugo
+cozimento
+equilíbrio
+balinês
+banana
+bandicoot
+pulseira
+banco
+conta
+barômetro
+bastão
+roupão de banho
+ser
+paciente
+gorro
+urso
+mercado
+batidas
+Castor
+tornar-se
+cama
+quarto
+abelha
+carne bovina
+beterraba
+besouro
+começar
+principiante
+frases
+bege
+acreditar
+Sino
+pimenta
+cintos
+Bengala
+tigre
+boina
+melhor
+esforço
+tomada
+tentar
+melhorar
+próximo
+tempo
+bibliografia
+bicicleta
+Bilby
+conta
+pagar
+mais tarde
+antes
+deixar
+biodiversidade
+biologia
+biosfera
+observação de pássaros
+preto
+buraco
+pantera
+viúva
+Amora
+blazer
+liquidificador
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+c
+x
+y
+z
