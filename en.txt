@@ -1,0 +1,3830 @@
+<p>aircraft</p>
+<p>air hostess</p>
+<p>airline</p> 
+<p>airport</p> 
+<p>airport bus</p>
+<p>arrival</p> 
+<p>baggage claim</p>
+<p>boarding card</p>
+<p>captain</p> 
+<p>check - in</p>
+<p>crew</p>
+<p>customs</p>
+<p>delay</p>
+<p>departure</p>
+<p>departure lounge</p>
+<p>emergency exit</p>
+<p>flight</p> 
+<p>flight number</p>
+<p>gate</p>
+<p>jet</p>
+<p>land</p>
+<p>local time</p>
+<p>no smoking</p>
+<p>non - smokers</p>
+<p>passenger</p>
+<p>passport</p>
+<p>passport control</p> 
+<p>pilot</p>
+<p>runway</p> 
+<p>seat</p>
+<p>seat belt</p>
+<p>speed</p> 
+<p>steward</p>
+<p>take off</p>
+<p>window</p> 
+<p>wing</p>
+<p>beer</p>
+<p>bill</p>
+<p>bottle</p>
+<p>bowl</p>
+<p>cake</p>
+<p>chef</p>
+<p>coffee</p>
+<p>cup</p> 
+<p>fork</p> 
+<p>glass</p>
+<p>knife</p> 
+<p>menu</p>
+<p>milk</p> 
+<p>plate</p> 
+<p>receipt</p> 
+<p>sandwich</p>
+<p>serviette</p>
+<p>snack</p>
+<p>soup</p>
+<p>spoon</p>
+<p>sugar</p>
+<p>sweetener</p>
+<p>table</p>
+<p>tea</p>
+<p>teaspoon</p>
+<p>tip</p> 
+<p>waiter</p> 
+<p>waitress</p>
+<p>water</p>
+<p>wine</p> 
+<p>wine list</p>
+<p>campsite</p> 
+<p>backpack</p> 
+<p>blanket</p>
+<p>caravan</p>
+<p>charges</p>
+<p>closed</p>
+<p>cooking utensils</p>
+<p>drinking water</p>
+<p>full</p>
+<p>ground sheet</p>
+<p>hitch - hike</p>
+<p>how much</p>?
+<p>identity card</p>
+<p>kitchen</p> 
+<p>light</p> 
+<p>one night</p> 
+<p>one week</p> 
+<p>public toilet</p>
+<p>rope</p> 
+<p>rubbish</p>
+<p>saucepan</p> 
+<p>shower</p>
+<p>sleeping bag</p>
+<p>telephone</p>
+<p>tent</p>
+<p>tonight</p> 
+<p>trailer</p> 
+<p>youth hostel</p>
+<p>blouse</p>
+<p>bra</p>
+<p>dress</p>
+<p>jacket</p>
+<p>overcoat</p>
+<p>pants</p> 
+<p>shirt</p>
+<p>shoes</p>
+<p>shorts</p>
+<p>skirt</p> 
+<p>slippers</p> 
+<p>socks</p> 
+<p>stockings</p> 
+<p>suit</p>
+<p>swimsuit</p>
+<p>tie</p>
+<p>trousers</p>
+<p>underwear</p>
+<p>vest</p>
+<p>Australia</p> 
+<p>Austria</p> 
+<p>Belgium</p>
+<p>Canada</p> 
+<p>Denmark</p>
+<p>England</p> 
+<p>Finland</p> 
+<p>France</p> 
+<p>Germany</p> 
+<p>Greece</p> 
+<p>Holland</p> 
+<p>Italy</p>
+<p>Luxembourg</p> 
+<p>Ireland</p>
+<p>New Zealand</p>
+<p>Norway</p> 
+<p>Scotland</p>
+<p>South Africa</p>
+<p>Spain</p> 
+<p>Sweden</p> 
+<p>The USA</p>
+<p>Wales</p>
+<p>Sunday</p> 
+<p>Monday</p> 
+<p>Tuesday</p> 
+<p>Wednesday</p>
+<p>Thursday</p> 
+<p>Friday</p> 
+<p>Saturday</p> 
+<p>January</p> 
+<p>February</p> 
+<p>March</p>
+<p>April</p>
+<p>May</p>
+<p>June</p>
+<p>July</p> 
+<p>August</p> 
+<p>September</p> 
+<p>October</p>
+<p>November</p>
+<p>December</p>
+<p>Spring</p> 
+<p>Summer</p> 
+<p>Autumn</p>
+<p>Winter</p>
+<p>Christmas Eve</p>
+<p>Christmas Day</p>
+<p>New Year's Eve</p>
+<p>New Year's Day</p>
+<p>Carnival</p>
+<p>Good Friday</p>
+<p>Easter Sunday</p> 
+<p>25th April</p>
+<p>Labour Day</p>
+<p>Corpus Christi</p> 
+<p>St. Anthony's Day </p>
+<p>St. John's Day</p> 
+<p>Camões Day</p>*
+<p>Feast of the Assumption</p>*
+<p>Restoration Day</p>*
+<p>All Saints' Day</p>*
+<p>Republic Day</p>*
+<p>Immaculate Conception</p>*
+<p>almond</p>
+<p>apple</p> 
+<p>apricot</p>
+<p>bean</p>
+<p>beetroot</p> 
+<p>biscuit</p>
+<p>black - eyed bean</p>
+<p>breakfast</p>
+<p>cake</p> 
+<p>cheese</p>
+<p>chick pea</p>
+<p>chips</p>
+<p>cucumber</p>
+<p>chorizo sausage</p>
+<p>coffee</p> 
+<p>dinner</p>
+<p>egg</p> 
+<p>firewater</p>
+<p>fish</p>
+<p>garlic</p>
+<p>grape</p> 
+<p>kidney bean</p>
+<p>lemon</p>
+<p>lettuce</p>
+<p>lunch</p>
+<p>lupin</p>
+<p>meat</p>
+<p>melon</p>
+<p>milk</p> 
+<p>olive oil</p>
+<p>omelette</p>
+<p>onion</p> 
+<p>orange</p>
+<p>pea</p> 
+<p>peach</p>
+<p>pear</p> 
+<p>pepper</p> 
+<p>pineapple</p>
+<p>potato</p> 
+<p>rice</p>
+<p>salt</p>
+<p>sausage</p>
+<p>snail</p>
+<p>soft drink</p>
+<p>sparkling water</p>
+<p>still water</p>
+<p>sugar supper</p>
+<p>tea</p>
+<p>tomato</p>
+<p>vegetarian</p>
+<p>water</p> 
+<p>watermelon</p>
+<p>accident</p> 
+<p>allergic</p> 
+<p>ambulance</p>
+<p>anaemic</p>
+<p>anti-tetanus</p>
+<p>arm</p>
+<p>arthritis</p>
+<p>aspirin</p> 
+<p>asthma</p> 
+<p>backache</p>
+<p>bandage</p> 
+<p>bite</p>
+<p>blister</p>
+<p>blood</p>
+<p>blood pressure</p>
+<p>blood test</p>
+<p>bronchitis</p>
+<p>burn</p>
+<p>chest</p>
+<p>cold</p>
+<p>cold</p>
+<p>constipation</p>
+<p>contact lenses</p>
+<p>contagious</p>
+<p>corn</p>
+<p>cough</p>
+<p>cut</p>
+<p>dentist</p>
+<p>diabetic</p>
+<p>diarrhoea</p>
+<p>dizzy</p>
+<p>doctor</p> 
+<p>earache</p>
+<p>emergency services</p>
+<p>fever</p> 
+<p>filling</p> 
+<p>finger</p> 
+<p>first aid</p>
+<p>flu</p>
+<p>foot</p>
+<p>fracture</p>
+<p>glasses</p> 
+<p>hay fever</p> 
+<p>headache</p>
+<p>health centre</p>
+<p>heart</p>
+<p>heart attack</p>
+<p>hospital</p>
+<p>ill</p>
+<p>indigestion</p> 
+<p>injection</p> 
+<p>itch</p> 
+<p>kidney</p>
+<p>leg</p> 
+<p>lump</p> 
+<p>migraine</p>
+<p>nausea</p>
+<p>neck</p>
+<p>nurse</p>
+<p>operation</p> 
+<p>optician</p>
+<p>pain</p>
+<p>penicillin</p>
+<p>period pains</p>
+<p>plaster</p>
+<p>pneumonia</p> 
+<p>pregnant</p>
+<p>prescription</p> 
+<p>rheumatism</p>
+<p>scald</p>
+<p>scratch</p> 
+<p>sore throat</p>
+<p>splinter</p> 
+<p>sprain</p>
+<p>sting</p> 
+<p>stomach</p>
+<p>temperature</p> 
+<p>toothache</p>
+<p>travel sickness</p>
+<p>ulcer</p>
+<p>vaccination</p> 
+<p>vomit</p>
+<p>balcony</p> 
+<p>bathroom</p>
+<p>bed</p> 
+<p>bedroom</p>
+<p>bill</p>
+<p>breakfast</p>
+<p>cold water</p>
+<p>dining room</p> 
+<p>dinner</p>
+<p>double room</p> 
+<p>early call</p>
+<p>foreign exchange</p>
+<p>foyer</p> 
+<p>full board</p> 
+<p>ground floor</p>
+<p>half board</p> 
+<p>hot water</p> 
+<p>identity card</p>
+<p>key</p>
+<p>lift</p>
+<p>lounge</p> 
+<p>lunch</p>
+<p>manager</p> 
+<p>one night</p>
+<p>reception</p>
+<p>reserve</p>
+<p>restaurant</p>
+<p>room</p>
+<p>room service</p>
+<p>satellite TV</p>
+<p>shower</p>
+<p>single room</p> 
+<p>operator</p>
+<p>toilet</p>
+<p>twin room</p>
+<p>boot</p> 
+<p>brake</p>
+<p>breakdown</p>
+<p>bus lane</p>
+<p>car</p>
+<p>caravan</p>
+<p>coach</p>
+<p>coach station</p>
+<p>corner</p>
+<p>crossroads</p>
+<p>dead end</p>
+<p>diesel</p>
+<p>diversion</p>
+<p>drive</p>
+<p>driver's licence</p>
+<p>end of motorway</p>
+<p>engine</p> 
+<p>exhaust</p>
+<p>fanbelt</p>
+<p>garage</p>
+<p>gears</p>
+<p>give way</p>
+<p>headlights (dipped</p>)
+<p>headlights (full</p>)
+<p>heavy vehicle</p> 
+<p>level crossing</p>
+<p>lorry</p> 
+<p>mirror</p>
+<p>motorbike</p>
+<p>motorway</p> 
+<p>no parking</p>
+<p>number plate</p>
+<p>oil</p>
+<p>on the left</p>
+<p>on the right</p>
+<p>one-way</p>
+<p>pedestrian zone</p>
+<p>petrol</p>
+<p>petrol station</p>
+<p>puncture</p> 
+<p>queue</p> 
+<p>road</p>
+<p>road closed</p>
+<p>roadworks</p> 
+<p>sidelights</p>
+<p>skid</p>
+<p>speed limit</p>
+<p>steering wheel</p> 
+<p>straight on</p>
+<p>toll</p>
+<p>tow</p>
+<p>town centre</p>
+<p>traffic jam</p> 
+<p>traffic lights</p>
+<p>truck</p> 
+<p>tyre</p>
+<p>tyre pressure</p>
+<p>van</p>
+<p>wheel</p>
+<p>Family name</p>
+<p>First name</p>
+<p>Age</p>
+<p>Address</p>
+<p>Date of birth</p>
+<p>Place of birth</p>
+<p>Nationality</p>
+<p>Passport number</p> 
+<p>Place and date of issue</p>
+<p>booking office</p> 
+<p>buffet car</p>
+<p>compartment</p>
+<p>connection</p>
+<p>departure</p>
+<p>emergency switch</p>
+<p>entrance</p> 
+<p>exit</p>
+<p>first class</p>
+<p>get in</p> 
+<p>get out</p> 
+<p>guard</p> 
+<p>information</p>
+<p>left luggage</p>
+<p>lost property</p> 
+<p>luggage</p>
+<p>newspaper kiosk</p>
+<p>no smoking</p>
+<p>platform</p>
+<p>rail</p>
+<p>railway</p>
+<p>return ticket</p>
+<p>seat reservation</p>
+<p>second class</p>
+<p>single ticket</p> 
+<p>suitcase</p>
+<p>ticket collector</p>
+<p>timetable</p> 
+<p>track</p>
+<p>traffic lights</p>
+<p>train</p>
+<p>tram</p>
+<p>waiting room</p>
+<p>addressee</p> 
+<p>airmail</p> 
+<p>by e - mail</p>
+<p>collection</p>
+<p>counter</p>
+<p>delivery</p> 
+<p>fill in</p>
+<p>first - class mail</p>
+<p>form</p>
+<p>letter</p>
+<p>letter box</p>
+<p>money order</p>
+<p>over the internet</p>
+<p>package</p> 
+<p>post</p>
+<p>postage rates</p>
+<p>postal order</p>
+<p>postcard</p> 
+<p>postcode</p>
+<p>poste - restante</p>
+<p>postman</p>
+<p>post office</p>
+<p>registered letter</p> 
+<p>recorded delivery</p>
+<p>short message service (SMS</p>)
+<p>stamp</p> 
+<p>surface mail</p> 
+<p>telegram</p>
+<p>audio equipment</p> 
+<p>baker's</p> 
+<p>bargain</p> 
+<p>bookshop</p> 
+<p>boutique</p>
+<p>butcher's</p> 
+<p>buy</p>
+<p>cake shop</p>
+<p>cheap</p> 
+<p>chemist's</p>
+<p>department store</p> 
+<p>estate agent's</p>
+<p>fashion</p> 
+<p>fishmonger's</p> 
+<p>florist's</p>
+<p>go shopping</p> 
+<p>grocer's</p>
+<p>household appliances</p> 
+<p>ironmonger's</p>
+<p>ladies' wear</p>
+<p>men's wear</p>
+<p>newsagent's</p>
+<p>out-of-town store</p> 
+<p>pre-payment</p> 
+<p>price</p> 
+<p>receipt</p>
+<p>record shop</p>
+<p>sale</p>
+<p>shoe shop</p>
+<p>shop</p>
+<p>shopping centre</p>
+<p>souvenir shop</p>
+<p>special offer</p>
+<p>spend</p> 
+<p>stationer's</p>
+<p>supermarket</p>
+<p>tailor</p>
+<p>till</p>
+<p>till receipt</p> 
+<p>toy shop</p>
+<p>travel agent</p>
+<p>athletics</p>
+<p>ball</p> 
+<p>beach</p> 
+<p>bicycle</p>
+<p>boat hire</p> 
+<p>danger</p> 
+<p>dive</p>
+<p>diving board</p>
+<p>fishing</p> 
+<p>fishing rod</p>
+<p>flippers</p>
+<p>football</p>
+<p>football match</p>
+<p>golf</p>
+<p>golf course</p> 
+<p>gymnastics</p> 
+<p>hockey</p> 
+<p>jogging</p> 
+<p>lake</p>
+<p>lifeguard</p> 
+<p>mountaineering</p> 
+<p>no camping</p>
+<p>no swimming</p>
+<p>oxygen bottle</p>
+<p>pedal boat</p>
+<p>race</p> 
+<p>racket</p>
+<p>riding</p> 
+<p>rowing boat</p>
+<p>run</p>
+<p>sailboard</p>
+<p>sailing</p> 
+<p>sand</p>
+<p>sea</p>
+<p>skate</p>
+<p>skates</p>
+<p>snorkel</p>
+<p>stadium</p>
+<p>suntan lotion</p>
+<p>swim</p>
+<p>swimming pool</p>
+<p>tennis</p>
+<p>tennis court</p>
+<p>tennis racket</p>
+<p>tent</p>
+<p>tide (high, low</p>)
+<p>underwater fishing</p>
+<p>volleyball</p>
+<p>water-skiing</p>
+<p>wave</p>
+<p>wet suit</p> 
+<p>windsurfing</p>
+<p>yacht</p>
+<p>call</p>
+<p>code</p>
+<p>dial</p>
+<p>dialling tone</p>
+<p>emergency</p>
+<p>enquiries</p>
+<p>extension</p>
+<p>international call</p>
+<p>number</p> 
+<p>operator</p>
+<p>pay phone</p> 
+<p>receiver</p>
+<p>reverse charge call</p>
+<p>telephone directory</p>
+<p>one o'clock</p>
+<p>five past one</p>
+<p>a quarter past two</p>
+<p>half past three</p> 
+<p>twenty to four</p>
+<p>a quarter to five</p>
+<p>2 pm / 14:00h</p>
+<p>half past three in the afternoon / 15.30</p>
+<p>a quarter to seven in the evening / 18.45</p>
+<p>mid-day/noon</p> 
+<p>midnight</p>
+<p>at the moment</p>
+<p>day</p>
+<p>early</p>
+<p>fortnight</p>
+<p>half an hour</p>
+<p>hour</p>
+<p>in 1989</p>
+<p>in three days</p> 
+<p>last night</p>
+<p>last week</p>
+<p>last year</p>
+<p>late</p>
+<p>minute</p>
+<p>month</p>
+<p>next week</p>
+<p>next year</p>
+<p>quarter of an hour</p>
+<p>second</p>
+<p>this afternoon</p>
+<p>this evening</p>
+<p>this morning</p>
+<p>this week</p>
+<p>today</p>
+<p>tomorrow</p>
+<p>tomorrow morning</p>
+<p>tonight</p> 
+<p>two days ago</p>
+<p>year</p> 
+<p>yesterday</p>
+<p>bad weather</p> 
+<p>breeze</p>
+<p>cold weather</p>
+<p>cloud</p>
+<p>dry weather</p>
+<p>earthquake</p>
+<p>fair or fine weather</p>
+<p>fog</p> 
+<p>hail</p>
+<p>hurricane</p>
+<p>ice</p>
+<p>lightning</p>
+<p>warm weather</p>
+<p>wet weather</p>
+<p>wind</p> 
+<p>mist</p>
+<p>rain</p>
+<p>rainbow</p>
+<p>rainy weather</p>
+<p>snow</p>
+<p>storm</p>
+<p>tempest</p> 
+<p>thunder</p>
+<p>Verbs</p>
+<p>to be</p>
+<p>to be</p>
+<p>to have</p>
+<p>to make</p>
+<p>to go</p>
+<p>to see</p>
+<p>to arrive</p>
+<p>to eat</p>
+<p>to give</p>
+<p>can</p>
+<p>to know</p>
+<p>to want</p>
+<p>to speak</p>
+<p>to catch</p>
+<p>to take</p>
+<p>to say</p>
+<p>to hear</p>
+<p>to feel</p>
+<p>to know</p>
+<p>to love</p>
+<p>to live</p>
+<p>to work</p>
+<p>to study</p>
+<p>to sleep</p>
+<p>to take</p>
+<p>to drink</p>
+<p>to go out</p>
+<p>to enter</p>
+<p>to return</p>
+<p>to leave</p>
+<p>to continue</p>
+<p>to think</p>
+<p>to find</p>
+<p>to wait</p>
+<p>to walk</p>
+<p>to run</p>
+<p>to swim</p>
+<p>to cry</p>
+<p>to laugh</p>
+<p>to like</p>
+<p>to hate</p>
+<p>to listen</p>
+<p>to read</p>
+<p>to write</p>
+<p>to play</p>
+<p>to buy</p>
+<p>to sell</p>
+<p>to ask</p>
+<p>to answer</p>
+<p>to meet</p>
+<p>to lose</p>
+<p>to win</p>
+<p>to look for</p>
+<p>to hope</p>
+<p>to accept</p>
+<p>to refuse</p>
+<p>to change</p>
+<p>to forget</p>
+<p>to remember</p>
+<p>to invite</p>
+<p>to talk</p>
+<p>to come</p>
+<p>to live</p>
+<p>to die</p>
+<p>to be born</p>
+<p>to grow</p>
+<p>to age</p>
+<p>to marry</p>
+<p>to divorce</p>
+<p>to date</p>
+<p>to separate</p>
+<p>to understand</p>
+<p>to teach</p>
+<p>to learn</p>
+<p>to help</p>
+<p>to protect</p>
+<p>to attack</p>
+<p>to defend</p>
+<p>to conquer</p>
+<p>to dominate</p>
+<p>to liberate</p>
+<p>to build</p>
+<p>to destroy</p>
+<p>to tidy up</p>
+<p>to clean</p>
+<p>to organize</p>
+<p>to choose</p>
+<p>to decide</p>
+<p>to invent</p>
+<p>to create</p>
+<p>to develop</p>
+<p>to research</p>
+<p>to study</p>
+<p>to conclude</p>
+<p>to achieve</p>
+<p>to reach</p>
+<p>to try</p>
+<p>to fail</p>
+<p>to manage</p>
+<p>to overcome</p>
+<p>to fulfill</p>
+<p>to break</p>
+<p>to fix</p>
+<p>to spend</p>
+<p>to save</p>
+<p>to invest</p>
+<p>to negotiate</p>
+<p>to communicate</p>
+<p>to express</p>
+<p>to share</p>
+<p>to hide</p>
+<p>to reveal</p>
+<p>to invite</p>
+<p>to gather</p>
+<p>to dismiss</p>
+<p>to hire</p>
+<p>to fire</p>
+<p>to take time</p>
+<p>to delay</p>
+<p>to advance</p>
+<p>to start</p>
+<p>to stop</p>
+<p>to continue</p>
+<p>to finish</p>
+<p>to conclude</p>
+<p>to suggest</p>
+<p>to recommend</p>
+<p>to advise</p>
+<p>to prevent</p>
+<p>to postpone</p>
+<p>to cancel</p>
+<p>to allow</p>
+<p>to prevent</p>
+<p>to demand</p>
+<p>to prohibit</p>
+<p>to own</p>
+<p>to adore</p>
+<p>to provide</p>
+<p>to receive</p>
+<p>to invite</p>
+<p>to start</p>
+<p>to end</p>
+<p>to count/tell</p>
+<p>to bring</p>
+<p>to take</p>
+<p>to put</p>
+<p>to take off</p>
+<p>to push</p>
+<p>to pull</p>
+<p>to move</p>
+<p>to turn</p>
+<p>to follow</p>
+<p>to leave/let</p>
+<p>to permit</p>
+<p>to deny</p>
+<p>to swear</p>
+<p>to promise</p>
+<p>to begin</p>
+<p>to appear</p>
+<p>to disappear</p>
+<p>to obey</p>
+<p>to disobey</p>
+<p>to greet</p>
+<p>to say goodbye</p>
+<p>to greet</p>
+<p>to correspond</p>
+<p>to compensate</p>
+<p>to contribute</p>
+<p>to deliver</p>
+<p>to receive</p>
+<p>to fulfill</p>
+<p>to promote</p>
+<p>to reward</p>
+<p>to punish</p>
+<p>to accuse</p>
+<p>to judge</p>
+<p>to absolve</p>
+<p>to condemn</p>
+<p>to challenge</p>
+<p>to accept</p>
+<p>to reject</p>
+<p>to tolerate</p>
+<p>to respect</p>
+<p>to disrespect</p>
+<p>to forgive</p>
+<p>to thank</p>
+<p>to praise</p>
+<p>to criticize</p>
+<p>to insult</p>
+<p>to demand</p>
+<p>to beg</p>
+<p>to lament</p>
+<p>to blame</p>
+<p>to embarrass</p>
+<p>to pride</p>
+<p>to console</p>
+<p>to deceive</p>
+<p>to betray</p>
+<p>to convince</p>
+<p>to swallow</p>
+<p>Colors</p>
+<p>White</p>
+<p>Black</p>
+<p>Red</p>
+<p>Blue</p>
+<p>Yellow</p>
+<p>Green</p>
+<p>Beginner Phrases</p>
+<p>Hello</p>
+<p>Hi</p>
+<p>Hey</p>
+<p>Hi there</p>
+<p>Bye</p>
+<p>Bye bye</p>
+<p>See ya later</p>
+<p>Take care</p>
+<p>Have a good one</p>
+<p>Yeah</p>
+<p>Yup</p>
+<p>Sure !</p>
+<p>Nope</p>
+<p>Nah</p>
+<p>No way  !</p>
+<p>How are you ?</p>
+<p>How’s it going ?</p>
+<p>How are things ?</p>
+<p>How’s life ?</p>
+<p>How have you been ?</p>
+<p>How’s your family ?</p>
+<p>What’s up ?</p>
+<p>What’s new ?</p>
+<p>What have you been up to lately ?</p>
+<p>I’m fine  , thanks  How about you ?</p>
+<p>Pretty good </p>
+<p>Not bad </p>
+<p>Great  !</p>
+<p>Couldn’t be better  !</p>
+<p>Can’t complain</p>
+<p>I’ve been busy</p>
+<p>Same as always</p>
+<p>Not so great</p>
+<p>Could be better</p>
+<p>The way to respond to What’s up ?</p>
+<p>What’s new ?</p>
+<p>Thanks</p>
+<p>Thanks a lot</p>
+<p>Thank you so much </p>
+<p>Thanks a million  !</p>
+<p>Thanks for your help   </p>
+<p>Thanks for helping me </p>
+<p>I really appreciate it </p>
+<p>I’m really grateful </p>
+<p>That’s so kind of you </p>
+<p>I can’t thank you enough </p>
+<p>for extremely important things</p>
+<p>I owe you one </p>
+<p>You’re welcome </p>
+<p>No problem </p>
+<p>No worries </p>
+<p>Don’t mention it </p>
+<p>My pleasure </p>
+<p>Anytime </p>
+<p>It was the least I could do </p>
+<p>Glad to help </p>
+<p>Sure !</p>
+<p>Thank you </p>
+<p>use this when you also have something to thank the other person for</p>
+<p>I’m sorry that… </p>
+<p>It’s my fault </p>
+<p>I am taking responsibility for the problem</p>
+<p>for very small problems</p>
+<p>I should have… </p>
+<p>I apologize for… </p>
+<p>Ways to Respond to an Apology</p>
+<p>That’s OK </p>
+<p>It happens </p>
+<p>No problem </p>
+<p>Don’t worry about it </p>
+<p>I forgive you </p>
+<p>for serious problems</p>
+<p>Phrases for Introductions</p>
+<p>I just wanted to introduce myself  I’m… </p>
+<p>I don’t think we’ve met before  My name’s… </p>
+<p>This is…</p>
+<p>I’d like you to meet…</p>
+<p>Have you met… ?</p>
+<p>I’d like to introduce you to…</p>
+<p>Nice to meet you </p>
+<p>It’s a pleasure to meet you </p>
+<p>Likewise </p>
+<p>And you </p>
+<p>Really ?</p>
+<p>That’s interesting </p>
+<p>Right  </p>
+<p>Sure </p>
+<p>It was nice chatting with you </p>
+<p>Well , it’s getting late </p>
+<p>Anyway , I should get going </p>
+<p>Sorry , but I’m afraid I need to…</p>
+<p>I’m sorry to cut you off , but I actually gotta run </p>
+<p>Hi , this is Jane </p>
+<p>May I speak with John Smith ?</p>
+<p>Is John there ?</p>
+<p>I’m calling about…</p>
+<p>I’m returning your call </p>
+<p>One moment , please </p>
+<p>Hang on a second </p>
+<p>He’s not here  Would you like to leave a message ?</p> *****
+<p>Could you ask him to call me back ?</p>
+<p>Thanks for calling </p>
+<p>Can you tell me .. ?</p>
+<p>Could you tell me .. ?</p>
+<p>I'd like to know ..</p>
+<p>Do you know ..</p>
+<p>Do you have any idea .. ?</p>
+<p>Could anyone tell me .. ?</p>
+<p>Would you happen to know .. ?</p>
+<p>I don't suppose you would know .. ?</p>
+<p>I was wondering…</p>
+<p>I’m calling to find out…</p>
+<p>use this phrase on the telephone </p>
+<p>I have no idea </p>
+<p>I have no clue</p>
+<p>I can’t help you there </p>
+<p>Hiç fikrim yok </p>
+<p>I’m not really sure </p>
+<p>I’ve been wondering that , too </p>
+<p>What do you think about .. ?</p>
+<p>How do you feel about… ?</p>
+<p>What's your opinion of .. ?</p>
+<p>What are your views on .. ?</p>
+<p>In my opinion…</p>
+<p>I'd say ..</p>
+<p>Personally , I think believe ..</p>
+<p>If you ask me ..</p>
+<p>The way I see it ..</p>
+<p>From my point of view…</p>
+<p>Phrases for Not Having an Opinion</p>
+<p>I’ve never given it much thought </p>
+<p>I don’t have strong feelings either way </p>
+<p>It doesn’t make any difference to me </p>
+<p>I have no opinion on the matter </p>
+<p>very   </p>
+<p>Whatever </p>
+<p>Exactly </p>
+<p>Absolutely </p>
+<p>That’s so true </p>
+<p>That’s for sure </p>
+<p>I agree   </p>
+<p>I couldn’t agree with you more </p>
+<p>That’s exactly what I think    </p>
+<p>That’s exactly how I feel </p>
+<p>Tell me about it !   </p>
+<p>You’re telling me !</p>
+<p>I’ll say !</p>
+<p>I suppose so</p>
+<p>I’m in agreement</p>
+<p>I don’t think so </p>
+<p>I beg to differ </p>
+<p>I’m afraid I don’t agree </p>
+<p>I’m not so sure about that </p>
+<p>That’s not how I see it </p>
+<p>Not necessarily </p>
+<p>Yes , but… </p>
+<p>On the contrary </p>
+<p>very strong I totally disagree </p>
+<p>Phrases for Responding to Good News</p>
+<p>Congratulations !</p>
+<p>That’s great !</p>
+<p>How wonderful !</p>
+<p>Awesome !</p>
+<p>I’m so happy for you !</p>
+<p>Phrases for Responding to Bad News</p>
+<p>Oh no…</p>
+<p>That’s terrible </p>
+<p>Poor you </p>
+<p>I’m so sorry to hear that </p>
+<p>I’m sorry for your loss </p>
+<p>Are you free… </p>
+<p>Are you doing anything… </p>
+<p>Let me check my calendar </p>
+<p>Do you wanna… </p>
+<p>Would you like to… </p>
+<p>I’d love to !</p>
+<p>Sounds great !</p>
+<p>I’d love to , but I have another commitment </p>
+<p>I don’t think I can </p>
+<p>Maybe another time </p>
+<p>more formal Would you like a drink ?</p>
+<p>Do you want some water ?</p>
+<p>Can I get you something to eat ?</p>
+<p>That’d be great , thanks </p>
+<p>yes</p>
+<p>No , thanks  I’m OK </p>
+<p>no</p>
+<p>I’m going to…</p>
+<p>I’m planning to…</p>
+<p>I hope to…</p>
+<p>I’d like to…</p>
+<p>I might…   </p>
+<p>I may…</p>
+<p>I’m thinking about… </p>
+<p>I love… </p>
+<p>I’m really into… </p>
+<p>I live for…  </p>
+<p>I’m crazy about… </p>
+<p>I’m not a huge fan of… </p>
+<p>isn’t my cup of tea </p>
+<p>I don’t really care for… </p>
+<p>I’m not into… </p>
+<p>I can’t stand… </p>
+<p>How about…  ?</p>
+<p>Why don’t you…  ?</p>
+<p>Maybe we should… .</p>
+<p>I’d recommend… .</p>
+<p>Have you thought about…  ?</p>
+<p>Phrases for Asking Talking about Jobs</p>
+<p>Where do you work ?</p>
+<p>What do you do ?   </p>
+<p>What do you do for a living ?</p>
+<p>I work at… .</p>
+<p>I’m a an… .</p>
+<p>I’m unemployed    </p>
+<p>I’m between jobs at the moment </p>
+<p>I’m looking for work  </p>
+<p>I run my own business </p>
+<p>I’m a freelance… </p>
+<p>I’m retired </p>
+<p>I’m single </p>
+<p>I have a boyfriend</p>
+<p>I have a girlfriend</p>
+<p>We’re engaged </p>
+<p>We are going to get married</p>
+<p>We’re getting married in June </p>
+<p>I’m married </p>
+<p>I’ve been married for…</p>
+<p>I’m divorced </p>
+<p>I’m widowed </p>
+<p>my husband has died</p>
+<p>my wife has died</p>
+<p>I’m not looking for anything serious </p>
+<p>I’m not quite over my ex </p>
+<p>Pardon ?</p>
+<p>Would you mind repeating that ?</p>
+<p>What do you mean ?</p>
+<p>asking for more information</p>
+<p>I’m not sure I follow you </p>
+<p>I don’t understand</p>
+<p>Could you explain…  ?</p>
+<p>Ways to Check if the Other Person</p>
+<p>Do you understand what I’m saying ?</p>
+<p>Does that make sense ?</p>
+<p>Do you know what I mean ?</p>
+<p>Are you with me so far ?</p>
+<p>Is that clear ?</p>
+<p>I need a little help </p>
+<p>Could you help me out ?</p>
+<p>Could you give me a hand ?</p>
+<p>usually used for physical tasks</p>
+<p>Could you spare a couple minutes ?</p>
+<p>Could you do me a favor ?</p>
+<p>Ways to Ask Someone Else to Do Something</p>
+<p>more formal Would you mind…  ?</p>
+<p>Could you please…  ?</p>
+<p>Can you…  ?</p>
+<p>Please… .</p>
+<p>I’d appreciate it if you could… .</p>
+<p>Sorry to interrupt , but…</p>
+<p>Excuse me – could I talk to you for a minute ?   </p>
+<p>do you have a minute ?</p>
+<p>Could I jump in here ?</p>
+<p>Sorry </p>
+<p>I just want to say that…</p>
+<p>May I have a word ?</p>
+<p>Keep up the good work !</p>
+<p>That was a nice try </p>
+<p>That’s a real improvement </p>
+<p>You’re on the right track </p>
+<p>You’ve almost got it </p>
+<p>You’re doing great </p>
+<p>Don’t give up !   </p>
+<p>Hang in there !</p>
+<p>You can do it !</p>
+<p>Give it your best shot </p>
+<p>best shot </p>
+<p>best try</p>
+<p>best effort</p>
+<p>Nice job !   </p>
+<p>You did great !</p>
+<p>I’m not happy about this </p>
+<p>I’m sorry , but this is unacceptable </p>
+<p>I’m not very satisfied with .. </p>
+<p>I can’t stand it when… </p>
+<p>This sucks  </p>
+<p>Forgetting</p>
+<p>I’ll always remember…   </p>
+<p>I’ll never forget…</p>
+<p>If I remember correctly…   </p>
+<p>As far as I can recall…</p>
+<p>I have a vague recollection of…</p>
+<p>It’s on the tip of my tongue </p>
+<p>I’m trying to remember , but I can’t quite remember</p>
+<p>My mind went blank </p>
+<p>I couldn’t remember think of anything</p>
+<p>It doesn’t ring a bell </p>
+<p>it doesn’t sound familiar</p>
+<p>Please remember to…  </p>
+<p>Please don’t forget to…</p>
+<p>I’d like to remind you about…</p>
+<p>You haven’t forgotten to about… have you ?</p>
+<p>It completely slipped my mind !</p>
+<p>I completely forgot about it !</p>
+<p>Phrases for Saying Something is Easy  </p>
+<p>Difficult</p>
+<p>It’s a piece of cake </p>
+<p>It’s a cinch </p>
+<p>It’s a breeze </p>
+<p>Anyone can do it </p>
+<p>There’s nothing to it </p>
+<p>It’s hard </p>
+<p>It’s a bit tricky </p>
+<p>It’s really tough </p>
+<p>It’s not a walk in the park </p>
+<p>It’s very demanding </p>
+<p>it takes a lot of time and energy</p>
+<p>She’s in her early twenties </p>
+<p>He’s in his late thirties </p>
+<p>She just turned six </p>
+<p>Act your age !</p>
+<p>I’m not as young as I used to be </p>
+<p>I’m not over the hill yet !</p>
+<p>over the hill </p>
+<p>he’s not young</p>
+<p>She’s wise beyond her years </p>
+<p>she is young , but she has the wisdom of an older person</p>
+<p>I’m having a senior moment </p>
+<p>I’m being forgetful</p>
+<p>He lived to a ripe old age </p>
+<p>Do you have…  ?</p>
+<p>Where can I find…  ?</p>
+<p>I’m just browsing  </p>
+<p>looking casually</p>
+<p>I’m looking for…</p>
+<p>How much is this ?</p>
+<p>Is this on sale ?</p>
+<p>Can I try it on ?</p>
+<p>I’ll take it !</p>
+<p>Do you take credit cards ?</p>
+<p>I’d like to return exchange this </p>
+<p>I’m starving !</p>
+<p>I’m very hungry</p>
+<p>Let’s grab a bite to eat </p>
+<p>How about eating out tonight ?</p>
+<p>eat at a restaurant</p>
+<p>I brought some snacks </p>
+<p>This soup is delicious !</p>
+<p>Could I have another helping of…  ?</p>
+<p>another helping </p>
+<p>another portion</p>
+<p>I’ll have…</p>
+<p>Could we get the check , please ?</p>
+<p>I’m full </p>
+<p>I’m satisfied</p>
+<p>I’m stuffed </p>
+<p>I ate a lot , maybe too much !</p>
+<p>Where’s the remote ?</p>
+<p>remote </p>
+<p>remote control</p>
+<p>Is there anything good on ?</p>
+<p>Can I change the channel ?</p>
+<p>I’ve already seen this episode </p>
+<p>This is a rerun </p>
+<p>I love this show !</p>
+<p>There are too many commercials </p>
+<p>Stop channel surfing </p>
+<p>channel surfing </p>
+<p>changing the channel quickly</p>
+<p>Check the TV guide </p>
+<p>It’s the season finale !</p>
+<p>the final episode of the seasont</p>
+<p>Do you have any bags to check ?</p>
+<p>Would you like a window seat or an aisle seat ?</p>
+<p>aisle </p>
+<p>corridor</p>
+<p>Here’s your boarding pass </p>
+<p>boarding pass </p>
+<p>Your flight leaves from gate ...</p>
+<p>Your seat number is ...</p>
+<p>Flight is now boarding </p>
+<p>passengers can enter the plane</p>
+<p>Your flight has been delayed </p>
+<p>Your flight has been canceled </p>
+<p>This is the final call for flight   </p>
+<p>What is the purpose of your trip ?</p>
+<p>It cost a fortune </p>
+<p>It cost an arm and a leg </p>
+<p>That’s a rip off </p>
+<p>overpriced  , far more expensive than it should be</p>
+<p>I can’t afford it </p>
+<p>I don’t have enough money to buy it</p>
+<p>That’s a bit pricey </p>
+<p>That’s quite reasonable </p>
+<p>it’s a good price</p>
+<p>It’s  10% off </p>
+<p>there’s a  10% discount</p>
+<p>That’s a good deal </p>
+<p>a good value for the amount of money</p>
+<p>It was a real bargain </p>
+<p>It was dirt cheap </p>
+<p>extremely inexpensive</p>
+<p>It’s nice and warm today </p>
+<p>It’s absolutely boiling !</p>
+<p>boiling </p>
+<p>extremely hot</p>
+<p>We’re having a real heat wave </p>
+<p>heat wave </p>
+<p>many consecutive days of hot weather</p>
+<p>The sun’s really strong today </p>
+<p>It’s hot and humid </p>
+<p>It’s a little chilly </p>
+<p>It’s freezing </p>
+<p>extremely cold</p>
+<p>The temperature’s dropping </p>
+<p>Make sure to bundle up </p>
+<p>bundle up </p>
+<p>put on warm clothes for protection against the cold</p>
+<p>We’re expecting some winter weather </p>
+<p>winter weather </p>
+<p>snow</p>
+<p>hail</p>
+<p>sleet</p>
+<p>ice </p>
+<p>It’s drizzling </p>
+<p>raining lightly</p>
+<p>It’s pouring </p>
+<p>raining heavily</p>
+<p>It’s raining cats and dogs </p>
+<p>raining heavily</p>
+<p>I got caught in a downpour </p>
+<p>I think the rain’s letting up </p>
+<p>letting up </p>
+<p>getting lighter and stopping</p>
+<p>I’m exhausted </p>
+<p>I’m dead tired </p>
+<p>I’m pooped </p>
+<p>I’m spent </p>
+<p>I’m beat </p>
+<p>I’m running on fumes    </p>
+<p>I’m running on empty </p>
+<p>I can hardly keep my eyes open </p>
+<p>I’m off to bed </p>
+<p>I’m gonna hit the sack </p>
+<p>hit the sack </p>
+<p> go to bed</p>
+<p>It’s bedtime for me </p>
+<p>Phrases for Promises   Resolutions</p>
+<p>I really should ...</p>
+<p>I promise that I’ll ...</p>
+<p>I swear I’ll   </p>
+<p>I won’t ...</p>
+<p>a very strong promise</p>
+<p>No matter what happens , I’m going to ...</p>
+<p>Come hell or high water , I’ll ...</p>
+<p>Excuses for Being Late</p>
+<p>Sorry I’m late </p>
+<p>I overslept </p>
+<p>I slept longer than I should have</p>
+<p>My alarm didn’t go off </p>
+<p>I had to wait ages for a bus </p>
+<p>The bus was late </p>
+<p>The traffic was terrible </p>
+<p>I couldn’t find a parking spot </p>
+<p>I got lost coming here </p>
+<p>I was tied up in a meeting </p>
+<p>tied up </p>
+<p>occupied</p>
+<p>impossible to escape</p>
+<p>I just lost track of time </p>
+<p>I didn’t notice what time it was</p>
+<p>That’s right </p>
+<p>That’s spot on </p>
+<p>You’ve hit the nail on the head    </p>
+<p>You’ve nailed it </p>
+<p>I suppose so </p>
+<p>I’m afraid you’re right </p>
+<p>use this in response to bad news</p>
+<p>to say the bad news is correct</p>
+<p>I’m afraid that’s not quite right </p>
+<p>I’m afraid you’re mistaken </p>
+<p>No , you’ve got it wrong </p>
+<p>No , that’s all wrong </p>
+<p>He’s really sharp </p>
+<p>She’s brilliant </p>
+<p>He’s very bright </p>
+<p>She’s a genius </p>
+<p>He’s a smart cookie </p>
+<p>He’s not the sharpest tool in the shed </p>
+<p>She’s a few cards short of a deck </p>
+<p>He’s a bit slow </p>
+<p>She’s a complete idiot </p>
+<p>He’s really dumb </p>
+<p>No comment </p>
+<p>I’m not at liberty to say </p>
+<p>I don’t have permission to give the information</p>
+<p>Wait and see </p>
+<p>you will discover the answer later</p>
+<p>Let me get back to you </p>
+<p>I will give you the answer later</p>
+<p>I’m sorry , that’s confidential </p>
+<p>I’m sorry , that’s personal </p>
+<p>I’d rather not talk about it </p>
+<p>It’s none of your business </p>
+<p>Mind your own business </p>
+<p>Why do you want to know ?</p>
+<p>and are rather rude r</p>
+<p>He’s short on cash </p>
+<p>He’s broke </p>
+<p>he has no money</p>
+<p>His bank account is overdrawn </p>
+<p>He’s just scraping by </p>
+<p>he is just barely surviving on little money</p>
+<p>He makes minimum wage </p>
+<p>he earns the minimum salary</p>
+<p>He’s pinching pennies </p>
+<p>He’s scrimping and saving </p>
+<p>She’s very wealthy </p>
+<p>She’s quite well off </p>
+<p>She’s loaded </p>
+<p>She’s filthy rich </p>
+<p>She inherited a fortune </p>
+<p>She’s making a killing </p>
+<p>She’s raking in the cash </p>
+<p>She’s rolling in dough </p>
+<p>very little money </p>
+<p>The crime rate rose </p>
+<p>The crime rate went up </p>
+<p>There was a sharp increase in crime </p>
+<p>sharp </p>
+<p>sudden and large</p>
+<p>There was a gradual rise in crime </p>
+<p>There was a spike in crime </p>
+<p>spike </p>
+<p>a sudden increase and then decrease</p>
+<p>The crime rate reached its peak </p>
+<p>peak </p>
+<p>the highest point</p>
+<p>The crime rate plateaued  </p>
+<p>stayed at the same level</p>
+<p>There was a slight decrease in crime </p>
+<p>The crime rate dropped </p>
+<p>The crime rate plummeted </p>
+<p>decreased a lot , very quickly</p>
+<p>She was born to ... .</p>
+<p>He’s a natural </p>
+<p>She could do it in her sleep </p>
+<p>He knows it inside out </p>
+<p>She knows  like the back of her hand </p>
+<p>She’s a walking encyclopedia of ... .</p>
+<p>He’s in a class of his own </p>
+<p>He’s the best in the business </p>
+<p>She’s very gifted </p>
+<p>He’s a  whiz </p>
+<p>Could you give me a minute ?</p>
+<p>Hang on a sec   </p>
+<p>Just a sec </p>
+<p>Hold on ..</p>
+<p>Let me see think ...</p>
+<p>I'll be right with you </p>
+<p>Bear with me </p>
+<p>That’ll have to wait </p>
+<p>Be patient </p>
+<p>Not so fast !</p>
+<p>Hold your horses !</p>
+<p>take reckless action </p>
+<p>If I had to take a guess , I’d say ... .</p>
+<p>It’s difficult to say , but I think ... .</p>
+<p>Off the top of my head , I’d say ... .</p>
+<p>what I remember estimate , without checking the actual statistics</p>
+<p>It’s about ... .</p>
+<p>It’s around ... .</p>
+<p>I wouldn’t be surprised if ... .</p>
+<p>There’s a good chance ... .</p>
+<p>I have a feeling hunch ... . </p>
+<p>I bet ... .</p>
+<p>Your guess is as good as mine </p>
+<p>I don’t knows</p>
+<p>I’m debating between ... </p>
+<p>I can’t make up my mind </p>
+<p>I’m on the fence </p>
+<p>I’m in the middle</p>
+<p>I don’t know what to decide</p>
+<p>I’ll take that into consideration </p>
+<p>On the other hand ...</p>
+<p>I’m having second thoughts </p>
+<p>I’m reconsidering my decision</p>
+<p>I changed my mind </p>
+<p>He convinced persuaded me to ...</p>
+<p>Looking back , I know it was the right decision </p>
+<p>It’s up to you </p>
+<p>You can decide</p>
+<p>Good luck !</p>
+<p>Better luck next time </p>
+<p>Just my luck !</p>
+<p>Lucky you !</p>
+<p>That was a stroke of luck </p>
+<p>a sudden event of good luck</p>
+<p>Some people have all the luck </p>
+<p>As luck would have it ...</p>
+<p>by chance</p>
+<p>He’s down on his luck </p>
+<p>he’s having a long period of bad luck or difficulty</p>
+<p>No such luck  , something good that could have happened , didn’t happen</p>
+<p>What rotten luck !</p>
+<p>Phrases for Worries   Relief</p>
+<p>I’m scared that ...</p>
+<p>I can’t help thinking that ...</p>
+<p>It’s been keeping me up at night </p>
+<p>What if ...  ?</p>
+<p>Whew !</p>
+<p>Thank goodness !</p>
+<p>What a relief !</p>
+<p>You had me worried for a moment </p>
+<p>You have no idea what a relief it is </p>
+<p>That’s a huge load off my mind </p>
+<p>Phrases for Talking about the Future</p>
+<p>It’ll happen any day now </p>
+<p>It’s right around the corner </p>
+<p>It will won’t happen in our lifetime </p>
+<p>in the next 10 years</p>
+<p>It’s a sign taste of things to come </p>
+<p>it indicates how things will be in the future</p>
+<p>I’m counting down the days until ...</p>
+<p>I’m excited about the future event , </p>
+<p>I can’t wait for it to happen</p>
+<p>Sooner or later ...  </p>
+<p>It’s bound to happen eventually </p>
+<p>it will definitely happen sometime in the future</p>
+<p>I’ll get around to it </p>
+<p>I’ll do it sometime in the future , </p>
+<p>but I don’t know exactly when</p>
+<p>I’ll do it right away   </p>
+<p>I’ll get right on it </p>
+<p>I’ll do it immediately</p>
+<p>Time will tell </p>
+<p>You look nice    </p>
+<p>You look amazing !</p>
+<p>What a beautiful  !</p>
+<p>I like your </p>
+<p>The lasagna is delicious </p>
+<p>You’re a fantastic cook </p>
+<p>My compliments to the chef !</p>
+<p>What a nice apartment !</p>
+<p>You have a beautiful home </p>
+<p>She’s so cute !</p>
+<p>Your kids are a lot of fun </p>
+<p>Phrases for Certainty   </p>
+<p>Probability</p>
+<p>I’m absolutely sure </p>
+<p>I’m positive that ...</p>
+<p>I have no doubt that ...</p>
+<p>I’m a hundred percent certain </p>
+<p>I’m convinced that ...</p>
+<p>Chances are that ...</p>
+<p>this will probably happen</p>
+<p>Odds are that ...</p>
+<p>this will probably happen</p>
+<p>I seriously doubt it </p>
+<p>I don’t think so </p>
+<p>Probably not </p>
+<p>It’s not very likely </p>
+<p>There’s not much chance of that </p>
+<p>I’d be very surprised if that happened </p>
+<p>I wouldn’t bet on it </p>
+<p>there’s a small chance it could happen ... but it probably won’t happen</p>
+<p>That’ll never happen </p>
+<p>Interesting Boring</p>
+<p>It’s fascinating </p>
+<p>It’s intriguing </p>
+<p>I couldn’t tear myself away </p>
+<p>I couldn’t put it down </p>
+<p>I was so into it , I lost track of time </p>
+<p>It does nothing for me </p>
+<p>I was bored to tears </p>
+<p>I was bored to death </p>
+<p>I was dying of boredom </p>
+<p>It’s about as exciting as watching paint dry </p>
+<p>it’s very boring</p>
+<p>What’s the matter ?</p>
+<p>What’s wrong ?</p>
+<p>Are you all right ?</p>
+<p>You look a bit down </p>
+<p>a little sad</p>
+<p>Is there anything I can do to help ?</p>
+<p>Cheer up !   Chin up !</p>
+<p>It’s not so bad </p>
+<p>Everything will be OK </p>
+<p>Look on the bright side </p>
+<p>consider the positive aspects</p>
+<p>It’s not the end of the world </p>
+<p>What a pity !</p>
+<p>What a shame </p>
+<p>How disappointing </p>
+<p>That’s too bad </p>
+<p>Bummer </p>
+<p>It was a real letdown </p>
+<p>It didn’t live up to my expectations </p>
+<p>Yeah , right </p>
+<p>You're kidding </p>
+<p>You're pulling my leg </p>
+<p>That's a bit of an exaggeration </p>
+<p>He’s stretching the truth </p>
+<p>He’s not telling the whole truth </p>
+<p>She’s being economical with the truth </p>
+<p>she’s lying or not telling the entire truth</p>
+<p>His story is fishy </p>
+<p>That's an outright lie </p>
+<p>That's a pack of lies </p>
+<p>Expressions for Bad People</p>
+<p>He’s a creep </p>
+<p>unpleasant , suspicious , makes you afraid uneasy</p>
+<p>He’s a pervert </p>
+<p>someone with disgusting sexual tendencies</p>
+<p>He’s a sicko </p>
+<p>He’s a scumbag </p>
+<p>He’s a jerk  </p>
+<p>she’s irritating and unpleasant</p>
+<p>She’s a psycho </p>
+<p>crazy , irrational</p>
+<p>He yelled </p>
+<p>She screamed </p>
+<p>I whispered </p>
+<p>spoke in an extremely quiet voice</p>
+<p>We chatted </p>
+<p>we had an  conversation</p>
+<p>He mumble  , poke in a low voice , not clearly , without opening his mouth much</p>
+<p>My kids whined </p>
+<p>complained</p>
+<p>He rambled    </p>
+<p>He went on and on </p>
+<p>talked too much without stopping</p>
+<p>She stammered </p>
+<p>I snapped at my husband </p>
+<p>said a quick and angry remark</p>
+<p>He muttered  , spoke in a low voice , usually making complaints or negative comments</p>
+<p>She was beaming </p>
+<p>she had a big , radiant smile</p>
+<p>The kids were smiling from ear to ear </p>
+<p>He looked puzzled </p>
+<p>confused</p>
+<p>She grinned </p>
+<p>had a small smile</p>
+<p>He winced when the doctor gave him an injection </p>
+<p>had a quick expression of pain</p>
+<p>She gave me a dirty look </p>
+<p>looked at me angrily</p>
+<p>She blushed </p>
+<p>her face turned red because she was embarrassed</p>
+<p>His eyes were glazed over </p>
+<p>he appeared</p>
+<p>Why the long face ?</p>
+<p>an expression to ask why someone looks sad or upset</p>
+<p>Her expression was unreadable </p>
+<p>you can’t know what she is feeling</p>
+<p>Phrases to Describe Offending or Upsetting</p>
+<p>People</p>
+<p>They got off on the wrong foot </p>
+<p>when they first met , they didn’t get along</p>
+<p>He got on the teacher’s bad side </p>
+<p>She took offense at his comment </p>
+<p>He has a chip on his shoulder </p>
+<p>he is easily offended</p>
+<p>She got bent out of shape </p>
+<p>He left in a huff </p>
+<p>She got her panties in a wad </p>
+<p>He has a short fuse </p>
+<p>he gets angry easily</p>
+<p>She dissed my mother </p>
+<p>she insulted disrespected my mother</p>
+<p>He got his nose out of joint </p>
+<p>all mean the person got irritated annoyed</p>
+<p>My flight was overbooked </p>
+<p>there were too many passengers and not enough seats</p>
+<p>My flight was delayed</p>
+<p>My luggage was lost </p>
+<p>I was jet lagged </p>
+<p>I felt tired because of the time zone difference between my origin and destination</p>
+<p>My hotel was in a seedy area </p>
+<p>I was mugged </p>
+<p>I was robbed on the street</p>
+<p>The weather was miserable </p>
+<p>I got the runs </p>
+<p>The place was a tourist trap </p>
+<p>made only for tourists</p>
+<p>I couldn’t wait to get back home </p>
+<p>It’s on me </p>
+<p>I’ll buy you a drink</p>
+<p>I’d like to make a toast </p>
+<p>I’d like to honor a person event idea</p>
+<p>Here’s to ... your health   </p>
+<p>the New Year   </p>
+<p>our success !</p>
+<p>Another round of drinks , please </p>
+<p>Put it on my tab </p>
+<p>bill to pay later , before you leave</p>
+<p>He’s a bit tipsy </p>
+<p>a little bit drunk</p>
+<p>He’s completely sloshed wasted plastered </p>
+<p>She’s trying to drown her sorrows </p>
+<p>drinking alcohol for relief from pain sadness</p>
+<p>I’m the designated driver </p>
+<p>I’m not drinking alcohol because I will drive other people home later</p>
+<p>I had a hangover    </p>
+<p>I was hung over </p>
+<p>the bad feeling you have the morning after drinking too much</p>
+<p>It’s as light as a feather </p>
+<p>It’s as dry as a bone </p>
+<p>It’s as flat as a pancake </p>
+<p>He’s as mad as a hornet </p>
+<p>It’s as old as the hills </p>
+<p>It’s as quick as lightning </p>
+<p>She’s as sick as a dog </p>
+<p>He’s as strong as an ox </p>
+<p>They’re as different as night and day </p>
+<p>She’s as stubborn as a mule </p>
+<p>He’s as proud as a peacock </p>
+<p>She’s as white as a sheet </p>
+<p>It’s as solid as a rock </p>
+<p>It’s as good as new </p>
+<p>It’s as clear as mud </p>
+<p>it’s not clear at all</p>
+<p>one</p>
+<p>two</p>
+<p>three</p>
+<p>four</p>
+<p>five</p>
+<p>six</p>
+<p>seven</p>
+<p>eight</p>
+<p>nine</p>
+<p>ten</p>
+<p>eleven</p>
+<p>twelve</p>
+<p>thirteen</p>
+<p>fourteen</p>
+<p>fifteen</p>
+<p>sixteen</p>
+<p>seventeen</p>
+<p>eighteen</p>
+<p>nineteen</p>
+<p>twenty</p>
+<p>thirty</p>
+<p>forty</p>
+<p>fifty</p>
+<p>sixty</p>
+<p>seventy</p>
+<p>eighty</p>
+<p>ninety</p>
+<p>one hundred</p>
+<p>one thousand</p>
+<p>one hundred thousand</p>
+<p>million</p>
+<p>one thousand nine hundred ninety</p>
+<p>first</p>
+<p>second</p>
+<p>third</p>
+<p>fourth</p>
+<p>fifth</p>
+<p>sixth</p>
+<p>seventh</p>
+<p>eighth</p>
+<p>ninth</p>
+<p>tenth</p>
+<p>eleventh</p>
+<p>twelfth</p>
+<p>thirteenth</p>
+<p>fourteenth</p>
+<p>fifteenth</p>
+<p>sixteenth</p>
+<p>seventeenth</p>
+<p>eighteenth</p>
+<p>nineteenth</p>
+<p>twentieth</p>
+<p>odd number</p>
+<p>even numbers</p>
+<p>Addition</p>
+<p>Subtraction</p>
+<p>Multiplication </p>
+<p>Division</p>
+<p>Red</p>
+<p>Orange</p>
+<p>Yellow</p>
+<p>Green</p>
+<p>Blue</p>
+<p>Purple</p>
+<p>Pink</p>
+<p>Brown</p>
+<p>White</p>
+<p>Black</p>
+<p>Gray</p>
+<p>Beige</p>
+<p>Turquoise</p>
+<p>Indigo</p>
+<p>Lavender</p>
+<p>United States</p>
+<p>United Kingdom</p>
+<p>Canada</p>
+<p>Australia</p>
+<p>Germany</p>
+<p>France</p>
+<p>Italy</p>
+<p>Spain</p>
+<p>China</p>
+<p>Japan</p>
+<p>India</p>
+<p>Brazil</p>
+<p>Mexico</p>
+<p>Russia</p>
+<p>South Africa</p>
+<p>Argentina</p>
+<p>Saudi Arabia</p>
+<p>Egypt</p>
+<p>Nigeria</p>
+<p>Kenya</p>
+<p>Africa</p>
+<p>Antarctica</p>
+<p>Asia</p>
+<p>Europe</p>
+<p>North America</p>
+<p>South America</p>
+<p>Australia</p>
+<p>Planet</p>
+<p>Globe</p>
+<p>World</p>
+<p>Earth</p>
+<p>Terra</p>
+<p>Gaia</p>
+<p>Orb</p>
+<p>Sphere</p>
+<p>Land</p>
+<p>Soil</p>
+<p>Ground</p>
+<p>Environment</p>
+<p>Nature</p>
+<p>Biosphere</p>
+<p>Ecosystem</p>
+<p>Habitat</p>
+<p>Terrain</p>
+<p>Surface</p>
+<p>Crust</p>
+<p>Mantle</p>
+<p>Universe</p>
+<p>Cosmos</p>
+<p>Outer space</p>
+<p>Galaxy</p>
+<p>Star</p>
+<p>Planet</p>
+<p>Solar system</p>
+<p>Astronaut</p>
+<p>Rocket</p>
+<p>Satellite</p>
+<p>Comet</p>
+<p>Asteroid</p>
+<p>Meteoroid</p>
+<p>Black hole</p>
+<p>Nebula</p>
+<p>Constellation</p>
+<p>Spacecraft</p>
+<p>Lunar</p>
+<p>Gravity</p>
+<p>Orbit</p>
+<p>Environment</p>
+<p>Wilderness</p>
+<p>Wildlife</p>
+<p>Ecosystem</p>
+<p>Habitat</p>
+<p>Flora</p>
+<p>Fauna</p>
+<p>Conservation</p>
+<p>Biodiversity</p>
+<p>Landscape</p>
+<p>Scenery</p>
+<p>Natural resources</p>
+<p>Ecology</p>
+<p>Sustainability</p>
+<p>Wilderness</p>
+<p>Greenery</p>
+<p>Climate</p>
+<p>Weather</p>
+<p>Forest</p>
+<p>Ocean</p>
+<p>Dog</p>
+<p>Cat</p>
+<p>Elephant</p>
+<p>Lion</p>
+<p>Tiger</p>
+<p>Giraffe</p>
+<p>Zebra</p>
+<p>Monkey</p>
+<p>Gorilla</p>
+<p>Bear</p>
+<p>Panda</p>
+<p>Koala</p>
+<p>Kangaroo</p>
+<p>Hippopotamus</p>
+<p>Wolf</p>
+<p>Fox</p>
+<p>Rabbit</p>
+<p>Deer</p>
+<p>Moose</p>
+<p>Squirrel</p>
+<p>Chipmunk</p>
+<p>Otter</p>
+<p>Beaver</p>
+<p>Badger</p>
+<p>Raccoon</p>
+<p>Skunk</p>
+<p>Mouse</p>
+<p>Rat</p>
+<p>Hamster</p>
+<p>Guinea pig</p>
+<p>Chinchilla</p>
+<p>Ferret</p>
+<p>Hedgehog</p>
+<p>Porcupine</p>
+<p>Bat</p>
+<p>Dolphin</p>
+<p>Whale</p>
+<p>Shark</p>
+<p>Octopus</p>
+<p>Squid</p>
+<p>Jellyfish</p>
+<p>Starfish</p>
+<p>Seahorse</p>
+<p>Crab</p>
+<p>Lobster</p>
+<p>Shrimp</p>
+<p>Oyster</p>
+<p>Clam</p>
+<p>Snail</p>
+<p>Slug</p>
+<p>Worm</p>
+<p>Caterpillar</p>
+<p>Butterfly</p>
+<p>Moth</p>
+<p>Bee</p>
+<p>Wasp</p>
+<p>Ant</p>
+<p>Grasshopper</p>
+<p>Cricket</p>
+<p>Ladybug</p>
+<p>Beetle</p>
+<p>Fly</p>
+<p>Mosquito</p>
+<p>Dragonfly</p>
+<p>Damselfly</p>
+<p>Firefly</p>
+<p>Cockroach</p>
+<p>Praying mantis</p>
+<p>Tarantula</p>
+<p>Black widow</p>
+<p>Scorpion</p>
+<p>Centipede</p>
+<p>Millipede</p>
+<p>Leech</p>
+<p>Earthworm</p>
+<p>Roundworm</p>
+<p>Tapeworm</p>
+<p>Flatworm</p>
+<p>Star nosed mole</p>
+<p>Platypus</p>
+<p>Echidna</p>
+<p>Tasmanian devil</p>
+<p>Kangaroo rat</p>
+<p>Wallaby</p>
+<p>Wombat</p>
+<p>Quokka</p>
+<p>Koala</p>
+<p>Tasmanian tiger</p>
+<p>Dingo</p>
+<p>Quoll</p>
+<p>Numbat</p>
+<p>Bilby</p>
+<p>Bandicoot</p>
+<p>Sugar glider</p>
+<p>Flying fox</p>
+<p>Red panda</p>
+<p>Fennec fox</p>
+<p>Arctic fox</p>
+<p>Gray wolf</p>
+<p>Coyote</p>
+<p>African wild dog</p>
+<p>Maned wolf</p>
+<p>Red fox</p>
+<p>Bengal tiger</p>
+<p>Siberian tiger</p>
+<p>Sumatran tiger</p>
+<p>White tiger</p>
+<p>Golden tiger</p>
+<p>Malayan tiger</p>
+<p>Leopard</p>
+<p>Snow leopard</p>
+<p>Cheetah</p>
+<p>Jaguar</p>
+<p>Cougar</p>
+<p>Lynx</p>
+<p>Bobcat</p>
+<p>Caracal</p>
+<p>Ocelot</p>
+<p>Serval</p>
+<p>Margay</p>
+<p>Oncilla</p>
+<p>Rusty spotted cat</p>
+<p>Puma</p>
+<p>Lion</p>
+<p>African lion</p>
+<p>Asiatic lion</p>
+<p>Mountain lion</p>
+<p>Black panther</p>
+<p>White lion</p>
+<p>King cheetah</p>
+<p>Pallas's cat</p>
+<p>Jaguarundi</p>
+<p>Canadian lynx</p>
+<p>Iberian lynx</p>
+<p>Arabian leopard</p>
+<p>Amur leopard</p>
+<p>Clouded leopard</p>
+<p>Fishing cat</p>
+<p>Leopard cat</p>
+<p>Marbled cat</p>
+<p>Sand cat</p>
+<p>Tiger cat</p>
+<p>Wildcat</p>
+<p>American curl</p>
+<p>American shorthair</p>
+<p>American wirehair</p>
+<p>Balinese</p>
+<p>Bengal</p>
+<p>Car</p>
+<p>Truck</p>
+<p>Motorcycle</p>
+<p>Bicycle</p>
+<p>Bus</p>
+<p>Van</p>
+<p>Train</p>
+<p>Boat</p>
+<p>Ship</p>
+<p>Airplane</p>
+<p>Helicopter</p>
+<p>Jet</p>
+<p>Submarine</p>
+<p>Scooter</p>
+<p>Tractor</p>
+<p>Segway</p>
+<p>Skateboard</p>
+<p>Hovercraft</p>
+<p>Carrot</p>
+<p>Potato</p>
+<p>Tomato</p>
+<p>Onion</p>
+<p>Lettuce</p>
+<p>Cucumber</p>
+<p>Bell pepper</p>
+<p>Spinach</p>
+<p>Broccoli</p>
+<p>Cauliflower</p>
+<p>Green beans</p>
+<p>Peas</p>
+<p>Eggplant</p>
+<p>Zucchini</p>
+<p>Radish</p>
+<p>Celery</p>
+<p>Corn</p>
+<p>Asparagus</p>
+<p>Mushroom</p>
+<p>Beet</p>
+<p>Apple</p>
+<p>Banana</p>
+<p>Orange</p>
+<p>Mango</p>
+<p>Pineapple</p>
+<p>Strawberry</p>
+<p>Watermelon</p>
+<p>Grape</p>
+<p>Kiwi</p>
+<p>Peach</p>
+<p>Pear</p>
+<p>Cherry</p>
+<p>Blueberry</p>
+<p>Raspberry</p>
+<p>Blackberry</p>
+<p>Lemon</p>
+<p>Lime</p>
+<p>Papaya</p>
+<p>Avocado</p>
+<p>Plum</p>
+<p>Doctor</p>
+<p>Teacher</p>
+<p>Engineer</p>
+<p>Nurse</p>
+<p>Lawyer</p>
+<p>Accountant</p>
+<p>Programmer</p>
+<p>Chef</p>
+<p>Scientist</p>
+<p>Artist</p>
+<p>Architect</p>
+<p>Police officer</p>
+<p>Firefighter</p>
+<p>Paramedic</p>
+<p>Dentist</p>
+<p>Pharmacist</p>
+<p>Veterinarian</p>
+<p>Electrician</p>
+<p>Plumber</p>
+<p>Carpenter</p>
+<p>Mechanic</p>
+<p>Pilot</p>
+<p>Flight attendant</p>
+<p>Librarian</p>
+<p>Professor</p>
+<p>Researcher</p>
+<p>Journalist</p>
+<p>Writer</p>
+<p>Editor</p>
+<p>Translator</p>
+<p>Actor</p>
+<p>Musician</p>
+<p>Dancer</p>
+<p>Singer</p>
+<p>Athlete</p>
+<p>Coach</p>
+<p>Personal trainer</p>
+<p>Financial advisor</p>
+<p>Real estate agent</p>
+<p>Salesperson</p>
+<p>Marketing manager</p>
+<p>Human resources manager</p>
+<p>Customer service representative</p>
+<p>Receptionist</p>
+<p>Administrative assistant</p>
+<p>Secretary</p>
+<p>Executive assistant</p>
+<p>Event planner</p>
+<p>Graphic designer</p>
+<p>Social media manager</p>
+<p>Kitchen</p>
+<p>Refrigerator</p>
+<p>Stove</p>
+<p>Oven</p>
+<p>Microwave</p>
+<p>Dishwasher</p>
+<p>Sink</p>
+<p>Cabinets</p>
+<p>Countertop</p>
+<p>Toaster</p>
+<p>Blender</p>
+<p>Coffee maker</p>
+<p>Kettle</p>
+<p>Cutting board</p>
+<p>Mixing bowls</p>
+<p>Colander</p>
+<p>Pots and pans</p>
+<p>Utensils </p>
+<p>spoons</p>
+<p>forks</p>
+<p>knives</p>
+<p>Plates</p>
+<p>Bowls</p>
+<p>Glasses</p>
+<p>Mugs</p>
+<p>Tupperware</p>
+<p>Can opener</p>
+<p>Corkscrew</p>
+<p>Grater</p>
+<p>Living Room</p>
+<p>Sofa</p>
+<p>Armchair</p>
+<p>Coffee table</p>
+<p>TV stand</p>
+<p>Bookshelf</p>
+<p>Lamp</p>
+<p>Rug</p>
+<p>Cushions</p>
+<p>Throw blanket</p>
+<p>Remote control</p>
+<p>Coasters</p>
+<p>Wall art</p>
+<p>Curtains</p>
+<p>Vase</p>
+<p>Plant</p>
+<p>Picture frames</p>
+<p>Side table</p>
+<p>Ottoman</p>
+<p>Floor lamp</p>
+<p>Fireplace</p>
+<p>Bedroom</p>
+<p>Bed</p>
+<p>Mattress</p>
+<p>Nightstand</p>
+<p>Dresser</p>
+<p>Wardrobe</p>
+<p>Shirt</p>
+<p>T shirt</p>
+<p>Blouse</p>
+<p>Polo shirt</p>
+<p>Tank top</p>
+<p>Sweater</p>
+<p>Cardigan</p>
+<p>Hoodie</p>
+<p>Jacket</p>
+<p>Coat</p>
+<p>Blazer</p>
+<p>Suit</p>
+<p>Dress</p>
+<p>Skirt</p>
+<p>Pants</p>
+<p>Jeans</p>
+<p>Shorts</p>
+<p>Leggings</p>
+<p>Trousers</p>
+<p>Capris</p>
+<p>Jumpsuit</p>
+<p>Romper</p>
+<p>Overalls</p>
+<p>Tunic</p>
+<p>Vest</p>
+<p>Tie</p>
+<p>Bow tie</p>
+<p>Scarf</p>
+<p>Shawl</p>
+<p>Wrap</p>
+<p>Poncho</p>
+<p>Kimono</p>
+<p>Robe</p>
+<p>Bathrobe</p>
+<p>Onesie</p>
+<p>Bodysuit</p>
+<p>Camisole</p>
+<p>Petticoat</p>
+<p>Petticoat</p>
+<p>Petticoat</p>
+<p>Corset</p>
+<p>Bra</p>
+<p>Panties</p>
+<p>Boxers</p>
+<p>Briefs</p>
+<p>Thong</p>
+<p>Socks</p>
+<p>Tights</p>
+<p>Leg warmers</p>
+<p>Stockings</p>
+<p>Gloves</p>
+<p>Mittens</p>
+<p>Arm warmers</p>
+<p>Wristbands</p>
+<p>Headband</p>
+<p>Hat</p>
+<p>Beanie</p>
+<p>Cap</p>
+<p>Beret</p>
+<p>Fedora</p>
+<p>Sun hat</p>
+<p>Visor</p>
+<p>Bonnet</p>
+<p>Scarf</p>
+<p>Hairband</p>
+<p>Hair clip</p>
+<p>Hair tie</p>
+<p>Bobby pin</p>
+<p>Earmuffs</p>
+<p>Sunglasses</p>
+<p>Eyeglasses</p>
+<p>Goggles</p>
+<p>Safety glasses</p>
+<p>Necklace</p>
+<p>Pendant</p>
+<p>Choker</p>
+<p>Chain</p>
+<p>Bracelet</p>
+<p>Bangle</p>
+<p>Cuff</p>
+<p>Anklet</p>
+<p>Ring</p>
+<p>Earrings</p>
+<p>Studs</p>
+<p>Hoops</p>
+<p>Dangly earrings</p>
+<p>Brooch</p>
+<p>Pin</p>
+<p>Lapel pin</p>
+<p>Badge</p>
+<p>Patch</p>
+<p>Embroidery</p>
+<p>Appliqué</p>
+<p>Rhinestones</p>
+<p>Sequins</p>
+<p>Buttons</p>
+<p>Zippers</p>
+<p>Buckles</p>
+<p>Belts</p>
+<p>Suspenders</p>
+<p>Apple</p>
+<p>Banana</p>
+<p>Orange</p>
+<p>Grape</p>
+<p>Strawberry</p>
+<p>Watermelon</p>
+<p>Pineapple</p>
+<p>Mango</p>
+<p>Kiwi</p>
+<p>Peach</p>
+<p>Pear</p>
+<p>Cherry</p>
+<p>Blueberry</p>
+<p>Raspberry</p>
+<p>Blackberry</p>
+<p>Lemon</p>
+<p>Lime</p>
+<p>Avocado</p>
+<p>Tomato</p>
+<p>Potato</p>
+<p>Carrot</p>
+<p>Onion</p>
+<p>Garlic</p>
+<p>Lettuce</p>
+<p>Spinach</p>
+<p>Broccoli</p>
+<p>Cauliflower</p>
+<p>Cucumber</p>
+<p>Bell pepper</p>
+<p>Eggplant</p>
+<p>Mushroom</p>
+<p>Zucchini</p>
+<p>Corn</p>
+<p>Rice</p>
+<p>Bread</p>
+<p>Pasta</p>
+<p>Noodle</p>
+<p>Cereal</p>
+<p>Oatmeal</p>
+<p>Pancake</p>
+<p>Waffle</p>
+<p>Egg</p>
+<p>Bacon</p>
+<p>Sausage</p>
+<p>Ham</p>
+<p>Chicken</p>
+<p>Beef</p>
+<p>Pork</p>
+<p>Fish</p>
+<p>Shrimp</p>
+<p>Sunny</p>
+<p>Cloudy</p>
+<p>Rainy</p>
+<p>Windy</p>
+<p>Stormy</p>
+<p>Snowy</p>
+<p>Foggy</p>
+<p>Overcast</p>
+<p>Hazy</p>
+<p>Clear</p>
+<p>Partly cloudy</p>
+<p>Thunderstorm</p>
+<p>Lightning</p>
+<p>Thunder</p>
+<p>Rainstorm</p>
+<p>Snowstorm</p>
+<p>Blizzard</p>
+<p>Drizzle</p>
+<p>Shower</p>
+<p>Sleet</p>
+<p>Ice</p>
+<p>Frost</p>
+<p>Mist</p>
+<p>Dew</p>
+<p>Rainbow</p>
+<p>Sunbeam</p>
+<p>Sunlight</p>
+<p>Heatwave</p>
+<p>Cold snap</p>
+<p>Breeze</p>
+<p>Gust</p>
+<p>Gale</p>
+<p>Hurricane</p>
+<p>Tornado</p>
+<p>Typhoon</p>
+<p>Monsoon</p>
+<p>Drought</p>
+<p>Flood</p>
+<p>Mudslide</p>
+<p>Avalanche</p>
+<p>Heat index</p>
+<p>Wind chill</p>
+<p>Humidity</p>
+<p>Temperature</p>
+<p>Barometer</p>
+<p>Thermometer</p>
+<p>Anemometer</p>
+<p>Rain gauge</p>
+<p>Cloud cover</p>
+<p>Atmospheric pressure</p>
+<p>Happy</p>
+<p>Sad</p>
+<p>Angry</p>
+<p>Excited</p>
+<p>Scared</p>
+<p>Nervous</p>
+<p>Calm</p>
+<p>Relaxed</p>
+<p>Anxious</p>
+<p>Depressed</p>
+<p>Joyful</p>
+<p>Content</p>
+<p>Grateful</p>
+<p>Frustrated</p>
+<p>Surprised</p>
+<p>Disappointed</p>
+<p>Proud</p>
+<p>Confident</p>
+<p>Hopeful</p>
+<p>Curious</p>
+<p>Enthusiastic</p>
+<p>Bored</p>
+<p>Lonely</p>
+<p>Loved</p>
+<p>Rejected</p>
+<p>Guilty</p>
+<p>Jealous</p>
+<p>Insecure</p>
+<p>Overwhelmed</p>
+<p>Optimistic</p>
+<p>Pessimistic</p>
+<p>Amused</p>
+<p>Confused</p>
+<p>Embarrassed</p>
+<p>Tired</p>
+<p>Energetic</p>
+<p>Irritated</p>
+<p>Grumpy</p>
+<p>Shy</p>
+<p>Regretful</p>
+<p>Satisfied</p>
+<p>Uncomfortable</p>
+<p>Worried</p>
+<p>Relieved</p>
+<p>Empathetic</p>
+<p>Compassionate</p>
+<p>Apathetic</p>
+<p>Indifferent</p>
+<p>Overjoyed</p>
+<p>Melancholy</p>
+<p>Family and Relationships</p>
+<p>Health</p>
+<p>Body</p>
+<p>Wellness</p>
+<p>Fitness</p>
+<p>Exercise</p>
+<p>Nutrition</p>
+<p>Diet</p>
+<p>Hygiene</p>
+<p>Cleanliness</p>
+<p>Sleep</p>
+<p>Rest</p>
+<p>Relaxation</p>
+<p>Stress</p>
+<p>Anxiety</p>
+<p>Depression</p>
+<p>Mental health</p>
+<p>Physical health</p>
+<p>Well being</p>
+<p>Medicine</p>
+<p>Doctor</p>
+<p>Physician</p>
+<p>Nurse</p>
+<p>Surgeon</p>
+<p>Dentist</p>
+<p>Optometrist</p>
+<p>Pharmacist</p>
+<p>Patient</p>
+<p>Hospital</p>
+<p>Clinic</p>
+<p>Pharmacy</p>
+<p>Appointment</p>
+<p>Check up</p>
+<p>Diagnosis</p>
+<p>Treatment</p>
+<p>Therapy</p>
+<p>Medication</p>
+<p>Prescription</p>
+<p>Vaccine</p>
+<p>Immunization</p>
+<p>Allergy</p>
+<p>Infection</p>
+<p>Disease</p>
+<p>Illness</p>
+<p>Injury</p>
+<p>Pain</p>
+<p>Symptom</p>
+<p>Fever</p>
+<p>Cold</p>
+<p>Flu</p>
+<p>Headache</p>
+<p>Sore throat</p>
+<p>Cough</p>
+<p>Runny nose</p>
+<p>Fatigue</p>
+<p>Weakness</p>
+<p>Nausea</p>
+<p>Vomiting</p>
+<p>Diarrhea</p>
+<p>Constipation</p>
+<p>Heart</p>
+<p>Lungs</p>
+<p>Brain</p>
+<p>Stomach</p>
+<p>Liver</p>
+<p>Kidneys</p>
+<p>Intestines</p>
+<p>Bones</p>
+<p>Muscles</p>
+<p>Skin</p>
+<p>Hair</p>
+<p>Eyes</p>
+<p>Ears</p>
+<p>Nose</p>
+<p>Mouth</p>
+<p>Teeth</p>
+<p>Gums</p>
+<p>Tongue</p>
+<p>Throat</p>
+<p>Heart rate</p>
+<p>Blood pressure</p>
+<p>Cholesterol</p>
+<p>Blood sugar</p>
+<p>BMI (Body Mass Index)</p>
+<p>Weight</p>
+<p>Height</p>
+<p>Fitness level</p>
+<p>Hydration</p>
+<p>Exercise routine</p>
+<p>Workouts</p>
+<p>Physical activity</p>
+<p>Cardiovascular exercise</p>
+<p>Strength training</p>
+<p>Flexibility</p>
+<p>Stretching</p>
+<p>Yoga</p>
+<p>Pilates</p>
+<p>Meditation</p>
+<p>Breathing exercises</p>
+<p>Relaxation techniques</p>
+<p>Self care</p>
+<p>Mother</p>
+<p>Father</p>
+<p>Parent</p>
+<p>Child</p>
+<p>Son</p>
+<p>Daughter</p>
+<p>Sibling</p>
+<p>Brother</p>
+<p>Sister</p>
+<p>Grandparent</p>
+<p>Grandfather</p>
+<p>Grandmother</p>
+<p>Grandchild</p>
+<p>Grandson</p>
+<p>Granddaughter</p>
+<p>Aunt</p>
+<p>Uncle</p>
+<p>Niece</p>
+<p>Nephew</p>
+<p>Cousin</p>
+<p>Spouse</p>
+<p>Husband</p>
+<p>Wife</p>
+<p>Partner</p>
+<p>Boyfriend</p>
+<p>Girlfriend</p>
+<p>Fiancé</p>
+<p>Fiancée</p>
+<p>In law</p>
+<p>Mother in law</p>
+<p>Father in law</p>
+<p>Brother in law</p>
+<p>Sister in law</p>
+<p>Son in law</p>
+<p>Daughter in law</p>
+<p>Step parent</p>
+<p>Step mother</p>
+<p>Step father</p>
+<p>Step child</p>
+<p>Step son</p>
+<p>Step daughter</p>
+<p>Step sibling</p>
+<p>Step brother</p>
+<p>Step sister</p>
+<p>Foster parent</p>
+<p>Foster child</p>
+<p>Guardian</p>
+<p>Ward</p>
+<p>Adoptive parent</p>
+<p>Adopted child</p>
+<p>Education</p>
+<p>School</p>
+<p>Learning</p>
+<p>Classroom</p>
+<p>Teacher</p>
+<p>Student</p>
+<p>Lesson</p>
+<p>Subject</p>
+<p>Curriculum</p>
+<p>Textbook</p>
+<p>Workbook</p>
+<p>Assignment</p>
+<p>Homework</p>
+<p>Test</p>
+<p>Exam</p>
+<p>Quiz</p>
+<p>Grade</p>
+<p>Report card</p>
+<p>Attendance</p>
+<p>Absence</p>
+<p>Tardy</p>
+<p>Classmate</p>
+<p>Group work</p>
+<p>Project</p>
+<p>Presentation</p>
+<p>Study</p>
+<p>Study group</p>
+<p>Study materials</p>
+<p>Library</p>
+<p>Books</p>
+<p>Reading</p>
+<p>Writing</p>
+<p>Arithmetic</p>
+<p>Mathematics</p>
+<p>Algebra</p>
+<p>Geometry</p>
+<p>Calculus</p>
+<p>Statistics</p>
+<p>Science</p>
+<p>Biology</p>
+<p>Chemistry</p>
+<p>Physics</p>
+<p>Earth science</p>
+<p>Environmental science</p>
+<p>Social studies</p>
+<p>History</p>
+<p>Geography</p>
+<p>Civics</p>
+<p>Economics</p>
+<p>Government</p>
+<p>Language arts</p>
+<p>English</p>
+<p>Literature</p>
+<p>Writing</p>
+<p>Grammar</p>
+<p>Vocabulary</p>
+<p>Spelling</p>
+<p>Reading comprehension</p>
+<p>Phonics</p>
+<p>Literature circle</p>
+<p>Creative writing</p>
+<p>Essay</p>
+<p>Paragraph</p>
+<p>Sentence</p>
+<p>Word</p>
+<p>Phrase</p>
+<p>Paragraph</p>
+<p>Composition</p>
+<p>Narrative</p>
+<p>Expository writing</p>
+<p>Persuasive writing</p>
+<p>Research</p>
+<p>Citation</p>
+<p>Plagiarism</p>
+<p>Bibliography</p>
+<p>Reference</p>
+<p>Encyclopedia</p>
+<p>Dictionary</p>
+<p>Thesaurus</p>
+<p>Internet</p>
+<p>Website</p>
+<p>Search engine</p>
+<p>Online resources</p>
+<p>Multimedia</p>
+<p>Audiovisual</p>
+<p>Video</p>
+<p>Audio</p>
+<p>Presentation software</p>
+<p>Slides</p>
+<p>PowerPoint</p>
+<p>Google Slides</p>
+<p>Interactive whiteboard</p>
+<p>Smartboard</p>
+<p>Classroom technology</p>
+<p>Computer</p>
+<p>Laptop</p>
+<p>Tablet</p>
+<p>Smartphone</p>
+<p>App</p>
+<p>Software</p>
+<p>Hardware</p>
+<p>Internet safety</p>
+<p>Digital citizenship</p>
+<p>Cyberbullying</p>
+<p>Online etiquette</p>
+<p>Social media</p>
+<p>Communication</p>
+<p>Collaboration</p>
+<p>Critical thinking</p>
+<p>Problem solving</p>
+<p>Creativity</p>
+<p>Innovation</p>
+<p>Inquiry</p>
+<p>Investigation</p>
+<p>Observation</p>
+<p>Experiment</p>
+<p>Hypothesis</p>
+<p>Data</p>
+<p>Conclusion</p>
+<p>Analysis</p>
+<p>Interpretation</p>
+<p>Observation</p>
+<p>Discovery</p>
+<p>Exploration</p>
+<p>Field trip</p>
+<p>Museum</p>
+<p>Aquarium</p>
+<p>Zoo</p>
+<p>Nature center</p>
+<p>Botanical garden</p>
+<p>Planetarium</p>
+<p>Observatory</p>
+<p>Historical site</p>
+<p>Art museum</p>
+<p>Science museum</p>
+<p>Natural history museum</p>
+<p>Interactive exhibits</p>
+<p>Hands on activities</p>
+<p>Workshop</p>
+<p>Demonstration</p>
+<p>Lecture</p>
+<p>Seminar</p>
+<p>Workshop</p>
+<p>Conference</p>
+<p>Symposium</p>
+<p>Panel discussion</p>
+<p>Keynote speech</p>
+<p>Presentation</p>
+<p>Speaker</p>
+<p>Audience</p>
+<p>Participant</p>
+<p>Workshop</p>
+<p>Course</p>
+<p>Workshop</p>
+<p>Training</p>
+<p>Seminar</p>
+<p>Webinar</p>
+<p>Workshop</p>
+<p>Retreat</p>
+<p>Conference</p>
+<p>Lecture series</p>
+<p>Certificate</p>
+<p>Diploma</p>
+<p>Degree</p>
+<p>Bachelor's degree</p>
+<p>Master's degree</p>
+<p>Doctorate</p>
+<p>PhD</p>
+<p>Associate's degree</p>
+<p>Vocational school</p>
+<p>Technical school</p>
+<p>Community college</p>
+<p>College</p>
+<p>University</p>
+<p>Department</p>
+<p>Faculty</p>
+<p>Professor</p>
+<p>Instructor</p>
+<p>Lecturer</p>
+<p>Tutor</p>
+<p>Graduate student</p>
+<p>Undergraduate student</p>
+<p>Alumni</p>
+<p>Campus</p>
+<p>Dormitory</p>
+<p>Residence hall</p>
+<p>Student union</p>
+<p>Cafeteria</p>
+<p>Dining hall</p>
+<p>Gymnasium</p>
+<p>Sports facilities</p>
+<p>Athletic field</p>
+<p>Track</p>
+<p>Pool</p>
+<p>Court</p>
+<p>Auditorium</p>
+<p>Theater</p>
+<p>Stage</p>
+<p>Rehearsal</p>
+<p>Performance</p>
+<p>Budget</p>
+<p>Savings</p>
+<p>Investment</p>
+<p>Retirement</p>
+<p>Income</p>
+<p>Expense</p>
+<p>Debt</p>
+<p>Credit</p>
+<p>Loan</p>
+<p>Mortgage</p>
+<p>Interest</p>
+<p>Principal</p>
+<p>Asset</p>
+<p>Liability</p>
+<p>Balance</p>
+<p>Cash flow</p>
+<p>Financial goal</p>
+<p>Emergency fund</p>
+<p>Compound interest</p>
+<p>Annual percentage rate </p>
+<p>Credit score</p>
+<p>Credit report</p>
+<p>Bank account</p>
+<p>Checking account</p>
+<p>Savings account</p>
+<p>Certificate of deposit </p>
+<p>Money market account</p>
+<p>Mutual fund</p>
+<p>Stock</p>
+<p>Bond</p>
+<p>Dividend</p>
+<p>Capital gains</p>
+<p>Portfolio</p>
+<p>Asset allocation</p>
+<p>Diversification</p>
+<p>Risk tolerance</p>
+<p>Inflation</p>
+<p>Deflation</p>
+<p>Recession</p>
+<p>Economic downturn</p>
+<p>Bull market</p>
+<p>Bear market</p>
+<p>Exchange rate</p>
+<p>Currency</p>
+<p>foreign exchange</p>
+<p>Hedge fund</p>
+<p>Tax</p>
+<p>Tax deduction</p>
+<p>Tax credit</p>
+<p>Tax return</p>
+<p>Computer</p>
+<p>Laptop</p>
+<p>Tablet</p>
+<p>Smartphone</p>
+<p>Smartwatch</p>
+<p>Headphones</p>
+<p>Earbuds</p>
+<p>Speaker</p>
+<p>Television</p>
+<p>Monitor</p>
+<p>Keyboard</p>
+<p>Mouse</p>
+<p>Printer</p>
+<p>Scanner</p>
+<p>Router</p>
+<p>Modem</p>
+<p>Ethernet</p>
+<p>Bluetooth</p>
+<p>Hard drive</p>
+<p>Solid state drive</p>
+<p>Cloud storage</p>
+<p>Operating system</p>
+<p>Software</p>
+<p>Application </p>
+<p>Browser</p>
+<p>Social media</p>
+<p>Website</p>
+<p>Search engine</p>
+<p>Email</p>
+<p>Video conferencing</p>
+<p>Virtual reality </p>
+<p>Augmented reality </p>
+<p>Gaming console</p>
+<p>Controller</p>
+<p>VR headset</p>
+<p>AR glasses</p>
+<p>Fitness tracker</p>
+<p>Drone</p>
+<p>Action camera</p>
+<p>Digital camera</p>
+<p>Camcorder</p>
+<p>GPS</p>
+<p>Satellite navigation</p>
+<p>E reader</p>
+<p>Smart home devices</p>
+<p>Thermostat</p>
+<p>Security camera</p>
+<p>Robot</p>
+<p>Sports</p>
+<p>Photography</p>
+<p>Gardening</p>
+<p>Cooking</p>
+<p>Baking</p>
+<p>Painting</p>
+<p>Drawing</p>
+<p>Sketching</p>
+<p>Sculpting</p>
+<p>Pottery</p>
+<p>Knitting</p>
+<p>Crocheting</p>
+<p>Sewing</p>
+<p>Quilting</p>
+<p>Crafting</p>
+<p>Woodworking</p>
+<p>Metalworking</p>
+<p>Model building</p>
+<p>Origami</p>
+<p>Calligraphy</p>
+<p>Writing</p>
+<p>Reading</p>
+<p>Playing musical instruments</p>
+<p>Singing</p>
+<p>Dancing</p>
+<p>Yoga</p>
+<p>Meditation</p>
+<p>Hiking</p>
+<p>Camping</p>
+<p>Fishing</p>
+<p>Hunting</p>
+<p>Birdwatching</p>
+<p>Stargazing</p>
+<p>Astronomy</p>
+<p>Collecting stamps</p>
+<p>Collecting coins</p>
+<p>Collecting rocks</p>
+<p>Collecting seashells</p>
+<p>Collecting antiques</p>
+<p>Collecting memorabilia</p>
+<p>Traveling</p>
+<p>Exploring</p>
+<p>Sightseeing</p>
+<p>Adventure sports</p>
+<p>Scuba diving</p>
+<p>Skydiving</p>
+<p>Paragliding</p>
+<p>Mountain climbing</p>
+<p>Surfing</p>
+<p>Skateboarding</p>
+<p>If it rains , the streets flood .</p>
+<p>If I eat too much , I feel sick .</p>
+<p>If she works hard , she succeeds .</p>
+<p>If you mix blue and yellow , you get green .</p>
+<p>If they arrive late , they miss the bus .</p>
+<p>If he exercises regularly , he stays healthy .</p>
+<p>If the sun sets , it gets dark .</p>
+<p>If birds chirp , it's morning .</p>
+<p>If it snows heavily , schools close .</p>
+<p>If we don't water the plants , they die .</p>
+<p>If I study , I understand better .</p>
+<p>If she practices piano , she improves .</p>
+<p>If you drop the glass , it breaks .</p>
+<p>If they save money , they can buy a house .</p>
+<p>If he drinks coffee late , he can't sleep .</p>
+<p>If it rains tomorrow , I will take an umbrella .</p>
+<p>If she studies hard , she will pass the exam .</p>
+<p>If they finish their work early , they will go to the movies .</p>
+<p>If you water the plants , they will grow faster .</p>
+<p>If he practices regularly , he will become a better guitarist .</p>
+<p>If we save enough money , we will go on vacation next year .</p>
+<p>If the train arrives on time , I will catch it .</p>
+<p>If the sun sets early , it will get dark sooner .</p>
+<p>If you don't hurry , you will miss the bus .</p>
+<p>If she cooks dinner tonight , I will do the dishes .</p>
+<p>If they win the match , they will advance to the finals .</p>
+<p>If he misses the flight , he will have to reschedule .</p>
+<p>If I finish my project today , I will relax tomorrow .</p>
+<p>If they arrive late , the event will start without them .</p>
+<p>If you practice speaking English daily , you will improve quickly .</p>
+<p>If I won the lottery , I would buy a house . (Present conditional)</p>
+<p>If she studied more , she would be getting better grades . (Present continuous conditional)</p>
+<p>If they went to bed earlier , they would feel more rested . (Present conditional)</p>
+<p>If it rained , I would be staying indoors . (Present continuous conditional)</p>
+<p>If he listened to his doctor , he would be feeling better . (Present continuous conditional)</p>
+<p>If we had more time , we would be traveling more often . (Present continuous conditional)</p>
+<p>If you called me , I would be waiting for your call . (Present continuous conditional)</p>
+<p>If she spoke fluent French , she would be working in Paris . (Present conditional)</p>
+<p>If they understood the instructions , they would be doing better . (Present continuous conditional)</p>
+<p>If I had more experience , I would be applying for higher positions . (Present continuous conditional)</p>
+<p>If it snowed , we would be building a snowman . (Present continuous conditional)</p>
+<p>If he ate healthier , he would be feeling more energetic . (Present continuous conditional)</p>
+<p>If she practiced more , she would be playing the piano better . (Present continuous conditional)</p>
+<p>If they saved more money , they would be traveling around the world . (Present continuous conditional)</p>
+<p>If you exercised regularly , you would be feeling stronger . (Present continuous conditional)</p>
+<p>If I had studied harder , I would have passed the exam .</p>
+<p>If she had arrived on time , she would have caught the train .</p>
+<p>If they had listened to the weather forecast , they wouldn't have gotten caught in the rain .</p>
+<p>If he had saved money , he would have bought a car by now .</p>
+<p>If we had taken the earlier flight , we would have avoided the delay .</p>
+<p>If you had asked for help , I would have assisted you .</p>
+<p>If she had finished her degree , she would have pursued further education .</p>
+<p>If they had followed the instructions , they wouldn't have made mistakes .</p>
+<p>If I had known about the party , I would have attended .</p>
+<p>If he had practiced more , he would have performed better in the concert .</p>
+<p>If she had called earlier , I would have been available to chat .</p>
+<p>If they had studied abroad , they would have learned a new language .</p>
+<p>If you had exercised regularly , you would have been in better shape .</p>
+<p>If we had left earlier , we would have arrived at the destination on time .</p>
+<p>If he had cooked dinner , we would have enjoyed a delicious meal .</p>
+<p>If I had finished my work earlier , I would be relaxing now .</p>
+<p>If she had studied more , she would be performing better in the class .</p>
+<p>If they had saved money , they wouldn't be struggling financially .</p>
+<p>If he had listened to my advice , he would be in a better situation .</p>
+<p>If we had left on time , we wouldn't be stuck in traffic .</p>
+<p>If you had eaten breakfast , you wouldn't be hungry now .</p>
+<p>If she had taken the bus , she wouldn't be late for the meeting .</p>
+<p>If they had practiced more , they would be more skilled now .</p>
+<p>If I had remembered to bring my umbrella , I wouldn't be getting wet .</p>
+<p>If he had applied for the job , he would be working there now .</p>
+<p>If she had called earlier , I would be waiting for her call .</p>
+<p>If they had booked the tickets in advance , they would be traveling now .</p>
+<p>If you had exercised regularly , you would be feeling healthier now .</p>
+<p>If we had paid attention in class , we would be understanding the topic now .</p>
+<p>If he had cleaned his room , it would be tidy now .</p>
+<p>Simple Present</p>
+<p>I help my neighbor every day .</p>
+<p>I teach English at the local school .</p>
+<p>She plays the piano every evening .</p>
+<p>We drink coffee in the morning .</p>
+<p>They go for a walk after dinner .</p>
+<p>I read a book before bed .</p>
+<p>He cooks dinner for his family every evening .</p>
+<p>We listen to music while we work .</p>
+<p>They study together at the library .</p>
+<p>She practices yoga in the morning .</p>
+<p>The birds sing outside my window every morning .</p>
+<p>The sun rises in the east .</p>
+<p>The train arrives at 9 o'clock every morning .</p>
+<p>It rains a lot in the rainy season .</p>
+<p>The Earth revolves around the Sun .</p>
+<p>Present Perfect</p>
+<p>I have helped my neighbor too much this week .</p>
+<p>I have finished my homework .</p>
+<p>She has visited Paris several times .</p>
+<p>We have seen that movie before .</p>
+<p>They have lived in this city for ten years .</p>
+<p>He has studied Spanish for two years .</p>
+<p>The company has completed the project ahead of schedule .</p>
+<p>I have lost my keys again .</p>
+<p>We have traveled to many countries .</p>
+<p>She has finished her meal .</p>
+<p>They have met each other before .</p>
+<p>He has achieved his goals .</p>
+<p>I have read that book .</p>
+<p>We have spoken on the phone .</p>
+<p>She has found a new job .</p>
+<p>They have written many letters .</p>
+<p>Present Continuous</p>
+<p>I am helping my neighbor while he fixes up his house .</p>
+<p>I am working on my assignment .</p>
+<p>She is reading a book right now .</p>
+<p>We are listening to music at the moment .</p>
+<p>They are playing soccer in the park .</p>
+<p>He is writing an email to his friend .</p>
+<p>The students are studying for their exams .</p>
+<p>I am watching TV with my family .</p>
+<p>We are having dinner together tonight .</p>
+<p>She is cooking dinner in the kitchen .</p>
+<p>They are working on a new project at work .</p>
+<p>He is painting a picture in his room .</p>
+<p>The baby is sleeping peacefully in the crib .</p>
+<p>We are planning a trip for the summer vacation .</p>
+<p>She is practicing the piano in the living room .</p>
+<p>They are building a house in the neighborhood .</p>
+<p>Present Perfect Continuous</p>
+<p>I have been helping my neighbor since I moved in .</p>
+<p>I have been working on this project for hours .</p>
+<p>She has been studying English for the past year .</p>
+<p>We have been waiting for the bus since morning .</p>
+<p>They have been living in this city for five years .</p>
+<p>He has been working as a teacher for a long time .</p>
+<p>The children have been playing outside all afternoon .</p>
+<p>I have been trying to reach you on the phone .</p>
+<p>We have been traveling around Europe for weeks .</p>
+<p>She has been writing her novel for months .</p>
+<p>They have been building a house for their family .</p>
+<p>He has been learning to play the guitar since childhood .</p>
+<p>We have been waiting for this moment for so long .</p>
+<p>She has been teaching at the university for many years .</p>
+<p>They have been practicing for the upcoming concert .</p>
+<p>I have been working on improving my skills .</p>
+<p>Past Tense</p>
+<p>I helped my neighbor yesterday .</p>
+<p>I had helped my neighbor clean his attic before I fixed his car .</p>
+<p>I was helping my neighbor when he brought me iced tea .</p>
+<p>I had been helping my neighbor for a year before he finally thanked me .</p>
+<p>I helped my neighbor yesterday .</p>
+<p>I taught English at the local school last year .</p>
+<p>She played the piano yesterday evening .</p>
+<p>We drank coffee in the morning .</p>
+<p>They went for a walk after dinner .</p>
+<p>He cooked dinner for his family last night .</p>
+<p>I read a book before bed .</p>
+<p>We listened to music while we worked .</p>
+<p>They studied together at the library .</p>
+<p>She practiced yoga in the morning .</p>
+<p>Past Perfect</p>
+<p>I had helped my neighbor clean his attic before I fixed his car .</p>
+<p>I had finished my homework before I went to bed .</p>
+<p>She had visited Paris before she moved to London .</p>
+<p>We had seen that movie before it was released .</p>
+<p>I had helped my neighbor clean his attic before I fixed his car .</p>
+<p>She had visited Paris before she moved to London .</p>
+<p>We had finished our homework before we went to bed .</p>
+<p>They had seen that movie before it was released .</p>
+<p>He had studied Spanish for two years before he traveled to Spain .</p>
+<p>The company had completed the project ahead of schedule before the deadline .</p>
+<p>I had lost my keys again before I found them in my jacket pocket .</p>
+<p>We had traveled to many countries before we settled down .</p>
+<p>She had finished her meal before she left the restaurant .</p>
+<p>They had met each other before they realized they were classmates .</p>
+<p>Past Continuous</p>
+<p>I was helping my neighbor when he brought me iced tea .</p>
+<p>I was working on my assignment when the power went out .</p>
+<p>I was helping my neighbor when he brought me iced tea .</p>
+<p>She was reading a book when the phone rang .</p>
+<p>We were listening to music while we worked in the garden .</p>
+<p>They were playing soccer when it started to rain .</p>
+<p>He was writing an email when the power went out .</p>
+<p>The students were studying for their exams all night .</p>
+<p>I was watching TV when the doorbell rang .</p>
+<p>We were having dinner when the guests arrived .</p>
+<p>She was cooking dinner in the kitchen while listening to music .</p>
+<p>They were working on a new project when the boss called .</p>
+<p>Past Perfect Continuous</p>
+<p>I had been helping my neighbor for a year before he finally thanked me .</p>
+<p>I had been working on this project for hours when you called .</p>
+<p>I had been helping my neighbor for a year before he finally thanked me .</p>
+<p>She had been studying English for the past year before she took the proficiency test .</p>
+<p>We had been waiting for the bus for over an hour before it finally arrived .</p>
+<p>They had been living in this city for five years before they decided to move .</p>
+<p>He had been working as a teacher for a long time before he switched careers .</p>
+<p>The children had been playing outside all afternoon before it started raining .</p>
+<p>I had been trying to reach you on the phone for hours before I finally got through .</p>
+<p>We had been traveling around Europe for weeks before we ran out of money .</p>
+<p>She had been writing her novel for months before she finally finished it .</p>
+<p>They had been building a house for their family for years before they moved in .</p>
+<p>Future Tense</p>
+<p>I will help my neighbor tomorrow .</p>
+<p>I will have helped my neighbor a hundred times by the end of the month .</p>
+<p>I will be helping my neighbor next month when he moves .</p>
+<p>I will have been helping my neighbor for a year next month .</p>
+<p>I will help my neighbor tomorrow .</p>
+<p>She will sing at the concert next week .</p>
+<p>He will visit his parents this weekend .</p>
+<p>We will have dinner at 7 o'clock tonight .</p>
+<p>They will go on vacation next month .</p>
+<p>She will finish her project by the end of the week .</p>
+<p>He will buy a new car next year .</p>
+<p>We will start our journey early in the morning .</p>
+<p>They will meet us at the restaurant later .</p>
+<p>I will learn to play the guitar next summer .</p>
+<p>Future Perfect</p>
+<p>I will have helped my neighbor a hundred times by the end of the month .</p>
+<p>She will have finished her project before the deadline .</p>
+<p>He will have completed his degree by next year .</p>
+<p>We will have traveled to many countries by the time we retire .</p>
+<p>They will have moved to a new house by next month .</p>
+<p>She will have learned French by the end of the year .</p>
+<p>He will have saved enough money to buy a house by then .</p>
+<p>We will have finished our dinner by the time they arrive .</p>
+<p>They will have completed the project before the deadline .</p>
+<p>I will have written my book by next summer .</p>
+<p>Future Continuous</p>
+<p>I will be helping my neighbor next month when he moves .</p>
+<p>I will be helping my neighbor tomorrow .</p>
+<p>She will be studying for her exam at this time next week .</p>
+<p>He will be working on the project all day tomorrow .</p>
+<p>We will be traveling to Paris this time next month .</p>
+<p>They will be preparing for the party when you arrive .</p>
+<p>She will be cooking dinner when he gets home .</p>
+<p>He will be playing soccer with his friends this evening .</p>
+<p>We will be watching the sunset at the beach this time tomorrow .</p>
+<p>They will be discussing the plans for the future at the meeting next week .</p>
+<p>I will be sleeping when you call me tomorrow morning .</p>
+<p>I will be helping my neighbor tomorrow .</p>
+<p>She will be studying for her exam at this time next week .</p>
+<p>He will be working on the project all day tomorrow .</p>
+<p>We will be traveling to Paris this time next month .</p>
+<p>They will be preparing for the party when you arrive .</p>
+<p>She will be cooking dinner when he gets home .</p>
+<p>He will be playing soccer with his friends this evening .</p>
+<p>We will be watching the sunset at the beach this time tomorrow .</p>
+<p>They will be discussing the plans for the future at the meeting next week .</p>
+<p>I will be sleeping when you call me tomorrow morning .</p>
+<p>Future Perfect Continuous</p>
+<p>I will have been helping my neighbor for a year next month .</p>
+<p>I will have been helping my neighbor for an hour by the time you arrive .</p>
+<p>She will have been studying for the exam for two hours by noon .</p>
+<p>He will have been working on the project for three days straight by Friday .</p>
+<p>We will have been traveling for a month by the time we return home .</p>
+<p>They will have been preparing for the party for weeks when it finally happens .</p>
+<p>She will have been cooking dinner for an hour when he gets home .</p>
+<p>He will have been playing soccer with his friends for two hours by the time it gets dark .</p>
+<p>We will have been watching the sunset at the beach for an hour when you arrive .</p>
+<p>They will have been discussing the plans for hours by the time the meeting ends .</p>
+<p>I will have been sleeping for eight hours when you wake me up .</p>
+<p>The sun rose brightly over the horizon .</p>
+<p>She danced gracefully across the stage .</p>
+<p>The cat lazily stretched out in the sunlight .</p>
+<p>He eagerly awaited the arrival of his friends .</p>
+<p>The rain fell softly against the windowpane .</p>
+<p>They laughed heartily at the joke .</p>
+<p>The flowers bloomed beautifully in the garden .</p>
+<p>The bird chirped melodiously in the tree .</p>
+<p>She studied diligently for her exams .</p>
+<p>The baby giggled joyfully as it played .</p>
+<p>He sighed wearily after a long day at work .</p>
+<p>They chatted animatedly over a cup of coffee .</p>
+<p>The wind howled fiercely during the storm .</p>
+<p>The children ran excitedly around the playground .</p>
+<p>She sighed contentedly as she relaxed on the beach .</p>
+<p>He smiled warmly at the sight of his family .</p>
+<p>The leaves rustled softly in the breeze .</p>
+<p>They argued heatedly about the topic .</p>
+<p>The clock ticked steadily on the wall .</p>
+<p>She sang beautifully during the concert .</p>
+<p>The dog barked loudly at the mailman .</p>
+<p>He whistled cheerfully as he worked .</p>
+<p>The moon shone brightly in the night sky .</p>
+<p>They hugged tightly after being apart for so long .</p>
+<p>She waved goodbye sadly as the train departed .</p>
+<p>He yawned sleepily as he climbed into bed .</p>
+<p>The coffee tasted bitter after sitting for so long .</p>
+<p>They whispered conspiratorially in the corner .</p>
+<p>She gasped in surprise at the unexpected news .</p>
+<p>The fire crackled warmly in the fireplace .</p>
+<p>He frowned disapprovingly at the mess .</p>
+<p>The ocean roared angrily during the storm .</p>
+<p>They smiled gratefully at the kindness of strangers .</p>
+<p>She hummed softly while she worked .</p>
+<p>He chuckled quietly at the memory .</p>
+<p>The rain pattered softly against the roof .</p>
+<p>They sighed in relief when the ordeal was over .</p>
+<p>She blushed shyly when he complimented her .</p>
+<p>He grimaced in pain as he stubbed his toe .</p>
+<p>The car honked loudly in traffic .</p>
+<p>They laughed uproariously at the joke .</p>
+<p>She sighed in frustration at the computer crash .</p>
+<p>He whistled appreciatively at the sunset .</p>
+<p>The crowd cheered enthusiastically for the winning team .</p>
+<p>They hugged tightly to keep warm in the cold .</p>
+<p>She smiled reassuringly at her nervous friend .</p>
+<p>He smirked smugly after winning the argument .</p>
+<p>The baby gurgled happily in its mother's arms .</p>
+<p>The tree swayed gently in the breeze .</p>
+<p>They gazed lovingly into each other's eyes .</p>
+<p>She tiptoed quietly to avoid waking the baby .</p>
+<p>He trembled nervously before his big speech .</p>
+<p>The clock chimed loudly in the silence .</p>
+<p>They clapped enthusiastically at the end of the performance .</p>
+<p>She twirled gracefully across the dance floor .</p>
+<p>He sighed in resignation at the inevitable outcome .</p>
+<p>The snowflakes fluttered softly to the ground .</p>
+<p>They hugged tightly in farewell at the airport .</p>
+<p>She grinned mischievously at her friend's joke .</p>
+<p>He shivered uncontrollably in the cold .</p>
+<p>The river flowed peacefully through the valley .</p>
+<p>They laughed uproariously at the comedy show .</p>
+<p>She smiled warmly at the sight of her family .</p>
+<p>He frowned disapprovingly at the litter on the ground .</p>
+<p>The dog barked excitedly at the sight of its owner .</p>
+<p>They sighed in relief when they reached their destination .</p>
+<p>She gasped in horror at the sight of the accident .</p>
+<p>He whistled cheerfully as he walked down the street .</p>
+<p>The fire crackled merrily in the fireplace .</p>
+<p>They whispered conspiratorially in the corner of the room .</p>
+<p>She hummed softly to herself as she worked .</p>
+<p>He chuckled quietly at the memory of the joke .</p>
+<p>The rain pattered softly against the windowpane .</p>
+<p>They sighed contentedly as they relaxed on the beach .</p>
+<p>She blushed shyly at the compliment .</p>
+<p>He grimaced in pain as he stubbed his toe on the table .</p>
+<p>The car honked loudly as it drove past .</p>
+<p>They laughed heartily at the funny movie .</p>
+<p>She sighed in frustration as the computer crashed .</p>
+<p>He whistled appreciatively at the beautiful sunset .</p>
+<p>The crowd cheered loudly as the home team scored a goal .</p>
+<p>They hugged tightly to keep warm in the winter cold .</p>
+<p>She smiled reassuringly at her nervous friend .</p>
+<p>He smirked smugly after winning the argument .</p>
+<p>The baby giggled happily as it played with its toys .</p>
+<p>The tree swayed gently in the breeze .</p>
+<p>They gazed lovingly into each other's eyes .</p>
+<p>She tiptoed quietly so as not to wake the sleeping baby .</p>
+<p>He trembled nervously before his big speech .</p>
+<p>The clock chimed loudly in the silence .</p>
+<p>They clapped enthusiastically at the end of the performance .</p>
+<p>She twirled gracefully across the dance floor .</p>
+<p>He sighed in resignation at the inevitable outcome .</p>
+<p>The snowflakes drifted softly to the ground .</p>
+<p>They hugged tightly in farewell at the train station .</p>
+<p>She grinned mischievously at her friend's joke .</p>
+<p>He shivered uncontrollably in the cold .</p>
+<p>The river flowed peacefully through the countryside .</p>
+<p>They laughed uproariously at the comedy show .</p>
+<p>She smiled warmly at the sight of her family .</p>
+<p>Once upon a time , there was a tortoise and a hare who lived in the forest .</p>
+<p>The hare was very proud of his speed and often boasted about it to the other animals .</p>
+<p>The tortoise , on the other hand , was slow but steady and never bragged about his abilities .</p>
+<p>One day , the hare challenged the tortoise to a race .</p>
+<p>The tortoise accepted the challenge , and the race was set for the next day .</p>
+<p>On the day of the race , all the animals gathered to watch .</p>
+<p>The hare sprinted ahead as soon as the race began , leaving the tortoise far behind .</p>
+<p>Confident of his victory , the hare decided to take a nap under a tree halfway through the race .</p>
+<p>Meanwhile , the tortoise continued plodding along at his slow but steady pace .</p>
+<p>When the hare woke up , he realized that the tortoise was nowhere in sight .</p>
+<p>He quickly started running again , but it was too late .</p>
+<p>By the time he reached the finish line , the tortoise had already crossed it and won the race .</p>
+<p>The moral of the story is that slow and steady wins the race .</p>
+<p>be</p>
+<p>have</p>
+<p>do</p>
+<p>say</p>
+<p>get</p>
+<p>make</p>
+<p>go</p>
+<p>know</p>
+<p>take</p>
+<p>see</p>
+<p>come</p>
+<p>think</p>
+<p>look</p>
+<p>want</p>
+<p>give</p>
+<p>use</p>
+<p>find</p>
+<p>tell</p>
+<p>ask</p>
+<p>work</p>
+<p>seem</p>
+<p>feel</p>
+<p>try</p>
+<p>leave</p>
+<p>call</p>
+<p>should</p>
+<p>may</p>
+<p>include</p>
+<p>need</p>
+<p>become</p>
+<p>mean</p>
+<p>keep</p>
+<p>let</p>
+<p>begin</p>
+<p>seem</p>
+<p>help</p>
+<p>talk</p>
+<p>turn</p>
+<p>start</p>
+<p>show</p>
+<p>hear</p>
+<p>play</p>
+<p>run</p>
+<p>move</p>
+<p>like</p>
+<p>live</p>
+<p>believe</p>
+<p>hold</p>
+<p>bring</p>
+<p>happen</p>
+<p>write</p>
+<p>provide</p>
+<p>sit</p>
+<p>stand</p>
+<p>lose</p>
+<p>pay</p>
+<p>meet</p>
+<p>include</p>
+<p>continue</p>
+<p>set</p>
+<p>learn</p>
+<p>change</p>
+<p>lead</p>
+<p>understand</p>
+<p>watch</p>
+<p>follow</p>
+<p>stop</p>
+<p>create</p>
+<p>speak</p>
+<p>read</p>
+<p>allow</p>
+<p>add</p>
+<p>spend</p>
+<p>grow</p>
+<p>open</p>
+<p>walk</p>
+<p>win</p>
+<p>offer</p>
+<p>remember</p>
+<p>love</p>
+<p>consider</p>
+<p>appear</p>
+<p>buy</p>
+<p>wait</p>
+<p>serve</p>
+<p>die</p>
+<p>send</p>
+<p>expect</p>
+<p>build</p>
+<p>stay</p>
+<p>fall</p>
+<p>cut</p>
+<p>reach</p>
+<p>kill</p>
+<p>remain</p>
+<p>suggest</p>
+<p>raise</p>
+<p>pass</p>
+<p>sell</p>
+<p>require</p>
+<p>report</p>
+<p>decide</p>
+<p>pull</p>
+<p>break</p>
+<p>receive</p>
+<p>agree</p>
+<p>return</p>
+<p>explain</p>
+<p>hope</p>
+<p>develop</p>
+<p>carry</p>
+<p>break</p>
+<p>work</p>
+<p>play</p>
+<p>talk</p>
+<p>run</p>
+<p>move</p>
+<p>try</p>
+<p>turn</p>
+<p>ask</p>
+<p>need</p>
+<p>feel</p>
+<p>become</p>
+<p>leave</p>
+<p>put</p>
+<p>mean</p>
+<p>keep</p>
+<p>let</p>
+<p>begin</p>
+<p>seem</p>
+<p>help</p>
+<p>talk</p>
+<p>show</p>
+<p>hear</p>
+<p>play</p>
+<p>run</p>
+<p>move</p>
+<p>like</p>
+<p>live</p>
+<p>believe</p>
+<p>hold</p>
+<p>bring</p>
+<p>happen</p>
+<p>write</p>
+<p>provide</p>
+<p>sit</p>
+<p>stand</p>
+<p>lose</p>
+<p>pay</p>
+<p>meet</p>
+<p>include</p>
+<p>continue</p>
+<p>set</p>
+<p>learn</p>
+<p>change</p>
+<p>lead</p>
+<p>understand</p>
+<p>watch</p>
+<p>follow</p>
+<p>stop</p>
+<p>create</p>
+<p>speak</p>
+<p>read</p>
+<p>allow</p>
+<p>add</p>
+<p>spend</p>
+<p>grow</p>
+<p>open</p>
+<p>walk</p>
+<p>win</p>
+<p>offer</p>
+<p>remember</p>
+<p>love</p>
+<p>consider</p>
+<p>appear</p>
+<p>buy</p>
+<p>wait</p>
+<p>serve</p>
+<p>die</p>
+<p>send</p>
+<p>expect</p>
+<p>build</p>
+<p>stay</p>
+<p>fall</p>
+<p>cut</p>
+<p>reach</p>
+<p>kill</p>
+<p>remain</p>
+<p>suggest</p>
+<p>raise</p>
+<p>pass</p>
+<p>sell</p>
+<p>require</p>
+<p>report</p>
+<p>decide</p>
+<p>pull</p>
+<p>break</p>
+<p>receive</p>
+<p>agree</p>
+<p>return</p>
+<p>explain</p>
+<p>hope</p>
+<p>develop</p>
+<p>carry</p>
+<p>break</p>
+<p>work</p>
+<p>play</p>
+<p>talk</p>
+<p>run</p>
+<p>move</p>
+<p>try</p>
+<p>turn</p>
+<p>ask</p>
+<p>need</p>
+<p>feel</p>
+<p>become</p>
+<p>leave</p>
+<p>put</p>
+<p>mean</p>
+<p>keep</p>
+<p>let</p>
+<p>begin</p>
+<p>seem</p>
+<p>help</p>
+<p>talk</p>
+<p>show</p>
+<p>hear</p>
+<p>play</p>
+<p>run</p>
+<p>move</p>
+<p>like</p>
+<p>live</p>
+<p>believe</p>
+<p>hold</p>
+<p>bring</p>
+<p>happen</p>
+<p>write</p>
+<p>provide</p>
+<p>sit</p>
+<p>stand</p>
+<p>lose</p>
+<p>pay</p>
+<p>meet</p>
+<p>include</p>
+<p>continue</p>
+<p>set</p>
+<p>learn</p>
+<p>change</p>
+<p>lead</p>
+<p>understand</p>
+<p>watch</p>
+<p>follow</p>
+<p>stop</p>
+<p>create</p>
+<p>speak</p>
+<p>read</p>
+<p>allow</p>
+<p>add</p>
+<p>spend</p>
+<p>grow</p>
+<p>open</p>
+<p>walk</p>
+<p>win</p>
+<p>offer</p>
+<p>remember</p>
+<p>love</p>
+<p>consider</p>
+<p>appear</p>
+<p>buy</p>
+<p>wait</p>
+<p>serve</p>
+<p>die</p>
+<p>send</p>
+<p>expect</p>
+<p>build</p>
+<p>stay</p>
+<p>fall</p>
+<p>cut</p>
+<p>reach</p>
+<p>kill</p>
+<p>remain</p>
+<p>suggest</p>
+<p>raise</p>
+<p>pass</p>
+<p>sell</p>
+<p>require</p>
+<p>report</p>
+<p>decide</p>
+<p>pull</p>
+<p>break</p>
+<p>receive</p>
+<p>agree</p>
+<p>return</p>
+<p>explain</p>
+<p>hope</p>
+<p>develop</p>
+<p>carry</p>
+<p>break</p>
+<p>work</p>
+<p>play</p>
+<p>good</p>
+<p>value</p>
+<p>for</p>
+<p>the</p>
+<p>amount</p>
+<p>of</p>
+<p>money</p>
+<p>little</p>
+<p>bit</p>
+<p>drunk</p>
+<p>sad</p>
+<p>sudden</p>
+<p>event</p>
+<p>luck</p>
+<p>increase</p>
+<p>and</p>
+<p>then</p>
+<p>decrease</p>
+<p>very</p>
+<p>strong</p>
+<p>promise</p>
+<p>absence</p>
+<p>absolutely</p>
+<p>accountant</p>
+<p>act</p>
+<p>your</p>
+<p>age</p>
+<p>action</p>
+<p>camera</p>
+<p>actor</p>
+<p>add</p>
+<p>addition</p>
+<p>administrative</p>
+<p>assistant</p>
+<p>adopted</p>
+<p>child</p>
+<p>adoptive</p>
+<p>parent</p>
+<p>adventure</p>
+<p>sports</p>
+<p>africa</p>
+<p>african</p>
+<p>lion</p>
+<p>wild</p>
+<p>dog</p>
+<p>agree</p>
+<p>airplane</p>
+<p>aisle</p>
+<p>algebra</p>
+<p>all</p>
+<p>mean</p>
+<p>person</p>
+<p>got</p>
+<p>irritated</p>
+<p>annoyed</p>
+<p>allergy</p>
+<p>allow</p>
+<p>alumni</p>
+<p>american</p>
+<p>curl</p>
+<p>shorthair</p>
+<p>wirehair</p>
+<p>amur</p>
+<p>leopard</p>
+<p>amused</p>
+<p>an</p>
+<p>expression</p>
+<p>to</p>
+<p>ask</p>
+<p>why</p>
+<p>someone</p>
+<p>looks</p>
+<p>or</p>
+<p>upset</p>
+<p>analysis</p>
+<p>are</p>
+<p>rather</p>
+<p>rude</p>
+<p>r</p>
+<p>you</p>
+<p>anemometer</p>
+<p>angry</p>
+<p>anklet</p>
+<p>annual</p>
+<p>percentage</p>
+<p>rate</p>
+<p>another</p>
+<p>helping</p>
+<p>portion</p>
+<p>round</p>
+<p>drinks</p>
+<p>please</p>
+<p>ant</p>
+<p>antarctica</p>
+<p>anxiety</p>
+<p>anxious</p>
+<p>anyone</p>
+<p>can</p>
+<p>do</p>
+<p>it</p>
+<p>anytime</p>
+<p>anyway</p>
+<p>should</p>
+<p>get</p>
+<p>going</p>
+<p>apathetic</p>
+<p>app</p>
+<p>appear</p>
+<p>apple</p>
+<p>application</p>
+<p>appointment</p>
+<p>aquarium</p>
+<p>ar</p>
+<p>glasses</p>
+<p>arabian</p>
+<p>architect</p>
+<p>arctic</p>
+<p>fox</p>
+<p>right</p>
+<p>doing</p>
+<p>anything</p>
+<p>free</p>
+<p>with</p>
+<p>me</p>
+<p>so</p>
+<p>far</p>
+<p>argentina</p>
+<p>arithmetic</p>
+<p>arm</p>
+<p>warmers</p>
+<p>armchair</p>
+<p>art</p>
+<p>museum</p>
+<p>artist</p>
+<p>as</p>
+<p>recall</p>
+<p>would</p>
+<p>have</p>
+<p>asia</p>
+<p>asiatic</p>
+<p>asking</p>
+<p>more</p>
+<p>information</p>
+<p>asparagus</p>
+<p>asset</p>
+<p>allocation</p>
+<p>assignment</p>
+<p>associate's</p>
+<p>degree</p>
+<p>asteroid</p>
+<p>astronaut</p>
+<p>astronomy</p>
+<p>athlete</p>
+<p>athletic</p>
+<p>field</p>
+<p>atmospheric</p>
+<p>pressure</p>
+<p>attendance</p>
+<p>audience</p>
+<p>audio</p>
+<p>audiovisual</p>
+<p>auditorium</p>
+<p>augmented</p>
+<p>reality</p>
+<p>aunt</p>
+<p>australia</p>
+<p>avalanche</p>
+<p>avocado</p>
+<p>awesome</p>
+<p>bachelor's</p>
+<p>bacon</p>
+<p>badge</p>
+<p>badger</p>
+<p>baking</p>
+<p>balance</p>
+<p>balinese</p>
+<p>banana</p>
+<p>bandicoot</p>
+<p>bangle</p>
+<p>bank</p>
+<p>account</p>
+<p>barometer</p>
+<p>bat</p>
+<p>bathrobe</p>
+<p>be</p>
+<p>patient</p>
+<p>beanie</p>
+<p>bear</p>
+<p>market</p>
+<p>beats</p>
+<p>beaver</p>
+<p>become</p>
+<p>bed</p>
+<p>bedroom</p>
+<p>bee</p>
+<p>beef</p>
+<p>beet</p>
+<p>beetle</p>
+<p>begin</p>
+<p>beginner</p>
+<p>phrases</p>
+<p>beige</p>
+<p>believe</p>
+<p>bell</p>
+<p>pepper</p>
+<p>belts</p>
+<p>bengal</p>
+<p>tiger</p>
+<p>beret</p>
+<p>best</p>
+<p>effort</p>
+<p>shot</p>
+<p>try</p>
+<p>better</p>
+<p>next</p>
+<p>time</p>
+<p>bibliography</p>
+<p>bicycle</p>
+<p>bilby</p>
+<p>bill</p>
+<p>pay</p>
+<p>later</p>
+<p>before</p>
+<p>leave</p>
+<p>biodiversity</p>
+<p>biology</p>
+<p>biosphere</p>
+<p>birdwatching</p>
+<p>black</p>
+<p>hole</p>
+<p>panther</p>
+<p>widow</p>
+<p>blackberry</p>
+<p>blazer</p>
+<p>blender</p>
+<p>a</p>
+<p>b</p>
+<p>c</p>
+<p>d</p>
+<p>e</p>
+<p>f</p>
+<p>g</p>
+<p>h</p>
+<p>i</p>
+<p>j</p>
+<p>k</p>
+<p>l</p>
+<p>m</p>
+<p>n</p>
+<p>o</p>
+<p>p</p>
+<p>q</p>
+<p>r</p>
+<p>s</p>
+<p>t</p>
+<p>u</p>
+<p>v</p>
+<p>w</p>
+<p>x</p>
+<p>y</p>
+<p>z</p>
