@@ -1,0 +1,3830 @@
+uçak
+hostes
+havayolu şirketi
+havalimanı
+havalimanı otobüsü
+varış
+bagaj teslim alanı
+biniş kartı
+kaptan
+check-in
+mürettebat
+gümrük
+gecikme
+kalkış
+kalkış bekleme salonu
+acil çıkış
+uçuş
+uçuş numarası
+kapı
+jet
+inmek
+yerel saat
+sigara içilmez
+sigara içmeyenler
+yolcu
+pasaport
+pasaport kontrolü
+pilot
+pist
+koltuk
+emniyet kemeri
+hız
+kabin görevlisi
+havalanmak
+pencere
+kanat
+bira
+hesap
+şişe
+kase
+pasta
+şef
+kahve
+fincan
+çatal
+bardak
+bıçak
+menü
+süt
+tabak
+makbuz
+sandviç
+peçete
+atıştırmalık
+çorba
+kaşık
+şeker
+tatlandırıcı
+masa
+çay
+çay kaşığı
+bahşiş
+garson
+garson (female)
+su
+şarap
+şarap listesi
+kamp alanı
+sırt çantası
+battaniye
+karavan
+ücretler
+kapalı
+pişirme araçları
+içme suyu
+dolu
+yer örtüsü
+otostop yapmak
+ne kadar?
+kimlik kartı
+mutfak
+ışık
+bir gece
+bir hafta
+umumi tuvalet
+ip
+çöp
+tencere
+duş
+uyku tulumu
+telefon
+çadır
+bu gece
+römork
+gençlik hosteli
+bluz
+sutyen
+elbise
+ceket
+palto
+pantolon
+gömlek
+ayakkabı
+şort
+etek
+terlik
+çorap
+çoraplar
+takım elbise
+mayo
+kravat
+pantolon
+iç çamaşırı
+yelek
+Avustralya
+Avusturya
+Belçika
+Kanada
+Danimarka
+İngiltere
+Finlandiya
+Fransa
+Almanya
+Yunanistan
+Hollanda
+İtalya
+Lüksemburg
+İrlanda
+Yeni Zelanda
+Norveç
+İskoçya
+Güney Afrika
+İspanya
+İsveç
+Amerika Birleşik Devletleri
+Galler
+Pazar
+Pazartesi
+Salı
+Çarşamba
+Perşembe
+Cuma
+Cumartesi
+Ocak
+Şubat
+Mart
+Nisan
+Mayıs
+Haziran
+Temmuz
+Ağustos
+Eylül
+Ekim
+Kasım
+Aralık
+İlkbahar
+Yaz
+Sonbahar
+Kış
+Noel Arifesi
+Noel Günü
+Yılbaşı Arifesi
+Yılbaşı
+Karnaval
+İyi Cuma
+Paskalya Pazarı
+25 Nisan
+Emek ve Dayanışma Günü
+Eflak Bayramı
+Aziz Antoni Günü 
+Aziz Yahya Günü 
+Camões Günü
+Meryem'in Göğe Yükselişi Bayramı
+Restorasyon Günü
+Azizler Günü
+Cumhuriyet Bayramı
+İlâhi Korunma Bayramı
+badem
+elma
+kayısı
+fasulye
+pancar
+bisküvi
+kara gözlü fasulye
+kahvaltı
+kek
+peynir
+nohut
+cips
+salatalık
+chorizo sosisi
+kahve
+akşam yemeği
+yumurta
+rakı
+balık
+sarımsak
+üzüm
+kırmızı fasulye
+limon
+marul
+öğle yemeği
+lupin
+et
+kavun
+süt
+zeytinyağı
+omlet
+soğan
+portakal
+bezelye
+şeftali
+armut
+biber
+ananas
+patates
+pirinç
+tuz
+sosis
+salyangoz
+gazlı içecek
+gazlı su
+su
+şeker
+çay
+domates
+vejetaryen
+su
+karpuz
+kaza
+alerjik
+ambulans
+kansızlık
+tetanos karşıtı
+kol
+artrit
+aspirin
+astım
+bel ağrısı
+bandaj
+ısırma
+kabarcık
+kan
+kan basıncı
+kan testi
+bronşit
+yanık
+göğüs
+soğuk algınlığı
+soğuk
+kabızlık
+kontakt lensler
+bulaşıcı
+mısır
+öksürük
+kesik
+dişçi
+diyabetik
+ishal
+baş dönmesi
+doktor
+kulak ağrısı
+acil servis
+ateş
+dolgu
+parmak
+ilk yardım
+grip
+ayak
+kırık
+gözlük
+saman nezlesi
+baş ağrısı
+sağlık merkezi
+kalp
+kalp krizi
+hastane
+hasta
+hazımsızlık
+enjeksiyon
+kaşıntı
+böbrek
+bacak
+yumru
+migren
+mide bulantısı
+boyun
+hemşire
+ameliyat
+gözlükçü
+ağrı
+penisilin
+regl ağrısı
+alçı
+zatürre
+hamile
+reçete
+romatizma
+kaynar suyla yakma
+çizik
+boğaz ağrısı
+çıta
+burkulma
+sokmak
+mide
+ateş
+diş ağrısı
+seyahat hastalığı
+ülser
+aşı
+kusmak
+balkon
+banyo
+yatak
+yatak odası
+fatura
+kahvaltı
+soğuk su
+yemek odası
+akşam yemeği
+çift kişilik oda
+erken çağrı
+döviz bürosu
+giriş holü
+tam pansiyon
+zemin kat
+yarım pansiyon
+sıcak su
+kimlik kartı
+anahtar
+asansör
+oturma odası
+öğle yemeği
+müdür
+bir gece
+resepsiyon
+rezerve etmek
+restoran
+oda
+oda servisi
+uydu TV
+duş
+tek kişilik oda
+operatör
+tuvalet
+ikiz yataklı oda
+bot
+fren
+arıza
+otobüs şeridi
+araba
+karavan
+otobüs
+otobüs terminali
+köşe
+kavşak
+çıkmaz sokak
+dizel
+yönlendirme
+sürmek
+sürücü belgesi
+otoyolun sonu
+motor
+egzoz
+vantilatör kayışı
+garaj
+vitesler
+yol vermek
+ön farlar (düşük ışık)
+ön farlar (yüksek ışık)
+ağır araç
+demiryolu geçidi
+kamyon
+ayna
+motosiklet
+otoyol
+park yasak
+plaka
+yağ
+solda
+sağda
+tek yönlü
+yaya bölgesi
+benzin
+benzin istasyonu
+patlak
+kuyruk
+yol
+yol kapalı
+yol çalışması
+yan farlar
+kayma
+hız sınırı
+direksiyon
+düz git
+geçiş ücreti
+çekmek
+şehir merkezi
+trafik sıkışıklığı
+trafik lambaları
+kamyon
+lastik
+lastik basıncı
+kamyonet
+tekerlek
+soyadı
+ad
+yaş
+adres
+doğum tarihi
+doğum yeri
+milliyet
+pasaport numarası
+veriliş yeri ve tarihi
+rezervasyon bürosu
+büfe vagonu
+kompartıman
+bağlantı
+kalkış
+acil durum anahtarı
+giriş
+çıkış
+birinci sınıf
+binmek
+inmek
+bekçi
+bilgi
+emanet bagaj
+kayıp eşya
+bagaj
+gazete büfesi
+sigara içilmez
+peron
+ray
+demiryolu
+gidiş dönüş bileti
+koltuk rezervasyonu
+ikinci sınıf
+tek yön bilet
+bavul
+bilet kontrolörü
+saat tablosu
+ray
+trafik lambaları
+tren
+tramvay
+bekleme odası
+alıcı
+hava postası
+e-posta ile
+koleksiyon
+gişe
+teslimat
+doldurmak
+birinci sınıf posta
+form
+mektup
+posta kutusu
+havale
+internet üzerinden
+paket
+posta
+posta ücretleri
+posta emri
+kartpostal
+posta kodu
+postaneden teslim alınmayı bekleyen mektup
+postacı
+postane
+taahhütlü mektup
+kayıtlı teslimat
+kısa mesaj servisi
+pul
+yüzey postası
+telgraf
+ses ekipmanı
+fırın
+pazarlık
+kitapçı
+butik
+kasap
+satın almak
+pastane
+ucuz
+eczane
+alışveriş merkezi
+emlakçı
+moda
+balıkçı
+çiçekçi
+alışveriş yapmak
+bakkal
+ev aletleri
+demir ticaretçisi
+bayan giyim
+erkek giyim
+gazete bayisi
+şehir dışı mağaza
+ön ödeme
+fiyat
+fiş
+plakçı
+indirim
+ayakkabı mağazası
+mağaza
+alışveriş merkezi
+hediyelik eşya mağazası
+özel teklif
+harcamak
+kırtasiye
+süpermarket
+terzi
+kasa
+kasa fişi
+oyuncakçı
+seyahat acentesi
+atletizm
+top
+plaj
+bisiklet
+tekne kiralama
+tehlike
+dalış
+dalış tahtası
+balık tutma
+olta
+palet
+futbol
+futbol maçı
+golf
+golf sahası
+jimnastik
+hokey
+koşu
+göl
+cankurtaran
+dağcılık
+kamp yapmak yasaktır
+yüzme yasaktır
+oksijen tüpü
+pedal bot
+yarış
+raket
+binicilik
+kürek teknesi
+koşmak
+yelkenli tahtası
+yelken
+kum
+deniz
+kaymak
+paten
+şnorkel
+stadyum
+güneş kremi
+yüzmek
+yüzme havuzu
+tenis
+tenis kortu
+tenis raketi
+çadır
+gelgit (yüksek, alçak)
+sualtı avcılığı
+plaj voleybolu
+su kayağı
+dalga
+dalış kıyafeti
+rüzgar sörfü
+yat
+arama
+kod
+çevirmek
+çevir sesi
+acil durum
+soruşturma
+dahili
+uluslararası arama
+numara
+operatör
+telefon kulübesi
+alıcı
+ters şarjlı arama
+telefon rehberi
+bir buçuk
+biri beş geçiyor
+ikiyi çeyrek geçiyor
+üçü buçuk
+dörde yirmi kala
+beşe çeyrek kala
+14:00 / saat iki
+öğleden sonra üç buçuk
+akşam yediyi çeyrek kala
+öğle
+gece yarısı
+şu anda
+gün
+erken
+iki hafta
+yarım saat
+saat
+1989'da
+üç gün içinde
+dün gece
+geçen hafta
+geçen yıl
+geç
+dakika
+ay
+gelecek hafta
+gelecek yıl
+çeyrek saat
+saniye
+bu öğleden sonra
+bu akşam
+bu sabah
+bu hafta
+bugün
+yarın
+yarın sabah
+bu gece
+iki gün önce
+yıl
+dün
+kötü hava
+meltem
+soğuk hava
+Bulut
+Kuru hava
+Deprem
+Güzel hava
+Sis
+Dolu
+Kasırga
+Buz
+Şimşek
+Sıcak hava
+Islak hava
+Rüzgar
+Pus
+Yağmur
+Gökkuşağı
+Yağmurlu hava
+Kar
+Fırtına
+Tayfun
+Gökgürültüsü
+fiiler
+olmak
+olmak
+sahip olmak
+yapmak
+gitmek
+görmek
+varmak
+yemek
+vermek
+e bilmek
+bilmek
+istemek
+konuşmak
+yakalamak
+almak
+söylemek
+duymak
+hissetmek
+bilmek
+sevmek
+yaşamak
+çalışmak
+çalışmak (ders)
+uyumak
+almak
+içmek
+dışarı çıkmak
+girmek
+dönmek
+ayrılmak
+devam etmek
+düşünmek
+bulmak
+beklemek
+yürümek
+koşmak
+yüzmek
+ağlamak
+gülmek
+beğenmek
+nefret etmek
+dinlemek
+okumak
+yazmak
+oynamak
+satın almak
+satmak
+sormak
+cevaplamak
+buluşmak
+kaybetmek
+kazanmak
+aramak
+ummak
+kabul etmek
+reddetmek
+değiştirmek
+unutmak
+hatırlamak
+davet etmek
+konuşmak
+gelmek
+yaşamak/oturmak
+ölmek
+doğmak
+büyümek
+yaşlanmak
+evlenmek
+boşanmak
+çıkmak
+ayrılmak
+anlamak
+öğretmek
+öğrenmek
+yardım etmek
+korumak
+saldırmak
+savunmak
+fethetmek
+hakim olmak
+özgürleştirmek
+inşa etmek
+yok etmek
+düzenlemek
+temizlemek
+düzenlemek
+seçmek
+karar vermek
+icat etmek
+yaratmak
+geliştirmek
+araştırmak
+çalışmak (ders)
+sonuca varmak
+başarmak
+ulaşmak
+denemek
+başarısız olmak
+yönetmek
+üstesinden gelmek
+yerine getirmek
+kırmak
+tamir etmek
+harcamak
+biriktirmek
+yatırım yapmak
+pazarlık yapmak
+iletişim kurmak
+ifade etmek
+paylaşmak
+saklamak
+ortaya çıkarmak
+davet etmek
+toplamak
+kovmak
+işe almak
+işten çıkarmak
+zaman ayırmak
+geciktirmek
+ilerlemek
+başlamak
+durmak
+devam etmek
+bitirmek
+sonuçlandırmak
+önermek
+tavsiye etmek
+tavsiye vermek
+engellemek
+ertelemek
+iptal etmek
+izin vermek
+engellemek
+talep etmek
+yasaklamak
+sahip olmak
+tapmak
+sağlamak
+almak
+davet etmek
+başlamak
+sona ermek
+saymak
+getirmek
+almak
+koymak
+çıkarmak
+itmek
+çekmek
+hareket etmek
+dönmek
+takip etmek
+bırakmak
+izin vermek
+reddetmek
+yemin etmek
+söz vermek
+başlamak
+görünmek
+kaybolmak
+itaat etmek
+itaatsizlik etmek
+selamlamak
+hoşça kal demek
+selamlamak
+yazışmak
+telafi etmek
+katkıda bulunmak
+teslim etmek
+almak
+yerine getirmek
+terfi etmek
+ödüllendirmek
+cezalandırmak
+suçlamak
+yargılamak
+aklamak
+kınamak
+meydan okumak
+kabul etmek
+reddetmek
+hoşgörmek
+saygı göstermek
+saygısızlık etmek
+affetmek
+teşekkür etmek
+övmek
+eleştirmek
+hakaret etmek
+talep etmek
+yalvarmak
+yas tutmak
+suçlamak
+utanç vermek
+gurur duymak
+teselli etmek
+aldatmak
+ihanet etmek
+ikna etmek
+yutmak
+renkler
+Beyaz
+Siyah
+Kırmızı
+Mavi
+Sarı
+Yeşil
+Başlangıç İfadeleri
+Merhaba
+Selam
+Hey
+Merhaba
+Hoşça kal
+Hoşça kal
+Sonra görüşürüz
+Kendine iyi bak
+İyi günler
+Evet
+Evet
+Tabii ki
+Hayır
+Hayır
+Asla
+Nasılsın
+Nasılsın
+Nasılsın
+Nasılsın
+Nasılsın
+Ailen nasıl
+Nasılsın
+Neler oluyor
+Neler yeni
+Son zamanlarda ne yapıyorsun
+Ben iyiyim teşekkür ederim Ya sen
+Oldukça iyi
+Kötü değil
+Harika 
+Daha iyi olamazdı 
+Şikayet edecek bir durum yok
+Yoğunum
+Her zamanki gibi
+Çok da iyi değil
+Daha iyi olabilirdi
+Ne var ne yok ve Yeni ne var gibi sorulara nasıl cevap verilir 
+Teşekkürler
+Çok teşekkür ederim
+Çok teşekkür ederim
+Çok teşekkür ederim 
+Yardımın için teşekkürler
+Bana yardım ettiğin için teşekkür ederim
+Gerçekten takdir ediyorum
+Gerçekten minnettarım
+Bu çok nazikçe
+Sana yeterince teşekkür edemem
+Son derece önemli şeyler için
+Sana borçluyum
+Rica ederim
+Hiç sorun değil
+Endişelenme
+Söz konusu bile değil
+Benim için bir zevk
+Her zaman
+Yapabileceğim en azı buydu
+Yardım etmekten memnunum
+Tabii ki 
+Teşekkür ederim
+bu cümleyi kullanarak diğer kişiye teşekkür etmek istediğinizde
+Üzgünüm 
+Bu benim hatam
+Sorunun sorumluluğunu üstleniyorum
+çok küçük sorunlar için
+Ben yapmalıydım 
+Özür dilerim 
+Özür Dileme Yolları
+Tamam önemli değil
+Olur olur
+Sorun değil
+Endişelenme
+Seni affediyorum
+ciddi sorunlar için
+Tanışma İfadeleri
+Kendimi tanıtmak istedim Ben 
+Daha önce tanışmadığımızı düşünmüyorum Benim adım 
+Bu 
+Sana tanıştırmak istiyorum 
+Tanıştın mı
+Seni tanıştırmak istiyorum 
+Tanıştığıma memnun oldum
+Tanışmak benim için bir zevk
+Aynı şekilde
+Siz de
+Gerçekten mi 
+Bu ilginç
+Haklısın
+Elbette
+Seninle sohbet etmek güzeldi
+Eh geç oldu
+Neyse gitmem gerek
+Üzgünüm ama korkarım gitmem gerekiyor 
+Seni kesmekten özür dilerim ama aslında koşmam gerekiyor
+Merhaba ben Jane
+John Smith ile konuşabilir miyim 
+John orada mı 
+hakkında arıyorum
+Aramanızı geri dönüyorum
+Bir dakika lütfen
+Bekle bir saniye
+Burada değil. Bir mesaj bırakmak ister misiniz 
+Beni geri aramasını rica eder misiniz 
+Aramanız için teşekkürler.
+Bana ... hakkında bilgi verebilir misiniz 
+Bana ... söyleyebilir misiniz 
+... hakkında bilgi almak istiyorum.
+... biliyor musunuz 
+Herhangi bir fikriniz var mı 
+Bunu bana anlatabilir mi 
+Bilgi sahibi olma şansınız var mı 
+Sanırım bilmeyeceksiniz değil mi 
+Merak ediyordum...
+Bunu öğrenmek için arıyorum…
+Bu ifadeyi telefonla kullanın.
+Hiçbir fikrim yok.
+Hiçbir ipucum yok.
+Sana yardımcı olamam.
+Bana anlatsana.
+Gerçekten emin değilim.
+Ben de bunu merak ediyordum.
+... hakkında ne düşünüyorsunuz 
+... hakkında nasıl hissediyorsunuz 
+... hakkında ne düşünüyorsunuz 
+... hakkında ne düşünüyorsunuz 
+Benim görüşüme göre…
+Ben derim ki...
+Benim şahsi düşünceme göre...
+Bana sorsanız...
+Benim gördüğüm şekilde...
+Benim bakış açımdan…
+Fikri Olmayan İfadeler
+Bunu pek düşünmedim.
+Benim için çok önemli hissetmiyorum.
+Benim için fark etmiyor.
+Konu hakkında hiçbir fikrim yok.
+Çok.
+Her neyse.
+Tam olarak.
+Kesinlikle.
+Bu çok doğru.
+Bu kesin.
+Katılıyorum.
+Seninle daha çok katılamazdım.
+Tam olarak ne düşündüğüm bu.
+Tam olarak nasıl hissettiğim bu.
+Bana anlat!
+Bana anlatıyorsun!
+Ben de öyle diyorum!
+Galiba öyle.
+Ben de aynı fikirdeyim.
+Böyle düşünmüyorum
+Katılmıyorum
+Korkarım katılmıyorum
+Ona pek emin değilim
+Bunu böyle görmüyorum
+Gerekli değil
+Evet ama 
+Aksine
+çok güçlü kesinlikle katılmıyorum
+İyi Haberlere Yanıt Verme İfadeleri
+Tebrikler 
+Harika 
+Ne harika 
+Harika 
+Senin için çok mutluyum 
+Kötü Haberlere Yanıt Verme İfadeleri
+hayır 
+Bu korkunç
+Siz için kötü
+Bunu duyduğuma çok üzgünüm
+Başınız sağ olsun
+Boş musun 
+Bir şey yapıyor musunuz 
+Takvimimi kontrol edeyim
+Yapmak ister misin 
+ister misin 
+Bayılarak yaparım 
+Harika görünüyor 
+Bayılarak yaparım ama başka bir taahhüdüm var
+Sanırım yapamam
+Belki başka bir zaman
+Daha resmi Bir içecek ister misiniz 
+Biraz su ister misin 
+Sana bir şeyler getirebilir miyim 
+Harika olur teşekkürler
+evet
+Hayır teşekkürler ben iyiyim
+hayır
+gitmeye niyetim var
+planlıyorum
+umuyorum
+yapmak isterim
+Belki yaparım
+Belki yaparım
+Düşünüyorum 
+seviyorum
+gerçekten ilgileniyorum
+için yaşıyorum
+deliyim
+çok büyük bir hayranı değilim 
+Benim tarzım değil
+Gerçekten hoşlanmıyorum 
+sevmem
+katlanamam
+nasıl 
+niçin 
+Belki yapmalıyız
+tavsiye ederim
+hakkında düşündünüz mü 
+İşler hakkında konuşmak için İfadeler
+Nerede çalışıyorsun 
+Ne iş yapıyorsun 
+Geçimini neyle sağlıyorsun 
+da çalışıyorum
+Ben bir 'ım
+İşsizim
+Şu anda işsizim
+İş arıyorum
+Kendi işimi işletiyorum
+Serbest 'ım
+Emekliyim
+Bekarım
+Bir erkek arkadaşım var
+Bir kız arkadaşım var
+Nişanlıyız
+Haziranda evleneceğiz
+Haziran ayında evleniyoruz
+Evliyim
+yıldır evliyim
+Boşandım
+Dul kaldım
+eşim öldü
+karım öldü
+Ciddi bir ilişki aramıyorum
+Eski sevgilimden tam olarak kurtulamadım
+Pardon 
+Bunu tekrar eder misiniz 
+Ne demek istiyorsun 
+daha fazla bilgi isteme
+Sizi takip edemiyorum
+Anlamıyorum
+açıklar mısınız 
+Diğer kişinin sizi anlayıp anlamadığını kontrol etme yolları
+Söylediklerimi anladın mı 
+Bu mantıklı mı 
+Ne demek istediğimi biliyor musun 
+Şu ana kadar beni takip ediyor musun 
+Bu açık mı 
+Biraz yardıma ihtiyacım var
+Bana yardım eder misin 
+Bana bir el verir misin 
+genellikle fiziksel görevler için kullanılır
+Birkaç dakikanı ayırabilir misin 
+Bir iyilik yapar mısın 
+Birine bir şey yapmasını sorma yolları
+daha resmi Olur mu 
+Lütfen yapar mısın 
+Yapabilir misin 
+Lütfen 
+Eğer yapabilirseniz minnettar olurum
+Özür dilerim ama 
+Afedersiniz - bir dakika konuşabilir miyiz 
+bir dakikanız var mı 
+Buraya atlayabilir miyim 
+Üzgünüm
+Sadece şunu söylemek istiyorum ki 
+Bir kelime edebilir miyim 
+İyi iş çıkardın 
+Güzel deneme
+Gerçekten bir gelişme
+Doğru yoldasın
+Neredeyse başardın
+Harika iş çıkardın
+Vazgeçme 
+Dayan 
+Yapabilirsin 
+En iyisini ver
+en iyi deneme
+en iyi deneme
+en iyi çaba
+Güzel iş 
+Harika yaptın 
+Bundan memnun değilim
+Üzgünüm ama bu kabul edilemez
+Ben bundan pek memnun değilim
+Bunu yapılmasından hiç hoşlanmam
+Bu kötü
+Unutuluyor
+Her zaman hatırlayacağım 
+Asla unutmayacağım 
+Eğer doğru hatırlıyorsam 
+Bildiğim kadarıyla 
+Bulanık bir hatıram var 
+Aklımda uçup gitti
+Hatırlamaya çalışıyorum ama bir türlü hatırlayamıyorum
+Kafam boşaldı
+Hiçbir şey hatırlayamadım
+Bu zil çalmıyor
+Bu tanıdık gelmiyor
+Lütfen yapmayı unutma
+Lütfen unutma
+Seni hatırlatmak istiyorum
+hakkında unutmadınız değil mi 
+Bunun tamamen aklımdan çıktı 
+Bunu tamamen unuttum 
+Bir şeyin kolay olduğunu ifade etmek için İfadeler
+Zor
+Bu çocuk oyuncağı
+Bu çok kolay
+Bu bir esinti
+Herkes yapabilir
+Bunda hiç zorluk yok
+Zor
+Birazcık zor
+Gerçekten zor
+Bu çocuk oyuncağı değil
+Çok talepkar
+Bu çok zaman ve enerji gerektirir
+Erken yirmili yaşlarında
+O otuzlu yaşlarının sonunda
+O sadece altıya döndü
+Yaşına göre davran 
+Artık eskisi kadar genç değilim
+Henüz tepenin ötesine geçmedim 
+tepede
+O genç değil
+O yaşından öte bilge
+O genç olmasına rağmen yaşlı birinin bilgeliğine sahip
+Yaşlılık anı yaşıyorum
+Unutkanım
+O olgun yaşına kadar yaşadı
+var mı 
+nerede bulabilirim 
+Sadece göz gezdiriyorum
+Rastgele bakıyorum
+arıyorum
+Bu ne kadar 
+Bu indirimde mi 
+Deneyebilir miyim 
+Onu alacağım 
+Kredi kartı kabul ediyor musunuz 
+Bunu iade etmek istiyorum / takas etmek istiyorum
+Açlıktan ölüyorum 
+Çok açım 
+Hadi bir şeyler atıştıralım
+Bu akşam dışarıda yemek yemeyi düşünmez misiniz 
+Restoranda yemek yemek
+Birkaç atıştırmalık getirdim
+Bu çorba çok lezzetli 
+Başka bir porsiyon alabilir miyim 
+Başka bir porsiyon alabilir miyim 
+Başka bir porsiyon
+alacağım
+Hesabı alabilir miyiz lütfen 
+Tokum
+Tatmin oldum
+Doluğum
+Çok yedim belki fazla bile 
+Uzaktan kumanda nerede 
+uzaktan
+uzaktan kumanda
+İyi bir şeyler var mı 
+Kanalları değiştirebilir miyim 
+Bu bölümü zaten gördüm
+Bu tekrarlanan bir bölüm
+Bu şovu çok seviyorum 
+Çok fazla reklam var
+Kanal geçişini durdur
+Kanal geçişi
+Hızlı kanal değiştirme
+Televizyon rehberine bak
+Bu sezonun final bölümü 
+Sezonun final bölümü
+Kontrol etmek için çantanız var mı 
+Pencere kenarı mı yoksa koridor kenarı mı istersiniz 
+koridor
+koridor
+İşte biniş kartınız
+Biniş kartı
+Uçuşunuz kapısından kalkıyor
+Koltuk numaranız 
+Uçuş şu anda tahtaya alınıyor
+Yolcular uçağa girebilir
+Uçuşunuz gecikti
+Uçuşunuz iptal edildi
+Bu uçuşun son çağrısı
+Seyahatinizin amacı nedir 
+Bu bir servet tuttu
+Bu bir servet tuttu
+Bu bir soygun 
+Aşırı pahalı olması gereken fiyattan çok daha fazla
+Bunu karşılayamam
+Bunu alacak kadar param yok
+Biraz pahalı
+Oldukça makul
+İyi bir fiyat
+%10 indirimli
+%10 indirim var
+Bu iyi bir anlaşma
+Bu verilen paranın iyi bir karşılığı
+Gerçek bir fırsattı
+Çok ucuzdu
+Son derece ucuz
+Bugün hava çok güzel ve sıcak
+Tam anlamıyla kaynıyor 
+Kaynıyor 
+Son derece sıcak
+Gerçek bir sıcak dalgadayız
+Sıcak dalgası
+ardışık çok sayıda sıcak gün
+Bugün güneş gerçekten kuvvetli
+Bugün sıcak ve nemli
+Biraz serin
+Dondurucu
+Son derece soğuk
+Sıcaklık düşüyor
+Mutlaka sıkı giyin
+Sıkı giyin
+Soğuktan korunmak için sıcak kıyafetler giyin
+Bazı kış hava koşullarını bekliyoruz
+Kış hava koşulları
+kar
+dolu
+sulu kar
+buz
+Yağmur çiseliyor
+Hafif yağmur yağıyor
+Yağmur sağanak yağıyor
+Şiddetli yağmur yağışıyor
+Köpekler ve kediler yağmur yağıyor
+Şiddetli yağmur yağışıyor
+Bir sağanakta yakalandım
+Yağmurun hafiflediğini düşünüyorum
+Hafifliyor
+Hafifliyor ve duruyor
+Ben yorgunum
+Ben ölü yorgunum
+Ben tükenmişim
+Ben bitmişim
+Ben yenilmişim
+Ben son enerjimle çalışıyorum
+Ben boş çalışıyorum
+Gözlerimi neredeyse açık tutamıyorum
+Yatağa gidiyorum
+Yatağa gitmeyi düşünüyorum
+Yatağa gitmek
+Yatağa gitmek
+Benim için yatma zamanı
+Sözler ve Kararlar için İfadeler
+Gerçekten yapmalıyım 
+Şunu vaat ediyorum ki 
+Kesinlikle yapacağıma yemin ediyorum 
+Ben yapmayacağım
+Çok güçlü bir söz
+Ne olursa olsun yapacağım
+Cehennem olsa bile yapacağım
+Geç kalma mazeretleri
+Geç kaldığım için özür dilerim
+Uykumda kaldım
+Uyumam gerektiğinden daha uzun uyudum
+Alarmım çalmadı
+Otobüsü beklemek zorunda kaldım
+Otobüs geç kaldı
+Trafik çok kötüydü
+Park yeri bulamadım
+Buraya gelirken kayboldum
+Bir toplantıda sıkıştım
+Meşgul
+Kaçılamaz
+Uyumam gerektiğinden daha uzun uyudum
+Sadece zamanı kaybettim
+Saat kaç olduğunu fark etmedim
+Doğru
+Tam da öyle
+Tam da noktayı koydun
+Tam da onu çivilendirdin
+Sanırım öyle
+Korkarım haklısınız
+Kötü haberlere cevap olarak kullanın
+Kötü haberin doğru olduğunu söylemek için
+Korkarım bu tam olarak doğru değil
+Korkarım yanılıyorsunuz
+Hayır yanlış anladınız
+Hayır tamamen yanlış
+O gerçekten keskin
+O parlak
+O çok zeki
+O bir dahi
+O zeki birisi
+O pek parlak değil
+Birkaç kartı eksik
+Biraz yavaş
+Tam bir aptal
+Gerçekten aptal
+Yorum yok
+Konuşma hakkım yok
+Bilgi verme iznim yok
+Bekle ve gör
+Cevabı daha sonra keşfedeceksiniz
+Size geri döneyim
+Cevabı daha sonra vereceğim
+Üzgünüm bu gizlidir
+Üzgünüm bu kişisel
+Bundan bahsetmek istemiyorum
+Senin işin değil
+Kendi işine bak
+Neden bilmek istiyorsun 
+oldukça kaba
+Nakit sıkıntısı çekiyor
+Parasız
+Parası yok
+Banka hesabı açık
+Zorlukla geçiniyor
+çok az para ile hayatta kalmakta
+Asgari ücret alıyor
+Asgari maaş kazanıyor
+Centleri sıkıyor
+Kısıtlıyor ve biriktiriyor
+Çok zengin
+Oldukça iyi durumda
+Yüklü
+Çok zengin
+Bir servet miras aldı
+Çok para kazanıyor
+Nakit para kazanıyor
+Para içinde yüzüyor
+çok az para
+Suç oranı yükseldi
+Suç oranı arttı
+Suçta keskin bir artış oldu
+keskin
+ani ve büyük
+Suçta kademeli bir artış oldu
+Suçta bir artış oldu
+yükselme
+ani artış ve sonra düşüş
+Suç oranı zirveye ulaştı
+zirve
+en yüksek nokta
+Suç oranı düzeldi
+aynı seviyede kaldı
+Suçta hafif bir azalma oldu
+Suç oranı düştü
+Suç oranı düştü
+çok fazla azaldı çok hızlı
+de doğdu
+Doğal bir yetenek
+Uykusunda bile yapabilir
+İçini dışını biliyor
+Bildiği gibi bilir
+yürüyen bir ansiklopedisi
+Kendi sınıfında
+İşin en iyisi
+Çok yetenekli
+Uzman
+Bana bir dakika verebilir misin 
+Bir saniye bekle
+Sadece bir saniye
+Bekle 
+Düşüneyim 
+Hemen seninle olacağım
+Benimle kal
+O beklemeli
+Sabırlı ol
+Hemen değil 
+Atları tut 
+Sorumsuzca hareket et
+Bir tahmin yapmam gerekirse 
+Zor söylemek ama sanırım 
+Aklımdan gelen 
+Hatırladığım tahmin gerçek istatistikleri kontrol etmeden 
+hakkında 
+civarında
+Şaşırmam eğer 
+Büyük bir şans var 
+Bir hissiyatım var 
+Bahse girerim 
+Tahminin benimki kadar iyi
+Bilmiyorum
+arasında tercih yapıyorum
+Karar veremiyorum
+Kararsızım
+Ortadayım
+Ne karar vereceğimi bilmiyorum
+Onu dikkate alacağım
+Öte yandan 
+İkinci düşünceler yaşıyorum
+Kararımı tekrar düşünüyorum
+Fikrimi değiştirdim
+Beni ikna etti
+Geriye dönüp baktığımda doğru karar olduğunu biliyorum
+Sana kalmış
+Sen karar verebilirsin
+İyi şanslar 
+Bir dahaki sefere daha iyi şanslar
+Sadece benim şansım 
+Senin şansın 
+Bu bir şans eseri idi
+Ani bir şans olayı
+Bazı insanların tüm şansı var 
+Talihsizlik işte 
+Tesadüfen
+Şanssız
+Uzun bir süredir kötü şans veya zorluk yaşıyor
+Ne yazık ki
+Ne kötü şans 
+Endişeler Rahatlama İçin İfadeler
+Korkarım ki 
+Düşünmeden edemiyorum ki 
+Beni geceleri uykusuz bırakıyor
+Ya olursa
+Puh 
+Allah'a şükür 
+Ne büyük bir rahatlama 
+Bir an için beni endişelendirdin
+Ne kadar büyük bir rahatlama olduğunu bilmiyorsun
+Bu benim zihnimden büyük bir yük
+Gelecek Hakkında Konuşma İfadeleri
+Her an olacak
+Köşe başında
+Bu ömür boyu gerçekleşmeyecek
+10 yıl içinde
+Gelecek için işaret
+Gelecekteki olayların nasıl olacağını gösterir
+ye kadar günleri geri sayıyorum
+Gelecek etkinlikten heyecanlıyım 
+Olmasını sabırsızlıkla bekliyorum
+Er ya da geç 
+Zamanla kesinlikle olacak
+Gelecekte mutlaka olacak
+Ona bir şekilde başlayacağım
+Onu gelecekte bir zaman yapacağım 
+ama tam olarak ne zaman olduğunu bilmiyorum
+Hemen yapacağım
+Hemen ona başlayacağım
+Hemen yapacağım
+Zaman gösterecek
+Güzel görünüyorsun
+Harika görünüyorsun 
+Ne güzel 
+Senin 'ın hoşuna gidiyor
+Lasagna çok lezzetli
+Harika bir aşçısın
+Şefi tebrik ederim 
+Ne güzel bir daire 
+Güzel bir evin var
+O çok tatlı 
+Çocuklarınız çok eğlenceli
+Kesinlik İçin İfadeler
+Olasılık
+Kesinlikle eminim
+Kesin olarak biliyorum ki 
+Hiç şüphem yok ki 
+Yüzde yüz eminim
+Eminim ki 
+Muhtemelen 
+Bu muhtemelen olacak
+Olasılıkla 
+Bu muhtemelen olacak
+Ciddi bir şekilde şüpheliyim
+Bunu sanmıyorum
+Muhtemelen değil
+Çok olası değil
+Böyle bir şans pek yok
+Eğer öyle olursa çok şaşırırım
+Ona bahse girmem
+küçük bir şansı var ama muhtemelen olmayacak
+Bu asla olmaz
+İlginç Sıkıcı
+Bu büyüleyici
+Bu ilginç
+Kendimi ayıramadım
+Onu bırakamadım
+O kadar içine girdim ki zamanı unuttum
+Bana hiçbir şey ifade etmiyor
+Sıkıntıdan öldüm
+Sıkıntıdan öldüm
+Sıkıntıdan ölüyordum
+Boyanın kurumasını izlemek kadar heyecan verici
+Çok sıkıcı
+Ne var 
+Ne oldu 
+İyimisin 
+Biraz keyifsiz görünüyorsun
+Biraz üzgün
+Yardımcı olabileceğim bir şey var mı 
+Neşelen Başını dik tut 
+O kadar da kötü değil
+Her şey iyi olacak
+Olumlu yönünden bak
+Olumlu yönlerini düşün
+Dünya sona ermiyor
+Ne yazık ki 
+Ne yazık ki
+Ne hayal kırıklığı
+Çok kötü
+Kötü
+Gerçekten hayal kırıklığıydı
+Beklentilerimi karşılamadı
+Evet tabii ki
+Şaka yapıyorsun
+Benimle dalga mı geçiyorsun 
+Bu biraz abartı
+Gerçeği geriyor
+Tam gerçeği söylemiyor
+Gerçeği kısmen saklıyor
+Yalan söylüyor veya tüm gerçeği anlatmıyor
+Hikayesi şüpheli
+Bu tam bir yalan
+Bu bir yalan demeti
+Kötü İnsanlar için İfadeler
+O bir sinsi
+Rahatsız edici şüpheli sizi korkutuyor
+O bir sapık
+Tiksinç cinsel eğilimleri olan biri
+O bir manyak
+O bir aşağılık
+O bir çatlak
+Rahatsız edici ve hoş olmayan
+O bir psikopat
+Çılgın mantıksız
+Bağırdı
+Bağırdı
+Fısıldadım
+Çok sessiz bir sesle konuştu
+Sohbet ettik
+Konuşma yaptık
+Mırıldandı
+Çocuklarım mızmızlandı
+Şikayet ettiler
+O boşboğazdı
+Sözü uzatıp durdu
+Durmadan konuştu
+Duraksadı
+Kocama tersledim
+Hızlı ve sinirli bir yorum yaptım
+Mırıldandı
+Işıl ışıldı
+Çocuklar kulaktan kulağa gülüyordu
+Şaşkın görünüyordu
+Sırıttı
+Kafası karıştı
+Sırıttı
+Küçük bir gülümseme vardı
+Doktor ona iğne yaptığında irkildi
+Hızlıca acı bir ifade yaptı
+Bana pis bir bakış attı
+Bana kızgın bir şekilde baktı
+Kızardı
+Yüzü kızardı çünkü utanmıştı
+Gözleri donuktu
+göründü
+Neden bu kadar üzgünsün 
+birinin neden üzgün veya endişeli göründüğünü sormak için bir ifade
+Onun ifadesi okunamazdı
+his his ifadesini bilemezsin
+Kızdırma veya Üzmeyi Tanımlamak için İfadeler
+İnsanlar
+İlk karşılaşmalarında anlaşamadılar
+öğretmenin kötü yanına düştü
+Onun yorumundan incindi
+Bir çözgüsü var
+kolayca kırılır
+O kıvrandı
+hiddetlenerek ayrıldı
+O sinirlendi
+Kadın sinirlendi
+Çabuk ateşlenir
+kolayca sinirlenir
+Annemi kırdı
+annemi aşağıladı
+kızgınlık kapmıştı
+hepsi kişinin sinirlendiğini ifade eder
+Uçak biletim fazla satıldı
+çok fazla yolcu vardı ve yeterince koltuk yoktu
+Uçağım gecikti
+Bavulum kayboldu
+Jet lag yaşadım
+kökenim ve varış noktam arasındaki saat dilimi farkından dolayı yorgun hissettim
+Oteli karanlık bir bölgedeydi
+Caddeye saldırıldım
+Sokakta soyuldum
+Hava feciydi
+İshal oldum
+Yer turist tuzağıydı
+sadece turistler için yapılmış
+Eve dönmeyi sabırsızlıkla bekliyordum
+Ben öderim
+Sana bir içki alırım
+Bir kadeh kaldırmak isterim
+bir kişi etkinlik veya fikri onurlandırmak istiyorum
+senin sağlığın için
+Yeni Yıl için
+başarımız için 
+Bir tur daha içki lütfen
+Benim hesabıma yaz
+ödenecek fatura ayrılmadan önce
+O biraz sarhoş
+biraz sarhoş
+O tamamen sarhoş oldu
+O sıkıntılarını içmeye çalışıyor
+alkol acı veya üzüntüden rahatlama için içmek
+Ben belirlenen sürücüyüm
+Diğer insanları daha sonra eve götüreceğim için alkol içmiyorum
+Benim bir başım dönüyordu
+Ben sarhoşken
+Çok içtikten sonra sabah kötü hissettiğiniz duygu
+Bu bir tüy kadar hafif
+Bu bir kemik kadar kuru
+Bu bir pancake kadar düz
+O bir yaban arısı kadar sinirli
+Bu tepeler kadar eski
+Bu şimşek kadar hızlı
+O bir köpek gibi hasta
+O bir öküz gibi güçlü
+Onlar gece ile gündüz kadar farklı
+O bir katır kadar inatçı
+O bir tavus kuşu kadar gururlu
+O bir sayfa kadar beyaz
+Bu bir kaya kadar sağlam
+Bu yeni gibi iyi
+Bu çamur kadar berrak
+hiç net değil
+bir
+iki
+üç
+dört
+beş
+altı
+yedi
+sekiz
+dokuz
+on
+on bir
+on iki
+on üç
+on dört
+on beş
+on altı
+on yedi
+on sekiz
+on dokuz
+yirmi
+otuz
+kırk
+elli
+altmış
+yetmiş
+seksen
+doksan
+yüz
+bin
+yüz bin
+milyon
+bin dokuz yüz doksan
+birinci
+ikinci
+üçüncü
+dördüncü
+beşinci
+altıncı
+yedinci
+sekizinci
+dokuzuncu
+onuncu
+on birinci
+on ikinci
+on üçüncü
+on dördüncü
+on beşinci
+on altıncı
+on yedinci
+on sekizinci
+on dokuzuncu
+yirminci
+tek sayı
+çift sayı
+Toplama
+Çıkarma
+Çarpma
+Bölme
+Kırmızı
+Turuncu
+Sarı
+Yeşil
+Mavi
+Mor
+Pembe
+Kahverengi
+Beyaz
+Siyah
+Gri
+Bej
+Turkuaz
+Çivit mavisi
+Lavanta
+Amerika Birleşik Devletleri
+Birleşik Krallık
+Kanada
+Avustralya
+Almanya
+Fransa
+İtalya
+İspanya
+Çin
+Japonya
+Hindistan
+Brezilya
+Meksika
+Rusya
+Güney Afrika
+Arjantin
+Suudi Arabistan
+Mısır
+Nijerya
+Kenya
+Afrika
+Antarktika
+Asya
+Avrupa
+Kuzey Amerika
+Güney Amerika
+Avustralya
+Gezegen
+Küre
+Dünya
+Yer
+Terra
+Gaia
+Küre
+Toprak
+Toprak
+Zemin
+Çevre
+Doğa
+Biosfer
+Ekosistem
+Habitat
+Arazi
+Yüzey
+Kabuk
+Mantle
+Evren
+Kozmos
+Uzay
+Galaksi
+Yıldız
+Gezegen
+Güneş sistemi
+Solar sistem
+Astronot
+Roket
+Uydu
+Kuyruklu yıldız
+Asteroit
+Meteoroit
+Kara delik
+Bulutsu
+Takımyıldız
+Uzay aracı
+Ay
+Yer çekimi
+Yörünge
+Çevre
+Vahşi doğa
+Yaban hayatı
+Ekosistem
+Habitat
+Flora
+Fauna
+Koruma
+Biyolojik çeşitlilik
+Manzara
+Görünüm
+Doğal kaynaklar
+Ekoloji
+Sürdürülebilirlik
+Vahşi doğa
+Yeşillik
+İklim
+Hava durumu
+Orman
+Okyanus
+Köpek
+Kedi
+Fil
+Aslan
+Kaplan
+Zürafa
+Zebra
+Maymun
+Goril
+Ayı
+Panda
+Koala
+Kanguru
+Su aygırı
+Kurt
+Tilki
+Tavşan
+Geyik
+Alce
+Sincap
+Sıçan
+Su samuru
+Kürkçü fare
+Porsuk
+Rakun
+Kokarca
+Fare
+Sıçan
+Hamster
+Guinea domuzu
+Şincilla
+Ferret
+Kirpi
+Kirpi balığı
+Yarasa
+Yunus
+Balina
+Köpek balığı
+Ahtapot
+Kalamar
+Denizanası
+Yıldız balığı
+Denizatı
+Yengeç
+Istakoz
+Karides
+İstiridye
+Midye
+Salyangoz
+Sümüklüböcek
+Solucan
+Tırtıl
+Kelebek
+Güve
+Arı
+Eşek arısı
+Karınca
+Çekirge
+Cırcır böceği
+Uğur böceği
+Böcek
+Sinek
+Sivrisinek
+Yusufçuk
+Su yusufçuku
+Ateşböceği
+Hamam böceğ
+Duvağan mantar
+Tarantula
+Kara dul
+Akrep
+Yüzgeçli
+Binbacak
+Sülük
+Toprak solucanı
+Yuvarlak solucan
+Şerit solucan
+Düz solucan
+Yıldız burunlu köstebek
+Ornitos
+Echidna
+Tasmanya şeytanı
+Kanguru fare
+Wallaby
+Wombat
+Quokka
+Koala
+Tasmanya kaplanı
+Dingo
+Quoll
+Numbat
+Bilby
+Bandicoot
+Şeker planeörü
+Yarasa
+Kızıl panda
+Fennec tilkisi
+Kutup tilkisi
+Gri kurt
+Koyot
+Afrika vahşi köpeği
+Tarak kurt
+Kızıl tilki
+Bengal kaplanı
+Sibirya kaplanı
+Sumatra kaplanı
+Beyaz kaplan
+Altın kaplan
+Malaya kaplanı
+Pars
+Kar leoparı
+Çita
+Jaguar
+Puma
+Sincap
+Bobcat
+Karakal
+Ocelot
+Serval
+Margay
+Oncilla
+Paslı benekli kedi
+Puma
+Aslan
+Afrika aslanı
+Asya aslanı
+Dağ aslanı
+Kara panter
+Beyaz aslan
+Kral çita
+Pallas kedisi
+Jaguarundi
+Kanada sincabı
+İberya sincabı
+Arap parsı
+Amur parsı
+Bulutlu leopar
+Balık kedisi
+Leopar kedisi
+Benekli kedi
+Kum kedisi
+Kaplan kedis
+Yabani kedi
+Amerikan kıvrımı
+Amerikan kısa tüy
+Amerikan tel tüy
+Bali kedisi
+Bengal
+Araba
+Kamyon
+Motosiklet
+Bisiklet
+Otobüs
+Kamyonet
+Tren
+Tekne
+Gemi
+Uçak
+Helikopter
+Jet
+Denizaltı
+Scooter
+Traktör
+Segway
+Kaykay
+Hovercraft
+Havuç
+Patates
+Domates
+Soğan
+Marul
+Salatalık
+Dolmalık biber
+Ispanak
+Brokoli
+Karnabahar
+Yeşil fasulye
+Bezelye
+Patlıcan
+Kabak
+Turp
+Kereviz
+Mısır
+Kuşkonmaz
+Mantar
+Pancar
+Elma
+Muz
+Portakal
+Mango
+Ananas
+Çilek
+Karpuz
+Üzüm
+Kivi
+Şeftali
+Armut
+Kiraz
+Yaban mersini
+Ahududu
+Böğürtlen
+Limon
+Limon
+Papaya
+Avokado
+Erik
+Doktor
+Öğretmen
+Mühendis
+Hemşire
+Avukat
+Muhasebeci
+Programcı
+Aşçı
+Bilim insanı
+Sanatçı
+Mimar
+Polis memuru
+İtfaiyeci
+Paramedik
+Dişçi
+Eczacı
+Veteriner
+Elektrikçi
+Tesisatçı
+Marangoz
+Tamirci
+Pilot
+Hostes
+Kütüphaneci
+Profesör
+Araştırmacı
+Gazeteci
+Yazar
+Editör
+Tercüman
+Aktör
+Müzisyen
+Dansçı
+Şarkıcı
+Sporcu
+Antrenör
+Kişisel antrenör
+Mali danışman
+Gayrimenkul danışmanı
+Satış elemanı
+Pazarlama müdürü
+İnsan kaynakları müdürü
+Müşteri hizmetleri temsilcisi
+Resepsiyonist
+İdari asistan
+Sekreter
+Yönetici asistanı
+Etkinlik planlayıcısı
+Grafik tasarımcı
+Sosyal medya yöneticisi
+Mutfak
+Buzdolabı
+Ocak
+Fırın
+Mikrodalga
+Bulaşık makinesi
+Lavabo
+Dolaplar
+Tezgah
+Tost makinesi
+Blender
+Kahve makinesi
+Su ısıtıcısı
+Doğrama tahtası
+Karıştırma kapları
+Süzgeç
+Tencere ve tava seti
+Mutfak gereçleri
+Kaşık
+Çatal
+Bıçak
+Tabaklar
+Kase
+Bardaklar
+Kupalar
+Saklama kabı
+Konserve açacağı
+Şarap açacağı
+Rende
+Oturma Odası
+Kanepe
+Koltuk
+Sehpa
+TV ünitesi
+Kitaplık
+Lamba
+Halı
+Yastıklar
+Battaniye
+Uzaktan kumanda
+Bardak altlığı
+Duvar sanatı
+Perdeler
+Vazo
+Bitki
+Resim çerçeveleri
+Yan sehpa
+Puf
+Ayaklı lamba
+Şömine
+Yatak odası
+Yatak
+Yatak şiltesi
+Komodin
+Şifonyer
+Gardırop
+Gömlek
+Tişört
+Bluz
+Polo yaka gömlek
+Atlet
+Kazak
+Hırka
+Kapüşonlu sweatshirt
+Ceket
+Kaban
+Blazer
+Takım elbise
+Elbise
+Etek
+Pantolon
+Kot
+Şort
+Tayt
+Pantolon
+Kısa şort
+Tulum
+Romper
+Tulum
+Tunik
+Yelek
+Kravat
+Papyon
+Şal
+Şal
+Şal
+Pelerin
+Kimono
+Bornoz
+Bornoz
+Bebek tulumu
+Vücut tulumu
+Kolsuz üst
+Etek altı giyim
+Etek altı giyim
+Etek altı giyim
+Korse
+Sütyen
+Külot
+Boxer külot
+İspanyol külot
+Tanga
+Çoraplar
+Tayt
+Bacak ısıtıcıları
+Kolluk çorapları
+Eldivenler
+Eldiven
+Kol ısıtıcıları
+Bileklikler
+Saç bandı
+Şapka
+Bere
+Şapka
+Beret
+Fedora
+Güneş şapkası
+Şapka şeridi
+Bebek şapkası
+Türban
+Saç bandı
+Saç tokası
+Lastik tokası
+Toka
+Kulak ısıtıcıları
+Güneş gözlüğü
+Gözlük
+Gözlük
+Güvenlik gözlüğü
+Kolye
+Kolye
+Kolye
+Zincir
+Bilezik
+Bilezik
+Manşet
+Ayak bileği zinciri
+Yüzük
+Küpe
+Küpe
+Küpe
+Asma küpe
+Broş
+İğne
+Yakalık iğnesi
+Rozet
+Yamuk
+Nakış
+Uygulama
+Taşlar
+Pul
+Düğmeler
+Fermuarlar
+Tokalar
+Kemerler
+Askılar
+Elma
+Muz
+Portakal
+Üzüm
+Çilek
+Karpuz
+Ananas
+Mango
+Kivi
+Şeftali
+Armut
+Kiraz
+Yaban mersini
+Ahududu
+Böğürtlen
+Limon
+Limon
+Avokado
+Domates
+Patates
+Havuç
+Soğan
+Sarımsak
+Marul
+Ispanak
+Brokoli
+Karnabahar
+Salatalık
+Biber
+Patlıcan
+Mantar
+Kabak
+Mısır
+Pirinç
+Ekmek
+Makarna
+Noodle
+Kahvaltılık gevreği
+Yulaf ezmesi
+Pankek
+Waffle
+Yumurta
+Domuz pastırması
+Sosis
+Jambon
+Tavuk
+Dana eti
+Domuz eti
+Balık
+Karides
+Güneşli
+Bulutlu
+Yağmurlu
+Rüzgarlı
+Fırtınalı
+Karlı
+Sisli
+Bulutlu
+Donuk
+Açık
+Parçalı bulutlu
+Fırtına
+Şimşek
+Gökgürültüsü
+Yağmur fırtınası
+Kar fırtınası
+Kar fırtınası
+Çiseleme
+Duş
+Dolu
+Buz
+Don
+Sis
+Çiy
+Gökkuşağı
+Güneş ışını
+Gün ışığı
+Sıcak hava dalgası
+Soğuk hava dalgası
+Esinti
+Şiddetli rüzgar
+Şiddetli fırtına
+Kasırga
+Tornado
+Tayfun
+Muson
+Kuraklık
+Sel
+Toprak kayması
+Çığ
+Sıcaklık indeksi
+Rüzgar şiddeti
+Nem
+Sıcaklık
+Barometre
+Termometre
+Anemometre
+Yağmur ölçer
+Bulut örtüsü
+Atmosferik basınç
+Mutlu
+Üzgün
+Öfkeli
+Heyecanlı
+Korkmuş
+Endişeli
+Sakin
+Rahatlamış
+Kaygılı
+Depresif
+Sevinçli
+Memnun
+Minnettar
+Sinirli
+Şaşırmış
+Hayal kırıklığına uğramış
+Gururlu
+Kendinden emin
+Umutlu
+Meraklı
+Hevesli
+Sıkılmış
+Yalnız
+Sevilen
+Reddedilen
+Suçlu
+Kıskanç
+Güvensiz
+Bunalmış
+İyimser
+Karamsar
+Eğlenceli
+Kafası karışık
+Utangaç
+Yorgun
+Enerjik
+Kızgın
+Huysuz
+Utangaç
+Pişman
+Memnun
+Rahatsız
+Endişeli
+Rahatlamış
+Empatik
+Şefkatli
+İlgisiz
+Kayıtsız
+Aşırı sevinçli
+Hüzünlü
+Aile ve İlişkiler
+Sağlık
+Vücut
+Sağlık
+Formda olma
+Egzersiz
+Beslenme
+Diyet
+Hijyen
+Temizlik
+Uyku
+İstirahat
+Rahatlama
+Stres
+Endişe
+Depresyon
+Mental sağlık
+Fiziksel sağlık
+İyi olma
+Tıp
+Doktor
+Hekim
+Hemşire
+Cerrah
+Dişçi
+Göz doktoru
+Eczacı
+Hasta
+Hastane
+Klinik
+Eczane
+Randevu
+Muayene
+Teşhis
+Tedavi
+Terapi
+İlaç
+Reçete
+Aşı
+Aşılama
+Alerji
+Enfeksiyon
+Hastalık
+Hastalık
+Yaralanma
+Ağrı
+Belirti
+Ateş
+Soğuk algınlığı
+Grip
+Baş ağrısı
+Boğaz ağrısı
+Öksürük
+Burun akıntısı
+Yorgunluk
+Zayıflık
+Mide bulantısı
+Kusma
+İshal
+Kabızlık
+Kalp
+Akciğerler
+Beyin
+Mide
+Karaciğer
+Böbrekler
+Bağırsaklar
+Kemikler
+Kaslar
+Cilt
+Saç
+Gözler
+Kulaklar
+Burun
+Ağız
+Dişler
+Diş etleri
+Dil
+Boğaz
+Kalp atış hızı
+Tansiyon
+Kolesterol
+Kan şekeri
+Vücut kitle indeksi (VKİ)
+Ağırlık
+Boy
+Fitness seviyesi
+Hidrasyon
+Egzersiz rutini
+Antrenmanlar
+Fiziksel aktivite
+Kardiyovasküler egzersiz
+Kuvvet antrenmanı
+Esneklik
+Esnetme
+Yoga
+Pilates
+Meditasyon
+Nefes egzersizleri
+Rahatlama teknikleri
+Kendi bakımı
+Anne
+Baba
+Ebeveyn
+Çocuk
+Oğul
+Kız
+Kardeş
+Erkek kardeş
+Kız kardeş
+İkizler
+Üçüzler
+Kuzen
+Yeğen
+Yeğen
+Amca
+Hala
+Büyükanne
+Büyükbaba
+Büyükanne/büyükbaba torunu
+Torun
+Torun
+Torpil
+Aile
+Akrabalar
+Kayınvalide/kayınpeder
+Eş
+Koca
+Eş
+Partner
+Nişanlı
+Nişanlı
+Erkek arkadaş
+Kız arkadaş
+Arkadaş
+En iyi arkadaş
+Tanıdık
+İş arkadaşı
+Komşu
+Oda arkadaşı
+Sınıf arkadaşı
+Takım arkadaşı
+Antrenör
+Mentor
+Öğretmen
+Öğrenci
+Okul müdürü
+Sınıf arkadaşı
+Okul arkadaşı
+Profesör
+Patron
+Çalışan
+İş arkadaşı
+Müşteri
+Müşteri
+Hasta
+Doktor
+Hemşire
+Terapist
+Danışman
+Psikolog
+Psikiyatrist
+Sosyal çalışmacı
+Bakıcı
+Gönüllü
+Polis memuru
+İtfaiyeci
+Paramedik
+Acil tıp teknisyeni
+Güvenlik görevlisi
+Asker
+Askeri memur
+Gazi
+Denizci
+Pilot
+Hostes
+Kaptan
+Mürettebat üyesi
+Yolcu
+Turist
+Seyyah
+Kaşif
+Maceraperest
+Koçsuz
+Gezgin
+Sırt çantalı gezgin
+Otomobilciler
+Yolcu
+Tur rehberi
+Seyahat acentesi
+Çevirmen
+Tercüman
+Dilbilimci
+Çok dilli kişi
+Dil öğretmeni
+Dil öğrencisi
+Yazar
+Yazar
+Şair
+Gazeteci
+Muhabir
+Editör
+Düzeltmen
+Yayıncı
+Edebiyat ajanı
+Dilbilgisi
+Kelime dağarcığı
+Yazım
+Okuduğunu Anlama
+Sesbilgisi
+Edebiyat çemberi
+Yaratıcı yazma
+Deneme
+Paragraf
+Cümle
+Kelime
+Fraz
+Paragraf
+Kompozisyon
+Anlatı
+Açıklayıcı yazı
+İkna edici yazı
+Araştırma
+Alıntı
+Telif hakkı ihlali
+Kaynakça
+Referans
+Ansiklopedi
+Sözlük
+Eşanlamlılar sözlüğü
+İnternet
+Web sitesi
+Arama motoru
+Çevrimiçi kaynaklar
+Multimedya
+Görsel-işitsel
+Video
+Ses
+Sunum yazılımı
+Slaytlar
+PowerPoint
+Google Slaytlar
+Etkileşimli beyaz tahta
+Akıllı tahta
+Sınıf teknolojisi
+Bilgisayar
+Dizüstü bilgisayar
+Tablet
+Akıllı telefon
+Uygulama
+Yazılım
+Donanım
+İnternet güvenliği
+Dijital yurttaşlık
+Siber zorbalık
+Çevrimiçi nezaket
+Sosyal medya
+İletişim
+İşbirliği
+Eleştirel düşünme
+Problem çözme
+Yaratıcılık
+Yenilik
+Sorgulama
+Araştırma
+Gözlem
+Deney
+Hipotez
+Veri
+Sonuç
+Analiz
+Yorumlama
+Gözlem
+Keşif
+Kesif
+Alan gezisi
+Müze
+Akvaryum
+Hayvanat bahçesi
+Doğa merkezi
+Botanik bahçesi
+Planetaryum
+Gözlemevi
+Tarihi yer
+Sanat müzesi
+Bilim müzesi
+Doğal tarih müzesi
+Etkileşimli sergiler
+El becerisi gerektiren aktiviteler
+Atölye
+Demonstrasyon
+Ders
+Seminer
+Atölye
+Konferans
+Sempozyum
+Panel tartışması
+Anahtar konuşma
+Sunum
+Konuşmacı
+İzleyici
+Katılımcı
+Atölye
+Kurs
+Atölye
+Eğitim
+Sempozyum
+Web semineri
+Atölye çalışması
+Retreat
+Konferans
+Ders serisi
+Sertifika
+Diploma
+Derece
+Lisans derecesi
+Yüksek lisans derecesi
+Doktora
+Doktora
+Ön lisans derecesi
+Meslek okulu
+Teknik okul
+Topluluk kolej
+Kolej
+Üniversite
+Departman
+Fakülte
+Profesör
+Eğitmen
+Konferansçı
+Öğretmen
+Yüksek lisans öğrencisi
+Lisans öğrencisi
+Mezunlar
+Kampüs
+Yurt
+Yurt binası
+Öğrenci birliği
+Kafeterya
+Yemekhane
+Jimnazyum
+Spor tesisleri
+Atletik saha
+Koşu pisti
+Havuz
+Mahkeme
+Konferans salonu
+Tiyatro
+Sahne
+Prova
+Performans
+Bütçe
+Tasarruf
+Yatırım
+Emeklilik
+Gelir
+Harcama
+Borç
+Kredi
+Kredi
+Mortgage
+Faiz
+Ana
+Varlık
+Yükümlülük
+Denge
+Nakit akışı
+Finansal hedef
+Acil durum fonu
+Bileşik faiz
+Yıllık faiz oranı
+Kredi notu
+Kredi raporu
+Banka hesabı
+Mevduat hesabı
+Tasarruf hesabı
+Mevduat sertifikası
+Para piyasası hesabı
+Yatırım fonu
+Hisse senedi
+Tahvil
+Kâr payı
+Sermaye kazançları
+Portföy
+Varlık tahsisi
+Çeşitlendirme
+Risk toleransı
+Enflasyon
+Deflasyon
+Recesyon
+Ekonomik durgunluk
+Boğa piyasası
+Ayı piyasası
+Döviz kuru
+Para birimi
+Döviz
+Risk fonu
+Vergi
+Vergi indirimi
+Vergi kredisi
+Vergi iadesi
+Bilgisayar
+Dizüstü bilgisayar
+Tablet
+Akıllı telefon
+Akıllı saat
+Kulaklık
+Kulaklık
+Hoparlör
+Televizyon
+Monitör
+Klavye
+Fare
+Yazıcı
+Tarayıcı
+Yönlendirici
+Modem
+Ethernet
+Bluetooth
+Sabit disk
+Katı hal sürücüsü
+Bulut depolama
+İşletim sistemi
+Yazılım
+Uygulama
+Tarayıcı
+Sosyal medya
+Web sitesi
+Arama motoru
+E-posta
+Video konferans
+Sanal gerçeklik
+Artırılmış gerçeklik
+Oyun konsolu
+Kontrol cihazı
+VR kulaklık
+AR gözlükleri
+Fitness izleyici
+İnsansız hava aracı
+Aksiyon kamerası
+Dijital kamera
+Video kamerası
+GPS
+Uydu navigasyonu
+E-okuyucu
+Akıllı ev cihazları
+Termostat
+Güvenlik kamerası
+Robot
+Spor
+Fotoğrafçılık
+Bahçıvanlık
+Yemek pişirme
+Fırıncılık
+Resim yapma
+Çizim
+Eskiz yapma
+Heykel yapma
+Seramik yapma
+Örgü
+Tığ işi
+Dikiş
+Pikeler yapma
+El işleri
+Ahşap işleri
+Metal işleri
+Model yapma
+Origami
+Kaligrafi
+Yazma
+Okuma
+Müzik aleti çalma
+Şarkı söyleme
+Dans etme
+Yoga
+Meditasyon
+Yürüyüş
+Kamp yapma
+Balık tutma
+Avcılık
+Kuş izleme
+Yıldızları izleme
+Astronomi
+Pullar toplama
+Madeni paralar toplama
+Taş toplama
+Deniz kabuğu toplama
+Antika eşya toplama
+Anı eşyaları toplama
+Seyahat etme
+Keşfetme
+Gezme
+Macera sporları
+Sualtı dalışı
+Paraşütle atlama
+Yamaç paraşütü
+Dağ tırmanışı
+Sörf yapma
+Kaykay yapma
+Yağmur yağarsa sokaklar su basar
+Çok fazla yemek yersem hasta hissederim
+Çok çalışırsa başarılı olur
+Mavi ve sarıyı karıştırırsanız yeşil elde edersiniz
+Geç kalırlarsa otobüsü kaçırırlar
+Düzenli olarak egzersiz yaparsa sağlıklı kalır
+Güneş battığında karanlık olur
+Kuşlar ötüyorsa sabah olmuştur
+Yoğun kar yağarsa okullar kapanır
+Bitkileri sulamazsak ölürler
+Ders çalışırsam daha iyi anlarım
+Piyano çalmayı pratik ederse ilerler
+Bardağı düşürürsen kırılır
+Para biriktirirlerse ev alabilirler
+Geç saatte kahve içerse uyuyamaz
+Yarın yağmur yağarsa şemsiye alacağım
+Çok çalışırsa sınavı geçer
+İşlerini erken bitirirlerse sinemaya giderler
+Bitkileri sularsanız daha hızlı büyürler
+Düzenli olarak pratik yaparsa daha iyi bir gitarist olur
+Yeterince para biriktirirsek gelecek yıl tatil yapacağız
+Tren zamanında gelirse yetişirim
+Güneş erken batarsa daha erken karar
+Acele etmezsen otobüsü kaçırsın
+Bu akşam yemeği pişirirse bulaşıkları ben yıkarım
+Maçı kazanırlarsa finallere yükselirler
+Uçağı kaçırırsa yeniden planlamak zorunda kalır
+Bugün projemi bitirirsem yarın dinlenirim
+Geç kalırlarsa etkinlik onlar olmadan başlar
+Günlük İngilizce konuşmayı alışkanlık haline getirirseniz hızla ilerlersiniz
+Lotoyu kazansam bir ev alırdım (Şimdiki koşul)
+Daha çok çalışırsa notları daha iyi olurdu (Şimdiki sürekli koşul)
+Daha erken yatsalardı daha dinlenmiş hissederlerdi (Şimdiki koşul)
+Yağmur yağarsa içerde kalırdım (Şimdiki sürekli koşul)
+Doktorunu dinleseydi daha iyi hissederdi (Şimdiki sürekli koşul)
+Daha fazla zamanımız olsaydı daha sık seyahat ederiz (Şimdiki sürekli koşul)
+Beni ararsan aramanı beklerdim (Şimdiki sürekli koşul)
+Akıcı bir şekilde Fransızca konuşursa Paris'te çalışırdı (Şimdiki koşul)
+Talimatları anlasalardı daha iyi iş yaparlardı (Şimdiki sürekli koşul)
+Daha fazla deneyimim olsaydı daha üst pozisyonlara başvururdum (Şimdiki sürekli koşul)
+Kar yağarsa kardan adam yapardık (Şimdiki sürekli koşul)
+Daha sağlıklı beslense daha enerjik hissederdi (Şimdiki sürekli koşul)
+Daha çok pratik yapsa piyano çalmada daha iyi olurdu (Şimdiki sürekli koşul)
+Daha fazla para biriktirseler dünyayı dolaşırlardı (Şimdiki sürekli koşul)
+Düzenli olarak egzersiz yaparsanız daha güçlü hissedersiniz (Şimdiki sürekli koşul)
+Daha sıkı çalışmış olsaydım sınavı geçerdim
+Zamanında varmışsa trene yetişmiş olurdu
+Hava durumu tahminini dinleselerdi yağmura yakalanmazlardı
+Para biriktirseydi şimdiye kadar bir araba alırdı
+Daha erken uçuşu alsaydık gecikmeyi önlerdik
+Yardım isteseydin sana yardım ederdim
+Derecesini bitirseydi daha ileri eğitimlere devam ederdi
+Talimatları takip etselerdi hata yapmazlardı
+Partiden haberim olsaydı katılırdım
+Daha çok pratik yapsaydı konserde daha iyi performans sergilerdi
+Daha önce arasaydı sohbet etmek için uygun olurdum
+Yurt dışında okumuş olsalardı yeni bir dil öğrenirlerdi
+Düzenli olarak egzersiz yapsaydınız şimdi daha iyi durumda olurdunuz
+Daha erken çıksaydık hedefe zamanında varırdık
+Akşam yemeği pişirseydi lezzetli bir yemek yemiş olurduk
+İşimi daha önce bitirseydim şimdi rahatlamış olurdum
+Daha çok çalışmış olsaydı sınıfta daha iyi performans gösterirdi
+Daha çok para biriktirseler maddi olarak mücadele etmezlerdi
+Tavsiyemi dinlemiş olsaydı daha iyi bir durumda olurdu
+Zamanında çıksaydık şimdi trafikte sıkışmazdık
+Kahvaltı etseydin şimdi acıkmazdın
+Otobüse binseydi toplantıya geç kalmazdı
+Daha çok pratik yapsalardı şimdi daha yetenekli olurlardı
+Şemsiyemi getirmeyi hatırlasaydım şimdi ıslanmazdım
+İşe başvursaydı şimdi orada çalışıyor olurdu
+Daha önce arasaydı onun aramasını bekliyor olurdum
+Biletleri önceden alırsalardı şimdi seyahat ediyor olurlardı
+Düzenli olarak egzersiz yapsaydınız şimdi daha sağlıklı hissederdiniz
+Ders sırasında dikkat etseydik konuyu şimdi anlıyor olurduk
+Odasını temizleseydi şimdi düzenli olurdu
+Basit Şimdiki Zaman
+Her gün komşuma yardım ederim
+Yerel okulda İngilizce öğretirim
+Her akşam piyano çalar
+Sabahları kahve içeriz
+Akşam yemeğinden sonra yürüyüşe giderler
+Yatmadan önce bir kitap okurum
+Her akşam ailesi için yemek pişirir
+İş yaparken müzik dinleriz
+Kütüphanede birlikte çalışırlar
+Sabahları yoga yapar
+Kuşlar her sabah pencere önünde şarkı söyler
+Güneş doğuda doğar
+Tren her sabah 9'da gelir
+Yağışlı mevsimde çok yağmur yağar
+Dünya Güneş'in etrafında döner
+Şimdiki Mükemmel Zaman
+Bu hafta komşuma çok yardım ettim
+Ödevimi bitirdim
+Paris'i birkaç kez ziyaret etti
+O filmi daha önce gördük
+Bu şehirde on yıldır yaşıyorlar
+İspanyolca iki yıldır öğreniyor
+Şirket projesini zamanında tamamladı
+Anahtarlarımı yine kaybettim
+Birçok ülkeye seyahat ettik
+Yemeğini bitirdi
+Daha önce birbirini tanımışlardı
+Hedeflerine ulaştı
+O kitabı okudum
+Telefonda konuştuk
+Yeni bir iş buldu
+Birçok mektup yazdılar
+Şimdiki Zaman Devam Ediyor
+Komşum evini düzenlerken ona yardım ediyorum
+Ödevim üzerinde çalışıyorum
+Şu anda bir kitap okuyor
+Şu anda müzik dinliyoruz
+Parkta futbol oynuyorlar
+Arkadaşına bir e-posta yazıyor
+Öğrenciler sınavları için çalışıyorlar
+Ailemle birlikte televizyon izliyorum
+Bu akşam birlikte yemek yiyoruz
+Mutfakta akşam yemeği yapıyor
+İşte yeni bir proje üzerinde çalışıyorlar
+Odasında resim yapıyor
+Bebek beşiğinde huzurlu bir şekilde uyuyor
+Yaz tatili için bir gezi planlıyoruz
+Oturma odasında piyano çalıyor
+Mahallede bir ev inşa ediyorlar
+Şimdiki Mükemmel Zaman Devam Ediyor
+Taşındığımdan beri komşuma yardım ediyorum
+Bu projede saatlerdir çalışıyorum
+Geçen yıl İngilizce çalışıyordu
+Sabahın erken saatlerinden beri otobüsü bekliyoruz
+Bu şehirde beş yıldır yaşıyorlar
+Uzun zamandır öğretmen olarak çalışıyor
+Çocuklar bütün öğleden sonra dışarıda oynuyorlar
+Seni telefonla aramaya çalışıyorum
+Haftalardır Avrupa'da seyahat ediyoruz
+Aylardır romanını yazıyor
+Ailelerine ev inşa ediyorlar
+Çocukluğundan beri gitar çalmayı öğreniyor
+Bu anı uzun süredir bekliyorduk
+Üniversitede yıllardır ders veriyor
+Yaklaşan konser için pratik yapıyorlar
+Becerilerimi geliştirmek için çalışıyorum
+Geçmiş Zaman
+Dün komşuma yardım ettim
+Arabasını tamir etmeden önce komşuma çatısını temizlemesine yardım ettim
+Buzlu çay getirdiği zaman komşuma yardım ediyordum
+Sonunda bana teşekkür edene kadar bir yıldır komşuma yardım ediyordum
+Dün komşuma yardım ettim
+Geçen yıl yerel okulda İngilizce öğrettim
+Dün akşam piyano çaldı
+Sabahları kahve içtik
+Akşam yemeğinden sonra yürüyüşe gittiler
+Dün gece ailesi için yemek pişirdi
+Yatmadan önce bir kitap okudum
+İş yaparken müzik dinledik
+Kütüphanede birlikte çalıştılar
+Sabahları yoga yapıyor
+Geçmiş Zaman Mükemmel
+Arabasını tamir etmeden önce komşuma çatısını temizlemiştim
+Yatağa gitmeden önce ödevimi bitirmiştim
+Londra'ya taşınmadan önce Paris'i ziyaret etmişti
+Yayınlanmadan önce o filmi görmüştük
+Arabasını tamir etmeden önce komşuma çatısını temizlemiştim
+Londra'ya taşınmadan önce Paris'i ziyaret etmişti
+Yatağa gitmeden önce ödevimizi bitirmiştik
+Yayınlanmadan önce o filmi görmüşlerdi
+İspanyolca öğrenmeden önce iki yıl boyunca İspanyolca çalışmıştı
+Son teslim tarihinden önce şirket projesini zamanında tamamlamıştı
+Ceketimin cebinde bulana kadar anahtarlarımı kaybetmiştim
+We had traveled to many countries before we settled down 
+Restorandan ayrılmadan önce yemeğini bitirmişti 
+Sınıf arkadaşları olduğunu fark ettiklerinde birbirlerini tanımışlardı 
+Past Continuous
+Buzlu çay getirdiği zaman komşuma yardım ediyordum 
+Görevim üzerinde çalışıyordum elektrikler kesildiği zaman 
+Buzlu çay getirdiği zaman komşuma yardım ediyordum 
+Telefon çaldığında bir kitap okuyordu 
+Bahçede çalışırken müzik dinliyorduk 
+Yağmur yağmaya başladığı zaman futbol oynuyorlardı 
+Elektrikler kesildiğinde bir e-posta yazıyordu 
+Öğrenciler bütün gece sınavları için çalışıyordu 
+Kapı çaldığında televizyon izliyordum 
+Misafirler geldiğinde akşam yemeği yiyorduk 
+Mutfağında yemek pişirirken müzik dinliyordu 
+Patronu aradığında yeni bir projede çalışıyorlardı 
+Past Perfect Continuous
+Komşuma bir yıl boyunca yardım ediyordum sonunda bana teşekkür etti 
+Sen aradığında bu projede saatlerdir çalışıyordum 
+Komşuma bir yıl boyunca yardım ediyordum sonunda bana teşekkür etti 
+Yeterlilik testine girerken bir yıldır İngilizce çalışıyordu 
+Sabahın erken saatlerinden beri otobüsü bekliyorduk sonunda geldi 
+Bu şehirde beş yıldır yaşıyorlardı sonra taşınmaya karar verdiler 
+Uzun süredir öğretmen olarak çalışıyordu sonra iş değiştirdi 
+Yağmur yağmaya başlamadan önce bütün öğleden sonra dışarıda oynuyorlardı 
+Seni saatlerdir telefonda arıyordum sonunda ulaştım 
+Para bitene kadar haftalardır Avrupa'da seyahat ediyorduk 
+Romanını birkaç aydır yazıyordu sonra sonunda bitirdi 
+Aileleri için birkaç yıl boyunca bir ev inşa ediyorlardı sonra içine taşındılar 
+Gelecek Zaman
+Yarın komşuma yardım edeceğim 
+Ay sonuna kadar komşuma yüz kere yardım etmiş olacağım 
+Komşum taşınırken gelecek ay ona yardım edeceğim 
+Bir yıl boyunca komşuma yardım etmiş olacağım 
+Yarın komşuma yardım edeceğim 
+Gelecek hafta konserde şarkı söyleyecek 
+Bu hafta sonu ebeveynlerini ziyaret edecek 
+Bu akşam saat yedi de akşam yemeği yiyeceğiz
+Gelecek ay tatil yapacaklar
+Projesini hafta sonuna kadar bitirecek
+Gelecek yıl yeni bir araba alacak
+Yarın sabah erken yolculuğumuza başlayacağız
+Otelde bize daha sonra buluşacaklar
+Gelecek yaz gitar çalmayı öğreneceğim
+Gelecek Zaman Ekişi
+Ay sonuna kadar komşuma yüz kere yardım etmiş olacağım
+Son teslim tarihinden önce projesini bitirmiş olacak
+Gelecek yıla kadar derecesini tamamlamış olacak
+Emekli olana kadar birçok ülkeye seyahat etmiş olacağız
+Onlar gelecek ay yeni bir eve taşınmış olacaklar
+O yıl sonuna kadar Fransızca öğrenmiş olacak
+O o zamana kadar bir ev satın almak için yeterli parayı biriktirmiş olacak
+Onlar varana kadar biz yemeğimizi bitirmiş olacağız
+Onlar proje bitmeden önce son teslim tarihine kadar bitirmiş olacaklar
+Gelecek yaz kitabımı yazmış olacağım
+Gelecek Zaman Ekişi
+Gelecek ay komşum taşındığında ona yardım ediyorum olacağım
+Yarın komşuma yardım ediyorum olacağım
+O önümüzdeki hafta bu saatte sınavı için çalışıyor olacak
+O yarın tüm gün projede çalışıyor olacak
+Gelecek ay bu zamanlar Paris'e seyahat ediyor olacağız
+Sen geldiğinde parti için hazırlanıyor olacaklar
+O eve geldiğinde akşam yemeği pişiriyor olacak
+O bu akşam arkadaşlarıyla futbol oynuyor olacak
+Yarın bu saatte plajda gün batımını izliyor olacağız
+Gelecek hafta toplantıda gelecek planlar hakkında tartışıyor olacaklar
+Beni yarın sabah aradığında uyuyor olacağım
+Yarın komşuma yardım ediyor olacağım
+O önümüzdeki hafta bu saatte sınavı için çalışıyor olacak
+O yarın tüm gün projede çalışıyor olacak
+Gelecek ay bu zamanlar Paris'e seyahat ediyor olacağız
+Sen geldiğinde parti için hazırlanıyor olacaklar
+O eve geldiğinde akşam yemeği pişiriyor olacak
+O bu akşam arkadaşlarıyla futbol oynuyor olacak
+Yarın bu saatte plajda gün batımını izliyor olacağız
+Toplantıda gelecek hafta gelecek planlar hakkında tartışıyor olacaklar
+Beni yarın sabah aradığında uyuyor olacağım
+Gelecek Zaman Ekişi
+Gelecek ay komşuma bir yıldır yardım ediyor olacağım
+Sen varana kadar bir saat boyunca komşuma yardım etmiş olacağım
+O öğlen vaktine kadar iki saat boyunca sınavı için çalışmış olacak
+Cuma gününe kadar üç gün boyunca projede çalışmış olacak
+Evimize döndüğümüzde bir ay boyunca seyahat etmiş olacağız
+Gerçekleştiğinde haftalar boyunca parti için hazırlanmış olacaklar
+O eve geldiğinde bir saat boyunca akşam yemeği pişirmiş olacak
+Gece olana kadar iki saat boyunca arkadaşlarıyla futbol oynamış olacak
+Sen gelene kadar bir saat boyunca plajda gün batımını izliyor olacağız
+Toplantı sona erdiğinde saatlerdir planları tartışmış olacaklar
+Beni uyandırdığında sekiz saat boyunca uyumuş olacağım
+Güneş ufukta parlak bir şekilde doğdu
+O sahnede zarifçe dans etti
+Kedi tembellikle güneşte uzandı
+O arkadaşlarının gelişini hevesle bekledi
+Yağmur pencere camına yumuşakça düştü
+Onlar şaka üzerine içtenlikle güldüler
+Çiçekler bahçede güzelce açtı
+Kuş ağaçta melodik şekilde cıvıldadı
+O sınavları için özenle çalıştı
+Bebek oynarken mutlu bir şekilde kıkırdadı
+O işten sonra yorgun bir şekilde iç geçirdi
+Onlar bir fincan kahve üzerine canlı bir şekilde sohbet ettiler
+Rüzgar fırtına sırasında şiddetle uludu
+Çocuklar heyecanla oyun alanında koştular
+O plajda rahatlamış bir şekilde iç geçirdi
+O ailesini görünce sıcak bir şekilde gülümsedi
+Yapraklar esintide yumuşak bir şekilde hışırdayıp durdu
+Onlar konu hakkında hararetli bir şekilde tartıştılar
+Saat duvarda düzenli bir şekilde tik tak etti
+O konserde güzel bir şekilde şarkı söyledi
+Köpek postacıya yüksek bir şekilde havladı
+O çalışırken neşeyle ıslık çaldı
+Ay gece gökyüzünde parlak bir şekilde parladı
+Uzun süre ayrı kaldıktan sonra sıkıca sarıldılar
+O tren kalktığında üzgün bir şekilde el salladı
+O yatağa çıkarken uykulu bir şekilde esnedi
+Kahve uzun süre bekledikten sonra acı bir şekilde tadıldı
+Köşede fısıldadılar gizlice konuştular
+O beklenmedik habere şaşkınlıkla soluk aldı
+Ateş şöminede sıcak bir şekilde çıtırdadı
+O dağılmışlıkla onaylamadığı şekilde kaşlarını çattı
+Deniz fırtına sırasında öfkeyle kükredi
+Yabancıların nezaketine minnetle gülümsediler
+O çalışırken yumuşak bir şekilde mırıldandı
+O hatıra karşısında sessizce gülümsedi
+Yağmur çatıya yumuşak bir şekilde çarpıyordu
+Ordeal bittiğinde rahatlıkla iç geçirdiler
+O ona iltifat ettiğinde utangaç bir şekilde kızardı
+O ayak parmağını çarptığında acıyla suratını ekşitti
+Araba trafikte yüksek bir şekilde korna çaldı
+Onlar şaka üzerine kahkaha attılar
+O bilgisayar çöktüğünde hayal kırıklığına uğradı
+O gün batımını takdir ederek ıslık çaldı
+Kalabalık coşkuyla kazanan takımı alkışladı
+Soğukta ısınmak için sıkıca sarıldılar
+O endişeli arkadaşına güven veren bir şekilde gülümsedi
+O tartışmayı kazandıktan sonra kibarca sırıttı
+Bebek annesinin kollarında mutluca guruldadı
+Ağaç hafifçe rüzgarla sallandı
+Onlar birbirlerinin gözlerine sevgiyle baktılar
+Bebeği uyandırmamak için sessizce parmak uçlarında yürüdü
+Büyük konuşması öncesinde sinirli bir şekilde titredi
+Saat sessizlikte yüksek sesle çaldı
+Performansın sonunda coşkuyla alkışladılar
+Dans pistinde zarifçe döndü
+Kaçınılmaz sonuç karşısında iç çekti
+Kar taneleri yumuşakça yere düşüyordu
+Havalimanında sıkıca sarıldılar elveda için
+Arkadaşının şakasına kötü niyetle kıkırdadı
+Soğuktan kontrolsüzce titredi
+Nehir vadisinde sakin bir şekilde aktı
+Komedi gösterisinde kahkahalarla güldüler
+Ailesini gördüğünde sıcak bir şekilde gülümsedi
+Yerdeki çöpleri onaylamadı kaşlarını çattı
+Köpek sahibini görünce heyecanla havladı
+Varış yerine ulaştıklarında içlerini rahatça soludular
+Kaza yerini görünce dehşetle nefesini kesti
+Sokakta yürürken neşeyle ıslık çaldı
+Şöminede ateş neşeyle çıtırdadı
+Oda köşesinde gizlice fısıldadılar
+Kendi kendine sessizce mırıldandı çalışırken
+Şaka anısına sessizce güldü
+Yağmur pencereye yumuşakça vurdu
+Plajda rahatladıklarında huzurla iç çektiler
+Komplimana utangaç bir şekilde kızardı
+Masanın ayağına başparmağını sıkıştırınca acıyla surat astı
+Araba yanlarından geçerken yüksek sesle korna çaldı
+Komik filmde kahkahalarla güldüler
+Bilgisayar çöktüğünde sinirle iç çekti
+Güzel günbatımını takdirle ıslık çaldı
+Ev takımı gol attığında kalabalık yüksek sesle destekledi
+Kış soğuğunda sıcak kalmak için sıkıca sarıldılar
+Sinirli arkadaşını güvenle rahatlattı
+Tartışmayı kazandıktan sonra kibarca sırıttı
+Bebek oyuncaklarıyla oynarken mutlulukla kıkırdadı
+Ağaç hafifçe rüzgarla sallandı
+Onlar birbirlerinin gözlerine sevgiyle baktılar
+Uyuyan bebeği uyandırmamak için parmak uçlarında sessizce yürüdü
+Büyük konuşması öncesinde sinirli bir şekilde titredi
+Saat sessizlikte yüksek sesle çaldı
+Performansın sonunda coşkuyla alkışladılar
+Dans pistinde zarifçe döndü
+Kaçınılmaz sonuç karşısında iç çekti
+Kar taneleri yumuşakça yere düşüyordu
+Tren istasyonunda elveda sarıldılar
+Arkadaşının şakasına kötü niyetle kıkırdadı
+Soğuktan titreyerek ürperdi
+Nehir sakin bir şekilde kırsalda aktı
+Komedi gösterisinde kahkahalarla güldüler
+Ailesini gördüğünde sıcak bir şekilde gülümsedi
+Bir zamanlar ormanda yaşayan bir kaplumbağa ve bir tavşan vardı
+Tavşan hızından çok gururluydu ve genellikle diğer hayvanlara bununla ilgili övünürdü
+Kaplumbağa ise yavaş ama istikrarlıydı ve yetenekleri hakkında asla övünmezdi
+Bir gün tavşan kaplumbağaya bir yarış teklif etti
+Kaplumbağa teklifi kabul etti ve yarış bir sonraki gün için ayarlandı
+Yarış günü bütün hayvanlar izlemek için toplandı
+Yarış başladığında tavşan hemen öne çıktı kaplumbağayı çok geride bırakarak
+Zaferine güvenen tavşan yarışın yarısında ağacın altında bir şekerleme yapmaya karar verdi
+Bu arada kaplumbağa yavaş ama istikrarlı bir tempoda yoluna devam etti
+Tavşan uyandığında kaplumbağanın görünmediğini fark etti
+Hızla yeniden koşmaya başladı ama iş işten geçmişti
+Bitiş çizgisine vardığında kaplumbağanın zaten geçtiğini ve yarışı kazandığını gördü
+Hikayenin öğretisi yavaş ve istikrarlı olanın yarışı kazandığıdır
+olmak
+sahip olmak
+yapmak
+söylemek
+almak
+yapmak
+gitmek
+bilmek
+almak
+görmek
+gelmek
+düşünmek
+bakmak
+istemek
+vermek
+kullanmak
+bulmak
+söylemek
+sormak
+çalışmak
+görünmek
+hissetmek
+denemek
+ayrılmak
+aramak
+-meli/-malı
+olabilir
+içermek
+ihtiyaç duymak
+olmak (başka bir şeye dönüşmek)
+anlamına gelmek
+tutmak
+izin vermek
+başlamak
+görünmek
+yardım etmek
+konuşmak
+dönmek
+başlamak
+göstermek
+duymak
+oynamak
+koşmak
+hareket etmek
+gibi
+yaşamak
+inanmak
+tutmak
+getirmek
+olmak
+yazmak
+sağlamak
+oturmak
+ayakta durmak
+kaybetmek
+ödemek
+karşılamak
+içermek
+devam etmek
+ayarlamak
+öğrenmek
+değiştirmek
+öncülük etmek
+anlamak
+izlemek
+takip etmek
+durmak
+yaratmak
+konuşmak
+okumak
+izin vermek
+eklemek
+harcamak
+büyümek
+açmak
+yürümek
+kazanmak
+teklif etmek
+hatırlamak
+sevmek
+düşünmek
+görünmek
+satın almak
+beklemek
+hizmet etmek
+ölmek
+göndermek
+beklemek
+inşa etmek
+kalmak
+düşmek
+kesmek
+ulaşmak
+öldürmek
+kalmak
+önermek
+yükseltmek
+geçmek
+satmak
+gerekmek
+rapor etmek
+karar vermek
+çekmek
+kırmak
+almak
+katılmak
+geri dönmek
+açıklamak
+umut etmek
+geliştirmek
+taşımak
+kırmak
+çalışmak
+oynamak
+konuşmak
+koşmak
+hareket etmek
+denemek
+dönmek
+sormak
+ihtiyaç duymak
+hissetmek
+olmak
+ayrılmak
+koymak
+anlamına gelmek
+tutmak
+bırakmak
+başlamak
+gibi görünmek
+yardım etmek
+konuşmak
+göstermek
+duymak
+oynamak
+koşmak
+hareket etmek
+gibi
+yaşamak
+inanmak
+tutmak
+getirmek
+olmak
+yazmak
+sağlamak
+oturmak
+ayakta durmak
+kaybetmek
+ödemek
+karşılamak
+içermek
+devam etmek
+ayarlamak
+öğrenmek
+değiştirmek
+öncülük etmek
+anlamak
+izlemek
+takip etmek
+durmak
+yaratmak
+konuşmak
+okumak
+izin vermek
+eklemek
+harcamak
+büyümek
+açmak
+yürümek
+kazanmak
+teklif etmek
+hatırlamak
+sevmek
+düşünmek
+görünmek
+satın almak
+beklemek
+hizmet etmek
+ölmek
+göndermek
+beklemek
+inşa etmek
+kalmak
+düşmek
+kesmek
+ulaşmak
+öldürmek
+kalmak
+önermek
+yükseltmek
+geçmek
+satmak
+gerekmek
+rapor etmek
+karar vermek
+çekmek
+kırmak
+almak
+katılmak
+geri dönmek
+açıklamak
+umut etmek
+geliştirmek
+taşımak
+kırmak
+çalışmak
+oynamak
+konuşmak
+koşmak
+hareket etmek
+denemek
+dönmek
+sormak
+ihtiyaç duymak
+hissetmek
+olmak
+ayrılmak
+koymak
+anlamına gelmek
+tutmak
+bırakmak
+başlamak
+gibi görünmek
+yardım etmek
+konuşmak
+göstermek
+duymak
+oynamak
+koşmak
+hareket etmek
+gibi
+yaşamak
+inanmak
+tutmak
+getirmek
+meydana gelmek
+yazmak
+sağlamak
+oturmak
+ayakta durmak
+kaybetmek
+ödemek
+karşılamak
+içermek
+devam etmek
+kurmak
+öğrenmek
+değiştirmek
+liderlik etmek
+anlamak
+izlemek
+takip etmek
+durmak
+yaratmak
+konuşmak
+okumak
+izin vermek
+eklemek
+harcamak
+büyümek
+açmak
+yürümek
+kazanmak
+teklif etmek
+hatırlamak
+sevmek
+düşünmek
+görünmek
+satın almak
+beklemek
+hizmet etmek
+ölmek
+göndermek
+beklemek
+inşa etmek
+kalmak
+düşmek
+kesmek
+ulaşmak
+öldürmek
+kalmak
+önermek
+yükseltmek
+geçmek
+satmak
+gerektirmek
+rapor etmek
+karar vermek
+çekmek
+kırmak
+almak
+katılmak
+geri dönmek
+açıklamak
+umut etmek
+geliştirmek
+taşımak
+kırmak
+çalışmak
+oynamak
+iyi
+değer
+için
+olan
+miktar
+of
+para
+küçük
+biraz
+sarhoş
+üzgün
+ani
+olay
+şans
+artış
+ve
+sonra
+azalma
+çok
+güçlü
+söz
+yokluk
+kesinlikle
+muhasebeci
+hareket etmek
+senin
+yaş
+eylem
+kamera
+aktör
+eklemek
+ilave
+idari
+asistan
+evlat edinilmiş
+çocuk
+evlat edinmiş
+ebeveyn
+macera
+spor
+Afrika
+Afrikalı
+aslan
+vahşi
+köpek
+katılmak
+uçak
+koridor
+cebir
+tüm
+anlamına gelmek
+kişi
+aldı
+sinirli
+rahatsız
+alerji
+izin vermek
+mezunlar
+Amerikalı
+kıvırcık
+kısa tüylü
+tel tüy
+Amur
+pars
+eğlenmiş
+bir
+ifade
+için
+sormak
+neden
+biri
+bakıyor
+ya da
+üzgün
+analiz
+olan
+oldukça
+kaba
+r
+sen
+anemometre
+sinirli
+bilezik
+yıllık
+yüzde
+oran
+başka
+yardım
+porsiyon
+yuvarlak
+içecekler
+lütfen
+karınca
+Antarktika
+kaygı
+endişeli
+herhangi biri
+yapabilir
+yapmak
+onu
+herhangi bir zaman
+her neyse
+gerekir
+almak
+gitmek
+umursamaz
+uygulama
+görünmek
+elma
+uygulama
+randevu
+akvaryum
+ar
+gözlükler
+Arap
+mimar
+kutup
+tilki
+doğru
+yapmak
+herhangi bir şey
+ücretsiz
+ile
+benimle
+bu yüzden
+şimdiye kadar
+Arjantin
+aritmetik
+kol
+ısıtıcılar
+koltuk
+sanat
+müze
+sanatçı
+olarak
+hatırlamak
+olur
+sahip olmak
+Asya
+Asyalı
+sorma
+daha
+bilgi
+kuşkonmaz
+varlık
+tahsis
+atama
+orta dereceli
+derece
+asteroid
+astronot
+astronomi
+sporcu
+sporcu
+alan
+atmosferik
+basınç
+katılım
+seyirci
+sesli
+görsel
+konferans salonu
+artırılmış
+gerçeklik
+teyze
+Avustralya
+çığ
+avokado
+harika
+lisans
+bacon
+rozet
+porsuk
+pişirme
+denge
+Bali
+muz
+bandikut
+bilezik
+banka
+hesap
+barometre
+yarasa
+bornoz
+olmak
+sabırlı
+bere
+ayı
+pazar
+ritimler
+kunduz
+olmak
+yatak
+yatak odası
+arı
+biftek
+pancar
+böcek
+başlamak
+acemi
+ifadeler
+bej
+inanmak
+zil
+biber
+kemerler
+Bengal
+kaplan
+bere
+en iyi
+çaba
+atış
+denemek
+daha iyi
+sonraki
+zaman
+bibliyografi
+bisiklet
+bilbi
+fatura
+ödemek
+sonra
+önce
+ayrılmak
+biyolojik çeşitlilik
+biyoloji
+biyosfer
+kuş gözlemciliği
+siyah
+delik
+panter
+dul
+böğürtlen
+ceket
+blender
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
