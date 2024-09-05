@@ -267,7 +267,9 @@ camêr
 hanımefendi 
 xanim 
 bayan
-xanim , sitî
+sitî
+bayan
+xanim
 beyefendi 
 camêr 
 garson 
@@ -301,7 +303,7 @@ merheba
 adınız ne 
 navê we çi ye 
 onun adı nedir 
-navê wî / wê çi ye
+navê wî çi ye
 benim adım deniz 
 navê min denîz e 
 onun adı berfin 
