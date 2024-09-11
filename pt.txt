@@ -1782,7 +1782,6 @@ Terra
 terra
 Gaia
 Esfera
-Esfera
 Terra
 Solo
 Chão
@@ -1801,6 +1800,7 @@ Espaço sideral
 Galáxia
 Estrela
 Planeta
+Sistema solar
 Sistema solar
 Astronauta
 Foguete
