@@ -955,16 +955,16 @@ Bekle bir saniye
 Burada değil. Bir mesaj bırakmak ister misiniz 
 Beni geri aramasını rica eder misiniz 
 Aramanız için teşekkürler.
-Bana ... hakkında bilgi verebilir misiniz 
-Bana ... söyleyebilir misiniz 
-... hakkında bilgi almak istiyorum.
-... biliyor musunuz 
+Bana hakkında bilgi verebilir misiniz 
+Bana söyleyebilir misiniz 
+hakkında bilgi almak istiyorum.
+biliyor musunuz 
 Herhangi bir fikriniz var mı 
 Bunu bana anlatabilir mi 
 Bilgi sahibi olma şansınız var mı 
 Sanırım bilmeyeceksiniz değil mi 
-Merak ediyordum...
-Bunu öğrenmek için arıyorum…
+Merak ediyordum 
+Bunu öğrenmek için arıyorum 
 Bu ifadeyi telefonla kullanın.
 Hiçbir fikrim yok.
 Hiçbir ipucum yok.
@@ -972,16 +972,16 @@ Sana yardımcı olamam.
 Bana anlatsana.
 Gerçekten emin değilim.
 Ben de bunu merak ediyordum.
-... hakkında ne düşünüyorsunuz 
-... hakkında nasıl hissediyorsunuz 
-... hakkında ne düşünüyorsunuz 
-... hakkında ne düşünüyorsunuz 
-Benim görüşüme göre…
-Ben derim ki...
-Benim şahsi düşünceme göre...
-Bana sorsanız...
-Benim gördüğüm şekilde...
-Benim bakış açımdan…
+hakkında ne düşünüyorsunuz 
+hakkında nasıl hissediyorsunuz 
+hakkında ne düşünüyorsunuz 
+hakkında ne düşünüyorsunuz 
+Benim görüşüme göre 
+Ben derim ki 
+Benim şahsi düşünceme göre 
+Bana sorsanız 
+Benim gördüğüm şekilde 
+Benim bakış açımdan 
 Fikri Olmayan İfadeler
 Bunu pek düşünmedim.
 Benim için çok önemli hissetmiyorum.
