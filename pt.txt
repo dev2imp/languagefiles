@@ -469,7 +469,7 @@ carteiro
 correios
 carta registada 
 carta registada com aviso de recepção
-serviço de mensagens escritas  SME
+serviço de mensagens escritas SME
 selo
 via superfície 
 telegrama
@@ -559,7 +559,7 @@ ténis
 campo de ténis
 raqueta de ténis
 tenda
-maré  alta, baixa
+maré alta, baixa
 pesca submarina
 voleibol
 esqui aquático 
@@ -589,7 +589,7 @@ vinte para as quatro
 um quarto para as cinco
 catorze horas
 quinze e trinta
-dezoito e quarenta e cinco  um quarto para as sete
+dezoito e quarenta e cinco um quarto para as sete
 meio dia
 meia noite
 neste momento
@@ -888,7 +888,7 @@ Mesmo que sempre
 Não é tão bom
 Poderia ser melhor
 A maneira de responder a E aí ?
-O que há de novo  ?
+O que há de novo ?
 Obrigado
 Muito obrigado
 Muito obrigado
@@ -912,12 +912,12 @@ Feliz em ajudar
 Claro !
 Obrigado
 use isso quando você também tiver algo para agradecer à outra pessoa
-Eu sinto muito que ...
+Eu sinto muito que 
 É minha culpa
 Estou assumindo a responsabilidade pelo problema
 para problemas muito pequenos
-Eu deveria ter ...
-Eu peço desculpas por ...
+Eu deveria ter 
+Eu peço desculpas por 
 Maneiras de responder a um pedido de desculpas
 Isso está ok
 Acontece
@@ -926,45 +926,45 @@ Não se preocupe com isso
 eu perdôo você
 para problemas sérios
 Frases para apresentações
-Eu só queria me apresentar , sou ...
-Acho que não nos conhecemos antes do meu nome . . .
-Isso é ...
-Eu gostaria que você conhecesse ...
-Voce ja conheceu ...  ?
-Eu gostaria de te apresentar ...
+Eu só queria me apresentar , sou 
+Acho que não nos conhecemos antes do meu nome 
+Isso é 
+Eu gostaria que você conhecesse 
+Voce ja conheceu ?
+Eu gostaria de te apresentar 
 Prazer em conhecê-lo
 É um prazer conhecer você
 Da mesma maneira
 E você
-Realmente  ?
+Realmente ?
 É interessante
 Certo
 Claro
 Foi bom conversar com você
 Bem , está ficando tarde
 De qualquer forma , eu deveria ir
-Desculpe , mas receio que precise . . .
+Desculpe , mas receio que precise 
 Sinto muito por interrompê-lo , mas na verdade preciso correr
 Olá , aqui é Jane
 Posso falar com John Smith ?
 O João está aí ?
-Estou ligando sobre ...
+Estou ligando sobre 
 Estou retornando sua ligação
 Um momento por favor
 Espere um segundo
 Ele não está aqui . Gostaria de deixar uma mensagem ? *****
 Você poderia pedir a ele para me ligar de volta ?
 Obrigado por ligar
-Você pode me dizer   ..  ?
-Você poderia me dizer   ..  ?
-Eu gostaria de saber   ..
-Você sabe   ..
-Você tem alguma ideia   ..  ?
-Alguém poderia me dizer   .. ?
-Você saberia   ..  ?
-Eu não suponho que você saberia   .. ?
-Eu estava me perguntando ...
-Estou ligando para saber ...
+Você pode me dizer ?
+Você poderia me dizer ?
+Eu gostaria de saber 
+Você sabe 
+Você tem alguma ideia ?
+Alguém poderia me dizer ?
+Você saberia ?
+Eu não suponho que você saberia ?
+Eu estava me perguntando 
+Estou ligando para saber 
 use esta frase no telefone
 Eu não faço ideia
 Eu não tenho ideia
@@ -972,16 +972,16 @@ Eu não posso te ajudar nisso
 Hiç fikrim yok
 eu não tenho certeza
 Eu também estive me perguntando isso
-O que você pensa sobre   ...?
-Como você se sente sobre ...?
-Qual é a sua opinião sobre   ...?
-Qual é a sua opinião sobre   ...?
-Na minha opinião ...
-Eu diria   ...
-Pessoalmente , acho que acredito  ...
-Se você me perguntar   ...
-Do jeito que eu vejo  ...
-Do meu ponto de vista ...
+O que você pensa sobre ?
+Como você se sente sobre ?
+Qual é a sua opinião sobre ?
+Qual é a sua opinião sobre ?
+Na minha opinião 
+Eu diria 
+Pessoalmente , acho que acredito 
+Se você me perguntar 
+Do jeito que eu vejo 
+Do meu ponto de vista 
 Frases para não ter opinião
 Eu nunca pensei muito nisso
 Eu não tenho sentimentos fortes de qualquer maneira
@@ -1008,70 +1008,70 @@ Receio não concordar
 Eu não tenho tanta certeza disso
 Não é assim que eu vejo
 Não necessariamente
-Sim mas ...
+Sim mas 
 Pelo contrário
 muito forte discordo totalmente
 Frases para responder às boas notícias
 Parabéns !
-Isso é ótimo  !
+Isso é ótimo !
 Que maravilha !
-Incrível  !
-Eu estou tão feliz por você  !
+Incrível !
+Eu estou tão feliz por você !
 Frases para responder a más notícias
-Oh não ...
+Oh não 
 Isso é terrível
 Pobre voce
 Eu sinto muito por ouvir isso
 Sinto muito pela sua perda
-Está livre ...
-Você está fazendo alguma coisa ...
+Está livre 
+Você está fazendo alguma coisa 
 Deixe-me verificar minha agenda
-Você quer ...
-Você gostaria de ...
-Eu adoraria  !
-Parece bom  !
+Você quer 
+Você gostaria de 
+Eu adoraria !
+Parece bom !
 Eu adoraria , mas tenho outro compromisso
 Eu não acho que posso
 Talvez outra hora
 mais formal Você gostaria de uma bebida ?
-Você quer um pouco de água  ?
+Você quer um pouco de água ?
 Posso pegar algo para você comer ?
 Isso seria ótimo , obrigado
 sim
 Não , obrigado , estou bem
 não
-Eu vou ...
-Estou planejando ...
-Eu espero ...
-Eu gostaria de ...
-Eu poderia ...
-Eu posso ...
-Estou pensando em ...
-Eu amo ...
-Eu realmente gosto ...
-Eu vivo para ...
-Eu sou louco por ...
-Não sou muito fã de ...
+Eu vou 
+Estou planejando 
+Eu espero 
+Eu gostaria de 
+Eu poderia 
+Eu posso 
+Estou pensando em 
+Eu amo 
+Eu realmente gosto 
+Eu vivo para 
+Eu sou louco por 
+Não sou muito fã de 
 não é minha xícara de chá
-Eu realmente não me importo ...
-Não estou por dentro ...
-Eu não aguento ...
-Que tal ...?
-Por que você não ...?
-Talvez nós devessemos ...  .
-Eu recomendaria .. ..
-Você já pensou sobre ...?
+Eu realmente não me importo 
+Não estou por dentro 
+Eu não aguento 
+Que tal ?
+Por que você não ?
+Talvez nós devessemos .
+Eu recomendaria 
+Você já pensou sobre ?
 Frases para perguntar e falar sobre empregos
-Onde você trabalha  ?
-O que você faz  ?
-Você trabalha com o que  ?
-Eu trabalho em ...
-Eu sou um ...
+Onde você trabalha ?
+O que você faz ?
+Você trabalha com o que ?
+Eu trabalho em 
+Eu sou um 
 Eu estou desempregado
 Estou entre empregos no momento
 Estou procurando trabalho
 Eu administro meu próprio negócio
-Sou freelancer ...
+Sou freelancer 
 estou aposentado
 Sou solteiro
 eu tenho um namorado
@@ -1080,7 +1080,7 @@ Estamos noivos
 Nós vamos nos casar
 Vamos nos casar em junho
 Eu sou casado
-Estou casado há ...
+Estou casado há 
 Eu sou divorciado
 estou viúvo
 meu marido morreu
@@ -1089,74 +1089,74 @@ Não estou procurando nada sério
 Eu ainda não superei meu ex
 Perdão ?
 Você se importaria de repetir isso ?
-O que você quer dizer  ?
+O que você quer dizer ?
 pedindo mais informações
 Não tenho certeza se te sigo
 Eu não entendo
-Você poderia explicar ...?
+Você poderia explicar ?
 Maneiras de verificar se a outra pessoa
-Você entende o que eu estou dizendo  ?
-Isso faz sentido  ?
-Você sabe o que eu quero dizer  ?
+Você entende o que eu estou dizendo ?
+Isso faz sentido ?
+Você sabe o que eu quero dizer ?
 Você está comigo até agora ?
-Está claro  ?
+Está claro ?
 Eu preciso de uma pequena ajuda
-Você poderia me ajudar  ?
-Você poderia me ajudar  ?
+Você poderia me ajudar ?
+Você poderia me ajudar ?
 geralmente usado para tarefas físicas
 Você poderia poupar alguns minutos ?
-Você poderia me fazer um favor  ?
+Você poderia me fazer um favor ?
 Maneiras de pedir a outra pessoa para fazer algo
-mais formal Você se importaria  ...?
-Você poderia , por favor ...?
-Você pode ...?
-Por favor ...
-Eu apreciaria se você pudesse ...
-Desculpe interromper , mas ...
+mais formal Você se importaria ?
+Você poderia , por favor ?
+Você pode ?
+Por favor 
+Eu apreciaria se você pudesse 
+Desculpe interromper , mas 
 Com licença , posso falar com você um minuto ?
-Você tem um minuto  ?
+Você tem um minuto ?
 Posso pular aqui ?
 Desculpe
-Eu só quero dizer isso ...
+Eu só quero dizer isso 
 Posso dar uma palavrinha ?
-Mantenha o bom trabalho  !
+Mantenha o bom trabalho !
 Essa foi uma boa tentativa
 Isso é uma melhoria real
 Você está no caminho certo
 Você quase conseguiu
 Você está indo bem
 Não desista !
-Mantenha-se firme  !
-Você consegue  !
+Mantenha-se firme !
+Você consegue !
 Dê o seu melhor
 melhor tiro
 melhor tentar
 melhor esforço
-Bom trabalho  !
+Bom trabalho !
 Você foi ótimo !
 Eu não estou feliz com isso
 Sinto muito , mas isso é inaceitável
-não estou muito satisfeito  ...
-Eu não aguento quando  ...
+não estou muito satisfeito 
+Eu não aguento quando 
 Isso é uma merda
 Esquecendo
-Eu vou sempre lembrar ...
-Nunca esquecerei ...
-Se eu me lembro bem ...
-Pelo que me lembro ...
-Tenho uma vaga lembrança de ...
+Eu vou sempre lembrar 
+Nunca esquecerei 
+Se eu me lembro bem 
+Pelo que me lembro 
+Tenho uma vaga lembrança de 
 Está na ponta da língua
 Estou tentando lembrar , mas não consigo lembrar
 Minha mente ficou em branco
 Eu não conseguia me lembrar de pensar em nada
 Não toca uma campainha
 não parece familiar
-Por favor , lembre-se de ...
-Por favor , não se esqueça de ...
-Gostaria de lembrá-lo sobre ...
-Você não se esqueceu de  .. . não é ?
+Por favor , lembre-se de 
+Por favor , não se esqueça de 
+Gostaria de lembrá-lo sobre 
+Você não se esqueceu de . não é ?
 Isso me escapou completamente !
-Eu me esqueci completamente disso  !
+Eu me esqueci completamente disso !
 Frases para dizer que algo é fácil
 Difícil
 É moleza
@@ -1173,7 +1173,7 @@ leva muito tempo e energia
 Ela tem vinte e poucos anos
 Ele está com quase trinta anos
 Ela acabou de completar seis anos
-Não seja infantil  !
+Não seja infantil !
 Eu não sou tão jovem como costumava ser
 Ainda não superei a colina !
 sobre a colina
@@ -1183,16 +1183,16 @@ ela é jovem , mas tem a sabedoria de uma pessoa mais velha
 Estou tendo um momento sênior
 estou sendo esquecido
 Ele viveu até uma idade avançada
-Você tem ...?
-Onde posso encontrar ...?
+Você tem ?
+Onde posso encontrar ?
 Estou apenas navegando
 olhando casualmente
-Estou procurando por ...
-Quanto é este  ?
+Estou procurando por 
+Quanto é este ?
 Isto está à venda ?
 Posso experimentar ?
-Eu vou levar  !
-Vocês aceitam cartões de crédito  ?
+Eu vou levar !
+Vocês aceitam cartões de crédito ?
 Eu gostaria de devolver esta troca
 Estou morrendo de fome !
 eu estou faminto
@@ -1201,10 +1201,10 @@ Que tal comer fora hoje à noite ?
 Coma em um restaurante
 Eu trouxe alguns lanches
 Esta sopa é deliciosa !
-Poderia me dar outra porção de  ...?
+Poderia me dar outra porção de ?
 outra ajudando
 outra porção
-Eu terei ...
+Eu terei 
 Podemos pegar o cheque , por favor ?
 estou cheio
 estou satisfeito
@@ -1231,14 +1231,14 @@ corredor
 corredor
 Aqui está seu cartão de embarque
 cartão de embarque
-Seu voo sai do portão   ...
-O número do seu assento é  ...
+Seu voo sai do portão 
+O número do seu assento é 
 O voo está embarcando agora
 passageiros podem entrar no avião
 Seu voo atrasou
 Seu voo foi cancelado
 Esta é a chamada final para o vôo
-Qual o propósito da sua viagem  ?
+Qual o propósito da sua viagem ?
 Custou uma fortuna
 Custou um braço e uma perna
 Isso é um roubo
@@ -1301,13 +1301,13 @@ Ir para a cama
 ir para a cama
 É hora de dormir para mim
 Frases para Promessas Resoluções
-Eu realmente deveria  ...
-Eu prometo que vou  ...
+Eu realmente deveria 
+Eu prometo que vou 
 eu juro que vou
-Eu não vou  ...
+Eu não vou 
 uma promessa muito forte
-Não importa o que aconteça , eu vou  ...
-Faça chuva ou faça sol , eu vou  ...
+Não importa o que aconteça , eu vou 
+Faça chuva ou faça sol , eu vou 
 Desculpas para chegar atrasado
 Desculpe estou atrasado
 eu dormi demais
@@ -1358,7 +1358,7 @@ Sinto muito , isso é pessoal
 Eu prefiro não falar sobre isso
 Não é da sua conta
 Não é da tua conta
-Por que você quer saber  ?
+Por que você quer saber ?
 e são bastante rudes r
 Ele está com pouco dinheiro
 Ele está quebrado
@@ -1397,12 +1397,12 @@ Houve uma ligeira diminuição na criminalidade
 A taxa de criminalidade caiu
 A taxa de criminalidade despencou
 diminuiu muito , muito rapidamente
-Ela nasceu para  ...
+Ela nasceu para 
 Ele é natural
 Ela poderia fazer isso enquanto dormia
 Ele sabe disso de dentro para fora
 Ela sabe como a palma da sua mão
-Ela é uma enciclopédia ambulante de  ...
+Ela é uma enciclopédia ambulante de 
 Ele está em uma classe própria
 Ele é o melhor no negócio
 Ela é muito talentosa
@@ -1410,62 +1410,62 @@ Ele é um gênio
 Você poderia me dar um minuto ?
 Espera um segundo
 Só um segundo
-Aguentar   ...
-Deixa eu ver pensar  ...
+Aguentar 
+Deixa eu ver pensar 
 Eu estarei com você
 Tenha paciencia comigo
 Isso terá que esperar
 Ser paciente
-Não tão rápido  !
-Tenha calma  !
+Não tão rápido !
+Tenha calma !
 tomar medidas imprudentes
-Se eu tivesse que adivinhar , eu diria  ...
-É difícil dizer , mas acho que  ...
-Pensando bem , eu diria  ...
+Se eu tivesse que adivinhar , eu diria 
+É difícil dizer , mas acho que 
+Pensando bem , eu diria 
 o que me lembro de estimar , sem verificar as estatísticas reais
-É sobre   ...
-Está por aí  ...
-Eu não ficaria surpreso se  ...
-Há uma boa chance  ...
-Tenho um pressentimento  ...
-Eu aposto   ...
+É sobre 
+Está por aí 
+Eu não ficaria surpreso se 
+Há uma boa chance 
+Tenho um pressentimento 
+Eu aposto 
 Seu palpite é tão bom quanto o meu
 eu não sei
-Estou debatendo entre  ...
+Estou debatendo entre 
 Eu não consigo me decidir
 Estou em cima do muro
 Eu estou no meio
 Eu não sei o que decidir
 vou levar isso em consideração
-Por outro lado   ...
+Por outro lado 
 Estou tendo dúvidas
 Estou reconsiderando minha decisão
 eu mudei de ideia
-Ele convenceu me convenceu a   ...
+Ele convenceu me convenceu a 
 Olhando para trás , sei que foi a decisão certa
 Você decide
 Você pode decidir
-Boa sorte  !
+Boa sorte !
 Mais sorte da próxima vez
-Apenas minha sorte  !
-Sortudo  !
+Apenas minha sorte !
+Sortudo !
 Isso foi um golpe de sorte
 um evento repentino de boa sorte
 Algumas pessoas têm toda a sorte
-Por sorte   ...
+Por sorte 
 por acaso
 Ele está sem sorte
 ele está tendo um longo período de azar ou dificuldade
 Não tive essa sorte , algo bom que poderia ter acontecido , não aconteceu
 Que azar !
 Frases para alívio de preocupações
-Estou com medo disso  ...
-Não consigo deixar de pensar isso  ...
+Estou com medo disso 
+Não consigo deixar de pensar isso 
 Tem me mantido acordado à noite
-E se   ...?
+E se ?
 Uau !
-Obrigado Senhor  !
-Que alivio  !
+Obrigado Senhor !
+Que alivio !
 Você me deixou preocupado por um momento
 Você não tem ideia do alívio que é
 Isso é uma grande carga que tirei da minha mente
@@ -1476,10 +1476,10 @@ Isso não vai acontecer em nossa vida
 nos próximos 10 anos
 É um sinal do que está por vir
 indica como as coisas serão no futuro
-Estou contando os dias até  ...
+Estou contando os dias até 
 Estou animado com o evento futuro ,
 Mal posso esperar para que isso aconteça
-Cedo ou tarde   ...
+Cedo ou tarde 
 Está fadado a acontecer eventualmente
 isso definitivamente acontecerá em algum momento no futuro
 Eu vou resolver isso
@@ -1490,26 +1490,26 @@ Eu vou direto ao assunto
 Eu farei isso imediatamente
 O tempo vai dizer
 Você está bonita
-Você está maravilhosa  !
-Que bonito  !
+Você está maravilhosa !
+Que bonito !
 eu gosto do seu
 A lasanha é deliciosa
 Você é um cozinheiro fantástico
-Meus cumprimentos ao chefe  !
+Meus cumprimentos ao chefe !
 Que belo apartamento !
 Você tem uma bela casa
-Ela é tão fofa  !
+Ela é tão fofa !
 Seus filhos são muito divertidos
 Frases para certeza
 Probabilidade
 tenho certeza absoluta
-Tenho certeza de que   ...
-Não tenho dúvidas disso  ...
+Tenho certeza de que 
+Não tenho dúvidas disso 
 Estou cem por cento certo
-Estou convencido de que   ...
-As chances são de que   ...
+Estou convencido de que 
+As chances são de que 
 isso provavelmente vai acontecer
-As probabilidades são de que   ...
+As probabilidades são de que 
 isso provavelmente vai acontecer
 Duvido seriamente
 Eu não acho
@@ -1518,7 +1518,7 @@ Não é muito provável
 Não há muita chance disso
 Eu ficaria muito surpreso se isso acontecesse
 eu não apostaria nisso
-há uma pequena chance de que isso aconteça  ... mas provavelmente não acontecerá
+há uma pequena chance de que isso aconteça mas provavelmente não acontecerá
 Isso nunca vai acontecer
 Interessante chato
 É fascinante
@@ -1532,19 +1532,19 @@ Eu estava entediado até a morte
 Eu estava morrendo de tédio
 É tão emocionante quanto ver a tinta secar
 É muito chato
-Qual é o problema  ?
-O que está errado  ?
-Você está bem  ?
+Qual é o problema ?
+O que está errado ?
+Você está bem ?
 Você parece um pouco para baixo
 um pouco triste
 Há algo que eu possa fazer para ajudar ?
-Alegrar  ! Levante o queixo !
+Alegrar ! Levante o queixo !
 Não é tão ruim
 Tudo ficará bem
 Olhe pelo lado bom
 considere os aspectos positivos
 Não é o fim do mundo
-Que pena  !
+Que pena !
 Que pena
 Que decepcionante
 Isso é ruim
@@ -1643,7 +1643,7 @@ Eu mal podia esperar para voltar para casa
 Eu vou te pagar uma bebida
 Eu gostaria de fazer um brinde
 Eu gostaria de homenagear uma ideia de evento pessoal
-Um brinde à  ... sua saúde
+Um brinde à sua saúde
 o ano Novo
 nosso sucesso !
 Outra rodada de bebidas , por favor
@@ -2983,13 +2983,13 @@ Ouvimos música enquanto trabalhamos .
 Eles estudam juntos na biblioteca .
 Ela pratica ioga pela manhã .
 Os pássaros cantam do lado de fora da minha janela todas as manhãs .
-O sol nasce no leste  .
+O sol nasce no leste .
 O trem chega às 9 horas todas as manhãs .
 Chove muito na época das chuvas .
-A terra gira em torno do Sol  .
+A terra gira em torno do Sol .
 Presente perfeito
 Ajudei demais meu vizinho esta semana .
-Eu terminei meu dever de casa  .
+Eu terminei meu dever de casa .
 Ela visitou Paris várias vezes .
 Já vimos esse filme antes .
 Eles moram nesta cidade há dez anos .
