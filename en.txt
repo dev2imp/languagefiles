@@ -1915,7 +1915,6 @@ Tapeworm
 Flatworm
 Star nosed mole
 Platypus
-Echidna
 Tasmanian devil
 Kangaroo rat
 Wallaby
