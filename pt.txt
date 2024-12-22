@@ -98,7 +98,6 @@ soutien
 saia
 casaco
 sobretudo
-cuecas
 camisa
 sapatos
 calções
@@ -887,8 +886,6 @@ Eu estive ocupado
 Mesmo que sempre
 Não é tão bom
 Poderia ser melhor
-A maneira de responder a E aí ?
-O que há de novo ?
 Obrigado
 Muito obrigado
 Muito obrigado
