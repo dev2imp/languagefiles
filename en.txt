@@ -97,8 +97,7 @@ blouse
 bra
 dress
 jacket
-overcoat
-pants 
+overcoat 
 shirt
 shoes
 shorts
@@ -887,8 +886,6 @@ I’ve been busy
 Same as always
 Not so great
 Could be better
-The way to respond to What’s up ?
-What’s new ?
 Thanks
 Thanks a lot
 Thank you so much 
