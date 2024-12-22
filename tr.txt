@@ -98,7 +98,6 @@ sutyen
 elbise
 ceket
 palto
-pantolon
 gömlek
 ayakkabı
 şort
@@ -887,7 +886,6 @@ Yoğunum
 Her zamanki gibi
 Çok da iyi değil
 Daha iyi olabilirdi
-Ne var ne yok ve Yeni ne var gibi sorulara nasıl cevap verilir 
 Teşekkürler
 Çok teşekkür ederim
 Çok teşekkür ederim
