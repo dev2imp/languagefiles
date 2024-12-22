@@ -1,0 +1,28 @@
+Privacy Policy for Sollingo
+Last updated: December 22, 2024
+
+This Privacy Policy describes how Sollingo ("we", "us", or "our") collects, uses, and discloses information collected from users ("you" or "your") of the Sollingo mobile application (the "App").
+
+Information Collection and Use
+We do not require you to provide any personal information to use the App. However, we may collect certain non-personal information automatically, including but not limited to your device type, operating system version, unique device identifiers (such as Advertising ID), and mobile network information. This information is used to improve the functionality of the App and for showing relevant advertisements.
+
+Why We Use AdMob
+We use Google AdMob to display advertisements within the app. AdMob is a third-party ad network that helps us show ads to users while they use the app. The ads are displayed to keep the app free for users.
+
+AdMob may collect certain non-personal information, such as your device's unique identifiers (e.g., Advertising ID), to help deliver more relevant ads based on your preferences. We do not require any personal information to show ads, and no user login is needed to interact with the app.
+
+AdMob's purpose is solely to display ads. We do not use it for any other data collection or tracking purposes, and we do not control how AdMob uses the data it collects.
+
+If you do not wish to receive personalized ads, you can opt-out by adjusting your device's settings for personalized advertising.
+
+Children's Privacy
+The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take necessary action.
+
+Data Security
+We take reasonable measures to protect the information collected through the App from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee the absolute security of your data.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any significant changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at lingoroj@gmail.com.
