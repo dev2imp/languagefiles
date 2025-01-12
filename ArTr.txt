@@ -58,13 +58,13 @@
 ١٠٠٠-1000
 السلام-Selamun aleyküm
 مرحبا-Merhaba
-كيف حالك؟-Nasılsın?
-الحمد لله-Şükürler olsun
+كيفحالك؟-Nasılsın?
+الحمدلله-Şükürler olsun
 شكراً-Teşekkür ederim
 عفواً-Rica ederim
 نعم-Evet
 لا-Hayır
-من فضلك-Lütfen
+منفضلك-Lütfen
 آسف-Özür dilerim
 بيت-Ev
 طعام-Yemek
