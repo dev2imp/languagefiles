@@ -9,20 +9,20 @@ jimarên rêzê
 dilbilgisi
 rêziman
 pratik konuşma kilavuzu
-rêbêrê axaftna rojane
+rêbêrê axaftina rojane
 zaman
 dem
-mevsimler
+mevsim
 demsal
 yönler
 alî
-yönler
+yön
 hêl
 renkler
 reng
 aile
 malbat
-meslekler
+meslek
 pîşe
 eğitim
 perwerdehî
@@ -59,12 +59,10 @@ hiqûq
 politika
 polîtîka
 gümrük
-gumrik
-gümrük
 bacgeh
 hayvanlar
 heywan
-hayvanlar
+hayvan
 ajal
 edatlar
 daçek
@@ -123,7 +121,7 @@ tu baş î
 gidiyorsun 
 tu diçî 
 seni gördüm
-min tu dîtî
+min tu dît
 o iyidir 
 ew baş e 
 o gidiyor 
@@ -135,14 +133,14 @@ em baş in
 biz gidiyoruz 
 em diçin 
 sen bizi gördün
-te em dîtin
+te em dît
 siz iyisiniz 
 hûn baş in 
 siz gidiyorsunuz 
 hûn diçin 
 ben sizi gördüm
 min hûn dîtin
-onlar iyidirler 
+onlar iyiler 
 ew baş in
 onlar gidiyorlar 
 ew diçin 
@@ -163,7 +161,7 @@ ew hatin
 benim evim
 mala min
 gördüm
-min dît
+dît
 beni görüyorsun
 tu min dibînî
 ne 
