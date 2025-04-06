@@ -283,7 +283,7 @@ ez hindik dizanim
 sizi anlamıyorum 
 ez we fehm nakim 
 anlamadım 
-min fehm nekir 
+fehm nekir 
 tekrar eder misiniz lütfen 
 hûn dikarin dubare bikin ji kerema xwe 
 günaydin 
@@ -295,9 +295,7 @@ roj baş
 selam 
 silav 
 iyi akşamlar 
-êvar baş 
-merhaba 
-merheba 
+êvar baş  
 adınız ne 
 navê we çi ye 
 onun adı nedir 
@@ -327,7 +325,7 @@ sibê em ê hev bibînin
 güle güle 
 oxir be 
 görüşmek üzere 
-bi hêviya hevdîtinê 
+xatirê we
 iyi yolculuklar 
 riya we vekirî be 
 teşekkür ederim 
@@ -355,8 +353,8 @@ hûn pir xweşik in
 kendine iyi bak 
 li xwe baş binêre 
 buraya yalnız mı geldiniz
-hûn bi tenê hatin vir
-erkek arkadaşın var mı
+hûn bi tenê hatin vira
+erkek arkadaşın var mı?
 hevalê te heye
 canım 
 cana min
@@ -374,14 +372,12 @@ birlikte kafeye gidelim mi
 em bi hev re herin kafeyê
 evet 
 erê 
-belki de 
-dibe ku 
+belki
+belkû 
 her şey yolunda 
-her tişt di rê de ye 
-tamam 
-temam 
+her tişt di rê de ye  
 buna eminim 
-ez bi vê bawer im 
+bi vê bawer im 
 doğru
 raste 
 asla 
@@ -400,18 +396,16 @@ mutluluklar
 bextewarî 
 başarılar dilerim 
 serkeftinê dixwazim 
-aferin 
-aferin
 doğum günün kutlu olsun 
 rojbûna te pîroz be 
 tebrikler 
 pîroz be 
 yeni yılınız kutlu olsun 
 sersala we pîroz be 
-niçin partiye gelmiyorsunuz
+niçin partiye gelmiyorsunuz?
 çima tu nayê partiye
 çünkü yorgunum 
-lewre ez westî me 
+lewra westîya me 
 niçin et yemiyorsun
 çima tu goşt naxwî
 çünkü soğumuş 
@@ -428,12 +422,14 @@ kredi kartıyla ödeme yapabilir miyim
 gelo ez dikarim bi qerta qrediyê hesaw bidim 
 nakit ödeyeceğim 
 ez ê neqîd bidim 
-buzdolabı çalışmıyor , odayı temizler misiniz 
-sarincok naxebite , hûn dikarin odeyê paqij bikin 
+buzdolabı çalışmıyor
+sarincok naxebite
+odayı temizler misiniz?
+hûn dikarin odeyê paqij bikin 
 lütfen garsonu gönderin 
 ji kerema xwe garson bişînin 
 bir paket sigara alabilir misiniz 
-hûn dikarin pakêtek cixare bikirin 
+hûn dikarin pakêtek cixare bigirin 
 ücreti nedir 
 heqê wê çiqes e 
 yarın sabah ayrılıyorum 
@@ -448,8 +444,8 @@ bagajım kaç kilo geliyor
 baxaja min çend kîlo tê 
 bu çantayı yanıma alabilir miyim 
 ez dikarim vî çenteyî bigrim cem xwe 
-Muz otelinde rezervasyonum var 
-li otela Mûz rezervasyona min heye 
+Cesar otelinde rezervasyonum var 
+li otela Cesar rezervasyona min heye 
 kahvaltı yapmak istiyoruz 
 em dixwazin taştêyê bikin 
 öğle yemeği istiyoruz 
@@ -458,74 +454,56 @@ akşam yemeği istiyoruz
 em şîvê dixwazin 
 restorana gidelim 
 em herin xwaringehê 
-yakınlarda iyi bir kafe var mı 
+yakınlarda iyi bir kafe var mı? 
 li nêzikan kafeyeke baş heye 
-ne tavsiye edebilirsiniz 
+ne tavsiye edebilirsiniz?
 hûn dikarin çi tewsiye bikin 
-çok lezzetli hoşuma gitmedi 
-pir tehmxweş e li xweşa min neçû 
 hesap lütfen 
-ji kerema xwe hesab 
+ji kerema xwe hesaw 
 afiyet olsun 
 noşî can be 
 yakınlarda postane var mı 
 li nêzikan postexane heye 
 telefon etmem gerek 
 divê ez telefon bikim 
-telefon kartı nerede satılıyor 
-qerta telefonê li ku tê firotin 
 afedersiniz, telefon edebilir miyim 
-biborin , ez dikarim telefon bikim 
-yakınlarda internet kafe var mı 
-gelo li nêzikan kafeya înternetê heye 
+biborin  ez dikarim telefon bikim 
 ben ayakkabı satın almak istiyorum 
-ez dixwazim sola bikirrim 
-çok pahalı 
-pir biha ye 
+Ez dixwazim pêlavan bikirim.
 lütfen gösterir misiniz 
 ji kerema xwe hûn dikarin nîşan bidin 
 bunun fiyatı nedir 
 buhaya vê çi ye 
 fiyatta indirim yapabilir misiniz 
 di fîyetta de hûn dikarin daxistinê bikin 
-firmanız ne iş yapıyor 
-firmaya we çi karî dike 
 sipariş etmek isteriz 
 em dixwazin sparîş bikin 
 hangi ülkelere ihracat yapıyorsunuz 
 hûn hinardeyê kîjan welatan dikin 
 ödeme koşullarını konuşmamız lazım 
-divê em şertên dayînê bipeyivin 
-fiyatı biraz düşürün 
-fîyetê hinekî daxînin 
-boş zamanlarınızı nasıl geçirirsiniz 
+divê em şertên hesaw bipeyivin 
+boş zamanlarınızı nasıl geçirirsiniz?
 hûn demên xwe yên vala çawa derbas dikin 
 fotoğraf çekmekten hoşlanırım 
 kêfa min ji wêne kişandinê re tê 
-en çok ne yapmayı seviyorsunuz 
+en çok ne yapmayı seviyorsunuz?
 herî zêde hûn ji çi hez dikin 
 okumayı seviyorum 
 ez ji xwendinê hez dikim 
-buraya sık gelir misiniz 
-hûn pir zêde tên vira
+buraya sık sık gelir misiniz?
+hûn zêde zêde tên vira
 bu akşam ne yapıyorsunuz 
 vê êvarê hûn çi dikin 
 yanınıza oturabilir miyim 
 ez dikarim li cem we rûnim 
-birlikte bir şeyler içelim mi 
+birlikte bir şeyler içelim mi?
 em bi hev re tiştekî vexwin 
-müzik hoşunuza gidiyor mu 
-gelo muzîk li xweşa we tê 
 turizm bürosu nerede 
 nivîsgeha tûrîzmê li ku ye 
 saat kaç 
 seet çend e 
-saat beş 
-seet pênc e 
 akşam
 êvar
-asla
-qet
 ay
 meh
 bazen
