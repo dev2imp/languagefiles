@@ -2,7 +2,7 @@ alphabet abbreviations
 alfabe kurtenav 
 numbers sequential numbers 
 jimar jimarên rêzê 
-#section2
+=== Section 1 ===
 grammer 
 rêziman 
 practical speaking guide 
