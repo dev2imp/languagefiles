@@ -1,8 +1,9 @@
+=== Section 1 ===
 alphabet abbreviations 
 alfabe kurtenav 
 numbers sequential numbers 
 jimar jimarên rêzê 
-=== Section 1 ===
+=== Section 2 ===
 grammer 
 rêziman 
 practical speaking guide 
