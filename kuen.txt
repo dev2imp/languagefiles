@@ -1,3764 +1,840 @@
-=== Section 1 ===
-alphabet abbreviations 
-alfabe kurtenav 
-numbers sequential numbers 
-jimar jimarên rêzê 
-=== Section 2 ===
-grammer 
-rêziman 
-practical speaking guide 
-rêbêrê axaftna rojane 
-time 
-dem 
-season 
-demsal 
-directions 
-alî 
-directions 
-hêl 
-colors 
-reng 
-family 
-malbat 
-jobs 
-pîşe 
-education 
-perwerdehî 
-health 
-tenduristî 
-part of body 
-endamên bedenê 
-sport 
-werzîş 
-transport
-gihanî 
-signages signs 
-tabela îşaret 
-accomodation 
-rûniştgeh û navmal 
-personal information 
-agahiyên kesane 
-kitchen stuff 
-amûrên mutbexê 
-food and beverages 
-xwarin û vexwarin 
-personal items 
-tiştên kesane 
-care and beauty materials 
-amûrên xweçêkirinê û xweşikbunê 
-clothing  
-cilûberg 
-weather 
-rewşa hewayê 
-economy law politics 
-aborî hiqûq polîtîka 
-customs 
-gumrik 
-customs 
-bacgeh 
-animals 
-heywan 
-animals 
-ajal 
-prepositions 
-daçek 
-adjectives 
-rengdêr 
-verbs 
-lêker 
-sequential numbers 
-jimarên rêzê 
-first 
-yekemin 
-second 
-duyemîn 
-third 
-sêyemîn 
-fourth 
-çaremin 
-fifth 
-pençemin 
-twelfth 
-dozdemîn 
-twentieth 
-bîstemîn 
-twenty first 
-bîst û yekemin 
-twenty second 
-bîst û duyemîn 
-twenty third 
-bîst û sêyemîn 
-thirtieth 
-sihemîn 
-fortieth 
-çilemin 
-fiftieth 
-pênciyemîn 
-hundredth 
-sedemîn 
-bread is good. 
-nan xweş e 
-i ate the bread . 
-min nan xwar 
-i am eating the bread . 
-ez nên dixwim 
-he says 
-ew dibêje 
-he says 
-wî got
-she says 
-wê got 
-i am good . i am going . you saw me . 
-ez baş im ez diçim te ez dîtim 
-you are fine you are leaving i saw you .
-tu baş î tu diçî min tu dîtî 
-it's fine , it's going , i saw it 
-ew baş e , ew diçe , min ew dît 
-we are fine , we are going , you saw us 
-em baş in em diçin te em dîtin 
-you're fine , you're leaving . i saw you . 
-hûn baş in hûn diçin min hûn dîtin 
-they are good , they are going , i saw them 
-ew baş in ew diçin min ew dîtin 
-i came 
-ez hatim 
-you came 
-tu hatî 
-she(he) came 
-ew hat 
-we came 
-em hatin 
-you came 
-hûn hatin 
-they came 
-ew hatin 
-my home 
-mala min 
-i saw 
-min dît 
-you see me 
-tu min dibînî 
-what ? who's ? how many ? 
-çi a kê ye ? çend heb ? 
-who ? with who ? who's this ? 
-kî ? bi kê re ? ev kî ye ? 
-why ? which ? how many times ? 
-çima ? kîjan ? çend caran ? 
-how ? to where ? how much ? 
-çawa ? bi ku de ? çiqas ? 
-who ? where ? when ?
-kî ? li ku ? kengê ? 
-to who ? from where ? what happened ? 
-ji kê re ? ji ku ? çi bû ? 
-yes . excuse me ! have a nice day ! 
-erê . biborin ! roj baş ! 
-no . hello ! where are you from ? 
-na . merheba ! hûn ji ku ne ? 
-please ! 
-ji kerema xwe ! 
-good morning ! 
-beyanî baş ! 
-thank you ! 
-spas dikim ! 
-good evening ! 
-êvar baş ! 
-what is your name ? 
-navê we çi ye ? 
-how are you ? 
-hûn çawa ne ? 
-good night ! 
-şev baş ! 
-my name is dîlan . 
-navê min dîlan e . 
-i am good . 
-baş im . 
-what time is it ? 
-seet çend e ? 
-it's ten past two .
-seet ji diduyan deh dibore . 
-it is four o'clock . 
-seet çare . 
-it's half past four . 
-seet çar û nîv e . 
-it's quarter past three . it's twenty to five . 
-seet ji siseyan çaryek dibore . seet ji pêncan re bîst heye . 
-what is today's date ?
-dîroka îro çi ye ? 
-tomorrow 
-sibê 
-yesterday 
-duh 
-what day is it today ? 
-îro ji rojan çi ye ? 
-every day 
-her roj 
-until november . 
-heta sermawezê . 
-today is monday 
-îro duşem e . 
-next week . 
-hefta bê . 
-until february 14 . 
-heta 14ê reşemiyê . 
-mr 
-camêr .kek 
-lady ! 
-xanim ! 
-woman 
-xanim , sitî 
-young lady ! 
-canik ! 
-gentlemen ! 
-camêr ! 
-waiter ! 
-garson ! 
-can you please speak slowly ? 
-ji kerema xwe hûn dikarin hêdî bipeyivin ? 
-i understand . 
-ez fehm dikim . 
-i can read . 
-ez dikarim bixwînim . 
-i know a little . 
-ez hindik dizanim . 
-i do not understand you . 
-ez we fehm nakim . 
-i don't understand . 
-min fehm nekir . 
-can you repeat please ! 
-hûn dikarin dubare bikin ji kerema xwe ! 
-good morning ! 
-beyanî baş ! 
-welcome ! 
-hûn bixêr hatin ! 
-have a nice day ! 
-roj baş ! 
-hi ! 
-silav ! 
-good evening ! 
-êvar baş ! 
-hello ! 
-merheba ! 
-what is your name ? 
-navê we çi ye ? 
-what is his /her name ? 
-navê wî /wê çi ye ? 
-my name is deniz . 
-navê min denîz e . 
-her name is berfîn . 
-navê wê berfîn e . 
-my surname  . . . 
-paşnavê min . . . 
-pleased to meet you ! 
-ez kêfxweş bûm ! 
-how old are you ? 
-hûn çend salî ne ? 
-how old is she /he ? 
-ew çend salî ye ? 
-i'm 20 years old . 
-ez bîst salî me . 
-she /he is 29 years old . 
-ew 29 salî ye . 
-you are looking so young ! 
-hûn gelek ciwan xuya dikin ! 
-see you later ! 
-em ê hev bibînin ! 
-see you tomorrow ! 
-sibê em ê hev bibînin ! 
-bye ! 
-oxir be ! 
-see you soon . 
-bi hêviya hevdîtinê . 
-good night ! 
-şev baş ! 
-have a good journey ! 
-riya we vekirî be ! 
-thank you . 
-spas dikim . 
-thank you for your help . 
-ji bo alîkariya we spas . 
-it is nothing . 
-ne tiştek e . 
-thanks for your invitation . 
-ji bo vexwendina we spas dikim . 
-excuse me ! 
-biborin ! 
-no . thanks ! 
-na . spas ! 
-is it possible ? 
-gelo mumkun e ? 
-can you help me ? 
-hûn dikarin alîkariya min bikin ? 
-with pleasure . 
-bi kêfxweşî . 
-i love you . 
-ez ji te hez dikim . 
-you are very beautiful . 
-hûn pir xweşik in . 
-take care of yourself . 
-li xwe baş binêre . 
-did you come here alone ? 
-hûn bi tenê hatin vir ? 
-i am jealous of you . 
-ez hesûdiya te dikim . 
-do you have a boyfriend ? 
-hevalê te heye ? 
-darling ! 
-cana min 
-i like you . 
-ez ji te hez dikim . 
-my love ! 
-evîna min ! 
-when can we meet ? 
-em kengê dikarin hev bibînin ? 
-i will wait for my birthday . 
-di rojbûna xwe de li hêviya te me . 
-let's meet at six o'clock . 
-di seet şeşan de em hev bibînin . 
-shall we go to the cafe together ?
-em bi hev re herin kafeyê ? 
-yes 
-erê 
-maybe 
-dibe ku 
-everything is fine 
-her tişt di rê de ye . 
-no . ok . i'm sure of that . 
-na . temam . ez bi vê bawer im . 
-true . never . gladly . 
-raste . qet . bi kêfxweşiyê . 
-understood . definitely . 
-hate fehmkirin . teqez . 
-i am against . 
-ez li dij im . 
-best wishes ! 
-bi daxwazên herî xweş ! 
-happiness ! 
-bextewarî ! 
-good luck ! 
-serkeftinê dixwazim ! 
-well done ! 
-aferîn 
-happy birthday ! 
-rojbûna te pîroz be ! 
-congratulations ! 
-pîroz be ! 
-happy new year ! 
-sersala we pîroz be ! 
-why don't you come to the party ? 
-çima tu nayê partiye ? 
-because i'm tired . 
-lewre ez westî me . 
-why don't you eat meat ? 
-çima tu goşt naxwî ? 
-because it's cold . 
-lewre sar bûye . 
-i have a reservation at the hotel .
-li otelê rezervasyona min heye .
-my name is benjamin . i have a reservation .
-navê min benjamîn rezervasyona min heye .
-i want a hotel close to the city center .
-ez oteleke nêzî navenda bajêr dixwazim .
-i don't want the hotel to be too expensive .
-bila otel pir biha nebe ?
-can i pay with a credit card ?
-gelo ez dikarim bi qerta qrediyê bidim ?
-i will pay cash .
-ez ê neqîd bidim .
-the refrigerator is not working . can you clean the room ?
-sarincok naxebite . hûn dikarin odeyê paqij bikin ?
-please send the waiter .
-ji kerema xwe garson bişînin .
-can you get a pack of cigarettes ?
-hûn dikarin pakêtek cixare bikirin ?
-what is the price ?
-heqê wê çiqes e ?
-i'm leaving tomorrow morning . have a good trip !
-ez sibê serê sibehê vediqetim . riya we vekirî be !
-can you bring the bill ?
-hûn dikarin hesabê min derxin ?
-i am a turkish citizen . i came for vacation .
-ez hevwelatiyê tirk im . ji bo betlaneyê hatim .
-how much does my luggage weigh ?
-baxaja min çend kîlo tê ?
-can i take this bag with me ?
-ez dikarim vî çenteyî bigrim cem xwe ?
-i have a reservation at the rojlingo hotel .
-li otela rojlîngo rezervasyona min heye .
-we want to have breakfast .
-em dixwazin taştêyê bikin .
-we want lunch .
-em firavînê dixwazin .
-we want dinner .
-em şîvê dixwazin .
-let's go to the restaurant .
-em herin xwaringehê . 
-is there a good café nearby ?
-li nêzikan kafeyeke baş heye ?
-what do you recommend ?
-hûn dikarin çi tewsiye bikin ?
-very tasty ! i didn't like it .
-pir tehmxweş e ! li xweşa min neçû .
-can we have the bill , please ?
-ji kerema xwe hesab !
-bon appétit !
-noşî can be !
-is there a post office nearby ?
-li nêzikan postexane heye ?
-i need to make a phone call .
-divê ez telefon bikim .
-where can i buy a phone card ?
-qerta telefonê li ku tê firotin ?
-excuse me , can i use the phone ?
-biborin ! gelo ez dikarim telefon bikim ?
-is there an internet café nearby ?
-gelo li nêzikan kafeya înternetê heye ?
-i want to buy shoes .
-ezdixwazim sola bikirim .
-it's too expensive .
-pir biha ye .
-could you please show me ?
-ji kerema xwe hûn dikarin nîşan bidin ?
-what's the price of this ?
-buhaya vê çi ye ?
-can you offer a discount ?
-di buhayê de hûn dikarin daxistinê bikin ?
-what does your company do ?
-firmaya we çi kari dike ?
-we'd like to place an order .
-em dixwazin sparîş bikin .
-which countries do you export to ?
-hûn hinardeyê kîjan welatan dikin ?
-we need to discuss the payment terms .
-divê em şertên dayînê bipeyivin .
-can you lower the price a bit ?
-fîyetê hinekî daxînin .
-how do you spend your free time ?
-hûn demên xwe yên vala çawa derbas dikin ?
-i enjoy taking photos .
-kêfa min ji wêne kişandinê re tê .
-fishing
-ji masî gidine re
-what do you enjoy doing the most ?
-herî zêde hûn ji kirina çi hez dikin ?
-i enjoy reading .
-ez ji xwendinê hez dikim .
-do you come here often ?
-hûn pir zêde tên vir ?
-what are you doing this evening ?
-vê êvarê hûn çi dikin ?
-may i sit beside you ?
-gelo ez dikarim li cem we rûnim ?
-would you like to have a drink together ?
-em bi hev re tiştine vexwin ?
-shall we go to a bar ?
-em herin barê ?
-do you like music ?
-gelo muzîk li xweşa we tê ?
-where is the tourism office ?
-nivîsgeha tûrîzmê li ku ye ?
-what time is it ?
-seet çend e ?
-it's five o'clock .
-seet pênc e .
-evening
-êvar
-never
-qet 
-month
-meh 
-sometimes
-carinan 
-today
-îro 
-always
-tim 
-minute
-deqîqe 
-yesterday
-duh 
-early
-zû 
-night
-şev 
-last week
-hefteya borî 
-past
-pêşeroj 
-future
-paşeroj 
-next week
-hefteya bê 
-day
-roj 
-week
-hefte 
-every day
-her roj 
-noon
-nîvro 
-afternoon
-piştî nîvro 
-hour (time)
-saet 
-morning
-sibe 
-second
-çirk 
-often
-pir caran 
-now
-niha 
-tomorrow
-sibê 
-year
-sal 
-days
-roj 
-what day is it today ?
-îro ji rojan çi ye ? 
-today is monday .
-îro duşem e . 
-monday
-duşem 
-tuesday
-sêşem 
-wednesday
-çarşem 
-thursday
-pêncşem 
-friday
-în 
-saturday
-şemî 
-sunday
-yekşem 
-months
-mehan 
-january
-rêbendan 
-february
-sibat 
-march
-adar 
-april
-nîsan 
-may
-gulan 
-june
-hezîran 
-july
-tîrmeh 
-august
-tebax 
-september
-îlon 
-october
-cotmeh 
-november
-sermawez 
-december
-kanûn 
-seasons
-demsal 
-spring
-bihar 
-summer
-havîn 
-autumn /fall
-payîz 
-winter
-zivistan 
-directions
-alî 
-south
-başûr 
-north
-bakur 
-east
-rojhilat 
-west
-rojava 
-northeast
-bakurê rojhilatê 
-northwest
-bakurê rojavayê 
-southeast
-başûrê rojhilatê 
-southwest
-başûrê rojavayê 
-colors
-reng 
-what color is snow ?
-berf çi reng e ? 
-snow is white .
-berf spî ye . 
-gold (color)
-rêngê zêr 
-beige
-bej 
-white
-spî 
-gray
-gewr 
-silver (color)
-rengê zîv 
-brown
-qehweyî 
-red
-sor 
-blue
-şîn 
-purple
-binevşî 
-pink
-pembe 
-yellow
-zer 
-black
-reş 
-orange
-porteqalî 
-green
-kesk 
-family relationships
-malbattêkilî 
-sister
-xûç 
-brother
-kek 
-relative
-xizm 
-mother
-dayik 
-grandmother (maternal)
-dapîr 
-friend
-heval 
-father
-bav 
-single
-ezeb 
-child
-zarok 
-children
-zarokan 
-son-in-law
-zava 
-uncle
-xal 
-grandfather
-bapîr 
-parent
-dê û bav 
-brother
-bira 
-daughter-in-law
-bûk 
-twin
-cêwî 
-wife
-jin 
-father-in-law
-xezûr 
-mother-in-law
-xwesû 
-girlfriend
-hevala keç 
-daughter
-keç 
-sister
-xwişk 
-husband
-mêr 
-cousin
-pismam 
-son
-kur 
-grandchild
-nevî 
-professions
-pîşe 
-what is your profession ?
-pîşeya we çi ye ? 
-i am an engineer .
-ez endazyar im . 
-soldier
-esker 
-chef
-aşpêj 
-lawyer
-parêzer 
-painter
-boyaxvan 
-florist
-kulîlkfiroş 
-farmer
-cotkar 
-dentist
-diransaz 
-doctor
-bijîşk 
-pharmacist
-dermanfiroş 
-electrician
-elektrîkvan 
-retiree
-malnişîn 
-real estate agent
-emlaqfiroş 
-housewife
-bermalî 
-photographer
-wênekêş 
-waiter /waitress
-garson 
-journalist
-rojnamevan 
-judge
-dadger 
-nurse
-hemşîre 
-stewardess
-hostes 
-businessman /businesswoman
-karsaz 
-worker
-karker 
-firefighter
-agirkuj 
-bookseller
-pirtûkfiroş 
-hairdresser
-kuafor 
-jeweler
-zêrfiroş 
-carpenter
-dartiraş 
-civil servant
-karmend 
-architect
-avahîsaz 
-correspondent
-nûçegihan 
-accountant
-jimaryar 
-engineer
-endazyar 
-musician
-muzîkjen 
-notary
-noter 
-teacher
-mamoste 
-pilot
-pîlot 
-police officer
-polîs 
-postman /postwoman
-postevan 
-painter
-wênesaz 
-secretary
-şêwekar 
-plumber
-amûrsazê avê 
-driver
-ajovan 
-technician
-teknisyen 
-interpreter
-wergêr 
-tailor
-dirûnker 
-veterinarian
-beytar 
-writer
-nivîskar 
-education
-perwerdehî 
-kindergarten
-dibistana lîstikê 
-computer
-xêvjimar 
-ruler
-rastek 
-answer
-bersiv 
-advisor
-şêwirmend 
-notebook
-defter 
-lesson
-ders 
-class schedule
-bernameya waneyê 
-diploma
-bawername 
-fountain pen
-pênûsa hibrî 
-file
-hevnivîs 
-faculty
-fakulte 
-calculator
-makîneya hesabê 
-paper
-kaxez 
-report card
-karne 
-book
-pirtûk 
-course
-qurs 
-pencil
-pênûsa zirîçî 
-high school
-dibistana amadehiyê 
-scissors
-meqes 
-vocational school
-dibistana pîşeyê 
-graduate
-derçû 
-headmistress
-midure 
-principal
-midur 
-school
-dibistan 
-homework
-spartek 
-student
-xwandekar 
-teacher
-mamoste 
-private school
-xwendegeha taybet 
-professor
-profesor 
-seminar
-semîner 
-exam
-ezmûn 
-class
-pol 
-desk
-sekû 
-eraser
-jêbir 
-question
-pirs 
-university
-zanîngeh 
-chalkboard
-textê nivîsê 
-master's degree
-lîsansa bilind 
-health
-tenduristî 
-i am allergic to penicillin .
-ji penîsîlînê re alerjiya min heye 
-pain
-êş 
-ache
-jan 
-surgery
-emeliyat 
-lifeguard
-jiyanparêz 
-drop
-dilop 
-pharmacy
-dermangeh 
-pregnant
-hamîle 
-pregnant
-ducan 
-pill
-heb 
-patient
-nexweş 
-hospital
-nexweşxane 
-injection
-derzî 
-medicine
-derman 
-diarrhea
-virikî 
-diarrhea
-emel 
-blood
-xwîn 
-blood type
-cureya xwînê 
-cream
-krem 
-examination
-muayene 
-pulse
-nebz 
-pulse
-rehjen 
-cough
-kuxik 
-cotton
-pembû 
-prescription
-dermanname 
-x-ray
-rontgen 
-bandage
-terîş 
-stretcher
-sedye 
-stretcher
-kejave 
-blood pressure
-tansiyon 
-treatment
-tedawî 
-treatment
-nojdarî 
-tincture of iodine
-tenturdiyot 
-diagnosis
-nasîn 
-diagnosis
-teşxîs 
-ulcer
-urkulî 
-adhesive bandage
-banda birînê 
-body parts
-endamên bedenê 
-mouth
-dev 
-foot
-ling 
-foot
-pê 
-leg
-şeq 
-leg
-çîm 
-head
-serî 
-brain
-mejî 
-mustache
-simbêl 
-wrist
-zend 
-neck
-sitû 
-nose
-poz 
-chin
-çeng 
-skin
-çerm 
-tongue
-ziman 
-elbow
-enîşk 
-knee
-çok 
-lip
-lêv 
-hand
-dest 
-navel
-navik 
-chest
-sing 
-eye
-çav 
-hip
-qorik 
-hip
-kemax 
-heart
-dil 
-abdomen
-zik 
-eyebrow
-birû 
-arm
-pî 
-arm
-mil 
-ear
-guh 
-breast
-memik 
-breast
-çiçik 
-stomach
-mîde 
-stomach
-aşiq 
-shoulder
-mil 
-finger
-pêçî 
-finger
-tilî 
-hair
-por 
-beard
-rîh 
-back
-pişt 
-nail
-neynûk 
-face
-rû 
-face
-serçav 
-sports
-werzîş 
-amateur
-amator 
-coach
-rahêner 
-car racing
-pêşbirka siwareyan 
-horse racing
-tirada hespan 
-athlete
-werzişkar 
-athletics
-atletizm 
-basketball
-basketbol 
-billiards
-bilardo 
-horse riding
-siwarçakî 
-bicycle
-bîsîklet 
-boxing
-boks 
-ice skating
-patena qeşayê 
-mountaineering
-çiyagerî 
-defense
-parastin 
-foul
-faûl 
-final
-dawî 
-final
-fînal 
-football
-futbol 
-soccer
-goga pê 
-victory
-serketin 
-to score a goal
-gol avêtin 
-golf
-golf 
-wrestling
-gemş 
-wrestling
-zoran 
-referee
-ferwerde 
-midfield
-qada navîn 
-weightlifting
-halter 
-weightlifting
-parseng hildan 
-handball
-hentbol 
-gymnastics
-jîmnastîk 
-judo
-judo 
-goal
-qele 
-goalkeeper
-qelevan 
-goalkeeper
-golparêz 
-skiing
-kaşûn 
-to lose
-wenda kirin 
-to win
- bi dest xistin 
-to win
-bi ser ketin 
-running
-bez 
-race
-bazdan 
-dance
-kupa 
-match , game
-maç , musabeqe 
-medal
-xelat 
-table tennis
-tenîsa maseyê 
-game
-lîstik 
-player
-lîstikvan 
-skating
-paten 
-penalty
-penalti 
-professional
-profesyonel 
-opponent
-hevrik 
-record
-rekor 
-spectator
-bîner 
-spectator
-temaşevan 
-score
-skor , puan 
-stadium
-hewşeng 
-champion
-şampiyon 
-team
-tîm 
-fan
-piştvan 
-fan
-alîgir 
-taekwondo
-tekvando 
-tennis
-tenîs 
-ball
-gog 
-ball
-top 
-stand
-trîbûn 
-tournament
-turnûva 
-volleyball
-voleybol 
-race
-pêşbazî 
-race
-pêşbirk 
-defeat
-binketin 
-defeat
-têkçûn 
-swimming
-avjenî 
-swimming
-soberî 
- swimming
-melevanî 
-transportation
-gihanî 
-which bus goes to the city center ?
-kîjan otobos diçe navenda bajêr ? 
-how much is the fare ?
-heqê rê çiqas e ? 
-transfer
-veguhastin 
-car
-erebe 
-behind
-li paş 
-excess baggage
-zêdehiya baxajê 
-suitcase
-bahol 
-waiting room
-pêrgîngeh 
-gas station
-îstasyona benzînê 
-ticket
-bilêt 
-bicycle
-pisîklet 
-bike
-duçerxe 
-life jacket
-çakêtê jîyanê 
-railway
-rêhesin 
-ferry
-feribot 
-ship
-keştî 
-map
-nexşe 
-station
-îstasyon 
-crowd
-qerebalix , şênî 
-departure time
-seeta rabûnê 
-cabin 
-kamara
-truck
-qamyon
-captain
-qaptan
-captain
-sertîm
-intersection
-çaterê
-boat
-lotke
-boat
-qayiq
-accident
-qeza
-bridge
-pira
-corner
-li koşeyê
-port
-lengergeh
-port
-bendergeh
-square (area)
-qad
-crew
-muretebat
-bus
-otobos
-in front
-li pêş
-guide
-rêber
-travel
-geşt
-taxi
-texsî
-tram
-tramwey
-train
-trên
-airplane
-teyare
-airplane
-balafir
-arrival time
-seeta gihîştinê
-yacht
-yat
-yacht
-lotkeya bi ba
-passenger
-rêwî
-passenger
-rêwingî
-passenger ship
-keştiya rêwiyan
-sign signage
- tabelaîşaret
-open
-vekirî
-gentleman
-mêr
-lady
-jin
-barber
-berber
-barber
-sertraş
-empty
-vala
-broken
-xirab
-market
-çarşî
-please pull
-kaş bikin
-exit
-derketin
-do not litter
-gemarê neavêjin
-information desk
-şêwirgeh
-caution
-hişyarî
-stop
-raweste
-bus stop
-rawestgeh
-pharmacy
-dermanfiroş
-photography prohibited
-wêne kişandin qedexe ye
-station
-gar
-passage
-bihûrk
-passage
-derbend
-no entry
-nekevinê
-entrance
-têketin
-entrance fee
-têketin bi pere ye
-entrance free
-têketin belaş e
-no entry
-têketin qedexe
-ticket booth
-gîşe
-no drinking
-nayê vexwarin
-discount
-daxistin
-push
-dehf bidin
-closed
-girtî
-for rent
-demanî
-occupied
-mijûl , tijî
-subway
-metro
-accounting
-jimaryarî
-accounting
-muhasebe
-manager
-gerînende
-manager
-birêveber
-museum
-mûze
-bus station
-otoxar
-parking lot
-otopark
-post office
-postexane
-reserved
-rezerve
-for sale
-firotinê
-no smoking
-cixare nayê kişandin
-city center
-navenda bajêr
-dangerous
-xeter
-dangerous
-bi talûke
-toilet
-daşir
-toilet
-avdestxane
-road closed
-rê girtî
-accommodation
-rûniştgeh û navmal
-what time does breakfast end ?
-taştê di seet çendan de diqede ?
-what is the price of the room ?
-heqê odeyê çiqas e ?
-key
-mifte
-key
-kilît
-mirror
-neynik
-garden
-baxçe
-balcony
-şaneşîn
-balcony
-berban
-bathroom
-serşok
-blanket
-betanî
-dishwasher
-makîneya firaqşo
-refrigerator
-sarincok
-washing machine
-makîneya cilşo
-sheet
-rûnivîn
-sheet
-çarşef
-roof
-serban
-diaper
-paçê zarokan
-shower
-dûş
-shower
-banyo
-wall
-dîwar
-vacuum cleaner
-sivnika bi elektrîk
-house
-mal
-house
-xanî
-price
-biha
-ventilation
-bakêş
-towel
-pêşgîr
-towel
- mexmel
-radiator
-qalorîfer
-door
-derî
-air conditioning
-basark
-air conditioning
-klîma
-lamp
-çira
-lamp
- lambe
-sink
-destşok
-table
-mase
-stairs
-pêlekan
-stairs
-derence
-kitchen
-mutbex
-room
-ode
-room
-menzel
-room service
-serwîsa odeyê
-hotel
-otêl
-window
-pace
-window
- şibake
-window
- kulek
-curtain
-perde
-beach
-kevîşen
-soap
-sabûn
-soap
- pêşok
-service
-serwîs
-shampoo
-şampûan
-pouch
-lûf
-full board
-pansiyona tam
-television
-televîzyon
-toilet
-avdestxane
-toilet
-daşir
-toilet paper
-kaxezê avdestxaneyê
-iron
-utî
-pillow
-balîf
-pillow
-balgeh
-bed
-şelte
-bed
-cihi
-bedroom
-odeya razanê
-bedspread
-rûnivîn
-bell
-zengil
-personal information
-agahiyan kesane
-address
-navnîşan
-single
-ezeb
-height weight
-bejnkîlo
-gender
-zayend
-male
-mêr
-married
-zewicî
-signature
-şanenav
-female
-jin
-marital status
-rewşa zewicîbûnê
-profession
-pîşe
-country
-welat
-age
-sal
-kitchen items
-amûrên mutbexê
-glass
-qedeh
-knife
-kêr
-fork
-çetel
-fork
-sêtêlk
-teapot
-çaydank
-oven
-nanpêjgeh
-oven
- firûn
-spoon
-kevçî
-plate
-teyfik
-pan
-tawe
-pan
-miqilk
-pot
-qûşxane
-pot
- beroş
-food and beverages
-xwarin û vexwarin
-enjoy your meal !
-noşî can be !
-what can you recommend ?
-hûn dikarin çi tewsiye bikin ?
-hungry
-birçî
-dinner
-şîv
-bread
-nan
-meat
-goşt
-cup
-fincan
-bill
-hesab
-landscape
-dîmen
-landscape
- bergeh
-table
-mase
-tablecloth
-rûmase
-lunch
-firavîn
-lunch
-navroj
-napkin
-peçete
-napkin
- destmala kaxez
-sugar
-şekir
-cheers
-noşîcan
-cheers
- noş
-full
-têr
-breakfast
-taştê
-honey
-hingiv
-omelette
-hêkerûn
-cheese
-penîr
-salam
-salami
-sausage
-sosis
-butter
-nivîşk
-olive
-zeytûn
-soup
-şorbe
-tomato soup
-şorbe firingî
-tripe soup
-şorbeya hûr
-mushroom soup
-şorbe kuvkarik
-lentil soup
-şorbeya nîska
-vegetable soup
-şorbeya sewzî
-chicken soup
-şorbeya mirîşka
-yogurt soup
-şorbeya zozanî
-salad
-selete
-shepherd's salad
-seleteya firingiyan
-seasonal salad
-seleteya demsalî
-potato salad
-seleteya kartolan
-russian salad
-seleteya rûsan
-green salad
-seleteya hêşînayiyê
-appetizers
-meze
-liver
-kezeb
-liver
- ceger
-caviar
-bizût
-caviar
- xewyar
-mashed potatoes
-helîseya kartolan
-potato skillet
-taweya kartolan
-pickle
-tirşî
-yogurt
-mast
-main courses
-xwarinên bingehîn
-albanian liver
-kezeba sorkirî
-steak
-bîftek
-fillet
-bonfile
-lamb chops
-pîrzoleya golikan
-meat sauté
-soteya goşt
-grilled meatballs
-kuftika biraştî
-mixed grill
-biraşteya pircure
-kebab
-kebab
-lamb chops
-pîrzoleya berxikan
-pasta
-meqerne
-dumplings
-xengel
-dumplings
-mantî
-pilaf
-pîlaw
-pilaf
- girar
-fried chicken
-mirîşka sorkirî
-stone oven kebab
-kebaba tasê
-seafood
-berhemên deryayê
-trout
-masiyê deqsor
-anchovy
-hemsî
-anchovy
- kîlke
-squid
-kalamar
-shrimp
-canberî
-shrimp
- rubyan
-sea bream
-masîperk
-sea bass
-sûf
-bluefish
-lûfer
-whiting
-mezgît
-bonito
-berû
-sardine
-masîwûrk
-salmon
-masiyê somonê
-tuna
-masiyê tunayê
-mackerel
-zîpermasî
-desserts
-şîranî
-clotted cream
-to
-clotted cream
-qeymax
-baklava
-beqlewe
-ice cream
-berfeşîr
-ice cream
- bestenî
-compote
-xweşav
-compote
- xoşav
-fruit salad
-seleteya mêyweyan
-pudding
-tilolik
-pudding
- şîrşêrk
-pasta
-kulîçe
-rice pudding
-şorbeşîr
-rice pudding
- gûlol
-fruit
-mêywe
-fruit
-fêkî
-pineapple
-ananas
-pear
-hirmî
-quince
-bihok
-strawberry
-tûfrengî
-mulberry
-tû
-apple
-sêv
-plum
-alûçe
-plum
-arung
-plum
-hilû
-grapefruit
-sindî
-grapefruit
-zîbal
-coconut
-gûza hindê
-fig
-hêjîr
-watermelon
-zebeş
-melon
-petîx
-melon
- gindor
-apricot
-mişmiş
-apricot
- zerdele
-cherry
-gêlaz
-cherry
- qeresî
-tangerine
-lalengî
-banana
-mûz
-pomegranate
-hinar
-orange
-porteqal
-peach
-xox
-grape
-tirî
-vegetable
-sewze
-peas
-şoqil
-peas
-polik
-pepper
-îsot
-tomato
-firingî
-tomato
-bacanê sor
-tomato
-şamik
-beans
-lowî
-beans
- fasûlî
-carrot
-gezer
-spinach
-siyele
-zucchini
-kundir
-cabbage
-kelem
-lettuce
-xas
-lettuce
- kaho
-lentil
-nîsk
-corn
-garis
-corn
- lazût
-chickpea
-nok
-potato
-kartol
-potato
- petat
-eggplant
-bacan
-eggplant
- bacana reş
-cucumber
-xiyar
-garlic
-sîr
-onion
-pîvaz
-spice
-biharat
-thyme
-cehterî
-thyme
-catir
-red pepper
-îsota sor
-mint
-pûjan
-mint
- anix
-salt
-xwê
-beverages
-vexwarin
-mineral water
-sode
-alcoholic beverage
-vexurkê bialkol
-ayran (yogurt drink)
-dew
-beer
-bîra
-tea
-çay
-instant coffee
-qehweya amade
-cola
-qola
-lemonade
-lîmonete
-fruit juice
-ava mêyweyê
-orange juice
-ava porteqala
-water
-av
-milk
-şîr
-wine
-şerav
-wine
-mey
-tonic
-tonîk
-black coffee
-qehweya qizwan
-whiskey
-wîskî
-vodka
-vodka
-personal items
-tiştên kesane
-keychain
-miftedank
-keychain
- kilîtdank
-bracelet
-bazin
-bead
-morîk
-cell phone
-telefona berîkê
-lighter
-heste
-handbag
-çentik
-gloves
-lepik
-scarf
-şerpe
-glasses
-berçavk
-sunglasses
-berçavka rojê
-belt
-kember
-belt
- qayiş
-wristwatch
-saeta zendê
-necklace
-ristik , gerdanî
-credit card
-qerta qrediyê
-earring
-guhar
-tissue
-destmal
-hair tie
-berbisk
-cigarette
-cixare
-hat
-şewqe
-umbrella
-sîwan
-comb
-şe
-ring
-gustîlk
-ring
- hingulîsk
-care and beauty products
-amûrên xweçêkirinê û xweşikbûnê
-blush
-sorav
-acetone
-aseton
-tweezers
-mûçing
-toothbrush
-firçeya diranan
-toothpaste
-mecûna diranan
-hand cream
-krema destan
-eye shadow
-fara çavan
-eye pencil
-qelema çavan
-razor
-gûzan
-razor
- cilêt
-cotton
-pembû
-perfume
-parfum
-mascara
-rîmel
-mascara
-maskara
-lipstick
-rûj
-lipstick
-lêvsork
-soap
-sabûn
-hair dye
-boyaxa poran
-shampoo
-şampûan
-shaving foam
-kefa tiraşê
-nail file
-kartik
-nail file
-kertik
-shaving razor
-pîj
-clothing
-cil û berg
-shoes
-sol
-shoes
-pêlav
-bikini
-bîkînî
-jeans
-blûcîn
-blouse
-blûz
-jacket
-saqo
-boots
-sapok
-boots
-gîzme
-socks
-gore
-dress
-kinc
-dress
- cil
-tracksuit
-eşofman
-skirt
-daw
-wedding dress
-kirasê bûkaniyê
-shirt
-kurtik
-shirt
- qutik
-shirt
- mîntan
-underwear
-bincil
-underwear
-binkirask
-tie
-qerewat
-panties
-derpê
-tights
-derpêgore
-coat
-manto
-swimsuit
-mayo
-pants
-şal
-pants
- pantol
-pajamas
-pêceme
-sneakers
-sola werzişê
-bra
-sutyen
-bra
- bersing
-shorts
-derpîkurt
-suit
-bedii
-slippers
-şimik
-weather
-rewşa hewayê
-moon
-heyv
-month (date)
-meh
-cloudy
-ewravî
-cloudy
- bi ewr
-icy
-bi qeşa
-degree
-pîle
-degree
- derece
-policy
-polîtîka
-full
-zîpik
-full
- teyrok
-frost
-cemed
-frost
-sehol
-stormy
-bi bahoz
-stormy
- bi bager
-sky
-ezman
-sunny
-bitav
-sunny
- tavîn
-warm
-şîrgerm
-warm
- sargerm
-climate
-avûhewa
-snow
-berf
-snowy
-bi berf
-wind
-ba
-windy
-bi ba
-cool
-hênik
-hot
-germ
-fog
-mij
-fog
- moran
-cold
-serma
-cold
- sar
-lightning
-birûsk
-economics
-aborî
-law
-hiqûq
-politics
-polîtîka
-supply
-pêşkeş
-supply
-derpêş
-minister
-wezîr
-ministry
-wezaret
-ministry
- wezîrî
-prime minister
-serokwezîr
-capital
-paytext
-municipality
-şaredarî
-mayor
-şaredar
-stock market
-borse
-president
-serokkomar
-plaintiff
-dozdar
-democracy
-demokrasî
-price
-biha
-income
-hatinî
-income
- dahat
-prison
-girtîgeh
-prison
- hepsxane
-cell
-hicre
-government
-hikûmat
-export
-hinarde
-export
-îxracat
-business
-karsazî
-import
-hawirde
-import
-itxalat
-illegal
-bêqanûn
-illegal
-bêzagon
-profit
-kar
-profit
-qezenc
-handcuff
-destbend
-court
-dadgeh
-property
-mal
-assembly
-meclîs
-member of parliament
-parlamenter
-money
-pere
-money
-dirav
-party (political)
-partî
-propaganda
-bangeşe
-defendant
-bersûc
-election
-hilbijartin
-voter
-dengdêr
-voter
- hilbijêr
-capital
-sermiyan
-suspect
-gumanbar
-gun
-demançe
-demand
-daxwaz
-saving
-teserûf
-saving
- sexbêrî
-detainee
-girtî
-consumption
-mezax
-production
-hilberîn
-judge
-dadger
-judge
-dadwer
-legal
-zagonî
-investment
-veberhênan
-investment
-razemenî
-loss
-zirar
-customs
-gumrik
-customs
-bacgeh
-work permit
-destura xebatê
-consultation office
-şêwirgeh
-birthplace
-cihê zayînê
-custody
-sparte
-custody
-emanet
-documents
-ewraq
-customs inspection
-sehêtiya bacgehê
-duty-free
-bêbac
-lost property
-tiştê wendayî
-maiden name
-paşnava keçaniyê
-identity
-nasname
-residence permit
-destûra rûniştinê
-passport
-pasaport
-border
-sînor
-border
-tixûb
-nationality
-rajêr
-nationality
-tabî
-extension
-dirêj kirin
-suitcase
-valêz
-renewal
-nûkirin
-animals
-heywan
-animals
-ajal
-horse
-hesp
-bear
-hirç
-fish
-masî
-bull
-ganêr
-bull
- boxe
-pig
-beraz
-pig
- xinzîr
-donkey
-ker
-cow
-çêlek
-cow
-mange
-turtle
-kûsî
-turtle
-req
-cat
-pisîk
-cat
-kitik
-sheep
-mî
-dog
-kûçik
-dog
-se
-shark
-semasî
-frog
-beq
-wolf
-gur
-bird
-çûk
-bird
-çivîk
-monkey
-meymûn
-monkey
-qird
-duck
-werdek
-parrot
-tûtî
-rabbit
-kerguh
-rabbit
- kêvroşk
-chicken
-mirîşk
-fox
-rovî
-crocodile
-tîmseh
-crocodile
-sûsmar
-snake
-mar
-prepositions
-daçek
-under , beneath
-li binî
-between
-di navbera
-after , behind
-di pey de
-behind
-li paş
-of , from
-li , di de
-since
-ji
-because of , due to
-ji ber , ji bo
-before
-berî
-than
-ji
-outside
-ji bilî
-except , besides
-li derveyî
-until
-heta
-around
-li dora
-about
-di derbarê
-except
-ji bilî
-except
-ji xeynî
-except
-derveyî
-into
-li hundirê
-with
-bi , ligel , digel
-against
-hember , dij
-you
-bê
-during
-di tevahiya
-by , through
-ji aliye
-on , over
-li ser
-beside , next to
-ber
-above
-jorî
-adjectives
-rengdêr
-open
-vekirî
-fair
-dadmend
-honest
-rastgo
-smart
-aqilmend
-smart
-biaqil
-friendly
-hogir
-rebellious
-asî
-rebellious
-isyankar
-independent
-serbixwe
-stale
-kartû
-skillful
-jêhatî
-skillful
-jîr
-selfish
-xwebîn
-knowledgeable
-zanyar
-knowledgeable
-agahdar
-knowledgeable
-serwext
-empty
-vala
-big
-mezin
-big
-gir
-attractive
-gir
-charming
-balkêş
-brave
-wêrek
-hardworking
-xebatkar
-ugly
-kirêt
-narrow
-teng
-crazy
-dîn
-crazy
-dînok
-experienced
-bitecrûbe
-deep
-kûr
-careful
-bibal
-careful
-baldar
-careful
-bidîqat
-careless
-bêbal
-careless
- bêdîqat
-religious
-oldar
-devout
-dîndar
-full
-tijî
-open-handed
-dest vekirî
-generous
-camêr
-anxious
-bifikar
-brunette
-qemer
-poor
-xizan
-poor
-hejar
-poor
-feqîr
-late
-dereng
-young
-ciwan
-young
-xort
-wide
-fireh
-talkative
-zimandirêj
-talkative
-keşmer
-proud
-şanaz
-strong
-bihêz
-powerful
-xurt
-weak
-bêhêz
-weak
-bêqewet
-weak
-zebûn
-reliable
-ewledar
-trustworthy
- pêbawer
-unreliable
-pênebawer
-untrustworthy
- bêbext
-beautiful
-xweşik
-beautiful
- delal
-beautiful
- bedew
-wonderful
-newaze
-ambitious
-azwer
-ambitious
-çavçil
-ambitious
-azgîn
-passionate
-azwer
-passionate
-azgîn
-passionate
-çavçil
-wet
-şil
-moist
-şil
-stubborn
-rikdar
-obstinate
-bi înad
-thin
-zirav
-slim
-tenik
-lanky
-qirase
-good
-rind
-good
-xweş
-good
-baş
-thick
-stûr
-dark
-tarî
-resolute
-biryar
-determined
-biwêre
-determined
-biryar
-resolute
-biwêre
-carefree
-bêxem
-bald
-keçel
-short
-kin
-short
-kurt
-jealous
-çavnebar
-angry
-bihêrs
-easy
-hêsan
-funny
-pêkenok
-blind
-kor
-bad
-xerab
-brunette
-kej
-dry
-hişk
-dry
-ziwa
-strong
-bihêz
-delicious
-tehmxweş
-delicious
- bitehm
-busy
-mijûl
-happy
-bextewar
-happy
-şa
-unhappy
-nebextewar
-excellent
-newaze
-honourable
-binamûs
-honest
-binamûs
-cheerful
-dilşa
-cheerful
-dilgeş
-cheerful
-rûgeş
-engaged
-dergistî
-engaged
-destgirtî
-expensive
-biha
-patient
-bitebat
-patient
-bisebr
-impatient
-bêtebat
-impatient
-bêsebr
-blonde
-zerî
-sympathetic
-xwînşîrîn
-sympathetic
-xwîngerm
-cute
-şîrîn
-sweet
-şîrîn
-boring
-acizker
-irritable
-bihêrs
-calm
-xwînsar
-lucky
-xweşbext
-lucky
-bisiûd
-unlucky
-bextreş
-unlucky
-bêsiûd
-spoiled
-şûm
-spoiled
-gewî
-fat
-qelew
-lazy
-teral
-cheap
-erzan
-small
-piçûk
-shy
-fediok , şermok
-expert
-pispor , karzan
-long
-dirêj
-famous
-navdar
-famous
-binavûdeng
-sad
-xemgîn
-wild
-hov
-wild
-dirinde
-handsome
-çeleng
-lonely
-tenê
-creative
-afirîner
-helpful
-xêrxwaz
-old
-pîr
-old
-kal
-slow
-hêdî
-new
-nû
-adult
-gîhaştî
-tired
-betilî
-tired
-westiyayî
-intelligent
-jîr
-intelligent
-zîrek
-rich
-dewlemend
-rich
-maldar
-difficult
-dijwar
-hard
-zor
-rush
-lêker
-to hurry
-lez kirin
-to hurry
-lezîn
-to get hungry
-birçî bûn
-to explain
-rave kirin
-to explain
-daxuyandin
-to open
-vekirin
-to forgive
-bexşandin
-to forgive
-efû kirin
-to cry
-xwemal bûn
-to belong
-standin
-to belong
-wergirtin
-to take
-fehm kirin
-to agree
-li hev hatin
-to agree
-li hev kirin
-to tell
-vegotin
-to search
-lê gerîn
-to research
-lêkolîn kirin
-to fall in love
-dildarî bûn
-to fall in love
-evîndar bûn
-to jump
-qevizîn
-to skip
-hilavêtin
-to throw
-avêtin
-to stand
-li ser pîyan sekinin
-to adjust
-eyar kirin
-to separate
-veqetandin
-to separate
-cihê kirin
-to be separated
-veqetîn
-to be separated
-cihê bûn
-to bet
-ketin behsê
-to fail
-biserneketin
-to succeed
-biserketin
-to start
-dest pê kirin
-to wait
-rawestîn
-to wait
-sekinîn
-to resemble
-şibî
-to know
-zanîn
-to finish
-qedandin
-to drown
-fetisîn
-to drown
-xeniqîn
-to paint
-boyax kirin
-to find
-peyda kirin
-to find
-dîtin
-to meet
-hev dîtin
-to grow
-mezin bûn
-to grow
-gir bûn
-to answer
-bersiv dan
-to call
-gazî kirin
-to call
-bang kirin
-to work
-xebitîn
-to work
-şixulîn
-to play (music)
-lêdan
-to steal
-dizîn
-to draw
-xêz kirin
-to distribute
-belav kirin
-to consult
-şêwirîn
-to invite
-vexwendin
-to invite
-dawet kirin
-to change
-guhertin
-to try
-cerinbandin
-to continue
-berdewam kirin
-to continue
-domîn
-to pay attention (to notice)
-bala xwe dan
-to wish
-daxwaz kirin
-to listen
-guh dan
-to listen
-guhdarî kirin
-to rest
-bêhna xwe dan
-to touch
-dest lê dan
-to fill
-tijî kirin
-to turn
-vegerîn
-to fight
-pevçûn
-to duel
-li hev xistin
-to fall
-ketin
-to think
-fikirîn
-to ponder
-hizirîn
-to add
-tevê kirin
-to append
-veser kirin
-to obtain
-bidest xistin
-to order
-ferman kirin
-to command
-emir kirin
-to worry
-fikar kirin
-to postpone
-bipaş xistin
-to blow (wind)
-ba hatin
-to breeze
-gobilîn
-to affect
-bandor kirin
-to marry
-zewicîn
-to improve
-bipêş xistin
-to come
-hatin
-to reject
-vegerandin
-to return
-vegerîn
-to bring
-anîn
-to travel
-gerîn
-to enter
-têketin
-to go
-çûn
-to wear
-li xwe kirin
-to send
-şandin
-to see
-dîtin
-to meet
-hevdîtin
-to show
-nîşan dan
-to display
-rayî kirin
-to laugh
-kenîn
-to smile
-bişirîn
-to trust
-ewle bûn
-to spend
-xerc kirin
-to damage
-xesardan
-make a mistake
-xeletî kirin
-make a mistake
-şaşî kirin
-remember
-bi hatin
-remember
-bi bîr anîn
-remind
-bi bîr xistin
-imagine
-xeyal kirin
-prepare
-amade kirin
-feel
-pê hesîn
-like
-li xweşê çûn
-dislike
-li xweşê neçûn
-contain
-hildan
-drink
-vexwarin
-need
-hewceyîbûn
-sign
-navîş kirin
-believe
-bawer kirin
-hurt
-êşandin
-build
-ava kirin
-want
-xwestin
-indicate
-nîşan kirin
-hear
-bihîstin
-hear
-bihîstin
-object
-îtiraz kirin
-push
-dehfdan
-allow
-desturdan
-accept
-pejirandin
-run away
-revîn
-get up
-rabûn
-stay
-mayîn
-close
-girtin
-decide
-birîn
-mix
-tevlîhev kirin
-compare
-dan berhev
-save
-tomar kirin
-record
-geyd kirin
-win
-qezenc kirin
-cut
-birîn
-slice
-qut kirin
-discover
-vedîtin
-break
-şikandin
-lock
-qufilandin
-rent
-kirê kirin
-smell
-bêhn dan
-check
-kontrol kirin
-inspect
-sehî kirin
-talk
-axaftin
-speak
-peyivîn
-fear
-tirsîn
-protect
-parastin
-guard
-star kirin
-run
-baz dan
-jog
-bezîn
-use
-bikar anîn
-utilize
-xebitandin
-apply makeup
-mekyaj kirin
-wonder
-meraq kirin
-be curious
-zîranî kirin
-cause
-bûn sedem
-hate
-xû kirin
-despise
-nefret kirin
-read
-xwendin
-be
-bûn
-approve
-ere kirin
-sit
-rûniştin
-play
-lîstin
-pay
-dan
-learn
-hîn bûn
-study
-fêr bûn
-acquire knowledge
-elimîn
-teach
-hîn kirin
-instruct
-fêr kirin
-kill
-kuştin
-die
-mirin
-kiss
-maç kirin
-smooch
-ramûsîn
-miss
-bêrî kirin
-apologize
-lêborîn xwestin
-share
-parve kirin
-cook
-pijandin
-disturb
-nerehet kirin
-reject
-red kirin
-ask
-tika kirin
-dream
-xewn dîtin
-hide
-xwe veşartin
-buy
-kirîn
-sell
-firotin
-defend
-parastin
-advocate
-berevanî kirin
-watch
-temaşe kirin
-smoke
-cixare vexwarin
-erase
-paqij kirin
-delete
-jê birin
-order
-sparîş dan
-ask
-pirs kirin
-inquire
-pirsin
-say
-gotin
-count
-jimartin
-choose
-hilbijartin
-love
-hez kirin
-promise
-soz dan
-thirst
-tîbûn
-drive (car)
-ajotin
-plow (field)
-cot kirin
-cultivate (field)
-ra kirin
-joke
-henek kirin
-sing
-stran gotin
-perform (a song)
-kilam gotin
-surprise
-heyîrandin
-complain
-gilî kirin
-protest
-gazine kirin
-suspect
-şik kirin
-follow
-şopandin
-guess
-rawêj kirin
-estimate
-texmîn kirin
-mimic
-zarve kirin
-repair
-tamîr kirin
-recognize
-nas kirin
-argue
-nîgaş kirin
-debate
-gengeşî kirin
-carry
-bar kirin
-taste
-tehm kirin
-recommend
-tewsiye kirin
-congratulate
-pîroz kirin
-treat
-ji derman kirin
-threaten
-gef lê xwarin
-repeat
-dubare kirin
-call (on the phone)
-telefon kirin
-make contact
-pêwendî danîn
-get in touch
-têkilî danîn
-clean
-pagij kirin
-tidy up
-pak kirin
-prefer
-tercîh kirin
-translate
-wergerandin
-deliver
-radest kirin
-thank
-spas kirin
-express gratitude
-malava kirin
-shave
-traş bûn
-climb
-hilperikîn
-shave
-hilkişîn
-hold
-girtin
-arrest
-girtin
-arrest
-derdest kirin
-fly
-firîn
-reach
-gihîştin
-hope
-hêvî kirin
-forget
-ji bîr kirin
-wake up
-şiyarbûn
-apply
-sepandin
-sleep
-razan
-produce
-hilberîn
-give up
-jêgerîn
-renounce
-qerîn
-give
-dan
-provide
-dayîn
-hit
-lêxistin
-shoot
-lêdan
-catch
-girtin
-burn
-şewitandin
-do
-kirin
-help
-alîkarî kirin
-assist
-alî kirin
-prohibit
-qedexe kirin
-live
-jiyîn
-write
-nivîsandin
-eat
-xwarin
-win
-têk birin
-reach
-gihîştin
-wash
-şûştin
-guide
-rê nîşan dan
-travel
-rêwitî kirin
-manage
-birêve birin
-walk
-meşîn
-swim
-avjenî kirin
-bathe
-soben kirin
-visit
-serî lê dan
-Dora sêgoşeyê 
-Perimeter of the triangle
-Ser 
-Top
-Vektor 
-Vector
-Kelkot 
-Trapezoid
-Tenişt, kêlek 
-Side
-Kêlek 
-Side part
-Bêalî 
-Neutral
-Nîveşkêl, nîvçap 
-Radius
-Berwarî 
-Horizontal
-Heft 
-Seven
-Heftê 
-Seventy
-Bîst 
-Twenty
-Bîst û yek 
-Twenty one
-Alî 
-Direction
-Goşeyê yekalî 
-Corresponding angle
-Gilover, giloverik 
-Round
-Bilindî, bilindahî 
-Height
-Sed 
-Hundred
-Sed û yek 
-One hundred and one
-Sed û pêncî 
-One hundred and fifty
-Rû 
-Surface
-Hejmarên rastîn 
-Real numbers
-Hejmar 
-Number
-Jimarxêz, rastexêza hejmaran 
-Number line
-Hejmarbar 
-Countable
-Hejmarî, hejmareyî, hejmarkî 
-Numerical
-Heşt 
-Eight
-Heştê 
-Eighty
-Gundor 
-Cylinder
-Encam 
-Result
-Şêwe 
-Shape
-Bingeh, bin, asas 
-Base
-Goşeyê bingeh, goşeyê binî 
-Base angle
-Tablo 
-Table
-Tamjimar 
-Integers
-Pêbûn 
-Tangent
-Fer 
-Odd
-Hejmara fer 
-Odd number
-Goşeyê tepe 
-Apex angle
-Goşeyê vajî 
-Opposite angle
-Goşeyên vajî 
-Opposite angles
-Birêjeya vajî 
-Inverse proportion
-Tevîn, zêdek 
-Addition
-Trîgonometrî 
-Trigonometry
-Tevakir, çik tevakir 
-Complementary
-Goşeyê çik tevakir 
-Complementary angle
-Koma tevakir 
-Complementary set
-Dûrbûn 
-Distance
-Dirêjî, dirêjahî 
-Length
-Sê, sisê 
-Three
-Sêgoşe 
-Triangle
-Qada sêgoşe 
-Area of the triangle
-Deh 
-Ten
-Şazdeh 
-Sixteen
-Pazdeh 
-Fifteen
-Deh hezar 
-Ten thousand
-Yazdeh 
-Eleven
-Nozdeh 
-Nineteen
-Çardeh 
-Fourteen
-Dozdeh 
-Twelve
-Hijdeh 
-Eighteen
-Sêzdeh 
-Thirteen
-Hefdeh 
-Seventeen
-Rêje 
-Ratio
-Birêje, rêjehî 
-Proportional
-Carînên hîmî yên hevpar 
-Common prime factor
-Xêza navber 
-Median
-Sî 
-Thirty
-Pîvan 
-Measure
-Binkoma rastîn 
-Proper subset
-Rastênhev, paralel 
-Parallel
-Kêlekên rastênhev 
-Parallel sides
-Rastênhevî, paralelî 
-Parallelism
-Par 
-Numerator
-Jêpar 
-Denominator
-Permutasyon 
-Permutation
-Pêwendiya pîsagor 
-Pythagorean theorem
-Pozîtîf 
-Positive
-Prîzma 
-Prism
-Radyan 
-Radian
-Pêjimar 
-Digit
-Hejmarên rasyonel, hejmarên aqlî 
-Rational numbers
-Kelkota cêwîkêlek 
-Isosceles trapezoid
-Goşepîv 
-Protractor
-Hejmarên ne aqlî, hejmarên îrrasyonel 
-Irrational numbers
-Kirarî 
-Operation
-Çarçik 
-Square
-Reha çarçik, reha ducar, reha du 
-Square root
-Car 
-Multiple
-Kêlek, kenar 
-Edge
-Çika navkêlekê 
-Perpendicular bisector
-Navkêlek 
-Median
-Parjimar 
-Fraction
-Hevbirîn 
-Intersection
-Çil 
-Forty
-Kêran 
-Chord
-Goşeyên cîran 
-Adjacent angles
-Goşeyê rast tevakirê cîran 
-Adjacent supplementary angles
-Reh 
-Root
-Eşkêl 
-Diagonal
-Rêzik, rêgez 
-Rule
-Biçûk 
-Small
-Biçûk yeksan 
-Less than or equal to
-Kom 
-Set
-Kûp 
-Cube
-Kad, kûre 
-Sphere
-Navend 
-Center
-Goşeyê navendî 
-Central angle
-Mod 
-Mode
-Negatîf 
-Negative
-Xal, niqte 
-Point
-Phhm 
-GCD (Greatest common divisor)
-Geometriya rasterû 
-Plane geometry
-Rasterûyî, lêlatî 
-Planar
-Xwar 
-Inclined
-Xwar 
-Curve
-Xwar û xidûr 
-Wavy
-Chhb 
-LCM (Least common multiple)
-Hêman 
-Element
-Pêncî 
-Fifty
-Berahî, ber, firehî 
-Width
-Yeksan 
-Equal
-Yeksanî 
-Equality
-Yeksankêlek 
-Equilateral
-Sêgoşeyê yeksan 
-Equilateral triangle
-Faktoryel, tevcaran 
-Factorial
-Vatinî, fonksiyon 
-Function
-Formul 
-Formula
-Goşeyê fireh 
-Obtuse angle
-Berahî, firehî 
-Width
-Endeze, geometrî 
-Geometry
-Qeware 
-Volume
-Hesab 
-Calculation
-Hesibandin 
-To calculate
-Tîrêj 
-Ray
-Hundir 
-Interior
-Hundirgoşe, goşeyê hundirîn 
-Interior angle
-Goşeyê vajî yê hundir 
-Interior opposite angle
-Du, dudo 
-Two
-Cudahiya du koman 
-Difference of two sets
-Dused 
-Two hundred
-Cêwîkêlek 
-Isosceles
-Sêgoşeya cêwîkêlek 
-Isosceles triangle
-Tiqalik 
-Circle
-Gelû 
-Center of the circle
-Pêl 
-Wave
-Goşeyê teng 
-Acute angle
-Buha, nirx 
-Value
-Deltoîd 
-Deltoid
-Hevkêşe 
-Equation
-Pile 
-Degree
-Der, derve 
-Exterior
-Dergoşe 
-Exterior angle
-Dergoşeyê vajî 
-Exterior opposite angle
-Çik 
-Perpendicular
-Goşeyê çik 
-Right angle
-Sêgoşeyê çik 
-Right triangle
-Kelkota çik 
-Right trapezoid
-Çikane 
-Perpendicularly
-Çikane 
-Vertical
-Xêza çik 
-Perpendicular
-Zûl 
-Segment
-Hejmarên xwezayî 
-Natural numbers
-Rastexêz 
-Straight line
-Rêjeya rastîn 
-Direct proportion
-Berek, ber 
-Direction
-Nod 
-Ninety
-Neh 
-Nine
-Çar 
-Four
-Çargoşe 
-Quadrilateral
-Rasteber 
-Regular
-Piraliyên rasteber 
-Regular polygon
-Rasterû, rastaban, lêhat 
-Plane
-Goşeya rasterû, goşeya lêlatî 
-Plane angle
-Parjimara hêsan 
-Simple fraction
-Pênc 
-Five
-Pênsed 
-Five hundred
-Pêncgoşe 
-Pentagon
-Parjimara hevedudanî 
-Compound fraction
-Koma he vedudanî 
-Compound set
-Hezar 
-Thousand
-Yek 
-One
-Koma vala 
-Empty set
-Alî 
-Dimension
-Parînker, parker 
-Divisor
-Dever 
-Region
-Parîn, parkirin 
-Division
-Tevakir, rast tevakir 
-Supplementary
-Goşeyê rast tevkir 
-Supplementary angle
-Mezin 
-Large
-Mezin yeksan 
-Greater than or equal to
-Cebîr 
-Algebra
-Çap, eşkêl 
-Diameter
-Çeprast 
-Diagonal
-Goşeyên çeprast 
-Diagonal angles
-Carîn, caran 
-Product
-Xelek 
-Circle
-Sêgoşeyê curekêlek 
-Scalene triangle
-Dorhêl 
-Perimeter
-Derîn, kêmek 
-Subtraction
-Zo, cot 
-Even
-Zo, hejmara zo 
-Even number
-Xêz 
-Line
-Pirgoşe 
-Polygon
-Çareserî 
-Solution
-Goşe, kunc, kuncik 
-Angle
-Navgoşe 
-Angle bisector
-Goşepîv 
-Protractor
-Rasterûya dunîvkerê goşe 
-Angle bisector plane
-Qad 
-Area
-Algorîtma 
-Algorithm
-Binkom 
-Subset
-Şeş 
-Six
-Şeşgoşe 
-Hexagon
-Şêst 
-Sixty
-Analîtîk 
-Analytical
-Endezeya analîtîk, geometriya analîtîk 
-Analytical geometry
-Apsîs 
-Abscissa
-Hejmarên di nav xwe de hîmî 
-Coprime numbers
-Carînên hîmî 
-Prime factor
-Veqetandina carînên hîmî 
-Prime factorization
-Hejmarên hîmî 
-Prime number
-Pêwendî 
-Relation
-Derece, pêlik 
-Digit
+Can you bring me water?
+hûn dikarin avê ji min re bînin  
+How much is this?
+ev çiqas e  
+Where is the toilet?
+tuvalet li ku derê ye  
+Hello
+silav  
+Thank you
+spas dikim  
+Please
+ji kerema xwe  
+I want a bread
+ez nanekê dixwazim  
+What time is it?
+seet çend e  
+I am fine
+ez baş im  
+Can you help me?
+hûn dikarin alîkariya min bikin  
+Where is the market?
+bazar li ku derê ye  
+I want a tea
+ez çayekê dixwazim  
+How much is the bill?
+hesab çiqas e  
+Yes
+erê  
+No
+na  
+How are you?
+hûn çawa ne  
+My name is Dilan
+navê min dîlan e  
+Where are you from?
+hûn ji ku ne  
+Good day
+roj baş  
+Excuse me
+biborin  
+Where is the hotel?
+otêl li ku derê ye  
+Where is the waiter?
+garson li ku derê ye  
+What
+çi  
+Who
+kî  
+Where to
+bi ku de  
+When
+kengê  
+Good morning
+beyanî baş  
+Good evening
+êvar baş  
+I’m taking this
+ez vê dikirim  
+I didn’t understand
+fehm nekir  
+I’m going
+ez diçim  
+You are good
+tu baş î  
+He/she is good
+ew baş e  
+We are good
+em baş in  
+You (plural) are good
+hûn baş in  
+I came
+ez hatim  
+You came
+tu hatî  
+He/she came
+ew hat  
+My house
+mala min  
+Good night
+şev baş  
+What is your name?
+navê we çi ye  
+What is his/her name?
+navê wî çi ye  
+Nice to meet you
+ez kêfxweş bûm  
+See you
+em ê hev bibînin  
+Goodbye
+oxir be  
+It’s nothing
+ne tiştek e  
+Is it possible?
+gelo mümkün e  
+Take care of yourself
+li xwe baş binêre  
+Welcome
+hûn bixêr hatin  
+Can you repeat, please?
+hûn dikarin dubare bikin ji kerema xwe  
+Hi
+silav  
+What do you want?
+tu çi dixwazî  
+Where is this place?
+ev der li ku derê ye  
+Is there water?
+av heye  
+Is there bread?
+nan heye  
+Very nice
+pir xweşik e  
+I want help
+ez alîkarî dixwazim  
+Where is the taxi?
+texsî li ku derê ye  
+Where is the food?
+xwarin li ku derê ye  
+What is this?
+ev çi ye  
+Yes, thank you
+erê spas  
+No, I don’t want
+na naxwazim  
+What are you doing?
+tu çi dikî  
+I am Turkish
+ez tirk im  
+Where are you from?
+tu ji ku yî  
+Thank you very much
+gelek spas  
+I’m drinking water
+ez avê vedixwim  
+I’m getting tired
+ez westiyayî me  
+I’m coming here
+ez têm vira  
+I see you
+ez te dibînim  
+I love you
+ez ji te hez dikim  
+I’m very tired
+ez pir westiyayî me  
+I’m getting hungry
+ez birçî dibim  
+I’m thirsty
+ez tî bûme  
+I’m drinking coffee
+ez qehweyê vedixwim  
+What do you like?
+tu ji çi hez dikî  
+I’m working today
+îro ez dixebitim  
+I’m going out
+ez derdikevim  
+The weather is nice
+hewa xweş e  
+Am I sick?
+ez nexweş im  
+What do you want?
+tu çi dixwazî  
+I’m passing through here
+ez ji vir derbas dibim  
+I’m waiting for you
+ez li benda te me  
+I’m listening to music
+ez muzîkê guhdarî dikim  
+What are you doing?
+tu çi dikî  
+I’m sitting here
+ez li vir rûdinim  
+My friend is here
+hevalê min li vir e  
+I’m speaking slowly
+ez hêdî dipeyivim  
+I walk every day
+her roj ez dimeşim  
+I’m going home
+ez diçim malê  
+The weather is cold
+hewa sar e  
+Where is the train?
+trên li ku derê ye  
+The weather is hot
+hewa germ e  
+It’s raining
+baran dibare  
+The weather is cloudy
+hewa ewravî ye  
+Where is the plane?
+balafir li ku derê ye  
+The bus is coming
+otobûs tê  
+I want a taxi
+ez texsî dixwazim  
+I’m leaving from here
+ez ji vir diçim  
+I’m traveling by train
+ez bi trênê rêwîtî dikim  
+I wake up at five o’clock
+ez saet pêncan de radibim  
+I sleep early in the morning
+sibeh zû razêm  
+I eat dinner in the evening
+êvarê ez xwarinê dixwim  
+I’m drinking milk
+ez şîr vedixwim  
+I’m eating meat
+ez goşt dixwim  
+This is very delicious
+ev pir tehmxweş e  
+What are you drinking?
+tu çi vedixwî  
+I’m staying here
+ez li vir dimînim  
+When do you sleep?
+tu kengê razê  
+You are helping
+tu alîkarî dikî  
+This is very cheap
+ev pir erzan e  
+Is it expensive?
+biha ye  
+What are you looking for?
+tu çi digerî  
+This place is very nice
+ev der pir xweşik e  
+What’s up?
+çi heye  
+No problem
+pirsgirêk tune  
+I’m very happy
+ez pir bextewar im  
+When are you coming?
+tu kengê tê  
+I’m reading
+ez dixwînim  
+I miss you
+ez bêriya te dikim  
+What time does the bus leave?
+otobûs saet çendî dest pê dike  
+When are we meeting?
+kengê em hev dibînin  
+Can you pack this?
+hûn dikarin vê pakêt bikin  
+Where did you stay yesterday?
+doh tu li ku mayî  
+How will the weather be tomorrow?
+sibe hewa çawa dibe  
+Where is this train going?
+ev trên diçe ku derê  
+I want to change my ticket
+ez dixwazim bilêta xwe biguherim  
+What time does breakfast start?
+taştê saet çendî dest pê dike  
+Who will pay the bill?
+hesabê kî dide  
+Can I get some more bread?
+ez dikarim hinekî din nan bikirim  
+Is there a room available at the hotel?
+li otêlê cih heye  
+Where do I leave my luggage?
+ez bagaja xwe li ku derê dihêlim  
+Can you describe the way?
+hûn dikarin rê ji min re tarif bikin  
+Where is the nearest hospital?
+nexweşxaneya herî nêzîk li ku derê ye  
+How do I call a taxi?
+ez teksiyekê çawa bang dikim  
+How do I use this medicine?
+ez vê dermanê çawa bi kar tînim  
+Is there something cheaper?
+tiştekî erzantir heye  
+Can you set my watch?
+hûn dikarin saeta min rast bikin  
+Where is the exit gate?
+deriyê derketinê li ku derê ye  
+Can you fix this?
+hûn dikarin vê tamîr bikin  
+How long will I wait?
+ez ê çiqas li bendê bim  
+Isn’t this too expensive?
+ev pir biha nîne  
+When will it be ready?
+kengî amade dibe  
+Is there a taxi stand here?
+li vir rawestgeha teksiyê heye  
+How do I order food?
+ez xwarinê çawa siparîş dikim  
+Does the hotel’s phone work?
+telefona otêlê dixebite  
+When will I receive this delivery?
+ez vê kengî wergirim  
+Can you go faster?
+hûn dikarin zûtir biçin  
+We got lost here
+em li vir wenda bûn  
+Can you open the door, please?
+ji kerema xwe hûn dikarin derî vekin  
+What did you do yesterday?
+doh te çi kir  
+Where will you go tomorrow?
+sibe tu dê biçî ku derê  
+What did you eat this morning?
+îro serê sibehê te çi xwar  
+What do you miss?
+tu bêriya çi dikî  
+When did you wake up?
+tu kengê şiyar bûyî  
+What will you do this evening?
+vê êvarê tu dê çi bikî  
+Where were you last week?
+hefta borî tu li ku bûyî  
+I bought this bag
+min ev çente kirî  
+I missed the bus
+min otobûs wenda kir  
+I worked a lot yesterday
+doh ez pir xebitîm  
+I’ll call you tomorrow
+sibe ez ê te bang bikim  
+What did you forget?
+te çi ji bîr kir  
+Have you watched this movie?
+te ev fîlm temaşe kir  
+What did you see?
+te çi dît  
+When did you come?
+hûn kengê hatin  
+We met yesterday
+em doh hev dîtin  
+What did you buy?
+te çi kirî  
+I drank coffee this morning
+îro serê sibehê min qehwe vexwar  
+What did you say?
+te çi got  
+What did we do last month?
+meha borî me çi kir  
+I liked this shirt
+min ev kurtik hez kir  
+How much will I pay?
+ez ê çiqas bidim  
+Is this shoe too small?
+ev sol piçûk e  
+Is there another color?
+rengê din heye  
+I want to try this
+ez dixwazim vê biceribînim  
+Can you give a discount?
+hûn dikarin daxistinê bikin  
+How much discount will there be?
+dê çiqas daxistin be  
+Do you accept credit cards?
+hûn qerta qrediyê qebûl dikîn  
+Can I pay in cash?
+ez dikarim neqîd bidim  
+Can I get a receipt?
+ez dikarim fişê wergirim  
+When are we going to the restaurant?
+em kengê diçin xwaringehê  
+Is there a table available?
+li masê cih heye  
+Can you show me the menu?
+hûn dikarin menûyê nîşan bidin  
+Is there salt in this food?
+di vê xwarinê de xwê heye  
+Can you call the waiter?
+hûn dikarin garson bang bikin  
+Is the soup too hot?
+şorbe pir germ e  
+I want dessert
+ez şîraniyê dixwazim  
+What do you recommend?
+hûn çi tewsiye dikin  
+The bill, please
+ji kerema xwe hesab  
+I’m leaving a tip
+ez baxşîşê dihêlim  
+I have work today
+îro karê min heye  
+When does it end?
+kengê diqede  
+How do I go to the office?
+ez çawa diçim ofîsê  
+What time is the meeting?
+civîn saet çendî ye  
+What did you write?
+te çi nivîsand  
+Can you copy this file?
+hûn dikarin vê dosyayê kopya bikin  
+What didn’t you understand?
+te çi fehm nekir  
+Can you send me an email?
+hûn dikarin ji min re e-postayekê bişînin  
+What did you check?
+te çi kontrol kir  
+I finished this project
+min ev proje qedand  
+I’m meeting with friends
+ez bi hevalan re hev dibînim  
+We’re going to the cinema
+em diçin sînemayê  
+What do you want to watch?
+tu dixwazî çi temaşe bikî  
+Have you played this game?
+te ev lîstik lîst  
+When did you get married?
+tu kengê zewicî  
+When does the party start?
+partî kengê dest pê dike  
+I bought a gift
+min diyariyek kirî  
+What are we celebrating?
+em çi pîroz dikin  
+Have you listened to this song?
+te ev stran guhdarî kir  
+What do you like?
+tu ji çi hez dikî  
+Call for emergency help
+bilez alîkarî bang bikin  
+Where is the police?
+polîs li ku derê ye  
+What did I lose?
+min çi wenda kir  
+I found my phone
+min telefona xwe peyda kir  
+Whose bag is this?
+ev çente ya kê ye  
+What did you drop?
+te çi ket  
+I lost my passport
+min pasaporta xwe wenda kir  
+I need to go to the doctor
+divê ez biçim bijîşk  
+My head hurts
+serê min diêşe  
+What are you looking for?
+hûn çi digerin  
+If the bus leaves at what time, will I be late?
+otobûs saet çendî dest pê bike ez ê dereng bim  
+Can you tell me when we’ll meet?
+hûn dikarin bibêjin kengê em ê hev bibînin  
+If you don’t pack this, I won’t take it
+ger ev pakêt nekin ez ê nekirim  
+Do you remember where you stayed yesterday?
+doh tu li ku mayî te bi bîr tê  
+If it’s rainy tomorrow, what will we do?
+sibe hewa baranî be em ê çi bikin  
+I found out where this train is going
+min fêr bû ev trên diçe ku derê  
+I’d be happy if I could change my ticket
+ger ez bikarim bilêta xwe biguherim ez ê pir şa bibim  
+If breakfast starts early, I’ll wake up
+taştê zû dest pê bike ez ê şiyar bibim  
+If no one pays the bill, I’ll pay
+ger kesek hesab nebe ez ê bidim  
+If I buy more bread, will it be enough?
+ger ez zêdetir nan bikirim bes e  
+If we can’t find a room at the hotel, where will we stay?
+ger li otêlê cih nebe em ê li ku bimînin  
+I don’t know where to leave my luggage
+ez nizanim bagaja xwe li ku derê dihêlim  
+If you describe the way, I won’t get lost
+ger hûn rê tarif bikin ez ê wenda nekim  
+Can you tell me how to get to the hospital?
+hûn dikarin bibêjin nexweşxane çawa tê çûn  
+If I call a taxi, how long will it take?
+ger ez teksî bang bikim dê çiqas bidome  
+What happens if I use this medicine wrong?
+ger ez vê dermanê şaş bi kar bînim çi dibe  
+If I find something cheaper, I’ll buy it
+ger ez tiştekî erzantir peyda bikim ez ê bikirim  
+If I set my watch wrong, I’ll be late
+ger ez saeta xwe şaş rast bikim ez ê dereng bim  
+If I can’t find the exit gate, what should I do?
+ger ez deriyê derketinê peyda nekim çi bikim  
+If you can’t fix this, I’ll buy a new one
+ger hûn vê tamîr nekin ez ê yekî nû bikirim  
+If I wait longer, will the bus come?
+ez çiqas li bendê bim otobûs tê  
+If you lower the price, I’ll buy it now
+ger hûn vê bihayê daxînin ez ê niha bikirim  
+When will my order be ready?
+sparîşa min kengê amade dibe  
+I don’t know how to get to the taxi stand
+ez nizanim rawestgeha teksiyê çawa tê çûn  
+If we order food, how long will we wait?
+ger em xwarinê siparîş bikin dê çiqas li bendê bin  
+If the hotel’s phone doesn’t work, what will we do?
+ger telefona otêlê nexebite em ê çi bikin  
+Can I know when I’ll receive the delivery?
+ez dikarim fêr bibim radestî kengê tê wergirtin  
+If you go faster, I’ll arrive early
+ger hûn zûtir biçin ez ê zû bigihêjim  
+If we get lost here, who should we ask?
+ger em li vir wenda bibin em ê ji kê bipirsin  
+If you don’t open the door, I’ll stay inside
+ger hûn derî venekin ez ê li hundir bimînim  
+Why didn’t you tell me what you did yesterday?
+doh te çi kir çima te negot  
+Have you planned where you’ll go tomorrow?
+sibe tu dê biçî ku derê te plankir  
+Do you remember what you ate this morning?
+îro serê sibehê te çi xwar te bi bîr tê  
+Can you tell me what you miss?
+tu bêriya çi dikî dikarî ji min re bibêjî  
+I forgot when you woke up
+tu kengê şiyar bûyî min ji bîr kir  
+Have you decided what we’ll do this evening?
+vê êvarê em ê çi bikin te biryar da  
+I was wondering where you were last week
+hefta borî tu li ku bûyî min meraq kir  
+Why did you buy this bag?
+te ev çente çima kirî  
+If you missed the bus, how did you come?
+ger te otobûs wenda kir çawa hatî  
+I’m tired because I worked a lot yesterday
+doh ez pir xebitîm loma westiyayî me  
+Don’t be upset if I can’t call you tomorrow
+sibe ez nikarim te bang bikim xem neke  
+I don’t remember what I forgot
+çi ji bîr kirim ez bi bîr nayêm  
+If you watched this movie, what did you think?
+ger te ev fîlm temaşe kir te çi fikirî  
+Tell me what you saw
+te çi dît ji min re bibêje  
+I didn’t notice when you came
+hûn kengê hatin min ferq nekir  
+I had a lot of fun when we met yesterday
+doh em hev dîtin min pir kêf kir  
+I’m curious about what you bought
+te çi kirî ez meraq dikim  
+When I drank coffee this morning, I woke up
+îro serê sibehê min qehwe vexwar û xew min vebû  
+If I didn’t understand what you said, can you repeat?
+ger min fehm nekir te çi got tu dikarî dubare bikî  
+Do you remember what we did last month?
+meha borî me çi kir te bi bîr tê  
+I bought this shirt because I liked it
+min ev kurtik hez kir loma kirî  
+I don’t know how much I’ll pay
+ez nizanim dê çiqas bidim  
+If this shoe is small, I’ll exchange it
+ger ev sol piçûk be ez ê biguherim  
+If there’s no other color, I’ll take this
+ger rengê din tune be ez vê dikirim  
+When I tried this, I liked it a lot
+min ev ceriband û pir hez kir  
+If you don’t give a discount, I’ll go somewhere else
+ger hûn daxistin nekin ez ê biçim cîhekî din  
+I asked how much discount there could be
+min pirsî dê çiqas daxistin bibe  
+If I pay by credit card, will there be a problem?
+ger ez bi qerta qrediyê bidim pirsgirêk dibe  
+If I pay in cash, how much discount is there?
+ger ez neqîd bidim çiqas daxistin heye  
+If I don’t take a receipt, what happens?
+ger ez fişê negirim çi dibe  
+Let’s make a reservation before going to the restaurant
+berî em biçin xwaringehê em rezervasyon bikin  
+If there’s no table, we’ll wait
+ger li masê cih tune be em ê li bendê bin  
+When I saw the menu, I didn’t know what to choose
+min menû dît lê nizanîbû çi hilbijêrim  
+If there’s no salt in this food, can you add some?
+ger di vê xwarinê de xwê tune be hûn dikarin lê zêde bikin  
+When I called the waiter, he didn’t come
+min garson bang kir lê nehat  
+If the soup is too hot, I’ll wait for it to cool
+ger şorbe pir germ be ez ê li benda sarbûnê bim  
+If I order dessert, how long will it take?
+ger ez şîraniyê siparîş bikim dê çiqas bidome  
+If I didn’t understand what you recommended, sorry
+ger min fehm nekir hûn çi tewsiye kirin biborin  
+I want a receipt after paying the bill
+piştî hesaw danê ez fişê dixwazim  
+If I don’t leave a tip, will the waiter be upset?
+ger ez baxşîşê nehêlim garson xem dibe  
+I’m tired because I had a lot of work today
+îro karê min pir bû loma westiyayî me  
+Whenever the meeting ends, I’ll leave
+civîn kengê biqede wê demê ez derdikevim  
+I’ll buy coffee before going to the office
+berî ez biçim ofîsê ez qehweyê dikirim  
+If the meeting starts at any time, I’ll go early
+civîn saet çendî dest pê bike ez ê zû biçim  
+Can you check what I wrote?
+hûn dikarin kontrol bikin min çi nivîsand  
+If I don’t copy this file, will it get lost?
+ger ez vê dosyayê kopya nekim dê wenda bibe  
+You can ask me what you didn’t understand
+hûn dikarin ji min bipirsin çi fehm nekirine  
+If I send an email, will you see it right away?
+ger ez e-postayekê bişînim hûn ê zû bibînin  
+I forgot what I checked
+min çi kontrol kir ji bîr kirim  
+When I finish this project, I’ll go on vacation
+min ev proje qedand wê demê ez ê biçim betlaneyê  
+I’ll let you know before meeting with friends
+berî ez bi hevalan re hev bibînim ez ê agahî bidim  
+What will we watch when we go to the cinema?
+em biçin sînemayê em ê çi temaşe bikin  
+If you don’t say what you want to watch, I can’t decide
+ger tu nebêjî dixwazî çi temaşe bikî ez nikarim biryar bidim  
+If you played this game, how did you find it?
+ger te ev lîstik lîst çawa dît  
+You didn’t tell me when you got married
+tu kengê zewicî te ji min re negot  
+Whenever the party ends, I’ll go
+partî kengê biqede wê demê ez ê biçim  
+They were happy when I bought a gift
+min diyariyek kirî û ew pir şa bûn  
+I’m asking because I don’t know what we’re celebrating
+tu nizanî em çi pîroz dikin loma dipirsim  
+I got emotional when I listened to this song
+min ev stran guhdarî kir û ez hestiyar bûm  
+I’m trying to understand what you like, but it’s hard
+ez hewl didim fehm bikim tu ji çi hez dikî lê zehmetî dikişim  
+If I call for emergency help, how long will it take?
+ger ez bilez alîkarî bang bikim dê çiqas bidome  
+If I call the police, will they come quickly?
+ger ez polîs bang bikim dê zû bên  
+I don’t remember what I lost
+min çi wenda kir ez bi bîr nayêm  
+I was so happy when I found my phone
+min telefona xwe peyda kir û pir şa bûm  
+Did you find out whose bag this is?
+hûn fêr bûn ev çente ya kê ye  
+I didn’t notice what I dropped
+min çi ket ferq nekir  
+I was so scared when I lost my passport
+min pasaporta xwe wenda kir û pir tirsîm  
+If I don’t go to the doctor, will my illness get worse?
+ger ez neçim bijîşk ez ditirsim nexweşiya min pêş bikeve  
+What should I do when my head hurts?
+serê min diêşe wê demê divê çi bikim  
+If I know what you’re looking for, I can help better
+ger ez bizanim hûn çi digerin ez dikarim baştir alîkarî bikim  
+If I knew what time the bus leaves, I’d come early
+ger min bizaniya otobûs saet çendî dest pê dike zû têm  
+Why didn’t you tell me the meeting place changed?
+çima te ji min re negot cihê em ê hev bibînin guherî  
+If you don’t pack this on time, I’ll complain
+ger hûn vê pakêtê di wextê de nekin ez ê gilî bikim  
+You say you don’t remember where you stayed yesterday, but I don’t believe you
+tu dibêjî doh tu li ku mayî te bi bîr nayê lê ez bawer nakim  
+Even if it’s rainy tomorrow, I’ll go out
+sibe hewa baranî be jî ez ê derkevim derve  
+I bought a ticket without asking where this train is going
+min bêyî pirsînê ev trên diçe ku derê bilêt kirî  
+If I need to change my ticket, how much extra will I pay?
+ger pêwîst be ez bilêta xwe biguherim dê çiqas ferq bidim  
+Even if breakfast starts early, I think I won’t wake up
+taştê zû dest pê bike jî ez difikirim nikarim şiyar bibim  
+If no one pays the bill, I won’t leave the table
+ger kesek hesabê nede ez ê ji masê ranêbim  
+You know if I buy more bread, it’ll go to waste
+ger ez zêdetir nan bikirim tu dizanî dê wenda bibe  
+If we can’t find a room and stay on the street, what will we do?
+ger em li otêlê cih peyda nekin û li kolanê bimînin em ê çi bikin  
+I passed by without asking where to leave my luggage
+min bêyî pirsînê bagaja xwe li ku derê dihêlim derbas bûm  
+Even if you don’t describe the way, I think I can find it
+ger tu rê tarif neke jî ez difikirim dikarim peyda bikim  
+If I take the wrong road to the hospital, I’ll get lost
+ger ez biçim nexweşxanê û rê şaş bikim ez ê wenda bibim  
+When I called a taxi, I noticed the driver got lost
+min teksî bang kir û ferq kir şofêr wenda bûye  
+If I use this medicine wrong, will it be the doctor’s fault?
+ger ez vê dermanê şaş bi kar bînim sûcê bijîşk dibe  
+When I find something cheaper, I’ll call you
+gava ez tiştekî erzantir peyda bikim ez ê te bang bikim  
+I was late to the meeting because I set my watch wrong
+min saeta xwe şaş rast kir loma civînê dereng mam  
+If I can’t find the exit gate and go back, what happens?
+ger ez deriyê derketinê peyda nekim û vegerim çi dibe  
+If you had said you couldn’t fix this from the start
+ger we ji destpêkê ve gotiba hûn vê tamîr nakin  
+I fell asleep without noticing how long I waited
+bêyî ferqkirina çiqas li bendê mam ez ketim xew  
+If you don’t lower the price, I’ll go to another shop
+ger hûn vê bihayê daxîn nekin ez ê biçim dikaneke din  
+Can you guess when my order will be ready?
+hûn dikarin texmîn bikin sparîşa min kengê amade dibe  
+I realized I went the wrong way to the taxi stand
+min ferq kir ez bi rêya şaş çûme rawestgeha teksiyê  
+I read the menu carefully before ordering food
+berî ez xwarinê siparîş bikim ez menûyê baş dixwînim  
+I told the reception that the hotel’s phone isn’t working
+min ji resepsiyonê re got telefona otêlê naxebite  
+I called because I forgot when I’ll receive the delivery
+min ji bîr kir radestî kengê tê wergirtin loma bang kir  
+If you go faster, you might get a traffic fine
+ger hûn zûtir biçin dibe hûn cezayê trafîkê bigirin  
+I don’t want to admit we got lost here
+ez naxwazim qebûl bikim em li vir wenda bûne  
+You know if I don’t open the door, I’ll be locked inside
+ger ez derî venekim tu dizanî ez ê li hundir kilît bibim  
+If you don’t tell me what you did yesterday, I’ll be curious
+ger tu doh çi kirî nebêjî ez ê meraq bikim  
+Let’s not go out without planning where we’ll go tomorrow
+bêyî plankirina sibe em ê biçin ku derê em dernekevin  
+If I ask what you ate this morning, will you tell me?
+ger ez îro serê sibehê te çi xwar bipirsim tu dibêjî  
+You’re hesitant to tell me what you miss
+tu ji gotina bêriya çi dikî şerm dikî  
+If I knew when you woke up, I’d have woken you
+ger min bizaniya tu kengê şiyar bûyî min te hişyar dikir  
+If we can’t decide what to do this evening, we’ll stay home
+ger em vê êvarê çi bikin biryar nedin em ê li malê bimînin  
+I want to know where you were last week
+ez dixwazim fêr bibim hefta borî tu li ku bûyî  
+I didn’t understand why you bought this bag
+min fehm nekir te ev çente çima kirî  
+I came by taxi because I missed the bus
+min otobûs wenda kir loma bi teksî hatim  
+Even though I worked a lot yesterday, I couldn’t finish the job
+doh ez pir xebitîm lê dîsa jî kar qedand nekim  
+If I can’t call you tomorrow, I’ll send a message
+sibe ez nikarim te bang bikim ez ê peyam bişînim  
+I’ll keep looking until I remember what I forgot
+heta ez bi bîr bînim çi ji bîr kirim ez ê bigerim  
+If you watched this movie, why didn’t you recommend it to me?
+ger te ev fîlm temaşe kir çima te ji min re tewsiye nekir  
+You got excited while telling me what you saw
+dema te çi dît vegot tu pir bi heyecan bûyî  
+If I had noticed when you came, I’d have opened the door
+ger min ferq kiriba hûn kengê hatin min derî vedikir  
+Why were you so quiet when we met yesterday?
+doh em hev dîtin çima tu ewqas bêdeng bûyî  
+How can I help if you don’t tell me what you bought?
+bêyî te bêjî çi kirî ez çawa alîkarî bikim  
+I’m still sleepy even though I drank coffee this morning
+îro serê sibehê min qehwe vexwar lê dîsa xewê me  
+Can you repeat if I didn’t understand what you said?
+ger min fehm nekir te çi got tu dikarî dubare bikî  
+I’m trying to remember what we did last month
+ez hewl didim meha borî me çi kir bi bîr bînim  
+I bought this shirt out of necessity, not because I liked it
+min ev kurtik ne ji ber hezkirinê lê ji mecbûrî kirî  
+I asked because I couldn’t calculate how much I’ll pay
+min nikarî hesab bikim dê çiqas bidim loma pirsî  
+If this shoe is small, why didn’t you bring a bigger size?
+ger ev sol piçûk e çima we bedenek mezin neanî  
+I’d prefer this even if there’s another color
+ger rengê din hebe jî ez vê tercîh dikim  
+I noticed it wasn’t comfortable when I tried this
+min ev ceriband û ferq kir ne rehet e  
+If you don’t give a discount, I can’t buy at this price
+ger hûn daxistin nekin bi vê bihayê kirîn ne mimkun e  
+If you had told me how much discount there could be from the start
+ger we ji destpêkê ve gotiba dê çiqas daxistin hebe  
+If I pay by credit card, can you do installments?
+ger ez bi qerta qrediyê bidim hûn dikarin taksît bikin  
+If I pay in cash, I deserve a discount
+ger ez neqîd bidim ez daxistinê heq dikim  
+If I don’t take a receipt, will the warranty be valid?
+ger ez fişê negirim garantî derbas dibe  
+Let’s decide what to eat before going to the restaurant
+berî em biçin xwaringehê em biryar bidin çi bixwin  
+If there’s no table, I suggest going somewhere else
+ger li masê cih tune be ez pêşniyar dikim biçin cîhekî din  
+I thought the prices were high when I saw the menu
+min menû dît û fikirî bihaye bilind in  
+If there’s no salt in this food, I’ll tell the waiter
+ger di vê xwarinê de xwê tune be ez ê ji garson re bibêjim  
+Why was the waiter so late when I called him?
+min garson bang kir çima ewqas dereng ma  
+If the soup is too hot, I have no choice but to wait for it to cool
+ger şorbe pir germ be ji bilî li benda sarbûnê ti çareyeke min tune  
+I calculated how many calories I took when I ordered dessert
+min şîraniyê siparîş kir û hesab kir çiqas kalorî girtim  
+Sorry if I didn’t understand what you recommended
+ger min fehm nekir hûn çi tewsiye kirin biborin  
+I noticed the waiter was expecting a tip after I paid the bill
+piştî hesaw danê min ferq kir garson li benda baxşîşê ye  
+I’m afraid the waiter will take it personally if I don’t leave a tip
+ger ez baxşîşê nehêlim ez ditirsim garson vê kesane bigire  
+I’ll go home early because I had a lot of work today
+îro karê min pir e loma ez ê zû vegerim malê  
+I’ll be tired whenever the meeting ends
+civîn kengê biqede biqede ez ê westiyayî bibim  
+I planned what to do before going to the office
+berî ez biçim ofîsê min plankir divê çi bikim  
+I won’t be late no matter what time the meeting starts
+civîn saet çendî dest pê bike dest pê bike ez ê dereng nemînim  
+I might make a mistake if you don’t check what I wrote
+ger tu kontrol neke min çi nivîsand dibe ez xeletî bikim  
+I’ll lose important information if I don’t copy this file
+ger ez vê dosyayê kopya nekim ez ê agahiyên girîng wenda bikim  
+I’d have explained if you asked what you didn’t understand
+ger we pirsîba çi fehm nekirine min ji we re rave dikir  
+How will I know you read it if I send an email?
+ger ez e-postayekê bişînim ez çawa bizanim we xwendiye  
+What I checked was important, but I don’t remember
+min çi kontrol kir bi bîr nayêm lê girîng bû  
+I hope my boss will be pleased when I finish this project
+min ev proje qedand ez hêvî dikim patron şa bibe  
+Let’s clarify where to meet before meeting with friends
+berî ez bi hevalan re hev bibînim em safî bikin li ku hev bibînin  
+It’s better if we buy tickets in advance when we go to the cinema
+em biçin sînemayê ger em bilêtan pêşî bikirin baş dibe  
+I can’t decide if you don’t say what you want to watch
+ger tu nebêjî dixwazî çi temaşe bikî ez nikarim biryar bidim  
+Can you tell me your strategy if you played this game?
+ger te ev lîstik lîst dikarî stratejiya xwe ji min re bibêjî  
+If I knew when you got married, I’d have brought a gift
+ger min bizaniya tu kengê zewicî min diyariyekê dianî  
+I won’t be late whenever the party ends
+partî kengê biqede biqede ez ê dereng nemînim  
+I’m curious about my friends’ reactions when I bought a gift
+min diyariyek kirî ez meraq dikim hevalên min çi difikirin  
+I’m asking because I don’t know what we’re celebrating
+tu nizanî em çi pîroz dikin loma dipirsim  
+I remembered my childhood when I listened to this song
+min ev stran guhdarî kir û zarokatiya min bi bîr ket  
+I’m struggling to understand what you like
+ez hewl didim fehm bikim tu ji çi hez dikî lê zehmetî dikişim  
+I saw the police came too when I called for emergency help
+min bilez alîkarî bang kir û dît polîs jî hatine  
+How long do you think it’ll take if I call the police?
+ger ez polîs bang bikim tu texmîn dikî di çiqas demê de tên  
+I won’t give up looking until I remember what I lost
+heta ez bi bîr bînim çi wenda kirim ez ê dev ji gerînê bernedim  
+I noticed the screen was broken when I found my phone
+min telefona xwe peyda kir û ferq kir ekran şikestiye  
+I won’t deliver this bag without knowing whose it is
+bêyî fêrbûna ev çente ya kê ye ez ê radest nekim  
+It was already lost when I noticed what I dropped
+min ferq kir çi ket lê êdî wenda bûbû  
+I had to call the consulate when I lost my passport
+min pasaporta xwe wenda kir û mecbûr mam konsolosxanê bang bikim  
+I’m afraid my illness will get worse if I don’t go to the doctor
+ger ez neçim bijîşk ez ditirsim nexweşiya min pêş bikeve  
+I ask the doctor before taking medicine when my head hurts
+serê min diêşe berî ez derman bigirim ez ji bijîşk dipirsim  
+I can help better if you tell me what you’re looking for
+ger ez bizanim hûn çi digerin dikarin ji min re bibêjin
