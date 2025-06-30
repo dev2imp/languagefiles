@@ -1,0 +1,382 @@
+kahve
+çay
+su
+ekmek
+gündaydın
+nasılsın
+lütfen
+memnum oldum
+iyiyim
+teşekkürler
+rica ederim
+baba
+anne
+merhaba
+
+bir kahve 
+bir su 
+bir ekmek
+bir çay
+günaydın, ben bir ekmek istiyorum
+ben bir kahve istiyorum
+bir çay ve bir kahve lüfen
+güle güle
+hesap alabilir miyim?
+lavabo ne tarafta 
+iyi geceler
+iyi günler
+iki ekmek alabilir miyim
+
+süper
+teşekkürler görüşürüz
+benim adım ahmet
+senin adın ne
+bir bardak su 
+bir bardak çay 
+ben sen o
+biz siz onlar
+hayır, bir çay lütfen
+
+evet
+hayır
+özür dilerim
+pardon
+bu ne?
+bu çay
+bu ekmek
+ben çay içerim
+ben su istemiyorum
+
+sen türkçe biliyor musun?
+biraz türkçe biliyorum
+anladım
+anlamadım 
+açım
+açsın 
+aç
+hadi gidelim
+ben dışardayım
+biliyorum 
+bilmiyorum 
+tekrar eder misin lütfen
+tekrar edebilir misin?
+tamam 
+
+bu ne kadar?
+ucuz
+pahalı 
+ben bunu almak istiyorum 
+ben üç tane istiyorum 
+param var 
+param yok 
+evet param var
+hayır param yok 
+var
+yok
+peynir 
+peynirin kilosu ne kadar?
+
+ben eve gidiyorum 
+sen iyi misin?
+sen iyi değilsin 
+ben iyi değilim 
+o iyi değil
+ben çalışıyorum 
+beni bekle
+ben sonra gelirim 
+sen bilmiyorsun 
+ben bilmiyorum 
+ben de bilmiyorum 
+sen de bilmiyorsun
+kim bilir
+
+sen nerdesin?
+ben evdeyim
+o nerede
+market nerede
+ahmet burda 
+ahmet geliyor 
+sen evde misin?
+ben eve yakınım
+geliyorum 
+gidiyorum 
+döneceğim
+
+ben uyurum
+ben kahvaltı yaparım 
+o işe gider
+biz akşam yemeği yeriz
+ben duş alırım 
+sen dinlenirsin
+o dinlenir
+ben dinlenirim
+sen TV izlersin 
+ben kahvaltı da peynir yerim
+bizim peynirimiz çok lezzetli
+susadım 
+ben susadım, su istiyorum
+
+ne zaman gelirsin?
+o ne zaman gelir
+nerde yaşıyorsun
+nasıl
+kim
+neden
+sen neden gelmiyorsun?
+kim gelir?
+nasıl gelir?
+
+kırmızı
+mavi
+yeşil
+siyah 
+beyaz
+beyaz araba
+kırmızı çiçek
+mavi gökyüzü
+siyah kedi
+ağaç yeşildir
+soğuk su 
+sıcak çay 
+taze ekmek
+büyük fil
+küçük fare
+
+baba 
+anne
+kardeş 
+kız
+erkek 
+o benim babam
+o benim annem 
+annem ve babam 
+dedem 
+nenem 
+beni abim beni bilir
+benim ablam gelir
+kız kardeşim
+erkek kardeşim 
+
+dün
+bugün
+yarın 
+şimdi
+sonra 
+önce 
+yarın gel
+sonra konuş
+önce dinle sonra konuş
+biz geliriz
+onlar gider
+siz gidin 
+gel ve git
+gel otur ya da git
+gel ya da git
+gelme 
+gitme
+
+mutlu
+özgün
+yorgun
+heyecanlı
+çok heyecanlıyım 
+çok mutluyum 
+ben çok yorgunum.
+özgünüm ama gideceğim
+o mutlu 
+sen mutlusun 
+
+okul
+market
+hastahane
+park
+restorant
+ben okula gidiyorum 
+o markete gidiyor 
+onlar hastahanede
+parkta yürüyelim
+okul parka yakın 
+hastahane parka uzak 
+market eve yakın 
+market çok uzak 
+
+sol
+sağ
+düz
+sola dön
+sağa dön
+düz git
+şimdi dur
+sola bak
+sağa bak 
+soldan sağa başla
+
+kolay gelsin 
+bir çorba alabilir miyim
+ekmek alabilir miyim 
+su soğuk olsun 
+su ılık olsun
+çorba sıcak içilir
+hesap alabilir miyim
+hesap ne kadar?
+bahşiş verebilir miyim?
+garson 
+menü
+
+hava durumu nasıl bugün?
+bugün hava sıcak
+yarın hava yağmurlu 
+dün güneşliydi
+güneşli,yağmurlu,sıcak,rüzgar,kar,dolu
+yağmur yağıyor
+ben yağmurlu havaları severim
+bulutlu
+hava bulutlu
+
+gömlek
+pantolon
+elbise
+ayakkabı
+şabka 
+kemer
+ben gömlek giyerim
+sen bu şapkayı beğendin mi?
+siyah pantolon
+kırmızı şapka
+beyaz gömlek
+
+ev
+oda
+sokak
+şehir
+şehir merkezi 
+otel
+sahil
+çöl
+köy
+uzak köy
+sahil buraya yakın
+küçük oda 
+büyük ev
+yeşil ev
+sandalye
+kırık sandalye 
+
+okumak 
+yazmak 
+konuşmak 
+öğrenmek 
+dinlemek
+koşmak
+uyumak
+içmek
+dinlemek
+ben kitap okurum 
+o kitap yazar
+o bir yazar
+ben ingilizce konuşabilirim
+ben hergün yeni kelimeler öğrenirim
+bana mesaj yazma 
+pardon, bana yardım eder misiniz
+
+ben 
+bana
+sen
+sana
+o 
+ona
+onlar 
+onlara
+biz 
+bize
+siz
+size
+bana gel
+ona git
+bize gel
+onlara bak
+size dedim
+siz kimsiniz?
+sen kimsin?
+o kim?
+
+otobüs 
+tren
+araba
+havalimanı
+istasyon
+ben otobüse biniyorum
+o araba sürüyor
+biz istasyondayız
+istasyon nerde?
+tren ne zaman gelir?
+onlara havalimanına gidiyorlar
+bisiklete biner misin?
+hayır, at binmem
+bilet 
+otobüs bileti ne kadar?
+haritanız var mı?
+kalkış ne zaman?
+varış ne zaman?
+bagaj
+geç kaldım
+sen ne zaman uyanırsın?
+ben erken uyanırım
+ben her sabah kahve içerim
+ben okula giderim
+o erken uyumaz
+o geç uyur 
+erken kalkar
+ahmet okula gider mi?
+sen kahvaltı yapmaz mısın?
+onlar sabah kahvaltı yapmazlar
+onlar sabah kahvaltı yaparlar
+biz sabah kahvaltı yaparız
+biz sabah kahvaltı yapmayız
+annem ve babam saat 08:00 de evden çıkarlar
+baban çalışır mı?
+sen koşar mısın?
+ben koşarım
+o koşar 
+onlar koşarlar
+biz koşarız
+
+ben şimdi kahvaltı yapıyorum
+o yemek yiyor
+ahmet kitap okuyor 
+onlar şimdi top oynuyorlar
+ben TV izliyorum
+o şimdi çalışmıyor
+akşam yemek yiyor musun?
+şu anda geliyorlar mı?
+o ders çalışıyor mu?
+klima çalışıyor mu?
+şimdi yağmur yağmıyor
+
+yarın okula gideceğim
+biz yarın dışarda kahvaltı yapacağız
+onlar bizi yarın ziyaret edecekler
+ben yarın çalışmayacağım
+gelecek ay ben yokum
+yarın beni arar mısın?
+ayşe gelecek hafta gelecek
+onlar yarın bizimle gelmeyecekler?
+sen yarın ne yapacaksın?
+ben gidiyorum
+ben geliyorum
+ben ders çalışıyorum
+ben yemek yiyorum
+sen yemek mi yiyorsun?
+sen çay mı istiyorsun?
+
+ben dün okula gittim
+geçen hafta okula gitmedim
+onlar dün maç yaptılar
+ben dün eve gelmedim
+sen dün markete gittin mi?
+o televizyon izelemedi
+o dün seni aradı mı?
+sen ne zaman geldin?
+o ne zaman gitti?
+onlar ne zaman gittiler?
+sen ne zaman geldin? 
