@@ -12,6 +12,22 @@ de nada
 pai 
 mãe 
 olá 
+Até logo
+Como posso ajudar você?
+Tenha um bom dia
+Boa viagem
+Desculpe-me pelo atraso
+Qual é o seu sobrenome?
+É um prazer
+Até amanhã
+Como está sua família?
+Seja bem-vindo
+Tudo certo?
+Tchau, até logo
+Estou feliz em vê-lo
+Nos vemos em breve
+
+
 
 um café 
 uma água 
@@ -26,6 +42,21 @@ onde fica o banheiro?
 boa noite 
 boa tarde 
 posso pegar dois pães? 
+Um suco, por favor
+Tem algo vegetariano?
+Eu quero um sanduíche
+Pode ser rápido, por favor?
+A conta, por favor
+Tem sobremesa?
+Eu quero algo quente
+Sem açúcar, por favor
+Uma cerveja, por favor
+Posso ver o cardápio?
+A comida está boa?
+Quero mais pão
+Pode embrulhar?
+
+
 
 ótimo 
 obrigado  até mais
@@ -36,6 +67,15 @@ um copo de chá
 eu   você     ele/ela
 nós, vocês, eles/elas 
 não, um chá por favor 
+Eu sou de Brasilera
+Qual é a sua profissão?
+Eu gosto de café
+Ele é meu amigo
+Ela é minha colega
+Você prefere chá ou café?
+Eu não gosto de chá
+Somos estudantes
+Eles são irmãos
 
 sim
 não
@@ -261,6 +301,25 @@ casa grande
 casa verde
 cadeira
 cadeira quebrada
+Onde é o ponto de ônibus?
+Quanto tempo leva?
+Eu quero um táxi
+Para o centro, por favor
+O trem está atrasado?
+Uma passagem de ida
+Uma passagem de volta
+O avião sai às 5
+Onde é o portão?
+Minha bagagem está perdida
+Tem Wi-Fi no trem?
+Eu vou a pé
+Onde posso alugar um carro?
+Preciso de um mapa
+Chegamos a tempo
+
+
+
+
 
 ler
 escrever
@@ -380,3 +439,309 @@ Quando você chegou?
 Quando ele/ela foi?
 Quando eles foram?
 Quando você chegou?
+
+De quem é isso?
+Que horas são?
+Sim, entendi
+Não, não sei
+Como você está hoje?
+Está certo isso?
+Sim, obrigado
+Não, não precisa
+De onde veio?
+Fale mais devagar
+Espere um pouco
+Repita mais devagar
+Entendi o que você disse
+Estou com sede, posso pegar água?
+Preciso de um pouco de ajuda
+Você pode falar turco?
+Tenho perguntas
+Pode escrever isso?
+Não entendi, desculpe
+Quero aprender mais palavras
+Continue falando
+Isso é fácil?
+Você pode me ajudar?
+Isso é muito caro
+Tem desconto?
+Quanto custa?
+Aceita cartão de crédito?
+Quero pagar em dinheiro
+Pode me mostrar?
+Tem um tamanho menor?
+Decidi comprar
+Posso ter um recibo?
+Isso é fresco?
+Pode trocar?
+Pode embrulhar como presente?
+Estou procurando algo mais barato
+Este é meu primo
+Onde está meu tio?
+Conheça minha tia
+Meus irmãos são muito alegres
+Meu avô é velho
+Minha mãe está cozinhando
+Meu pai está trabalhando
+Moro com minha família
+Meu primo é estudante
+Minha tia me ama
+Fui passear com meu tio
+Minha irmã é pequena
+Meu irmão joga futebol
+Acordo cedo de manhã
+O que você faz à noite?
+Tenho uma reunião amanhã
+Estive de férias na semana passada
+Descanço no fim de semana
+Vamos nos encontrar às oito
+Espere uma hora
+Ontem me cansei muito
+Viajarei no próximo mês
+Há tempo agora?
+Volto daqui a pouco
+Flor amarela
+Camisa cinza
+Vestido roxo
+Sapato marrom
+Chapéu rosa
+Isso é muito brilhante
+Gosto de cores escuras
+A luz está acesa?
+A mesa é redonda
+O gato é preto e branco
+A casa é grande e verde
+Isso é pesado?
+Uma bolsa pequena
+Estou lendo um livro
+Estou ouvindo música
+Estou comendo
+Estou limpando
+Vou assistir a um filme
+Vou correr
+Vou fazer compras
+Estou me preparando para dormir
+Estou falando ao telefone
+Estou trabalhando no jardim
+Estou me sentindo mal
+Preciso ir ao médico
+Posso pegar um remédio?
+Tenho febre
+Preciso de ajuda urgente
+Onde fica a farmácia?
+Minha cabeça dói
+Quero beber água
+Preciso descansar um pouco
+Posso ligar para o número de emergência?
+Estou sangrando
+Chame ajuda
+Você está perto de uma farmácia?
+Estou me sentindo melhor
+O tempo está frio
+Hoje está ensolarado
+Vai chover?
+Um dia ventoso
+Devo pegar um guarda-chuva
+O tempo está muito úmido
+Está nevando
+Qual é a temperatura?
+Tem um aplicativo de clima?
+Choveu ontem
+Amanhã estará limpo?
+Houve um relâmpago
+As nuvens estão se formando
+O tempo está muito bonito
+Onde fica o parque?
+Há um café à direita
+Continue em frente
+Como chego à ponte?
+Aqui está muito cheio
+Uma rua à esquerda
+A praça é perto?
+Vamos olhar o mapa
+Me perdi
+Como chego à vila?
+A praia é longe?
+Volte ao centro da cidade
+A estrada está fechada
+Aqui é seguro?
+Vire na esquina
+Para onde você está indo?
+Estou muito animado
+Estou triste, desculpe
+Um dia feliz
+Estou bravo
+Estou relaxado
+Fiquei com medo
+Estou orgulhoso
+Fiquei surpreso
+Estou triste, me ajude
+Estou muito alegre
+Estou preocupado
+Fique calmo
+Você está feliz?
+Estou cansado, mas satisfeito
+Uma tigela de sopa
+Quero uma sobremesa
+Posso adicionar sal?
+Tem pimenta?
+Prato de legumes
+Estou comendo peixe
+Um copo de leite
+Chá com açúcar
+Use azeite
+Cozinhei macarrão
+O suco é fresco?
+Fatia de pão
+Adicione tempero
+Água doce
+O café da manhã está pronto
+Estou estudando
+Vou trabalhar
+Quando é a reunião?
+Tenho lição de casa
+Sou professor na escola
+Estou no escritório
+Tenho um exame
+Saí do trabalho
+Posso pegar um livro emprestado?
+As aulas são difíceis
+Estou jogando futebol
+Vou nadar
+Quero andar de bicicleta
+Você joga tênis?
+Estou dançando
+Vamos ao cinema
+Estou jogando um jogo
+Onde fica a pista de corrida?
+Estou assistindo a um jogo
+Vamos caminhar
+Tenho tênis
+Meu telefone quebrou
+A internet está funcionando?
+Minha bateria acabou
+Meu computador é lento
+Posso tirar uma foto?
+Envie uma mensagem
+Qual é a senha do Wi-Fi?
+Estou baixando um aplicativo
+A tela está brilhante
+O cachorro está latindo
+O pássaro está voando
+O peixe está na água
+O gato está miando
+O cavalo está correndo
+A galinha está botando ovos
+O leão é selvagem
+O macaco está na árvore
+A cobra é venenosa
+Há uma ovelha
+A mesa está limpa
+O sofá é confortável
+A cama é grande
+As cortinas estão abertas
+Acenda a lâmpada
+Os armários da cozinha estão cheios
+Onde está o espelho?
+O tapete é velho
+Feche a janela
+A parede precisa de tinta
+A cadeira está quebrada
+Tem eletricidade em casa?
+O banheiro é pequeno
+Tranque a porta
+Estou usando um casaco
+Meus sapatos são novos
+Comprei uma saia
+Estou usando um xale
+Minhas meias estão molhadas
+Minha calça está apertada
+Casaco de inverno
+Minha camiseta está suja
+Polí os sapatos
+Coloquei um gorro
+O vestido é longo
+Meu cinto sumiu
+Troquei minha bolsa
+O casaco está bem quentinho
+Meus sapatos são confortáveis
+O chapéu voou com o vento
+Estou procurando meias
+Passei a camisa
+A saia é curta
+Tirei meu casaco
+Onde está meu passaporte?
+Verifique a bagagem
+O voo atrasou
+Tenho uma reserva no hotel
+Chame um táxi
+Estou indo para o aeroporto
+Posso pegar um mapa?
+A viagem é longa
+Perdi meu bilhete
+Estou na alfândega
+Onde fica a plataforma do trem?
+O ônibus está cheio
+Minha bagagem é pesada
+Qual é o número do meu voo?
+Tem Wi-Fi no hotel?
+Paguei a taxa do táxi
+Tenho seguro de viagem
+Passei da parada de ônibus
+Me perdi no aeroporto
+Estou comprando um bilhete de trem
+Faço esporte todos os dias
+Tomo chá de manhã
+Durmo cedo à noite
+Leio no fim de semana
+Faço compras todo mês
+Tomo banho duas vezes por dia
+Trabalho sempre
+Assisto a um filme por semana
+Tomo café da manhã todo dia
+Caminho uma hora por dia
+Assisto às notícias toda noite
+Faço esporte três vezes por semana
+Viajo de férias todo ano
+Bebo um copo de água por dia
+Faço limpeza toda semana
+Acordo cedo todo dia
+Como duas vezes por dia
+Recebo salário todo mês
+Sou médico
+Ele é professor
+Sou engenheiro
+Ela é enfermeira
+Sou motorista
+Ele é advogado
+Sou artista
+Ele é agricultor
+Sou operário
+Ele é chefe
+Sou escritor
+As montanhas são altas
+O rio está correndo
+A floresta é verde
+O mar está agitado
+O lago é calmo
+As árvores são altas
+A areia do deserto está quente
+Vou escalar a montanha
+Sente-se à beira do rio
+Me perdi na floresta
+Estou nadando no mar
+O lago é muito bonito
+Reguei as árvores
+O caminho no deserto é difícil
+Há neve na montanha
+Tudo bem
+Não há problema
+Sou sortudo
+Seja cuidadoso
+Uma boa ideia
+Vamos tentar
+Isso é incrível
+Faça devagar
+Sempre estou pronto
+Um pouco de paciência
+Espero ter sucesso
