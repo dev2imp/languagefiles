@@ -12,20 +12,51 @@ rica ederim
 baba
 anne
 merhaba
+Sonra görüşürüz
+Size nasıl yardım edebilirim?
+İyi bir gün geçirin
+İyi yolculuklar
+Geç kaldığım için özür dilerim
+Soyadınız nedir?
+Bu bir zevk
+Yarına kadar
+Aileniz nasıl?
+Hoş geldiniz
+Her şey yolunda mı?
+Güle güle, sonra görüşürüz
+Sizi görmekten mutluyum
+Yakında görüşürüz
+
+
 
 bir kahve 
 bir su 
 bir ekmek
 bir çay
-günaydın ben bir ekmek istiyorum
+günaydın, ben bir ekmek istiyorum
 ben bir kahve istiyorum
 bir çay ve bir kahve lütfen
 güle güle
-hesap alabilir miyim?
+hesap alabilir miyim
 lavabo ne tarafta 
 iyi geceler
 iyi günler
-iki ekmek alabilir miyim
+iki ekmek alabilir minim
+Bir meyve suyu, lütfen
+Vejetaryen bir şey var mı?
+Bir sandviç istiyorum
+Hızlı olabilir mi, lütfen?
+Hesap, lütfen
+Tatlı var mı?
+Sıcak bir şey istiyorum
+Şekersiz, lütfen
+Bir bira, lütfen
+Menüyü görebilir miyim?
+Yemek güzel mi?
+Daha fazla ekmek istiyorum
+Paket yapabilir misiniz?
+
+
 
 süper
 teşekkürler görüşürüz
@@ -35,7 +66,16 @@ bir bardak su
 bir bardak çay 
 ben sen o
 biz siz onlar
-hayır bir çay lütfen
+hayır, bir çay lütfen
+Ben Brezilyalıyım
+Mesleğiniz nedir?
+Kahve severim
+O benim arkadaşım
+O benim iş arkadaşım
+Çay mı kahve mi tercih edersin?
+Çay sevmem
+Biz öğrenciyiz
+Onlar kardeş
 
 evet
 hayır
@@ -59,7 +99,7 @@ ben dışardayım
 biliyorum 
 bilmiyorum 
 tekrar eder misin lütfen
-tekrar edebilir misin?
+tekrar edebilir misin
 tamam 
 
 bu ne kadar
@@ -74,10 +114,10 @@ hayır param yok
 var
 yok
 peynir 
-peynirin kilosu ne kadar
+peynirin kilosu ne kadar?
 
 ben eve gidiyorum 
-sen iyi misin?
+sen iyi misin
 sen iyi değilsin 
 ben iyi değilim 
 o iyi değil
@@ -96,7 +136,7 @@ o nerede
 market nerede
 ahmet burda 
 ahmet geliyor 
-sen evde misin?
+sen evde misin
 ben eve yakınım
 geliyorum 
 gidiyorum 
@@ -240,7 +280,7 @@ ayakkabı
 şabka 
 kemer
 ben gömlek giyerim
-sen bu şapkayı beğendin mi?
+sen bu şapkayı beğendin mi
 siyah pantolon
 kırmızı şapka
 beyaz gömlek
@@ -261,6 +301,25 @@ büyük ev
 yeşil ev
 sandalye
 kırık sandalye 
+Otobüs durağı nerede?
+Ne kadar sürer?
+Taksi istiyorum
+Merkeze, lütfen
+Tren gecikti mi?
+Tek yön bilet
+Gidiş-dönüş bilet
+Uçak saat 5 te kalkıyor
+Kapı nerede?
+Bagajım kayboldu
+Trende Wi-Fi var mı?
+Yürüyerek gidiyorum
+Araba kiralamak için nerede?
+Bir haritaya ihtiyacım var
+Zamanında vardık
+
+
+
+
 
 okumak 
 yazmak 
@@ -314,7 +373,7 @@ onlara havalimanına gidiyorlar
 bisiklete biner misin
 hayır at binmem
 bilet 
-otobüs bileti ne kadar
+otobüs bileti ne kadar?
 haritanız var mı
 kalkış ne zaman
 varış ne zaman
@@ -348,7 +407,7 @@ onlar şimdi top oynuyorlar
 ben TV izliyorum
 o şimdi çalışmıyor
 akşam yemek yiyor musun
-şu anda geliyorlar mı
+şu anda geliyorlar mı?
 o ders çalışıyor mu
 klima çalışıyor mu
 şimdi yağmur yağmıyor
@@ -360,8 +419,8 @@ ben yarın çalışmayacağım
 gelecek ay ben yokum
 yarın beni arar mısın
 ayşe gelecek hafta gelecek
-onlar yarın bizimle gelmeyecekler
-sen yarın ne yapacaksın
+onlar yarın bizimle gelmeyecekler?
+sen yarın ne yapacaksın?
 ben gidiyorum
 ben geliyorum
 ben ders çalışıyorum
@@ -380,3 +439,309 @@ sen ne zaman geldin
 o ne zaman gitti
 onlar ne zaman gittiler
 sen ne zaman geldin
+
+Bu kimin?
+Saat kaç?
+Evet, anladım
+Hayır, bilmiyorum
+Nasılsın bugün?
+Bu doğru mu?
+Evet, teşekkür ederim
+Hayır, gerek yok
+Nereden geldi?
+Hızlı konuşma
+Biraz bekle
+Daha yavaş tekrar et
+Ne dediğini anladım
+Susadım, su alabilir miyim?
+Biraz yardım lazım
+Türkçe konuşabilir misiniz?
+Sorularım var
+Bunu yazabilir misiniz?
+Anlamadım, özür dilerim
+Daha fazla kelime öğrenmek istiyorum
+Konuşmaya devam et
+Bu kolay mı?
+Yardımcı olabilir misiniz?
+Bu çok pahalı
+İndirim var mı?
+Kaç para?
+Kredi kartı kabul ediyor musunuz?
+Nakit ödemek istiyorum
+Bana gösterir misiniz?
+Daha küçük boy var mı?
+Almak için karar verdim
+Fiş alabilir miyim?
+Bu taze mi?
+Değişim yapabilir misiniz?
+Hediye paketi yapar mısınız?
+Uygun fiyatlı bir şey arıyorum
+Bu benim kuzenim
+Amcam nerede?
+Teyzemle tanış
+Kardeşlerim çok neşeli
+Dedem yaşlı
+Annem yemek yapıyor
+Babam çalışıyor
+Ailemle yaşıyorum
+Kuzenim öğrenci
+Teyzem beni sever
+Amcamla gezdim
+Kız kardeşim küçük
+Erkek kardeşim futbol oynar
+Sabah erken kalkıyorum
+Akşam ne yapıyorsun?
+Yarın toplantım var
+Geçen hafta tatildeydim
+Hafta sonu dinleniyorum
+Saat sekizde buluşalım
+Bir saat bekle
+Dün çok yoruldum
+Gelecek ay seyahat edeceğim
+Şimdi vakit var mı?
+Biraz sonra gelirim
+Sarı çiçek
+Gri gömlek
+Mor elbise
+Kahverengi ayakkabı
+Pembe şapka
+Bu çok parlak
+Koyu renk severim
+Işık açık mı?
+Masa yuvarlak
+Kedi siyah-beyaz
+Ev büyük ve yeşil
+Bu ağır mı?
+Küçük bir çanta
+Kitap okuyorum
+Müzik dinliyorum
+Yemek yiyorum
+Temizlik yapıyorum
+Film izleyeceğim
+Koşuya çıkıyorum
+Alışverişe gidiyorum
+Uyumaya hazırlanıyorum
+Telefonla konuşuyorum
+Bahçede çalışıyorum
+Hasta hissediyorum
+Doktora gitmem lazım
+İlaç alabilir miyim?
+Ateşim var
+Acil yardım lazım
+Nerede eczane?
+Başım ağrıyor
+Su içmek istiyorum
+Biraz dinlenmem lazım
+Telefonla acil numarayı arayabilir miyim?
+Kanamam var
+Yardım çağır
+Eczaneye yakın mısınız?
+Daha iyi hissediyorum
+Hava soğuk
+Bugün güneşli
+Yağmur yağacak mı?
+Rüzgarlı bir gün
+Şemsiye almalıyım
+Hava çok nemli
+Kar yağışı var
+Sıcaklık kaç derece?
+Hava durumu uygulaması var mı?
+Dün yağmur yağdı
+Yarın açık hava mı?
+Şimşek çaktı
+Bulutlar toplanıyor
+Hava çok güzel
+Park nerede?
+Sağda bir kafe var
+Düz devam et
+Köprüye nasıl giderim?
+Burası çok kalabalık
+Solda bir sokak
+Meydan yakın mı?
+Haritaya bakalım
+Yolumu kaybettim
+Köye nasıl giderim?
+Deniz kıyısı uzak mı?
+Şehir merkezine dön
+Yol kapalı
+Burası güvenli mi?
+Köşeyi dön
+Nereye gidiyorsun?
+Çok heyecanlıyım
+Üzgünüm, özür dilerim
+Mutlu bir gün
+Sinirliyim
+Rahatım
+Korktum
+Gururluyum
+Şaşırdım
+Üzgünüm, yardım et
+Çok neşeliyim
+Endişeliyim
+Sakin ol
+Mutlu musun?
+Yorgun ama memnunum
+Bir tabak çorba
+Tatlı istiyorum
+Tuz ekleyebilir miyim?
+Acı biber var mı?
+Sebze yemeği
+Balık yiyorum
+Bir bardak süt
+Şekerli çay
+Zeytinyağı kullan
+Makarna pişirdim
+Meyve suyu taze mi?
+Ekmek dilimi
+Baharat ekle
+Tatlı su
+Kahvaltı hazır
+Ders çalışıyorum
+İşe gidiyorum
+Toplantı ne zaman?
+Ödevim var
+Okulda öğretmenim
+Ofisteyim
+Sınavım var
+İşten çıktım
+Kitap ödünç alabilir miyim?
+Dersler zor
+Futbol oynuyorum
+Yüzmeye gidiyorum
+Bisiklet sürmek istiyorum
+Tenis oynar mısın?
+Dans ediyorum
+Sinemaya gidelim
+Oyun oynuyorum
+Koşu parkuru nerede?
+Maç izliyorum
+Yürüyüş yapalım
+Spor ayakkabım var
+Telefonum bozuldu
+İnternet çalışıyor mu?
+Şarjım bitti
+Bilgisayarım yavaş
+Fotoğraf çekebilir miyim?
+Mesaj gönder
+Wi-Fi şifresi ne?
+Uygulama indiriyorum
+Ekran parlak
+Köpek havlıyor
+Kuş uçuyor
+Balık suda
+Kedi miyavlıyor
+At koşuyor
+Tavuk yumurtluyor
+Aslan vahşi
+Maymun ağaçta
+Yılan zehirli
+Koyun var
+Masa temiz
+Koltuk rahat
+Yatak büyük
+Perdeler açık
+Lambayı aç
+Mutfak dolapları dolu
+Ayna nerede?
+Halı eski
+Pencereyi kapat
+Duvar boya istiyor
+Sandalye kırık
+Evde elektrik var mı?
+Banyo küçük
+Kapıyı kilitle
+Ceket giyiyorum
+Ayakkabılarım yeni
+Etek aldım
+Şal takıyorum
+Çoraplarım ıslak
+Pantolonum dar
+Kışlık mont
+Tişörtüm kirli
+Ayakkabı boyadım
+Bere taktım
+Elbise uzun
+Kemerim kayboldu
+Çantamı değiştirdim
+Palto sıcacık
+Ayakkabılarım rahat
+Şapka rüzgarda uçtu
+Çorap arıyorum
+Gömlek ütüledim
+Etek kısa
+Montumu çıkardım
+Pasaportum nerede?
+Bagajı kontrol et
+Uçak rötar yaptı
+Otel rezervasyonum var
+Taksi çağır
+Havalimanına gidiyorum
+Harita alabilir miyim?
+Yolculuk uzun
+Biletimi kaybettim
+Gümrükteyim
+Tren platformu nerede?
+Otobüs dolu
+Bagajım ağır
+Uçuş numaram nedir?
+Otelde Wi-Fi var mı?
+Taksi ücretini ödedim
+Seyahat sigortam var
+Otobüs durağını geçtim
+Havalimanında kayboldum
+Tren bileti alıyorum
+Her gün spor yaparım
+Sabah çay içerim
+Akşam erken uyurum
+Hafta sonu okurum
+Her ay alışveriş yaparım
+Günde iki kez duş alırım
+Her zaman çalışırım
+Haftada bir film izlerim
+Her sabah kahvaltı yaparım
+Günde bir saat yürürüm
+Her akşam haber izlerim
+Haftada üç kez spor yaparım
+Her yıl tatil yaparım
+Günde bir bardak su içerim
+Her hafta temizlik yaparım
+Her sabah erken kalkarım
+Günde iki kez yemek yerim
+Her ay maaş alırım
+Ben doktorum
+O öğretmen
+Mühendisim
+O hemşire
+Şoförüm
+O avukat
+Sanatçıyım
+O çiftçi
+İşçiyim
+O şef
+Yazıcıyım
+Dağlar yüksek
+Nehir akıyor
+Orman yeşil
+Deniz dalgalı
+Göl sakin
+Ağaçlar uzun
+Çöldeki kum sıcak
+Dağa tırmanacağım
+Nehir kenarında otur
+Ormanda kayboldum
+Denizde yüzüyorum
+Göl çok güzel
+Ağaçları suladım
+Çöldeki yol zor
+Dağda kar var
+Her şey tamam
+Bir sorun yok
+Şanslıyım
+Dikkatli ol
+Güzel bir fikir
+Hadi deneyelim
+Bu harika
+Yavaşça yap
+Her zaman hazırım
+Biraz sabır
+Umarım başarılı olurum
