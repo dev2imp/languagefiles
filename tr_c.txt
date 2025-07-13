@@ -26,9 +26,6 @@ Her şey yolunda mı?
 Güle güle, sonra görüşürüz
 Sizi görmekten mutluyum
 Yakında görüşürüz
-
-
-
 bir kahve 
 bir su 
 bir ekmek
@@ -55,9 +52,6 @@ Menüyü görebilir miyim?
 Yemek güzel mi?
 Daha fazla ekmek istiyorum
 Paket yapabilir misiniz?
-
-
-
 süper
 teşekkürler görüşürüz
 benim adım ahmet
@@ -76,7 +70,6 @@ O benim iş arkadaşım
 Çay sevmem
 Biz öğrenciyiz
 Onlar kardeş
-
 evet
 hayır
 özür dilerim
@@ -86,7 +79,6 @@ bu çay
 bu ekmek
 ben çay içerim
 ben su istemiyorum
-
 sen türkçe biliyor musun
 biraz türkçe biliyorum
 anladım
@@ -101,7 +93,6 @@ bilmiyorum
 tekrar eder misin lütfen
 tekrar edebilir misin
 tamam 
-
 bu ne kadar
 ucuz
 pahalı 
@@ -115,7 +106,6 @@ var
 yok
 peynir 
 peynirin kilosu ne kadar?
-
 ben eve gidiyorum 
 sen iyi misin
 sen iyi değilsin 
@@ -129,7 +119,6 @@ ben bilmiyorum
 ben de bilmiyorum 
 sen de bilmiyorsun
 kim bilir
-
 sen nerdesin
 ben evdeyim
 o nerede
@@ -141,7 +130,6 @@ ben eve yakınım
 geliyorum 
 gidiyorum 
 döneceğim
-
 ben uyurum
 ben kahvaltı yaparım 
 o işe gider
@@ -155,7 +143,6 @@ ben kahvaltı da peynir yerim
 bizim peynirimiz çok lezzetli
 susadım 
 ben susadım su istiyorum
-
 ne zaman gelirsin
 o ne zaman gelir
 nerde yaşıyorsun
@@ -165,7 +152,6 @@ neden
 sen neden gelmiyorsun
 kim gelir
 nasıl gelir
-
 kırmızı
 mavi
 yeşil
@@ -181,7 +167,6 @@ sıcak çay
 taze ekmek
 büyük fil
 küçük fare
-
 baba 
 anne
 kardeş 
@@ -196,7 +181,6 @@ benim abim beni bilir
 benim ablam gelir
 kız kardeşim
 erkek kardeşim 
-
 dün
 bugün
 yarın 
@@ -214,7 +198,6 @@ gel otur ya da git
 gel ya da git
 gelme 
 gitme
-
 mutlu
 özgün
 yorgun
@@ -225,7 +208,6 @@ ben çok yorgunum.
 özgünüm ama gideceğim
 o mutlu 
 sen mutlusun 
-
 okul
 market
 hastahane
@@ -239,7 +221,6 @@ okul parka yakın
 hastahane parka uzak 
 market eve yakın 
 market çok uzak 
-
 sol
 sağ
 düz
@@ -250,7 +231,6 @@ düz git
 sola bak
 sağa bak 
 soldan sağa başla
-
 kolay gelsin 
 bir çorba alabilir miyim
 ekmek alabilir miyim 
@@ -262,7 +242,6 @@ hesap ne kadar
 bahşiş verebilir miyim
 garson 
 menü
-
 hava durumu nasıl bugün
 bugün hava sıcak
 yarın hava yağmurlu 
@@ -272,7 +251,6 @@ yağmur yağıyor
 ben yağmurlu havaları severim
 bulutlu
 hava bulutlu
-
 gömlek
 pantolon
 elbise
@@ -284,7 +262,6 @@ sen bu şapkayı beğendin mi
 siyah pantolon
 kırmızı şapka
 beyaz gömlek
-
 ev
 oda
 sokak
@@ -316,11 +293,6 @@ Yürüyerek gidiyorum
 Araba kiralamak için nerede?
 Bir haritaya ihtiyacım var
 Zamanında vardık
-
-
-
-
-
 okumak 
 yazmak 
 konuşmak 
@@ -337,7 +309,6 @@ ben ingilizce konuşabilirim
 ben hergün yeni kelimeler öğrenirim
 bana mesaj yazma 
 pardon bana yardım eder misiniz
-
 ben 
 bana
 sen
@@ -358,7 +329,6 @@ size dedim
 siz kimsiniz
 sen kimsin
 o kim
-
 otobüs 
 tren
 araba
@@ -399,7 +369,6 @@ ben koşarım
 o koşar 
 onlar koşarlar
 biz koşarız
-
 ben şimdi kahvaltı yapıyorum
 o yemek yiyor
 ahmet kitap okuyor 
@@ -411,7 +380,6 @@ akşam yemek yiyor musun
 o ders çalışıyor mu
 klima çalışıyor mu
 şimdi yağmur yağmıyor
-
 yarın okula gideceğim
 biz yarın dışarda kahvaltı yapacağız
 onlar bizi yarın ziyaret edecekler
@@ -427,7 +395,6 @@ ben ders çalışıyorum
 ben yemek yiyorum
 sen yemek mi yiyorsun
 sen çay mı istiyorsun
-
 ben dün okula gittim
 geçen hafta okula gitmedim
 onlar dün maç yaptılar
@@ -439,7 +406,6 @@ sen ne zaman geldin
 o ne zaman gitti
 onlar ne zaman gittiler
 sen ne zaman geldin
-
 Bu kimin?
 Saat kaç?
 Evet, anladım
