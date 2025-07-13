@@ -1,3826 +1,713 @@
-aircraft
-air hostess
-airline 
-airport 
-airport bus
-arrival 
-baggage claim
-boarding card
-captain 
-check - in
-crew
-customs
-delay
-departure
-departure lounge
-emergency exit
-flight 
-flight number
-gate
-jet
-land
-local time
-no smoking
-non - smokers
-passenger
-passport
-passport control 
-pilot
-runway 
-seat
-seat belt
-speed 
-steward
-take off
-window 
-wing
-beer
-bill
-bottle
-bowl
-cake
-chef
 coffee
-cup 
-fork 
-glass
-knife 
-menu
-milk 
-plate 
-receipt 
-sandwich
-serviette
-snack
-soup
-spoon
-sugar
-sweetener
-table
 tea
-teaspoon
-tip 
-waiter 
-waitress
 water
-wine 
-wine list
-campsite 
-backpack 
-blanket
-caravan
-charges
-closed
-cooking utensils
-drinking water
-full
-ground sheet
-hitch - hike
-how much?
-identity card
-kitchen 
-light 
-one night 
-one week 
-public toilet
-rope 
-rubbish
-saucepan 
-shower
-sleeping bag
-telephone
-tent
-tonight 
-trailer 
-youth hostel
-blouse
-bra
-dress
-jacket
-overcoat 
-shirt
-shoes
-shorts
-skirt 
-slippers 
-socks 
-stockings 
-suit
-swimsuit
-tie
-trousers
-underwear
-vest
-Australia 
-Austria 
-Belgium
-Canada 
-Denmark
-England 
-Finland 
-France 
-Germany 
-Greece 
-Holland 
-Italy
-Luxembourg 
-Ireland
-New Zealand
-Norway 
-Scotland
-South Africa
-Spain 
-Sweden 
-The USA
-Wales
-Sunday 
-Monday 
-Tuesday 
-Wednesday
-Thursday 
-Friday 
-Saturday 
-January 
-February 
-March
-April
-May
-June
-July 
-August 
-September 
-October
-November
-December
-Spring 
-Summer 
-Autumn
-Winter
-Christmas Eve
-Christmas Day
-New Year's Eve
-New Year's Day
-Carnival
-Good Friday
-Easter Sunday 
-25th April
-Labour Day
-Corpus Christi 
-St. Anthony's Day 
-St. John's Day 
-Camões Day*
-Feast of the Assumption*
-Restoration Day*
-All Saints' Day*
-Republic Day*
-Immaculate Conception*
-almond
-apple 
-apricot
-bean
-beetroot 
-biscuit
-black - eyed bean
-breakfast
-cake 
+bread
+good morning
+how are you?
+please
+nice to meet you
+I am well
+thank you
+you're welcome
+father
+mother
+hello
+see you later
+how can I help you?
+have a good day
+have a good trip
+sorry for the delay
+what is your last name?
+it's a pleasure
+see you tomorrow
+how is your family?
+welcome
+all good?
+goodbye, see you later
+I am happy to see you
+see you soon
+a coffee
+a water
+a bread
+a tea
+good morning, I want a bread
+I want a coffee
+a tea and a coffee, please
+goodbye
+can I have the bill?
+where is the bathroom?
+good night
+good afternoon
+can I take two breads?
+a juice, please
+do you have anything vegetarian?
+I want a sandwich
+can it be quick, please?
+the bill, please
+do you have dessert?
+I want something hot
+no sugar, please
+a beer, please
+can I see the menu?
+is the food good?
+I want more bread
+can you wrap it?
+great
+thank you, see you later
+my name is Ahmet
+what is your name?
+a glass of water
+a glass of tea
+I, you, he
+we, you all, they
+no, a tea please
+I am from Brazil
+what is your profession?
+I like coffee
+he is my friend
+she is my colleague
+do you prefer tea or coffee?
+I don’t like tea
+we are students
+they are siblings
+yes
+no
+sorry
+excuse me
+what is this?
+this is tea
+this is bread
+I drink tea
+I don’t want water 
+Do you speak Turkish? 
+I know a little Turkish
+I understood
+I didn’t understand
+I am hungry
+are you hungry?
+hunger
+let’s go
+I am out
+I know
+I don’t know
+can you repeat, please?
+can you repeat?
+it’s okay
+how much does this cost?
+cheap
+expensive
+I want to buy this
+I want three (of these)
+I have money
+I don’t have money
+yes, I have money
+no, I don’t have money
+there is
+there isn’t
 cheese
-chick pea
-chips
-cucumber
-chorizo sausage
-coffee 
-dinner
-egg 
-firewater
-fish
-garlic
-grape 
-kidney bean
-lemon
-lettuce
-lunch
-lupin
-meat
-melon
-milk 
-olive oil
-omelette
-onion 
-orange
-pea 
-peach
-pear 
-pepper 
-pineapple
-potato 
-rice
-salt
-sausage
-snail
-soft drink
-sparkling water
-still water
-sugar supper
-tea
-tomato
-vegetarian
-water 
-watermelon
-accident 
-allergic 
-ambulance
-anaemic
-anti-tetanus
-arm
-arthritis
-aspirin 
-asthma 
-backache
-bandage 
-bite
-blister
-blood
-blood pressure
-blood test
-bronchitis
-burn
-chest
-cold
-cold
-constipation
-contact lenses
-contagious
-corn
-cough
-cut
-dentist
-diabetic
-diarrhoea
-dizzy
-doctor 
-earache
-emergency services
-fever 
-filling 
-finger 
-first aid
-flu
-foot
-fracture
-glasses 
-hay fever 
-headache
-health centre
-heart
-heart attack
-hospital
-ill
-indigestion 
-injection 
-itch 
-kidney
-leg 
-lump 
-migraine
-nausea
-neck
-nurse
-operation 
-optician
-pain
-penicillin
-period pains
-plaster
-pneumonia 
-pregnant
-prescription 
-rheumatism
-scald
-scratch 
-sore throat
-splinter 
-sprain
-sting 
-stomach
-temperature 
-toothache
-travel sickness
-ulcer
-vaccination 
-vomit
-balcony 
-bathroom
-bed 
-bedroom
-bill
-breakfast
+how much does a kilo of cheese cost?
+I am going home
+are you okay?
+you are not okay
+I am not okay
+she is not okay
+I am working
+wait for me
+I will come later
+you don’t know
+I don’t know
+I don’t know either
+you don’t know either
+who knows
+where are you?
+I am at home
+where is she?
+where is the market?
+Ahmet is here
+Ahmet is coming
+are you at home?
+I am near home
+I am coming
+I am going
+I will return
+I sleep
+I have breakfast
+she goes to work
+we have dinner
+I take a bath
+you rest
+she rests
+I rest
+you watch TV
+I eat cheese for breakfast
+our cheese is very tasty
+I am thirsty
+I am thirsty, I want water
+when will you come?
+when will she come?
+where do you live?
+how
+who
+why
+why don’t you come?
+who is coming?
+how are you coming?
+red
+blue
+green
+black
+white
+white car
+red flower
+blue sky
+black cat
+the tree is green
 cold water
-dining room 
-dinner
-double room 
-early call
-foreign exchange
-foyer 
-full board 
-ground floor
-half board 
-hot water 
-identity card
-key
-lift
-lounge 
-lunch
-manager 
-one night
-reception
-reserve
-restaurant
-room
-room service
-satellite TV
-shower
-single room 
-operator
-toilet
-twin room
-boot 
-brake
-breakdown
-bus lane
-car
-caravan
-coach
-coach station
-corner
-crossroads
-dead end
-diesel
-diversion
-drive
-driver's licence
-end of motorway
-engine 
-exhaust
-fanbelt
-garage
-gears
-give way
-headlights (dipped)
-headlights (full)
-heavy vehicle 
-level crossing
-lorry 
-mirror
-motorbike
-motorway 
-no parking
-number plate
-oil
-on the left
-on the right
-one-way
-pedestrian zone
-petrol
-petrol station
-puncture 
-queue 
-road
-road closed
-roadworks 
-sidelights
-skid
-speed limit
-steering wheel 
-straight on
-toll
-tow
-town centre
-traffic jam 
-traffic lights
-truck 
-tyre
-tyre pressure
-van
-wheel
-Family name
-First name
-Age
-Address
-Date of birth
-Place of birth
-Nationality
-Passport number 
-Place and date of issue
-booking office 
-buffet car
-compartment
-connection
-departure
-emergency switch
-entrance 
-exit
-first class
-get in 
-get out 
-guard 
-information
-left luggage
-lost property 
-luggage
-newspaper kiosk
-no smoking
-platform
-rail
-railway
-return ticket
-seat reservation
-second class
-single ticket 
-suitcase
-ticket collector
-timetable 
-track
-traffic lights
-train
-tram
-waiting room
-addressee 
-airmail 
-by e - mail
-collection
-counter
-delivery 
-fill in
-first - class mail
-form
-letter
-letter box
-money order
-over the internet
-package 
-post
-postage rates
-postal order
-postcard 
-postcode
-poste - restante
-postman
-post office
-registered letter 
-recorded delivery
-short message service (SMS)
-stamp 
-surface mail 
-telegram
-audio equipment 
-baker's 
-bargain 
-bookshop 
-boutique
-butcher's 
-buy
-cake shop
-cheap 
-chemist's
-department store 
-estate agent's
-fashion 
-fishmonger's 
-florist's
-go shopping 
-grocer's
-household appliances 
-ironmonger's
-ladies' wear
-men's wear
-newsagent's
-out-of-town store 
-pre-payment 
-price 
-receipt
-record shop
-sale
-shoe shop
-shop
-shopping centre
-souvenir shop
-special offer
-spend 
-stationer's
-supermarket
-tailor
-till
-till receipt 
-toy shop
-travel agent
-athletics
-ball 
-beach 
-bicycle
-boat hire 
-danger 
-dive
-diving board
-fishing 
-fishing rod
-flippers
-football
-football match
-golf
-golf course 
-gymnastics 
-hockey 
-jogging 
-lake
-lifeguard 
-mountaineering 
-no camping
-no swimming
-oxygen bottle
-pedal boat
-race 
-racket
-riding 
-rowing boat
-run
-sailboard
-sailing 
-sand
-sea
-skate
-skates
-snorkel
-stadium
-suntan lotion
-swim
-swimming pool
-tennis
-tennis court
-tennis racket
-tent
-tide (high, low)
-underwater fishing
-volleyball
-water-skiing
-wave
-wet suit 
-windsurfing
-yacht
-call
-code
-dial
-dialling tone
-emergency
-enquiries
-extension
-international call
-number 
-operator
-pay phone 
-receiver
-reverse charge call
-telephone directory
-one o'clock
-five past one
-a quarter past two
-half past three 
-twenty to four
-a quarter to five
-2 pm / 14:00h
-half past three in the afternoon / 15.30
-a quarter to seven in the evening / 18.45
-mid-day/noon 
-midnight
-at the moment
-day
-early
-fortnight
-half an hour
-hour
-in 1989
-in three days 
-last night
-last week
-last year
-late
-minute
-month
-next week
-next year
-quarter of an hour
-second
-this afternoon
-this evening
-this morning
-this week
+hot tea
+fresh bread
+big elephant
+small mouse
+father
+mother
+brother
+girl
+boy
+he is my father
+she is my mother
+my mother and my father
+my grandfather
+my grandmother
+my older brother knows me
+my older sister is coming
+my sister
+my brother
+yesterday
 today
 tomorrow
-tomorrow morning
-tonight 
-two days ago
-year 
-yesterday
-bad weather 
-breeze
-cold weather
-cloud
-dry weather
-earthquake
-fair or fine weather
-fog 
-hail
-hurricane
-ice
-lightning
-warm weather
-wet weather
-wind 
-mist
-rain
-rainbow
-rainy weather
-snow
-storm
-tempest 
-thunder
-Verbs
-to be
-to be
-to have
-to make
-to go
-to see
-to arrive
-to eat
-to give
-can
-to know
-to want
-to speak
-to catch
-to take
-to say
-to hear
-to feel
-to know
-to love
-to live
-to work
-to study
-to sleep
-to take
-to drink
-to go out
-to enter
-to return
-to leave
-to continue
-to think
-to find
-to wait
-to walk
-to run
-to swim
-to cry
-to laugh
-to like
-to hate
-to listen
-to read
-to write
-to play
-to buy
-to sell
-to ask
-to answer
-to meet
-to lose
-to win
-to look for
-to hope
-to accept
-to refuse
-to change
-to forget
-to remember
-to invite
-to talk
-to come
-to live
-to die
-to be born
-to grow
-to age
-to marry
-to divorce
-to date
-to separate
-to understand
-to teach
-to learn
-to help
-to protect
-to attack
-to defend
-to conquer
-to dominate
-to liberate
-to build
-to destroy
-to tidy up
-to clean
-to organize
-to choose
-to decide
-to invent
-to create
-to develop
-to research
-to study
-to conclude
-to achieve
-to reach
-to try
-to fail
-to manage
-to overcome
-to fulfill
-to break
-to fix
-to spend
-to save
-to invest
-to negotiate
-to communicate
-to express
-to share
-to hide
-to reveal
-to invite
-to gather
-to dismiss
-to hire
-to fire
-to take time
-to delay
-to advance
-to start
-to stop
-to continue
-to finish
-to conclude
-to suggest
-to recommend
-to advise
-to prevent
-to postpone
-to cancel
-to allow
-to prevent
-to demand
-to prohibit
-to own
-to adore
-to provide
-to receive
-to invite
-to start
-to end
-to count/tell
-to bring
-to take
-to put
-to take off
-to push
-to pull
-to move
-to turn
-to follow
-to leave/let
-to permit
-to deny
-to swear
-to promise
-to begin
-to appear
-to disappear
-to obey
-to disobey
-to greet
-to say goodbye
-to greet
-to correspond
-to compensate
-to contribute
-to deliver
-to receive
-to fulfill
-to promote
-to reward
-to punish
-to accuse
-to judge
-to absolve
-to condemn
-to challenge
-to accept
-to reject
-to tolerate
-to respect
-to disrespect
-to forgive
-to thank
-to praise
-to criticize
-to insult
-to demand
-to beg
-to lament
-to blame
-to embarrass
-to pride
-to console
-to deceive
-to betray
-to convince
-to swallow
-Colors
-White
-Black
-Red
-Blue
-Yellow
-Green
-Beginner Phrases
-Hello
-Hi
-Hey
-Hi there
-Bye
-Bye bye
-See ya later
-Take care
-Have a good one
-Yeah
-Yup
-Sure !
-Nope
-Nah
-No way !
-How are you ?
-How’s it going ?
-How are things ?
-How’s life ?
-How have you been ?
-How’s your family ?
-What’s up ?
-What’s new ?
-What have you been up to lately ?
-I’m fine , thanks How about you ?
-Pretty good 
-Not bad 
-Great !
-Couldn’t be better !
-Can’t complain
-I’ve been busy
-Same as always
-Not so great
-Could be better
-Thanks
-Thanks a lot
-Thank you so much 
-Thanks a million !
-Thanks for your help 
-Thanks for helping me 
-I really appreciate it 
-I’m really grateful 
-That’s so kind of you 
-I can’t thank you enough 
-for extremely important things
-I owe you one 
-You’re welcome 
-No problem 
-No worries 
-Don’t mention it 
-My pleasure 
-Anytime 
-It was the least I could do 
-Glad to help 
-Sure !
-Thank you 
-use this when you also have something to thank the other person for
-I’m sorry that 
-It’s my fault 
-I am taking responsibility for the problem
-for very small problems
-I should have 
-I apologize for 
-Ways to Respond to an Apology
-That’s OK 
-It happens 
-No problem 
-Don’t worry about it 
-I forgive you 
-for serious problems
-Phrases for Introductions
-I just wanted to introduce myself I’m 
-I don’t think we’ve met before My name’s 
-This is
-I’d like you to meet
-Have you met ?
-I’d like to introduce you to
-Nice to meet you 
-It’s a pleasure to meet you 
-Likewise 
-And you 
-Really ?
-That’s interesting 
-Right 
-Sure 
-It was nice chatting with you 
-Well , it’s getting late 
-Anyway , I should get going 
-Sorry , but I’m afraid I need to
-I’m sorry to cut you off , but I actually gotta run 
-Hi , this is Jane 
-May I speak with John Smith ?
-Is John there ?
-I’m calling about
-I’m returning your call 
-One moment , please 
-Hang on a second 
-He’s not here Would you like to leave a message ? 
-Could you ask him to call me back ?
-Thanks for calling 
-Can you tell me ?
-Could you tell me ?
-I'd like to know 
-Do you know 
-Do you have any idea ?
-Could anyone tell me ?
-Would you happen to know ?
-I don't suppose you would know ?
-I was wondering
-I’m calling to find out
-use this phrase on the telephone 
-I have no idea 
-I have no clue
-I can’t help you there 
-Hiç fikrim yok 
-I’m not really sure 
-I’ve been wondering that , too 
-What do you think about ?
-How do you feel about ?
-What's your opinion of ?
-What are your views on ?
-In my opinion
-I'd say 
-Personally , I think believe 
-If you ask me 
-The way I see it 
-From my point of view
-Phrases for Not Having an Opinion
-I’ve never given it much thought 
-I don’t have strong feelings either way 
-It doesn’t make any difference to me 
-I have no opinion on the matter 
-very 
-Whatever 
-Exactly 
-Absolutely 
-That’s so true 
-That’s for sure 
-I agree 
-I couldn’t agree with you more 
-That’s exactly what I think 
-That’s exactly how I feel 
-Tell me about it ! 
-You’re telling me !
-I’ll say !
-I suppose so
-I’m in agreement
-I don’t think so 
-I beg to differ 
-I’m afraid I don’t agree 
-I’m not so sure about that 
-That’s not how I see it 
-Not necessarily 
-Yes , but 
-On the contrary 
-very strong I totally disagree 
-Phrases for Responding to Good News
-Congratulations !
-That’s great !
-How wonderful !
-Awesome !
-I’m so happy for you !
-Phrases for Responding to Bad News
-Oh no
-That’s terrible 
-Poor you 
-I’m so sorry to hear that 
-I’m sorry for your loss 
-Are you free 
-Are you doing anything 
-Let me check my calendar 
-Do you wanna 
-Would you like to 
-I’d love to !
-Sounds great !
-I’d love to , but I have another commitment 
-I don’t think I can 
-Maybe another time 
-more formal Would you like a drink ?
-Do you want some water ?
-Can I get you something to eat ?
-That’d be great , thanks 
-yes
-No , thanks I’m OK 
-no
-I’m going to
-I’m planning to
-I hope to
-I’d like to
-I might 
-I may
-I’m thinking about 
-I love 
-I’m really into 
-I live for 
-I’m crazy about 
-I’m not a huge fan of 
-isn’t my cup of tea 
-I don’t really care for 
-I’m not into 
-I can’t stand 
-How about ?
-Why don’t you ?
-Maybe we should .
-I’d recommend .
-Have you thought about ?
-Phrases for Asking Talking about Jobs
-Where do you work ?
-What do you do ? 
-What do you do for a living ?
-I work at .
-I’m a an .
-I’m unemployed 
-I’m between jobs at the moment 
-I’m looking for work 
-I run my own business 
-I’m a freelance 
-I’m retired 
-I’m single 
-I have a boyfriend
-I have a girlfriend
-We’re engaged 
-We are going to get married
-We’re getting married in June 
-I’m married 
-I’ve been married for
-I’m divorced 
-I’m widowed 
-my husband has died
-my wife has died
-I’m not looking for anything serious 
-I’m not quite over my ex 
-Pardon ?
-Would you mind repeating that ?
-What do you mean ?
-asking for more information
-I’m not sure I follow you 
-I don’t understand
-Could you explain ?
-Ways to Check if the Other Person
-Do you understand what I’m saying ?
-Does that make sense ?
-Do you know what I mean ?
-Are you with me so far ?
-Is that clear ?
-I need a little help 
-Could you help me out ?
-Could you give me a hand ?
-usually used for physical tasks
-Could you spare a couple minutes ?
-Could you do me a favor ?
-Ways to Ask Someone Else to Do Something
-more formal Would you mind ?
-Could you please ?
-Can you ?
-Please .
-I’d appreciate it if you could .
-Sorry to interrupt , but
-Excuse me – could I talk to you for a minute ? 
-do you have a minute ?
-Could I jump in here ?
-Sorry 
-I just want to say that
-May I have a word ?
-Keep up the good work !
-That was a nice try 
-That’s a real improvement 
-You’re on the right track 
-You’ve almost got it 
-You’re doing great 
-Don’t give up ! 
-Hang in there !
-You can do it !
-Give it your best shot 
-best shot 
-best try
-best effort
-Nice job ! 
-You did great !
-I’m not happy about this 
-I’m sorry , but this is unacceptable 
-I’m not very satisfied with 
-I can’t stand it when 
-This sucks 
-Forgetting
-I’ll always remember 
-I’ll never forget
-If I remember correctly 
-As far as I can recall
-I have a vague recollection of
-It’s on the tip of my tongue 
-I’m trying to remember , but I can’t quite remember
-My mind went blank 
-I couldn’t remember think of anything
-It doesn’t ring a bell 
-it doesn’t sound familiar
-Please remember to 
-Please don’t forget to
-I’d like to remind you about
-You haven’t forgotten to about have you ?
-It completely slipped my mind !
-I completely forgot about it !
-Phrases for Saying Something is Easy 
-Difficult
-It’s a piece of cake 
-It’s a cinch 
-It’s a breeze 
-Anyone can do it 
-There’s nothing to it 
-It’s hard 
-It’s a bit tricky 
-It’s really tough 
-It’s not a walk in the park 
-It’s very demanding 
-it takes a lot of time and energy
-She’s in her early twenties 
-He’s in his late thirties 
-She just turned six 
-Act your age !
-I’m not as young as I used to be 
-I’m not over the hill yet !
-over the hill 
-he’s not young
-She’s wise beyond her years 
-she is young , but she has the wisdom of an older person
-I’m having a senior moment 
-I’m being forgetful
-He lived to a ripe old age 
-Do you have ?
-Where can I find ?
-I’m just browsing 
-looking casually
-I’m looking for
-How much is this ?
-Is this on sale ?
-Can I try it on ?
-I’ll take it !
-Do you take credit cards ?
-I’d like to return exchange this 
-I’m starving !
-I’m very hungry
-Let’s grab a bite to eat 
-How about eating out tonight ?
-eat at a restaurant
-I brought some snacks 
-This soup is delicious !
-Could I have another helping of ?
-another helping 
-another portion
-I’ll have
-Could we get the check , please ?
-I’m full 
-I’m satisfied
-I’m stuffed 
-I ate a lot , maybe too much !
-Where’s the remote ?
-remote 
-remote control
-Is there anything good on ?
-Can I change the channel ?
-I’ve already seen this episode 
-This is a rerun 
-I love this show !
-There are too many commercials 
-Stop channel surfing 
-channel surfing 
-changing the channel quickly
-Check the TV guide 
-It’s the season finale !
-the final episode of the seasont
-Do you have any bags to check ?
-Would you like a window seat or an aisle seat ?
-aisle 
-corridor
-Here’s your boarding pass 
-boarding pass 
-Your flight leaves from gate 
-Your seat number is 
-Flight is now boarding 
-passengers can enter the plane
-Your flight has been delayed 
-Your flight has been canceled 
-This is the final call for flight 
-What is the purpose of your trip ?
-It cost a fortune 
-It cost an arm and a leg 
-That’s a rip off 
-overpriced , far more expensive than it should be
-I can’t afford it 
-I don’t have enough money to buy it
-That’s a bit pricey 
-That’s quite reasonable 
-it’s a good price
-It’s 10% off 
-there’s a 10% discount
-That’s a good deal 
-a good value for the amount of money
-It was a real bargain 
-It was dirt cheap 
-extremely inexpensive
-It’s nice and warm today 
-It’s absolutely boiling !
-boiling 
-extremely hot
-We’re having a real heat wave 
-heat wave 
-many consecutive days of hot weather
-The sun’s really strong today 
-It’s hot and humid 
-It’s a little chilly 
-It’s freezing 
-extremely cold
-The temperature’s dropping 
-Make sure to bundle up 
-bundle up 
-put on warm clothes for protection against the cold
-We’re expecting some winter weather 
-winter weather 
-snow
-hail
-sleet
-ice 
-It’s drizzling 
-raining lightly
-It’s pouring 
-raining heavily
-It’s raining cats and dogs 
-raining heavily
-I got caught in a downpour 
-I think the rain’s letting up 
-letting up 
-getting lighter and stopping
-I’m exhausted 
-I’m dead tired 
-I’m pooped 
-I’m spent 
-I’m beat 
-I’m running on fumes 
-I’m running on empty 
-I can hardly keep my eyes open 
-I’m off to bed 
-I’m gonna hit the sack 
-hit the sack 
- go to bed
-It’s bedtime for me 
-Phrases for Promises Resolutions
-I really should 
-I promise that I’ll 
-I swear I’ll 
-I won’t 
-a very strong promise
-No matter what happens , I’m going to 
-Come hell or high water , I’ll 
-Excuses for Being Late
-Sorry I’m late 
-I overslept 
-I slept longer than I should have
-My alarm didn’t go off 
-I had to wait ages for a bus 
-The bus was late 
-The traffic was terrible 
-I couldn’t find a parking spot 
-I got lost coming here 
-I was tied up in a meeting 
-tied up 
-occupied
-impossible to escape
-I just lost track of time 
-I didn’t notice what time it was
-That’s right 
-That’s spot on 
-You’ve hit the nail on the head 
-You’ve nailed it 
-I suppose so 
-I’m afraid you’re right 
-use this in response to bad news
-to say the bad news is correct
-I’m afraid that’s not quite right 
-I’m afraid you’re mistaken 
-No , you’ve got it wrong 
-No , that’s all wrong 
-He’s really sharp 
-She’s brilliant 
-He’s very bright 
-She’s a genius 
-He’s a smart cookie 
-He’s not the sharpest tool in the shed 
-She’s a few cards short of a deck 
-He’s a bit slow 
-She’s a complete idiot 
-He’s really dumb 
-No comment 
-I’m not at liberty to say 
-I don’t have permission to give the information
-Wait and see 
-you will discover the answer later
-Let me get back to you 
-I will give you the answer later
-I’m sorry , that’s confidential 
-I’m sorry , that’s personal 
-I’d rather not talk about it 
-It’s none of your business 
-Mind your own business 
-Why do you want to know ?
-and are rather rude r
-He’s short on cash 
-He’s broke 
-he has no money
-His bank account is overdrawn 
-He’s just scraping by 
-he is just barely surviving on little money
-He makes minimum wage 
-he earns the minimum salary
-He’s pinching pennies 
-He’s scrimping and saving 
-She’s very wealthy 
-She’s quite well off 
-She’s loaded 
-She’s filthy rich 
-She inherited a fortune 
-She’s making a killing 
-She’s raking in the cash 
-She’s rolling in dough 
-very little money 
-The crime rate rose 
-The crime rate went up 
-There was a sharp increase in crime 
-sharp 
-sudden and large
-There was a gradual rise in crime 
-There was a spike in crime 
-spike 
-a sudden increase and then decrease
-The crime rate reached its peak 
-peak 
-the highest point
-The crime rate plateaued 
-stayed at the same level
-There was a slight decrease in crime 
-The crime rate dropped 
-The crime rate plummeted 
-decreased a lot , very quickly
-She was born to .
-He’s a natural 
-She could do it in her sleep 
-He knows it inside out 
-She knows like the back of her hand 
-She’s a walking encyclopedia of .
-He’s in a class of his own 
-He’s the best in the business 
-She’s very gifted 
-He’s a whiz 
-Could you give me a minute ?
-Hang on a sec 
-Just a sec 
-Hold on 
-Let me see think 
-I'll be right with you 
-Bear with me 
-That’ll have to wait 
-Be patient 
-Not so fast !
-Hold your horses !
-take reckless action 
-If I had to take a guess , I’d say .
-It’s difficult to say , but I think .
-Off the top of my head , I’d say .
-what I remember estimate , without checking the actual statistics
-It’s about .
-It’s around .
-I wouldn’t be surprised if .
-There’s a good chance .
-I have a feeling hunch . 
-I bet .
-Your guess is as good as mine 
-I don’t knows
-I’m debating between 
-I can’t make up my mind 
-I’m on the fence 
-I’m in the middle
-I don’t know what to decide
-I’ll take that into consideration 
-On the other hand 
-I’m having second thoughts 
-I’m reconsidering my decision
-I changed my mind 
-He convinced persuaded me to 
-Looking back , I know it was the right decision 
-It’s up to you 
-You can decide
-Good luck !
-Better luck next time 
-Just my luck !
-Lucky you !
-That was a stroke of luck 
-a sudden event of good luck
-Some people have all the luck 
-As luck would have it 
-by chance
-He’s down on his luck 
-he’s having a long period of bad luck or difficulty
-No such luck , something good that could have happened , didn’t happen
-What rotten luck !
-Phrases for Worries Relief
-I’m scared that 
-I can’t help thinking that 
-It’s been keeping me up at night 
-What if ?
-Whew !
-Thank goodness !
-What a relief !
-You had me worried for a moment 
-You have no idea what a relief it is 
-That’s a huge load off my mind 
-Phrases for Talking about the Future
-It’ll happen any day now 
-It’s right around the corner 
-It will won’t happen in our lifetime 
-in the next 10 years
-It’s a sign taste of things to come 
-it indicates how things will be in the future
-I’m counting down the days until 
-I’m excited about the future event , 
-I can’t wait for it to happen
-Sooner or later 
-It’s bound to happen eventually 
-it will definitely happen sometime in the future
-I’ll get around to it 
-I’ll do it sometime in the future , 
-but I don’t know exactly when
-I’ll do it right away 
-I’ll get right on it 
-I’ll do it immediately
-Time will tell 
-You look nice 
-You look amazing !
-What a beautiful !
-I like your 
-The lasagna is delicious 
-You’re a fantastic cook 
-My compliments to the chef !
-What a nice apartment !
-You have a beautiful home 
-She’s so cute !
-Your kids are a lot of fun 
-Phrases for Certainty 
-Probability
-I’m absolutely sure 
-I’m positive that 
-I have no doubt that 
-I’m a hundred percent certain 
-I’m convinced that 
-Chances are that 
-this will probably happen
-Odds are that 
-this will probably happen
-I seriously doubt it 
-I don’t think so 
-Probably not 
-It’s not very likely 
-There’s not much chance of that 
-I’d be very surprised if that happened 
-I wouldn’t bet on it 
-there’s a small chance it could happen but it probably won’t happen
-That’ll never happen 
-Interesting Boring
-It’s fascinating 
-It’s intriguing 
-I couldn’t tear myself away 
-I couldn’t put it down 
-I was so into it , I lost track of time 
-It does nothing for me 
-I was bored to tears 
-I was bored to death 
-I was dying of boredom 
-It’s about as exciting as watching paint dry 
-it’s very boring
-What’s the matter ?
-What’s wrong ?
-Are you all right ?
-You look a bit down 
-a little sad
-Is there anything I can do to help ?
-Cheer up ! Chin up !
-It’s not so bad 
-Everything will be OK 
-Look on the bright side 
-consider the positive aspects
-It’s not the end of the world 
-What a pity !
-What a shame 
-How disappointing 
-That’s too bad 
-Bummer 
-It was a real letdown 
-It didn’t live up to my expectations 
-Yeah , right 
-You're kidding 
-You're pulling my leg 
-That's a bit of an exaggeration 
-He’s stretching the truth 
-He’s not telling the whole truth 
-She’s being economical with the truth 
-she’s lying or not telling the entire truth
-His story is fishy 
-That's an outright lie 
-That's a pack of lies 
-Expressions for Bad People
-He’s a creep 
-unpleasant , suspicious , makes you afraid uneasy
-He’s a pervert 
-someone with disgusting sexual tendencies
-He’s a sicko 
-He’s a scumbag 
-He’s a jerk 
-she’s irritating and unpleasant
-She’s a psycho 
-crazy , irrational
-He yelled 
-She screamed 
-I whispered 
-spoke in an extremely quiet voice
-We chatted 
-we had an conversation
-He mumble , poke in a low voice , not clearly , without opening his mouth much
-My kids whined 
-complained
-He rambled 
-He went on and on 
-talked too much without stopping
-She stammered 
-I snapped at my husband 
-said a quick and angry remark
-He muttered , spoke in a low voice , usually making complaints or negative comments
-She was beaming 
-she had a big , radiant smile
-The kids were smiling from ear to ear 
-He looked puzzled 
-confused
-She grinned 
-had a small smile
-He winced when the doctor gave him an injection 
-had a quick expression of pain
-She gave me a dirty look 
-looked at me angrily
-She blushed 
-her face turned red because she was embarrassed
-His eyes were glazed over 
-he appeared
-Why the long face ?
-an expression to ask why someone looks sad or upset
-Her expression was unreadable 
-you can’t know what she is feeling
-Phrases to Describe Offending or Upsetting
-People
-They got off on the wrong foot 
-when they first met , they didn’t get along
-He got on the teacher’s bad side 
-She took offense at his comment 
-He has a chip on his shoulder 
-he is easily offended
-She got bent out of shape 
-He left in a huff 
-She got her panties in a wad 
-He has a short fuse 
-he gets angry easily
-She dissed my mother 
-she insulted disrespected my mother
-He got his nose out of joint 
-all mean the person got irritated annoyed
-My flight was overbooked 
-there were too many passengers and not enough seats
-My flight was delayed
-My luggage was lost 
-I was jet lagged 
-I felt tired because of the time zone difference between my origin and destination
-My hotel was in a seedy area 
-I was mugged 
-I was robbed on the street
-The weather was miserable 
-I got the runs 
-The place was a tourist trap 
-made only for tourists
-I couldn’t wait to get back home 
-It’s on me 
-I’ll buy you a drink
-I’d like to make a toast 
-I’d like to honor a person event idea
-Here’s to your health 
-the New Year 
-our success !
-Another round of drinks , please 
-Put it on my tab 
-bill to pay later , before you leave
-He’s a bit tipsy 
-a little bit drunk
-He’s completely sloshed wasted plastered 
-She’s trying to drown her sorrows 
-drinking alcohol for relief from pain sadness
-I’m the designated driver 
-I’m not drinking alcohol because I will drive other people home later
-I had a hangover 
-I was hung over 
-the bad feeling you have the morning after drinking too much
-It’s as light as a feather 
-It’s as dry as a bone 
-It’s as flat as a pancake 
-He’s as mad as a hornet 
-It’s as old as the hills 
-It’s as quick as lightning 
-She’s as sick as a dog 
-He’s as strong as an ox 
-They’re as different as night and day 
-She’s as stubborn as a mule 
-He’s as proud as a peacock 
-She’s as white as a sheet 
-It’s as solid as a rock 
-It’s as good as new 
-It’s as clear as mud 
-it’s not clear at all
-one
-two
-three
-four
-five
-six
-seven
-eight
-nine
-ten
-eleven
-twelve
-thirteen
-fourteen
-fifteen
-sixteen
-seventeen
-eighteen
-nineteen
-twenty
-thirty
-forty
-fifty
-sixty
-seventy
-eighty
-ninety
-one hundred
-one thousand
-one hundred thousand
-million
-one thousand nine hundred ninety
-first
-second
-third
-fourth
-fifth
-sixth
-seventh
-eighth
-ninth
-tenth
-eleventh
-twelfth
-thirteenth
-fourteenth
-fifteenth
-sixteenth
-seventeenth
-eighteenth
-nineteenth
-twentieth
-odd number
-even numbers
-Addition
-Subtraction
-Multiplication 
-Division
-Red
-Orange
-Yellow
-Green
-Blue
-Purple
-Pink
-Brown
-White
-Black
-Gray
-Beige
-Turquoise
-Indigo
-Lavender
-United States
-United Kingdom
-Canada
-Australia
-Germany
-France
-Italy
-Spain
-China
-Japan
-India
-Brazil
-Mexico
-Russia
-South Africa
-Argentina
-Saudi Arabia
-Egypt
-Nigeria
-Kenya
-Africa
-Antarctica
-Asia
-Europe
-North America
-South America
-Australia
-Planet
-Globe
-World
-Earth
-Terra
-Gaia
-Orb
-Sphere
-Land
-Soil
-Ground
-Environment
-Nature
-Biosphere
-Ecosystem
-Habitat
-Terrain
-Surface
-Crust
-Mantle
-Universe
-Cosmos
-Outer space
-Galaxy
-Star
-Planet
-Solar system
-Astronaut
-Rocket
-Satellite
-Comet
-Asteroid
-Meteoroid
-Black hole
-Nebula
-Constellation
-Spacecraft
-Lunar
-Gravity
-Orbit
-Environment
-Wilderness
-Wildlife
-Ecosystem
-Habitat
-Flora
-Fauna
-Conservation
-Biodiversity
-Landscape
-Scenery
-Natural resources
-Ecology
-Sustainability
-Wilderness
-Greenery
-Climate
-Weather
-Forest
-Ocean
-Dog
-Cat
-Elephant
-Lion
-Tiger
-Giraffe
-Zebra
-Monkey
-Gorilla
-Bear
-Panda
-Koala
-Kangaroo
-Hippopotamus
-Wolf
-Fox
-Rabbit
-Deer
-Moose
-Squirrel
-Chipmunk
-Otter
-Beaver
-Badger
-Raccoon
-Skunk
-Mouse
-Rat
-Hamster
-Guinea pig
-Chinchilla
-Ferret
-Hedgehog
-Porcupine
-Bat
-Dolphin
-Whale
-Shark
-Octopus
-Squid
-Jellyfish
-Starfish
-Seahorse
-Crab
-Lobster
-Shrimp
-Oyster
-Clam
-Snail
-Slug
-Worm
-Caterpillar
-Butterfly
-Moth
-Bee
-Wasp
-Ant
-Grasshopper
-Cricket
-Ladybug
-Beetle
-Fly
-Mosquito
-Dragonfly
-Damselfly
-Firefly
-Cockroach
-Praying mantis
-Tarantula
-Black widow
-Scorpion
-Centipede
-Millipede
-Leech
-Earthworm
-Roundworm
-Tapeworm
-Flatworm
-Star nosed mole
-Platypus
-Tasmanian devil
-Kangaroo rat
-Wallaby
-Wombat
-Quokka
-Koala
-Tasmanian tiger
-Dingo
-Quoll
-Numbat
-Bilby
-Bandicoot
-Sugar glider
-Flying fox
-Red panda
-Fennec fox
-Arctic fox
-Gray wolf
-Coyote
-African wild dog
-Maned wolf
-Red fox
-Bengal tiger
-Siberian tiger
-Sumatran tiger
-White tiger
-Golden tiger
-Malayan tiger
-Leopard
-Snow leopard
-Cheetah
-Jaguar
-Cougar
-Lynx
-Bobcat
-Caracal
-Ocelot
-Serval
-Margay
-Oncilla
-Rusty spotted cat
-Puma
-Lion
-African lion
-Asiatic lion
-Mountain lion
-Black panther
-White lion
-King cheetah
-Pallas's cat
-Jaguarundi
-Canadian lynx
-Iberian lynx
-Arabian leopard
-Amur leopard
-Clouded leopard
-Fishing cat
-Leopard cat
-Marbled cat
-Sand cat
-Tiger cat
-Wildcat
-American curl
-American shorthair
-American wirehair
-Balinese
-Bengal
-Car
-Truck
-Motorcycle
-Bicycle
-Bus
-Van
-Train
-Boat
-Ship
-Airplane
-Helicopter
-Jet
-Submarine
-Scooter
-Tractor
-Segway
-Skateboard
-Hovercraft
-Carrot
-Potato
-Tomato
-Onion
-Lettuce
-Cucumber
-Bell pepper
-Spinach
-Broccoli
-Cauliflower
-Green beans
-Peas
-Eggplant
-Zucchini
-Radish
-Celery
-Corn
-Asparagus
-Mushroom
-Beet
-Apple
-Banana
-Orange
-Mango
-Pineapple
-Strawberry
-Watermelon
-Grape
-Kiwi
-Peach
-Pear
-Cherry
-Blueberry
-Raspberry
-Blackberry
-Lemon
-Lime
-Papaya
-Avocado
-Plum
-Doctor
-Teacher
-Engineer
-Nurse
-Lawyer
-Accountant
-Programmer
-Chef
-Scientist
-Artist
-Architect
-Police officer
-Firefighter
-Paramedic
-Dentist
-Pharmacist
-Veterinarian
-Electrician
-Plumber
-Carpenter
-Mechanic
-Pilot
-Flight attendant
-Librarian
-Professor
-Researcher
-Journalist
-Writer
-Editor
-Translator
-Actor
-Musician
-Dancer
-Singer
-Athlete
-Coach
-Personal trainer
-Financial advisor
-Real estate agent
-Salesperson
-Marketing manager
-Human resources manager
-Customer service representative
-Receptionist
-Administrative assistant
-Secretary
-Executive assistant
-Event planner
-Graphic designer
-Social media manager
-Kitchen
-Refrigerator
-Stove
-Oven
-Microwave
-Dishwasher
-Sink
-Cabinets
-Countertop
-Toaster
-Blender
-Coffee maker
-Kettle
-Cutting board
-Mixing bowls
-Colander
-Pots and pans
-Utensils 
-spoons
-forks
-knives
-Plates
-Bowls
-Glasses
-Mugs
-Tupperware
-Can opener
-Corkscrew
-Grater
-Living Room
-Sofa
-Armchair
-Coffee table
-TV stand
-Bookshelf
-Lamp
-Rug
-Cushions
-Throw blanket
-Remote control
-Coasters
-Wall art
-Curtains
-Vase
-Plant
-Picture frames
-Side table
-Ottoman
-Floor lamp
-Fireplace
-Bedroom
-Bed
-Mattress
-Nightstand
-Dresser
-Wardrobe
-Shirt
-T shirt
-Blouse
-Polo shirt
-Tank top
-Sweater
-Cardigan
-Hoodie
-Jacket
-Coat
-Blazer
-Suit
-Dress
-Skirt
-Pants
-Jeans
-Shorts
-Leggings
-Trousers
-Capris
-Jumpsuit
-Romper
-Overalls
-Tunic
-Vest
-Tie
-Bow tie
-Scarf
-Shawl
-Wrap
-Poncho
-Kimono
-Robe
-Bathrobe
-Onesie
-Bodysuit
-Camisole
-Petticoat
-Petticoat
-Petticoat
-Corset
-Bra
-Panties
-Boxers
-Briefs
-Thong
-Socks
-Tights
-Leg warmers
-Stockings
-Gloves
-Mittens
-Arm warmers
-Wristbands
-Headband
-Hat
-Beanie
-Cap
-Beret
-Fedora
-Sun hat
-Visor
-Bonnet
-Scarf
-Hairband
-Hair clip
-Hair tie
-Bobby pin
-Earmuffs
-Sunglasses
-Eyeglasses
-Goggles
-Safety glasses
-Necklace
-Pendant
-Choker
-Chain
-Bracelet
-Bangle
-Cuff
-Anklet
-Ring
-Earrings
-Studs
-Hoops
-Dangly earrings
-Brooch
-Pin
-Lapel pin
-Badge
-Patch
-Embroidery
-Appliqué
-Rhinestones
-Sequins
-Buttons
-Zippers
-Buckles
-Belts
-Suspenders
-Apple
-Banana
-Orange
-Grape
-Strawberry
-Watermelon
-Pineapple
-Mango
-Kiwi
-Peach
-Pear
-Cherry
-Blueberry
-Raspberry
-Blackberry
-Lemon
-Lime
-Avocado
-Tomato
-Potato
-Carrot
-Onion
-Garlic
-Lettuce
-Spinach
-Broccoli
-Cauliflower
-Cucumber
-Bell pepper
-Eggplant
-Mushroom
-Zucchini
-Corn
-Rice
-Bread
-Pasta
-Noodle
-Cereal
-Oatmeal
-Pancake
-Waffle
-Egg
-Bacon
-Sausage
-Ham
-Chicken
-Beef
-Pork
-Fish
-Shrimp
-Sunny
-Cloudy
-Rainy
-Windy
-Stormy
-Snowy
-Foggy
-Overcast
-Hazy
-Clear
-Partly cloudy
-Thunderstorm
-Lightning
-Thunder
-Rainstorm
-Snowstorm
-Blizzard
-Drizzle
-Shower
-Sleet
-Ice
-Frost
-Mist
-Dew
-Rainbow
-Sunbeam
-Sunlight
-Heatwave
-Cold snap
-Breeze
-Gust
-Gale
-Hurricane
-Tornado
-Typhoon
-Monsoon
-Drought
-Flood
-Mudslide
-Avalanche
-Heat index
-Wind chill
-Humidity
-Temperature
-Barometer
-Thermometer
-Anemometer
-Rain gauge
-Cloud cover
-Atmospheric pressure
-Happy
-Sad
-Angry
-Excited
-Scared
-Nervous
-Calm
-Relaxed
-Anxious
-Depressed
-Joyful
-Content
-Grateful
-Frustrated
-Surprised
-Disappointed
-Proud
-Confident
-Hopeful
-Curious
-Enthusiastic
-Bored
-Lonely
-Loved
-Rejected
-Guilty
-Jealous
-Insecure
-Overwhelmed
-Optimistic
-Pessimistic
-Amused
-Confused
-Embarrassed
-Tired
-Energetic
-Irritated
-Grumpy
-Shy
-Regretful
-Satisfied
-Uncomfortable
-Worried
-Relieved
-Empathetic
-Compassionate
-Apathetic
-Indifferent
-Overjoyed
-Melancholy
-Family and Relationships
-Health
-Body
-Wellness
-Fitness
-Exercise
-Nutrition
-Diet
-Hygiene
-Cleanliness
-Sleep
-Rest
-Relaxation
-Stress
-Anxiety
-Depression
-Mental health
-Physical health
-Well being
-Medicine
-Doctor
-Physician
-Nurse
-Surgeon
-Dentist
-Optometrist
-Pharmacist
-Patient
-Hospital
-Clinic
-Pharmacy
-Appointment
-Check up
-Diagnosis
-Treatment
-Therapy
-Medication
-Prescription
-Vaccine
-Immunization
-Allergy
-Infection
-Disease
-Illness
-Injury
-Pain
-Symptom
-Fever
-Cold
-Flu
-Headache
-Sore throat
-Cough
-Runny nose
-Fatigue
-Weakness
-Nausea
-Vomiting
-Diarrhea
-Constipation
-Heart
-Lungs
-Brain
-Stomach
-Liver
-Kidneys
-Intestines
-Bones
-Muscles
-Skin
-Hair
-Eyes
-Ears
-Nose
-Mouth
-Teeth
-Gums
-Tongue
-Throat
-Heart rate
-Blood pressure
-Cholesterol
-Blood sugar
-BMI (Body Mass Index)
-Weight
-Height
-Fitness level
-Hydration
-Exercise routine
-Workouts
-Physical activity
-Cardiovascular exercise
-Strength training
-Flexibility
-Stretching
-Yoga
-Pilates
-Meditation
-Breathing exercises
-Relaxation techniques
-Self care
-Mother
-Father
-Parent
-Child
-Son
-Daughter
-Sibling
-Brother
-Sister
-Grandparent
-Grandfather
-Grandmother
-Grandchild
-Grandson
-Granddaughter
-Aunt
-Uncle
-Niece
-Nephew
-Cousin
-Spouse
-Husband
-Wife
-Partner
-Boyfriend
-Girlfriend
-Fiancé
-Fiancée
-In law
-Mother in law
-Father in law
-Brother in law
-Sister in law
-Son in law
-Daughter in law
-Step parent
-Step mother
-Step father
-Step child
-Step son
-Step daughter
-Step sibling
-Step brother
-Step sister
-Foster parent
-Foster child
-Guardian
-Ward
-Adoptive parent
-Adopted child
-Education
-School
-Learning
-Classroom
-Teacher
-Student
-Lesson
-Subject
-Curriculum
-Textbook
-Workbook
-Assignment
-Homework
-Test
-Exam
-Quiz
-Grade
-Report card
-Attendance
-Absence
-Tardy
-Classmate
-Group work
-Project
-Presentation
-Study
-Study group
-Study materials
-Library
-Books
-Reading
-Writing
-Arithmetic
-Mathematics
-Algebra
-Geometry
-Calculus
-Statistics
-Science
-Biology
-Chemistry
-Physics
-Earth science
-Environmental science
-Social studies
-History
-Geography
-Civics
-Economics
-Government
-Language arts
-English
-Literature
-Writing
-Grammar
-Vocabulary
-Spelling
-Reading comprehension
-Phonics
-Literature circle
-Creative writing
-Essay
-Paragraph
-Sentence
-Word
-Phrase
-Paragraph
-Composition
-Narrative
-Expository writing
-Persuasive writing
-Research
-Citation
-Plagiarism
-Bibliography
-Reference
-Encyclopedia
-Dictionary
-Thesaurus
-Internet
-Website
-Search engine
-Online resources
-Multimedia
-Audiovisual
-Video
-Audio
-Presentation software
-Slides
-PowerPoint
-Google Slides
-Interactive whiteboard
-Smartboard
-Classroom technology
-Computer
-Laptop
-Tablet
-Smartphone
-App
-Software
-Hardware
-Internet safety
-Digital citizenship
-Cyberbullying
-Online etiquette
-Social media
-Communication
-Collaboration
-Critical thinking
-Problem solving
-Creativity
-Innovation
-Inquiry
-Investigation
-Observation
-Experiment
-Hypothesis
-Data
-Conclusion
-Analysis
-Interpretation
-Observation
-Discovery
-Exploration
-Field trip
-Museum
-Aquarium
-Zoo
-Nature center
-Botanical garden
-Planetarium
-Observatory
-Historical site
-Art museum
-Science museum
-Natural history museum
-Interactive exhibits
-Hands on activities
-Workshop
-Demonstration
-Lecture
-Seminar
-Workshop
-Conference
-Symposium
-Panel discussion
-Keynote speech
-Presentation
-Speaker
-Audience
-Participant
-Workshop
-Course
-Workshop
-Training
-Seminar
-Webinar
-Workshop
-Retreat
-Conference
-Lecture series
-Certificate
-Diploma
-Degree
-Bachelor's degree
-Master's degree
-Doctorate
-PhD
-Associate's degree
-Vocational school
-Technical school
-Community college
-College
-University
-Department
-Faculty
-Professor
-Instructor
-Lecturer
-Tutor
-Graduate student
-Undergraduate student
-Alumni
-Campus
-Dormitory
-Residence hall
-Student union
-Cafeteria
-Dining hall
-Gymnasium
-Sports facilities
-Athletic field
-Track
-Pool
-Court
-Auditorium
-Theater
-Stage
-Rehearsal
-Performance
-Budget
-Savings
-Investment
-Retirement
-Income
-Expense
-Debt
-Credit
-Loan
-Mortgage
-Interest
-Principal
-Asset
-Liability
-Balance
-Cash flow
-Financial goal
-Emergency fund
-Compound interest
-Annual percentage rate 
-Credit score
-Credit report
-Bank account
-Checking account
-Savings account
-Certificate of deposit 
-Money market account
-Mutual fund
-Stock
-Bond
-Dividend
-Capital gains
-Portfolio
-Asset allocation
-Diversification
-Risk tolerance
-Inflation
-Deflation
-Recession
-Economic downturn
-Bull market
-Bear market
-Exchange rate
-Currency
-foreign exchange
-Hedge fund
-Tax
-Tax deduction
-Tax credit
-Tax return
-Computer
-Laptop
-Tablet
-Smartphone
-Smartwatch
-Headphones
-Earbuds
-Speaker
-Television
-Monitor
-Keyboard
-Mouse
-Printer
-Scanner
-Router
-Modem
-Ethernet
-Bluetooth
-Hard drive
-Solid state drive
-Cloud storage
-Operating system
-Software
-Application 
-Browser
-Social media
-Website
-Search engine
-Email
-Video conferencing
-Virtual reality 
-Augmented reality 
-Gaming console
-Controller
-VR headset
-AR glasses
-Fitness tracker
-Drone
-Action camera
-Digital camera
-Camcorder
-GPS
-Satellite navigation
-E reader
-Smart home devices
-Thermostat
-Security camera
-Robot
-Sports
-Photography
-Gardening
-Cooking
-Baking
-Painting
-Drawing
-Sketching
-Sculpting
-Pottery
-Knitting
-Crocheting
-Sewing
-Quilting
-Crafting
-Woodworking
-Metalworking
-Model building
-Origami
-Calligraphy
-Writing
-Reading
-Playing musical instruments
-Singing
-Dancing
-Yoga
-Meditation
-Hiking
-Camping
-Fishing
-Hunting
-Birdwatching
-Stargazing
-Astronomy
-Collecting stamps
-Collecting coins
-Collecting rocks
-Collecting seashells
-Collecting antiques
-Collecting memorabilia
-Traveling
-Exploring
-Sightseeing
-Adventure sports
-Scuba diving
-Skydiving
-Paragliding
-Mountain climbing
-Surfing
-Skateboarding
-If it rains , the streets flood .
-If I eat too much , I feel sick .
-If she works hard , she succeeds .
-If you mix blue and yellow , you get green .
-If they arrive late , they miss the bus .
-If he exercises regularly , he stays healthy .
-If the sun sets , it gets dark .
-If birds chirp , it's morning .
-If it snows heavily , schools close .
-If we don't water the plants , they die .
-If I study , I understand better .
-If she practices piano , she improves .
-If you drop the glass , it breaks .
-If they save money , they can buy a house .
-If he drinks coffee late , he can't sleep .
-If it rains tomorrow , I will take an umbrella .
-If she studies hard , she will pass the exam .
-If they finish their work early , they will go to the movies .
-If you water the plants , they will grow faster .
-If he practices regularly , he will become a better guitarist .
-If we save enough money , we will go on vacation next year .
-If the train arrives on time , I will catch it .
-If the sun sets early , it will get dark sooner .
-If you don't hurry , you will miss the bus .
-If she cooks dinner tonight , I will do the dishes .
-If they win the match , they will advance to the finals .
-If he misses the flight , he will have to reschedule .
-If I finish my project today , I will relax tomorrow .
-If they arrive late , the event will start without them .
-If you practice speaking English daily , you will improve quickly .
-If I won the lottery , I would buy a house . (Present conditional)
-If she studied more , she would be getting better grades . (Present continuous conditional)
-If they went to bed earlier , they would feel more rested . (Present conditional)
-If it rained , I would be staying indoors . (Present continuous conditional)
-If he listened to his doctor , he would be feeling better . (Present continuous conditional)
-If we had more time , we would be traveling more often . (Present continuous conditional)
-If you called me , I would be waiting for your call . (Present continuous conditional)
-If she spoke fluent French , she would be working in Paris . (Present conditional)
-If they understood the instructions , they would be doing better . (Present continuous conditional)
-If I had more experience , I would be applying for higher positions . (Present continuous conditional)
-If it snowed , we would be building a snowman . (Present continuous conditional)
-If he ate healthier , he would be feeling more energetic . (Present continuous conditional)
-If she practiced more , she would be playing the piano better . (Present continuous conditional)
-If they saved more money , they would be traveling around the world . (Present continuous conditional)
-If you exercised regularly , you would be feeling stronger . (Present continuous conditional)
-If I had studied harder , I would have passed the exam .
-If she had arrived on time , she would have caught the train .
-If they had listened to the weather forecast , they wouldn't have gotten caught in the rain .
-If he had saved money , he would have bought a car by now .
-If we had taken the earlier flight , we would have avoided the delay .
-If you had asked for help , I would have assisted you .
-If she had finished her degree , she would have pursued further education .
-If they had followed the instructions , they wouldn't have made mistakes .
-If I had known about the party , I would have attended .
-If he had practiced more , he would have performed better in the concert .
-If she had called earlier , I would have been available to chat .
-If they had studied abroad , they would have learned a new language .
-If you had exercised regularly , you would have been in better shape .
-If we had left earlier , we would have arrived at the destination on time .
-If he had cooked dinner , we would have enjoyed a delicious meal .
-If I had finished my work earlier , I would be relaxing now .
-If she had studied more , she would be performing better in the class .
-If they had saved money , they wouldn't be struggling financially .
-If he had listened to my advice , he would be in a better situation .
-If we had left on time , we wouldn't be stuck in traffic .
-If you had eaten breakfast , you wouldn't be hungry now .
-If she had taken the bus , she wouldn't be late for the meeting .
-If they had practiced more , they would be more skilled now .
-If I had remembered to bring my umbrella , I wouldn't be getting wet .
-If he had applied for the job , he would be working there now .
-If she had called earlier , I would be waiting for her call .
-If they had booked the tickets in advance , they would be traveling now .
-If you had exercised regularly , you would be feeling healthier now .
-If we had paid attention in class , we would be understanding the topic now .
-If he had cleaned his room , it would be tidy now .
-Simple Present
-I help my neighbor every day .
-I teach English at the local school .
-She plays the piano every evening .
-We drink coffee in the morning .
-They go for a walk after dinner .
-I read a book before bed .
-He cooks dinner for his family every evening .
-We listen to music while we work .
-They study together at the library .
-She practices yoga in the morning .
-The birds sing outside my window every morning .
-The sun rises in the east .
-The train arrives at 9 o'clock every morning .
-It rains a lot in the rainy season .
-The Earth revolves around the Sun .
-Present Perfect
-I have helped my neighbor too much this week .
-I have finished my homework .
-She has visited Paris several times .
-We have seen that movie before .
-They have lived in this city for ten years .
-He has studied Spanish for two years .
-The company has completed the project ahead of schedule .
-I have lost my keys again .
-We have traveled to many countries .
-She has finished her meal .
-They have met each other before .
-He has achieved his goals .
-I have read that book .
-We have spoken on the phone .
-She has found a new job .
-They have written many letters .
-Present Continuous
-I am helping my neighbor while he fixes up his house .
-I am working on my assignment .
-She is reading a book right now .
-We are listening to music at the moment .
-They are playing soccer in the park .
-He is writing an email to his friend .
-The students are studying for their exams .
-I am watching TV with my family .
-We are having dinner together tonight .
-She is cooking dinner in the kitchen .
-They are working on a new project at work .
-He is painting a picture in his room .
-The baby is sleeping peacefully in the crib .
-We are planning a trip for the summer vacation .
-She is practicing the piano in the living room .
-They are building a house in the neighborhood .
-Present Perfect Continuous
-I have been helping my neighbor since I moved in .
-I have been working on this project for hours .
-She has been studying English for the past year .
-We have been waiting for the bus since morning .
-They have been living in this city for five years .
-He has been working as a teacher for a long time .
-The children have been playing outside all afternoon .
-I have been trying to reach you on the phone .
-We have been traveling around Europe for weeks .
-She has been writing her novel for months .
-They have been building a house for their family .
-He has been learning to play the guitar since childhood .
-We have been waiting for this moment for so long .
-She has been teaching at the university for many years .
-They have been practicing for the upcoming concert .
-I have been working on improving my skills .
-Past Tense
-I helped my neighbor yesterday .
-I had helped my neighbor clean his attic before I fixed his car .
-I was helping my neighbor when he brought me iced tea .
-I had been helping my neighbor for a year before he finally thanked me .
-I helped my neighbor yesterday .
-I taught English at the local school last year .
-She played the piano yesterday evening .
-We drank coffee in the morning .
-They went for a walk after dinner .
-He cooked dinner for his family last night .
-I read a book before bed .
-We listened to music while we worked .
-They studied together at the library .
-She practiced yoga in the morning .
-Past Perfect
-I had helped my neighbor clean his attic before I fixed his car .
-I had finished my homework before I went to bed .
-She had visited Paris before she moved to London .
-We had seen that movie before it was released .
-I had helped my neighbor clean his attic before I fixed his car .
-She had visited Paris before she moved to London .
-We had finished our homework before we went to bed .
-They had seen that movie before it was released .
-He had studied Spanish for two years before he traveled to Spain .
-The company had completed the project ahead of schedule before the deadline .
-I had lost my keys again before I found them in my jacket pocket .
-We had traveled to many countries before we settled down .
-She had finished her meal before she left the restaurant .
-They had met each other before they realized they were classmates .
-Past Continuous
-I was helping my neighbor when he brought me iced tea .
-I was working on my assignment when the power went out .
-I was helping my neighbor when he brought me iced tea .
-She was reading a book when the phone rang .
-We were listening to music while we worked in the garden .
-They were playing soccer when it started to rain .
-He was writing an email when the power went out .
-The students were studying for their exams all night .
-I was watching TV when the doorbell rang .
-We were having dinner when the guests arrived .
-She was cooking dinner in the kitchen while listening to music .
-They were working on a new project when the boss called .
-Past Perfect Continuous
-I had been helping my neighbor for a year before he finally thanked me .
-I had been working on this project for hours when you called .
-I had been helping my neighbor for a year before he finally thanked me .
-She had been studying English for the past year before she took the proficiency test .
-We had been waiting for the bus for over an hour before it finally arrived .
-They had been living in this city for five years before they decided to move .
-He had been working as a teacher for a long time before he switched careers .
-The children had been playing outside all afternoon before it started raining .
-I had been trying to reach you on the phone for hours before I finally got through .
-We had been traveling around Europe for weeks before we ran out of money .
-She had been writing her novel for months before she finally finished it .
-They had been building a house for their family for years before they moved in .
-Future Tense
-I will help my neighbor tomorrow .
-I will have helped my neighbor a hundred times by the end of the month .
-I will be helping my neighbor next month when he moves .
-I will have been helping my neighbor for a year next month .
-I will help my neighbor tomorrow .
-She will sing at the concert next week .
-He will visit his parents this weekend .
-We will have dinner at 7 o'clock tonight .
-They will go on vacation next month .
-She will finish her project by the end of the week .
-He will buy a new car next year .
-We will start our journey early in the morning .
-They will meet us at the restaurant later .
-I will learn to play the guitar next summer .
-Future Perfect
-I will have helped my neighbor a hundred times by the end of the month .
-She will have finished her project before the deadline .
-He will have completed his degree by next year .
-We will have traveled to many countries by the time we retire .
-They will have moved to a new house by next month .
-She will have learned French by the end of the year .
-He will have saved enough money to buy a house by then .
-We will have finished our dinner by the time they arrive .
-They will have completed the project before the deadline .
-I will have written my book by next summer .
-Future Continuous
-I will be helping my neighbor next month when he moves .
-I will be helping my neighbor tomorrow .
-She will be studying for her exam at this time next week .
-He will be working on the project all day tomorrow .
-We will be traveling to Paris this time next month .
-They will be preparing for the party when you arrive .
-She will be cooking dinner when he gets home .
-He will be playing soccer with his friends this evening .
-We will be watching the sunset at the beach this time tomorrow .
-They will be discussing the plans for the future at the meeting next week .
-I will be sleeping when you call me tomorrow morning .
-I will be helping my neighbor tomorrow .
-She will be studying for her exam at this time next week .
-He will be working on the project all day tomorrow .
-We will be traveling to Paris this time next month .
-They will be preparing for the party when you arrive .
-She will be cooking dinner when he gets home .
-He will be playing soccer with his friends this evening .
-We will be watching the sunset at the beach this time tomorrow .
-They will be discussing the plans for the future at the meeting next week .
-I will be sleeping when you call me tomorrow morning .
-Future Perfect Continuous
-I will have been helping my neighbor for a year next month .
-I will have been helping my neighbor for an hour by the time you arrive .
-She will have been studying for the exam for two hours by noon .
-He will have been working on the project for three days straight by Friday .
-We will have been traveling for a month by the time we return home .
-They will have been preparing for the party for weeks when it finally happens .
-She will have been cooking dinner for an hour when he gets home .
-He will have been playing soccer with his friends for two hours by the time it gets dark .
-We will have been watching the sunset at the beach for an hour when you arrive .
-They will have been discussing the plans for hours by the time the meeting ends .
-I will have been sleeping for eight hours when you wake me up .
-The sun rose brightly over the horizon .
-She danced gracefully across the stage .
-The cat lazily stretched out in the sunlight .
-He eagerly awaited the arrival of his friends .
-The rain fell softly against the windowpane .
-They laughed heartily at the joke .
-The flowers bloomed beautifully in the garden .
-The bird chirped melodiously in the tree .
-She studied diligently for her exams .
-The baby giggled joyfully as it played .
-He sighed wearily after a long day at work .
-They chatted animatedly over a cup of coffee .
-The wind howled fiercely during the storm .
-The children ran excitedly around the playground .
-She sighed contentedly as she relaxed on the beach .
-He smiled warmly at the sight of his family .
-The leaves rustled softly in the breeze .
-They argued heatedly about the topic .
-The clock ticked steadily on the wall .
-She sang beautifully during the concert .
-The dog barked loudly at the mailman .
-He whistled cheerfully as he worked .
-The moon shone brightly in the night sky .
-They hugged tightly after being apart for so long .
-She waved goodbye sadly as the train departed .
-He yawned sleepily as he climbed into bed .
-The coffee tasted bitter after sitting for so long .
-They whispered conspiratorially in the corner .
-She gasped in surprise at the unexpected news .
-The fire crackled warmly in the fireplace .
-He frowned disapprovingly at the mess .
-The ocean roared angrily during the storm .
-They smiled gratefully at the kindness of strangers .
-She hummed softly while she worked .
-He chuckled quietly at the memory .
-The rain pattered softly against the roof .
-They sighed in relief when the ordeal was over .
-She blushed shyly when he complimented her .
-He grimaced in pain as he stubbed his toe .
-The car honked loudly in traffic .
-They laughed uproariously at the joke .
-She sighed in frustration at the computer crash .
-He whistled appreciatively at the sunset .
-The crowd cheered enthusiastically for the winning team .
-They hugged tightly to keep warm in the cold .
-She smiled reassuringly at her nervous friend .
-He smirked smugly after winning the argument .
-The baby gurgled happily in its mother's arms .
-The tree swayed gently in the breeze .
-They gazed lovingly into each other's eyes .
-She tiptoed quietly to avoid waking the baby .
-He trembled nervously before his big speech .
-The clock chimed loudly in the silence .
-They clapped enthusiastically at the end of the performance .
-She twirled gracefully across the dance floor .
-He sighed in resignation at the inevitable outcome .
-The snowflakes fluttered softly to the ground .
-They hugged tightly in farewell at the airport .
-She grinned mischievously at her friend's joke .
-He shivered uncontrollably in the cold .
-The river flowed peacefully through the valley .
-They laughed uproariously at the comedy show .
-She smiled warmly at the sight of her family .
-He frowned disapprovingly at the litter on the ground .
-The dog barked excitedly at the sight of its owner .
-They sighed in relief when they reached their destination .
-She gasped in horror at the sight of the accident .
-He whistled cheerfully as he walked down the street .
-The fire crackled merrily in the fireplace .
-They whispered conspiratorially in the corner of the room .
-She hummed softly to herself as she worked .
-He chuckled quietly at the memory of the joke .
-The rain pattered softly against the windowpane .
-They sighed contentedly as they relaxed on the beach .
-She blushed shyly at the compliment .
-He grimaced in pain as he stubbed his toe on the table .
-The car honked loudly as it drove past .
-They laughed heartily at the funny movie .
-She sighed in frustration as the computer crashed .
-He whistled appreciatively at the beautiful sunset .
-The crowd cheered loudly as the home team scored a goal .
-They hugged tightly to keep warm in the winter cold .
-She smiled reassuringly at her nervous friend .
-He smirked smugly after winning the argument .
-The baby giggled happily as it played with its toys .
-The tree swayed gently in the breeze .
-They gazed lovingly into each other's eyes .
-She tiptoed quietly so as not to wake the sleeping baby .
-He trembled nervously before his big speech .
-The clock chimed loudly in the silence .
-They clapped enthusiastically at the end of the performance .
-She twirled gracefully across the dance floor .
-He sighed in resignation at the inevitable outcome .
-The snowflakes drifted softly to the ground .
-They hugged tightly in farewell at the train station .
-She grinned mischievously at her friend's joke .
-He shivered uncontrollably in the cold .
-The river flowed peacefully through the countryside .
-They laughed uproariously at the comedy show .
-She smiled warmly at the sight of her family .
-Once upon a time , there was a tortoise and a hare who lived in the forest .
-The hare was very proud of his speed and often boasted about it to the other animals .
-The tortoise , on the other hand , was slow but steady and never bragged about his abilities .
-One day , the hare challenged the tortoise to a race .
-The tortoise accepted the challenge , and the race was set for the next day .
-On the day of the race , all the animals gathered to watch .
-The hare sprinted ahead as soon as the race began , leaving the tortoise far behind .
-Confident of his victory , the hare decided to take a nap under a tree halfway through the race .
-Meanwhile , the tortoise continued plodding along at his slow but steady pace .
-When the hare woke up , he realized that the tortoise was nowhere in sight .
-He quickly started running again , but it was too late .
-By the time he reached the finish line , the tortoise had already crossed it and won the race .
-The moral of the story is that slow and steady wins the race .
-be
-have
-do
-say
-get
-make
-go
-know
-take
-see
-come
-think
-look
-want
-give
-use
-find
-tell
-ask
-work
-seem
-feel
-try
-leave
-call
-should
-may
-include
-need
-become
-mean
-keep
-let
-begin
-seem
-help
-talk
-turn
-start
-show
-hear
-play
-run
-move
-like
-live
-believe
-hold
-bring
-happen
-write
-provide
-sit
-stand
-lose
-pay
-meet
-include
-continue
-set
-learn
-change
-lead
-understand
-watch
-follow
-stop
-create
-speak
-read
-allow
-add
-spend
-grow
-open
-walk
-win
-offer
-remember
-love
-consider
-appear
-buy
-wait
-serve
-die
-send
-expect
-build
-stay
-fall
-cut
-reach
-kill
-remain
-suggest
-raise
-pass
-sell
-require
-report
-decide
-pull
-break
-receive
-agree
-return
-explain
-hope
-develop
-carry
-break
-work
-play
-talk
-run
-move
-try
-turn
-ask
-need
-feel
-become
-leave
-put
-mean
-keep
-let
-begin
-seem
-help
-talk
-show
-hear
-play
-run
-move
-like
-live
-believe
-hold
-bring
-happen
-write
-provide
-sit
-stand
-lose
-pay
-meet
-include
-continue
-set
-learn
-change
-lead
-understand
-watch
-follow
-stop
-create
-speak
-read
-allow
-add
-spend
-grow
-open
-walk
-win
-offer
-remember
-love
-consider
-appear
-buy
-wait
-serve
-die
-send
-expect
-build
-stay
-fall
-cut
-reach
-kill
-remain
-suggest
-raise
-pass
-sell
-require
-report
-decide
-pull
-break
-receive
-agree
-return
-explain
-hope
-develop
-carry
-break
-work
-play
-talk
-run
-move
-try
-turn
-ask
-need
-feel
-become
-leave
-put
-mean
-keep
-let
-begin
-seem
-help
-talk
-show
-hear
-play
-run
-move
-like
-live
-believe
-hold
-bring
-happen
-write
-provide
-sit
-stand
-lose
-pay
-meet
-include
-continue
-set
-learn
-change
-lead
-understand
-watch
-follow
-stop
-create
-speak
-read
-allow
-add
-spend
-grow
-open
-walk
-win
-offer
-remember
-love
-consider
-appear
-buy
-wait
-serve
-die
-send
-expect
-build
-stay
-fall
-cut
-reach
-kill
-remain
-suggest
-raise
-pass
-sell
-require
-report
-decide
-pull
-break
-receive
-agree
-return
-explain
-hope
-develop
-carry
-break
-work
-play
-good
-value
-for
-the
-amount
-of
-money
-little
-bit
-drunk
-sad
-sudden
-event
-luck
-increase
-and
-then
-decrease
-very
-strong
-promise
-absence
-absolutely
-accountant
-act
-your
-age
-action
-camera
-actor
-add
-addition
-administrative
-assistant
-adopted
-child
-adoptive
-parent
-adventure
-sports
-africa
-african
-lion
-wild
-dog
-agree
-airplane
-aisle
-algebra
-all
-mean
-person
-got
-irritated
-annoyed
-allergy
-allow
-alumni
-american
-curl
-shorthair
-wirehair
-amur
-leopard
-amused
-an
-expression
-to
-ask
-why
-someone
-looks
-or
-upset
-analysis
-are
-rather
-rude
-r
-you
-anemometer
-angry
-anklet
-annual
-percentage
-rate
-another
-helping
-portion
-round
-drinks
-please
-ant
-antarctica
-anxiety
-anxious
-anyone
-can
-do
-it
-anytime
-anyway
-should
-get
-going
-apathetic
-app
-appear
-apple
-application
-appointment
-aquarium
-ar
-glasses
-arabian
-architect
-arctic
-fox
-right
-doing
-anything
-free
-with
-me
-so
-far
-argentina
-arithmetic
-arm
-warmers
-armchair
-art
-museum
-artist
-as
-recall
-would
-have
-asia
-asiatic
-asking
-more
-information
-asparagus
-asset
-allocation
-assignment
-associate's
-degree
-asteroid
-astronaut
-astronomy
-athlete
-athletic
-field
-atmospheric
-pressure
-attendance
-audience
-audio
-audiovisual
-auditorium
-augmented
-reality
-aunt
-australia
-avalanche
-avocado
-awesome
-bachelor's
-bacon
-badge
-badger
-baking
-balance
-balinese
-banana
-bandicoot
-bangle
-bank
-account
-barometer
-bat
-bathrobe
-be
-patient
-beanie
-bear
-market
-beats
-beaver
-become
-bed
-bedroom
-bee
-beef
-beet
-beetle
-begin
-beginner
-phrases
-beige
-believe
-bell
-pepper
-belts
-bengal
-tiger
-beret
-best
-effort
-shot
-try
-better
-next
-time
-bibliography
-bicycle
-bilby
-bill
-pay
+now
 later
 before
-leave
-biodiversity
-biology
-biosphere
-birdwatching
-black
-hole
-panther
-widow
-blackberry
-blazer
-blender
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-p
-q
-r
-s
-t
-u
-v
-w
-x
-y
-z
+come tomorrow
+speak later
+listen first, then speak
+we are going
+they are going
+you all are going
+come and go
+come, sit or go
+come or go
+don’t come
+don’t go
+happy
+sad
+tired
+excited
+I am very excited
+I am very happy
+I am very tired
+sorry, but I am leaving
+he is happy
+are you happy?
+school
+market
+hospital
+park
+restaurant
+I am going to school
+she is going to the market
+they are at the hospital
+let’s walk in the park
+the school is near the park
+the hospital is far from the park
+the market is near home
+the market is very far
+left
+right
+straight ahead
+turn left
+turn right
+go straight
+stop now
+look left
+look right
+start from left to right
+good job
+can I order a soup?
+can I take bread?
+the water can be cold
+the water can be lukewarm
+soup is drunk hot
+can I have the bill?
+how much is the bill?
+can I leave a tip?
+waiter
+menu
+how is the weather today?
+today the weather is warm
+it will rain tomorrow
+yesterday was sunny
+sunny, rainy, warm, windy, snowy, hail
+it is raining
+I like rainy days
+cloudy
+the weather is cloudy
+shirt
+pants
+dress
+shoes
+hat
+belt
+I wear a shirt
+did you like this hat?
+black pants
+red hat
+white shirt
+house
+room
+street
+city
+city center
+hotel
+beach
+desert
+village
+distant village
+the beach is near here
+small room
+big house
+green house
+chair
+broken chair
+where is the bus stop?
+how long does it take?
+I want a taxi
+to the center, please
+is the train delayed?
+one-way ticket
+round-trip ticket
+the plane leaves at 5
+where is the gate?
+my luggage is lost
+is there Wi-Fi on the train?
+I am walking
+where can I rent a car?
+I need a map
+we arrived on time
+read
+write
+speak
+learn
+listen
+run
+sleep
+drink
+listen (repeated)
+I read books
+he/she writes books
+he/she is a writer
+I can speak English
+I learn new words every day
+don’t message me
+excuse me, can you help me?
+I
+to me/me
+you
+to you/you
+he/she
+to him/her
+they
+to them
+we
+to us
+you all
+to you all
+come to me
+go to him/her
+come to us
+look at them
+I told you all
+who are you all?
+who are you?
+who is he/she?
+bus
+train
+car
+airport
+station
+I am taking the bus
+he/she is driving the car
+we are at the station
+where is the station?
+what time does the train arrive?
+they are going to the airport
+do you ride a bike?
+no, I don’t ride a horse
+ticket
+how much is the bus ticket?
+do you have a map?
+what time is the departure?
+what time is the arrival?
+luggage
+I am late
+what time do you wake up?
+I wake up early
+I have coffee every morning
+I go to school
+he/she doesn’t sleep early
+he/she sleeps late
+he/she wakes up early
+is Ahmet going to school?
+don’t you have breakfast?
+they don’t have breakfast
+they have breakfast
+we have breakfast
+we don’t have breakfast
+my mother and father leave home at 08:00
+does your father work?
+do you run?
+I run
+he/she runs
+they run
+we run
+I am having breakfast now
+he/she is eating
+Ahmet is reading a book
+they are playing ball now
+I am watching TV
+he/she is not working now
+do you have dinner at night?
+are they coming now?
+is he/she studying?
+is the air conditioning working?
+it’s not raining now
+tomorrow I will go to school
+tomorrow we will have breakfast out
+they will visit us tomorrow
+tomorrow I won’t work
+next month I won’t be here
+will you call me tomorrow?
+Ayşe will come next week
+they won’t come with us tomorrow
+what will you do tomorrow?
+I am going
+I am coming
+I am studying
+I am eating
+are you eating?
+do you want tea?
+I went to school yesterday
+I didn’t go to school last week
+they played a match yesterday
+I didn’t come home yesterday
+did you go to the market yesterday?
+he/she didn’t watch TV
+did he/she call you yesterday?
+when did you arrive?
+when did he/she go?
+when did they go?
+when did you arrive?
+whose is this?
+what time is it?
+yes, I understood
+no, I don’t know
+how are you today?
+is this correct?
+yes, thank you
+no, no need
+where did you come from?
+speak more slowly
+wait a moment
+repeat more slowly
+I understood what you said
+I am thirsty, can I get water?
+I need a little help
+can you speak Turkish?
+I have questions
+can you write this?
+I didn’t understand, sorry
+I want to learn more words
+keep talking
+is this easy?
+can you help me?
+this is too expensive
+is there a discount?
+how much does it cost?
+do you accept credit cards?
+I want to pay in cash
+can you show me?
+do you have a smaller size?
+I decided to buy
+can I have a receipt?
+is this fresh?
+can you exchange it?
+can you wrap it as a gift?
+I am looking for something cheaper
+this is my cousin
+where is my uncle?
+meet my aunt
+my brothers are very cheerful
+my grandfather is old
+my mother is cooking
+my father is working
+I live with my family
+my cousin is a student
+my aunt loves me
+I went for a walk with my uncle
+my sister is small
+my brother plays soccer
+I wake up early in the morning
+what do you do at night?
+I have a meeting tomorrow
+I was on vacation last week
+I rest on the weekend
+let’s meet at eight
+wait an hour
+yesterday I got very tired
+I will travel next month
+is there time now?
+I’ll be back soon
+yellow flower
+gray shirt
+purple dress
+brown shoes
+pink hat
+this is very bright
+I like dark colors
+is the light on?
+the table is round
+the cat is black and white
+the house is big and green
+is this heavy?
+a small bag
+I am reading a book
+I am listening to music
+I am eating
+I am cleaning
+I will watch a movie
+I will run
+I will go shopping
+I am getting ready to sleep
+I am talking on the phone
+I am working in the garden
+I am feeling sick
+I need to see a doctor
+can I get medicine?
+I have a fever
+I need urgent help
+where is the pharmacy?
+my head hurts
+I want to drink water
+I need to rest a bit
+can I call the emergency number?
+I am bleeding
+call for help
+are you near a pharmacy?
+I am feeling better
+the weather is cold
+today is sunny
+will it rain?
+a windy day
+should I take an umbrella
+the weather is very humid
+it is snowing
+what is the temperature?
+is there a weather app?
+it rained yesterday
+will it be clear tomorrow?
+there was lightning
+clouds are forming
+the weather is very nice
+where is the park?
+there is a café to the right
+go straight ahead
+how do I get to the bridge?
+it’s very crowded here
+a street to the left
+is the square nearby?
+let’s look at the map
+I am lost
+how do I get to the village?
+is the beach far?
+go back to the city center
+the road is closed
+is it safe here?
+turn at the corner
+where are you going?
+I am very excited
+I am sad, sorry
+a happy day
+I am angry
+I am relaxed
+I got scared
+I am proud
+I was surprised
+I am sad, help me
+I am very joyful
+I am worried
+stay calm
+are you happy?
+I am tired but satisfied
+a bowl of soup
+I want a dessert
+can I add salt?
+do you have pepper?
+plate of vegetables
+I am eating fish
+a glass of milk
+tea with sugar
+use olive oil
+I cooked pasta
+is the juice fresh?
+slice of bread
+add seasoning
+fresh water
+breakfast is ready
+I am studying
+I will work
+when is the meeting?
+I have homework
+I am a teacher at school
+I am at the office
+I have an exam
+I left work
+can I borrow a book?
+the classes are hard
+I am playing soccer
+I will swim
+I want to ride a bike
+do you play tennis?
+I am dancing
+let’s go to the cinema
+I am playing a game
+where is the race track?
+I am watching a game
+let’s walk
+I have sneakers
+my phone broke
+is the internet working?
+my battery is dead
+my computer is slow
+can I take a photo?
+send a message
+what is the Wi-Fi password?
+I am downloading an app
+the screen is bright
+the dog is barking
+the bird is flying
+the fish is in the water
+the cat is meowing
+the horse is running
+the chicken is laying eggs
+the lion is wild
+the monkey is in the tree
+the snake is poisonous
+there is a sheep
+the table is clean
+the sofa is comfortable
+the bed is big
+the curtains are open
+turn on the light
+the kitchen cabinets are full
+where is the mirror?
+the rug is old
+close the window
+the wall needs paint
+the chair is broken
+is there electricity at home?
+the bathroom is small
+lock the door
+I am wearing a coat
+my shoes are new
+I bought a skirt
+I am wearing a shawl
+my socks are wet
+my pants are tight
+winter coat
+my t-shirt is dirty
+I polished my shoes
+I put on a cap
+the dress is long
+my belt is missing
+I changed my bag
+the coat is very warm
+my shoes are comfortable
+the hat flew with the wind
+I am looking for socks
+I ironed my shirt
+the skirt is short
+I took off my coat
+where is my passport?
+check the luggage
+the flight is delayed
+I have a hotel reservation
+call a taxi
+I am going to the airport
+can I get a map?
+the trip is long
+I lost my ticket
+I am at customs
+where is the train platform?
+the bus is full
+my luggage is heavy
+what is my flight number?
+is there Wi-Fi at the hotel?
+I paid the taxi fare
+I have travel insurance
+I missed the bus stop
+I got lost at the airport
+I am buying a train ticket
+I do sports every day
+I drink tea in the morning
+I sleep early at night
+I read on the weekend
+I go shopping every month
+I take a bath twice a day
+I work always
+I watch a movie per week
+I have breakfast every day
+I walk an hour a day
+I watch the news every night
+I do sports three times a week
+I travel on vacation every year
+I drink a glass of water a day
+I clean every week
+I wake up early every day
+I eat twice a day
+I get paid every month
+I am a doctor
+he is a teacher
+I am an engineer
+she is a nurse
+I am a driver
+he is a lawyer
+I am an artist
+he is a farmer
+I am a worker
+he is a boss
+I am a writer
+the mountains are high
+the river is flowing
+the forest is green
+the sea is rough
+the lake is calm
+the trees are tall
+the desert sand is hot
+I will climb the mountain
+sit by the river
+I got lost in the forest
+I am swimming in the sea
+the lake is very beautiful
+I watered the trees
+the path in the desert is difficult
+there is snow on the mountain
+it’s okay
+no problem
+I am lucky
+be careful
+a good idea
+let’s try
+this is amazing
+do it slowly
+I am always ready
+a little patience
+I hope to succeed 
