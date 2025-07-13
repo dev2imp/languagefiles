@@ -26,9 +26,6 @@ Tudo certo?
 Tchau, até logo
 Estou feliz em vê-lo
 Nos vemos em breve
-
-
-
 um café 
 uma água 
 um pão 
@@ -55,9 +52,6 @@ Posso ver o cardápio?
 A comida está boa?
 Quero mais pão
 Pode embrulhar?
-
-
-
 ótimo 
 obrigado  até mais
 meu nome é Ahmet 
@@ -67,7 +61,7 @@ um copo de chá
 eu   você     ele
 nós, vocês, eles
 não, um chá por favor 
-Eu sou de Brasilera
+Eu sou de Brasileira
 Qual é a sua profissão?
 Eu gosto de café
 Ele é meu amigo
@@ -76,7 +70,6 @@ Você prefere chá ou café?
 Eu não gosto de chá
 Somos estudantes
 Eles são irmãos
-
 sim
 não
 desculpe 
@@ -86,8 +79,7 @@ este é chá
 este é pão
 eu bebo chá 
 eu não quero água
-
-
+Você fala turco? 
 eu sei um pouco de turco 
 entendi
 não entendi 
@@ -101,7 +93,6 @@ eu não sei
 você pode repetir, por favor? 
 pode repetir? 
 tudo bem 
-
 quanto custa isso? 
 barato 
 caro 
@@ -115,7 +106,6 @@ tem
 não tem 
 queijo 
 quanto custa o quilo do queijo? 
-
 eu estou indo para casa
 você está bem?
 você não está bem 
@@ -129,7 +119,6 @@ eu não sei
 eu também não sei
 você também não sabe 
 quem sabe
-
 onde você está?
 eu estou em casa 
 onde ela está? 
@@ -141,7 +130,6 @@ estou perto de casa
 estou vindo 
 estou indo 
 eu vou voltar 
-
 eu durmo
 eu tomo café da manhã
 ela vai para o trabalho
@@ -155,7 +143,6 @@ eu como queijo no café da manhã
 nosso queijo é muito saboroso
 estou com sede
 estou com sede, quero água
-
 Quando você vem?
 Quando ela vem?
 Onde você mora?
@@ -165,7 +152,6 @@ Por que
 Por que você não vem?
 Quem vem?
 Como vem?
-
 vermelho
 azul
 verde
@@ -181,7 +167,6 @@ chá quente
 pão fresco
 elefante grande
 rato pequeno
-
 pai
 mãe
 irmão
@@ -196,7 +181,6 @@ meu irmão mais velho me conhece
 minha irmã mais velha vem
 minha irmã
 meu irmão
-
 ontem
 hoje
 amanhã
@@ -214,7 +198,6 @@ venha, sente-se ou vá
 venha ou vá
 não venha
 não vá
-
 feliz
 triste
 cansado
@@ -225,7 +208,6 @@ estou muito cansado
 Desculpe-me , mas vou embora
 ele está feliz
 você está feliz
-
 escola
 mercado
 hospital
@@ -239,7 +221,6 @@ a escola é perto do parque
 o hospital é longe do parque
 o mercado é perto de casa
 o mercado é muito longe
-
 esquerdo
 direito
 em frente
@@ -250,7 +231,6 @@ pare agora
 olhe para a esquerda
 olhe para a direita
 comece da esquerda para a direita
-
 bom trabalho 
 posso pedir uma sopa?
 posso pegar pão?
@@ -262,7 +242,6 @@ quanto é a conta?
 posso dar gorjeta?
 garçom
 menu
-
 Como está o tempo hoje?
 Hoje o tempo está quente
 Amanhã vai chover
@@ -272,7 +251,6 @@ está chovendo
 eu gosto de dias chuvosos
 nublado
 o tempo está nublado
-
 camisa
 calça
 vestido
@@ -284,7 +262,6 @@ você gostou deste chapéu?
 calça preta
 chapéu vermelho
 camisa branca
-
 casa
 quarto
 rua
@@ -316,11 +293,6 @@ Eu vou a pé
 Onde posso alugar um carro?
 Preciso de um mapa
 Chegamos a tempo
-
-
-
-
-
 ler
 escrever
 falar
@@ -337,7 +309,6 @@ eu posso falar inglês
 eu aprendo palavras novas todos os dias
 não me escreva mensagem
 com licença, você pode me ajudar?
-
 eu
 para mim/me
 você
@@ -358,7 +329,6 @@ eu disse para vocês
 quem são vocês?
 quem é você?
 quem é ele/ela?
-
 ônibus
 trem
 carro
@@ -399,7 +369,6 @@ Eu corro
 Ele/ela corre
 Eles correm
 Nós corremos
-
 Eu estou tomando café da manhã agora
 Ele/ela está comendo
 Ahmet está lendo um livro
@@ -411,7 +380,6 @@ Eles estão vindo agora?
 Ele/ela está estudando?
 O ar-condicionado está funcionando?
 Agora não está chovendo
-
 Amanhã eu vou para a escola
 Amanhã vamos tomar café da manhã fora
 Eles vão nos visitar amanhã
@@ -427,7 +395,6 @@ Eu estou estudando
 Eu estou comendo
 Você está comendo?
 Você quer chá?
-
 Eu fui para a escola ontem
 Eu não fui para a escola na semana passada
 Eles jogaram uma partida ontem
@@ -439,7 +406,6 @@ Quando você chegou?
 Quando ele/ela foi?
 Quando eles foram?
 Quando você chegou?
-
 De quem é isso?
 Que horas são?
 Sim, entendi
