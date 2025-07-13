@@ -64,8 +64,8 @@ meu nome é Ahmet
 qual é o seu nome? 
 um copo de água 
 um copo de chá 
-eu   você     ele/ela
-nós, vocês, eles/elas 
+eu   você     ele
+nós, vocês, eles
 não, um chá por favor 
 Eu sou de Brasilera
 Qual é a sua profissão?
@@ -111,8 +111,8 @@ eu tenho dinheiro
 eu não tenho dinheiro 
 sim, eu tenho dinheiro 
 não, eu não tenho dinheiro 
-há / tem / existe 
-não há / não tem 
+tem
+não tem 
 queijo 
 quanto custa o quilo do queijo? 
 
@@ -120,7 +120,7 @@ eu estou indo para casa
 você está bem?
 você não está bem 
 eu não estou bem 
-ele/ela não está bem 
+ela não está bem 
 eu estou trabalhando
 me espera
 eu venho depois 
@@ -132,7 +132,7 @@ quem sabe
 
 onde você está?
 eu estou em casa 
-onde ele/ela está? 
+onde ela está? 
 onde fica o mercado? 
 Ahmet está aqui 
 Ahmet está vindo 
@@ -144,11 +144,11 @@ eu vou voltar
 
 eu durmo
 eu tomo café da manhã
-ele/ela vai para o trabalho
+ela vai para o trabalho
 nós jantamos
 eu tomo banho
 você descansa
-ele/ela descansa
+ela descansa
 eu descanso
 você assiste TV
 eu como queijo no café da manhã
@@ -157,7 +157,7 @@ estou com sede
 estou com sede, quero água
 
 Quando você vem?
-Quando ele/ela vem?
+Quando ela vem?
 Onde você mora?
 Como
 Quem
@@ -184,9 +184,9 @@ rato pequeno
 
 pai
 mãe
-irmão / irmã (irmão ou irmã)
-menina / filha
-menino / filho
+irmão
+menina 
+menino 
 ele é meu pai
 ela é minha mãe
 minha mãe e meu pai
@@ -194,8 +194,8 @@ meu avô
 minha avó
 meu irmão mais velho me conhece
 minha irmã mais velha vem
-minha irmã (irmã mais nova)
-meu irmão (irmão mais novo)
+minha irmã
+meu irmão
 
 ontem
 hoje
@@ -208,7 +208,7 @@ fale depois
 ouça antes, depois fale
 nós vamos
 eles vão
-vocês vão (forma de comando)
+vocês vão
 venha e vá
 venha, sente-se ou vá
 venha ou vá
@@ -223,7 +223,7 @@ estou muito animado
 estou muito feliz
 estou muito cansado
 Desculpe-me , mas vou embora
-ele/ela está feliz
+ele está feliz
 você está feliz
 
 escola
@@ -232,7 +232,7 @@ hospital
 parque
 restaurante
 eu vou para a escola
-ele/ela vai para o mercado
+ela vai para o mercado
 eles estão no hospital
 vamos caminhar no parque
 a escola é perto do parque
@@ -293,7 +293,7 @@ centro da cidade
 hotel
 praia
 deserto
-vila / aldeia
+aldeia
 vila distante
 a praia é perto daqui
 quarto pequeno
@@ -339,13 +339,13 @@ não me escreva mensagem
 com licença, você pode me ajudar?
 
 eu
-para mim / me
+para mim/me
 você
-para você / te
-ele / ela
-para ele / ela
-eles / elas
-para eles / elas
+para você/te
+ele/ela
+para ele/ela
+eles/elas
+para eles/elas
 nós
 para nós
 vocês
@@ -372,7 +372,7 @@ que horas o trem chega?
 eles estão indo para o aeroporto
 você anda de bicicleta?
 não, eu não ando a cavalo
-bilhete / passagem
+bilhete/passagem
 quanto custa a passagem de ônibus?
 você tem um mapa?
 que horas é a partida?
