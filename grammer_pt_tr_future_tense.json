@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Türkçe Gelecek Zaman (-ecek, -acak)",
+  "language_pair": "pt-tr",
+  "target_language": "tr",
+  "native_language": "pt",
+  "description": "Türkçe'de gelecek zaman (-ecek/-acak) – Portekizce konuşanlar için. Yakın veya kesin gelecekteki eylemleri anlatır. Portekizce'deki 'vai + infinitivo' veya 'futuro do presente' (falarei) yapısına benzer.",
+  "grammar_focus": {
+    "rule": "Fiil kökü + -ecek / -acak + kişi eki",
+    "suffixes": {
+      "ben (eu)": "-eceğim / -acağım",
+      "sen (tu/você)": "-eceksin / -acaksın",
+      "o (ele/ela)": "-ecek / -acak",
+      "biz (nós)": "-eceğiz / -acağız",
+      "siz (vocês)": "-eceksiniz / -acaksınız",
+      "onlar (eles/elas)": "-ecek(ler) / -acak(lar)"
+    },
+    "note_pt": "Türkçe'de gelecek zaman, Portekizce'deki 'vou fazer' (yakın gelecek) veya 'farei' (genel gelecek) anlamlarına yakındır. Ek ünlü uyumuna göre -ecek veya -acak olur. Olumsuzluk için '-me/-ma' eklenir: gitmeyeceğim. Soru için 'mi/mı/mu/mü' kişi ekinden sonra gelir: Gidecek misin?"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "pt": "Eu vou.",
+      "tr": "Ben gideceğim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + ecek + im → gideceğim",
+      "audio_hint": "ben gi-de-CE-ğim"
+    },
+    {
+      "id": 2,
+      "pt": "Tu virás.",
+      "tr": "Sen geleceksin.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ecek + sin → geleceksin",
+      "audio_hint": "sen ge-le-CEK-sin"
+    },
+    {
+      "id": 3,
+      "pt": "Ele/Ela come.",
+      "tr": "O yiyecek.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + yecek → yiyecek (y → yi)",
+      "audio_hint": "o yi-ye-CEK"
+    },
+    {
+      "id": 4,
+      "pt": "Nós beberemos.",
+      "tr": "Biz içeceğiz.",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + ecek + iz → içeceğiz",
+      "audio_hint": "biz i-çe-CE-ğiz"
+    },
+    {
+      "id": 5,
+      "pt": "Vocês falarão.",
+      "tr": "Siz konuşacaksınız.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + acak + sınız → konuşacaksınız",
+      "audio_hint": "siz ko-nu-şa-CAK-sı-nız"
+    },
+    {
+      "id": 6,
+      "pt": "Eles trabalharão.",
+      "tr": "Onlar çalışacaklar.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + acak + lar → çalışacaklar",
+      "audio_hint": "on-lar ça-lı-şa-CAK-lar"
+    },
+    {
+      "id": 7,
+      "pt": "Eu te amarei.",
+      "tr": "Ben seni seveceğim.",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + ecek + im → seveceğim",
+      "audio_hint": "ben se-ve-CE-ğim"
+    },
+    {
+      "id": 8,
+      "pt": "Ele/Ela dormirá.",
+      "tr": "O uyuyacak.",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + yacak → uyuyacak",
+      "audio_hint": "o u-yu-ya-CAK"
+    },
+    {
+      "id": 9,
+      "pt": "Nós jogaremos.",
+      "tr": "Biz oynayacağız.",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + yacak + ız → oynayacağız",
+      "audio_hint": "biz oy-na-ya-ÇA-ğız"
+    },
+    {
+      "id": 10,
+      "pt": "O que tu farás?",
+      "tr": "Sen ne yapacaksın?",
+      "verb_root": "yap",
+      "verb_infinitive": "yapmak",
+      "tr_infinitive": "yapmak",
+      "conjugation_note": "yap + acak + sın → yapacaksın",
+      "audio_hint": "sen yap-a-CAK-sın?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "pt": "Eu aprenderei turco.",
+      "tr": "Ben Türkçe öğreneceğim.",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + ecek + im → öğreneceğim",
+      "audio_hint": "ben öğ-re-ne-CE-ğim"
+    },
+    {
+      "id": 12,
+      "pt": "Ele/Ela dirigirá.",
+      "tr": "O araba sürecek.",
+      "verb_root": "sür",
+      "verb_infinitive": "sürmek",
+      "tr_infinitive": "sürmek",
+      "conjugation_note": "sür + ecek → sürecek",
+      "audio_hint": "o sü-re-CEK"
+    },
+    {
+      "id": 13,
+      "pt": "Nós ouviremos música.",
+      "tr": "Biz müzik dinleyeceğiz.",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + yecek + iz → dinleyeceğiz",
+      "audio_hint": "biz din-le-ye-CE-ğiz"
+    },
+    {
+      "id": 14,
+      "pt": "Tu lerás um livro.",
+      "tr": "Sen kitap okuyacaksın.",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + yacak + sın → okuyacaksın",
+      "audio_hint": "sen o-ku-ya-CAK-sın"
+    },
+    {
+      "id": 15,
+      "pt": "Eu não irei.",
+      "tr": "Ben gitmeyeceğim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + yecek + im → gitmeyeceğim",
+      "audio_hint": "ben git-me-ye-CE-ğim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "pt": "Ele/Ela não virá.",
+      "tr": "O gelmeyecek.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + me + yecek → gelmeyecek",
+      "audio_hint": "o gel-me-ye-CEK",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "pt": "Tu virás?",
+      "tr": "Sen gelecek misin?",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ecek + sin + mi → gelecek misin?",
+      "audio_hint": "sen ge-le-CEK mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "pt": "Eu o verei.",
+      "tr": "Ben onu göreceğim.",
+      "verb_root": "gör",
+      "verb_infinitive": "görmek",
+      "tr_infinitive": "görmek",
+      "conjugation_note": "gör + ecek + im → göreceğim",
+      "audio_hint": "ben gö-re-CE-ğim"
+    },
+    {
+      "id": 19,
+      "pt": "Eles rirão.",
+      "tr": "Onlar gülecekler.",
+      "verb_root": "gül",
+      "verb_infinitive": "gülmek",
+      "tr_infinitive": "gülmek",
+      "conjugation_note": "gül + ecek + ler → gülecekler",
+      "audio_hint": "on-lar gü-le-CEK-ler"
+    },
+    {
+      "id": 20,
+      "pt": "Nós esperaremos aqui.",
+      "tr": "Biz burada bekleyeceğiz.",
+      "verb_root": "bekle",
+      "verb_infinitive": "beklemek",
+      "tr_infinitive": "beklemek",
+      "conjugation_note": "bekle + yecek + iz → bekleyeceğiz",
+      "audio_hint": "biz bek-le-ye-CE-ğiz"
+    },
+    {
+      "id": 21,
+      "pt": "Eu comerei.",
+      "tr": "Ben yemek yiyeceğim.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + yecek + im → yiyeceğim",
+      "audio_hint": "ben yi-ye-CE-ğim"
+    },
+    {
+      "id": 22,
+      "pt": "Tu escreverás.",
+      "tr": "Sen yazacaksın.",
+      "verb_root": "yaz",
+      "verb_infinitive": "yazmak",
+      "tr_infinitive": "yazmak",
+      "conjugation_note": "yaz + acak + sın → yazacaksın",
+      "audio_hint": "sen yaz-a-CAK-sın"
+    },
+    {
+      "id": 23,
+      "pt": "Ele/Ela correrá.",
+      "tr": "O koşacak.",
+      "verb_root": "koş",
+      "verb_infinitive": "koşmak",
+      "tr_infinitive": "koşmak",
+      "conjugation_note": "koş + acak → koşacak",
+      "audio_hint": "o ko-şa-CAK"
+    },
+    {
+      "id": 24,
+      "pt": "Nós nadaremos.",
+      "tr": "Biz yüzeceğiz.",
+      "verb_root": "yüz",
+      "verb_infinitive": "yüzmek",
+      "tr_infinitive": "yüzmek",
+      "conjugation_note": "yüz + ecek + iz → yüzeceğiz",
+      "audio_hint": "biz yü-ze-CE-ğiz"
+    },
+    {
+      "id": 25,
+      "pt": "Vocês cantarão.",
+      "tr": "Siz şarkı söyleyeceksiniz.",
+      "verb_root": "söyle",
+      "verb_infinitive": "söylemek",
+      "tr_infinitive": "söylemek",
+      "conjugation_note": "söyle + yecek + siniz → söyleyeceksiniz",
+      "audio_hint": "siz söy-le-ye-CEK-si-niz"
+    },
+    {
+      "id": 26,
+      "pt": "Eu não trabalharei.",
+      "tr": "Ben çalışmayacağım.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + ma + yacak + ım → çalışmayacağım",
+      "audio_hint": "ben ça-lış-ma-ya-ÇA-ğım",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "pt": "Ele/Ela não dormirá?",
+      "tr": "O uyumayacak mı?",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + ma + yacak + mı → uyumayacak mı?",
+      "audio_hint": "o u-yu-ma-ya-CAK mı?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "pt": "Nós não ouviremos?",
+      "tr": "Biz dinlemeyecek miyiz?",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + me + yecek + miyiz → dinlemeyecek miyiz?",
+      "audio_hint": "biz din-le-me-ye-CEK mi-yiz?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "pt": "Tu dançarás?",
+      "tr": "Sen dans edecek misin?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + ecek + sin + mi → dans edecek misin?",
+      "audio_hint": "sen dans e-de-CEK mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "pt": "Eles não falarão turco.",
+      "tr": "Onlar Türkçe konuşmayacaklar.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ma + yacak + lar → konuşmayacaklar",
+      "audio_hint": "on-lar ko-nuş-ma-ya-CAK-lar",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "pt": "Eu", "suffix": "-eceğim / -acağım" },
+    { "pronoun": "Sen", "pt": "Tu / Você", "suffix": "-eceksin / -acaksın" },
+    { "pronoun": "O", "pt": "Ele/Ela", "suffix": "-ecek / -acak" },
+    { "pronoun": "Biz", "pt": "Nós", "suffix": "-eceğiz / -acağız" },
+    { "pronoun": "Siz", "pt": "Vocês", "suffix": "-eceksiniz / -acaksınız" },
+    { "pronoun": "Onlar", "pt": "Eles/Elas", "suffix": "-ecek(ler) / -acak(lar)" }
+  ],
+  "extra_note_tr": "Gelecek zaman eki ünlü uyumuna uyar: son ünlü kalın ise -acak, ince ise -ecek. Olumsuzluk '-ma/-me' ile yapılır. Soru eki 'mi/mı/mu/mü' kişi ekinden sonra gelir."
+}
