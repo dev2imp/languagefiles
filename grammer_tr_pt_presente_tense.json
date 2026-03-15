@@ -1,0 +1,246 @@
+{
+  "level": 10,
+  "topic": "Present Tense (Şimdiki Zaman)",
+  "language_pair": "tr-pt",
+  "target_language": "tr",
+  "native_language": "pt",
+  "description": "Presente progressivo turco (-iyor) para falantes de português",
+  "grammar_focus": {
+    "rule": "Raiz do verbo + vogal harmônica + yor + sufixo pessoal",
+    "suffixes": {
+      "ben (eu)": "-iyorum / -ıyorum / -uyorum / -üyorum",
+      "sen (você)": "-iyorsun / -ıyorsun / -uyorsun / -üyorsun",
+      "o (ele/ela)": "-iyor / -ıyor / -uyor / -üyor",
+      "biz (nós)": "-iyoruz / -ıyoruz / -uyoruz / -üyoruz",
+      "siz (vocês)": "-iyorsunuz / -ıyorsunuz / -uyorsunuz / -üyorsunuz",
+      "onlar (eles)": "-iyorlar / -ıyorlar / -uyorlar / -üyorlar"
+    },
+    "note_pt": "Em turco, o presente progressivo (-iyor) é usado tanto para ações em andamento AGORA quanto para hábitos, ao contrário do português que distingue 'estou fazendo' de 'faço'."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben gidiyorum.",
+      "pt": "Eu estou indo. / Eu vou.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "pt_infinitive": "ir",
+      "conjugation_note": "git → gid + iyor + um (harmonização: i)",
+      "audio_hint": "gee-dee-YO-rum"
+    },
+    {
+      "id": 2,
+      "tr": "Sen geliyorsun.",
+      "pt": "Você está vindo. / Você vem.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "pt_infinitive": "vir",
+      "conjugation_note": "gel + iyor + sun (vogal frontal: i)",
+      "audio_hint": "geh-lee-YOR-sun"
+    },
+    {
+      "id": 3,
+      "tr": "O yiyor.",
+      "pt": "Ele/Ela está comendo. / Ele/Ela come.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "pt_infinitive": "comer",
+      "conjugation_note": "ye → y + iyor (raiz termina em vogal, remove-se a vogal)",
+      "audio_hint": "yee-YOR"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içiyoruz.",
+      "pt": "Nós estamos bebendo. / Nós bebemos.",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "pt_infinitive": "beber",
+      "conjugation_note": "iç + iyor + uz (vogal frontal: i)",
+      "audio_hint": "ee-chee-YO-ruz"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşuyorsunuz.",
+      "pt": "Vocês estão falando. / Vocês falam.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "pt_infinitive": "falar",
+      "conjugation_note": "konuş + uyor + sunuz (vogal traseira arredondada: u)",
+      "audio_hint": "ko-nu-SHU-yor-su-nuz"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışıyorlar.",
+      "pt": "Eles/Elas estão trabalhando. / Eles trabalham.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "çalış + ıyor + lar (vogal traseira não-arredondada: ı)",
+      "audio_hint": "cha-luh-SHUH-yor-lar"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni seviyorum.",
+      "pt": "Eu te amo. / Eu estou te amando.",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "pt_infinitive": "amar",
+      "conjugation_note": "sev + iyor + um (vogal frontal: i)",
+      "audio_hint": "seh-vee-YO-rum"
+    },
+    {
+      "id": 8,
+      "tr": "O uyuyor.",
+      "pt": "Ele/Ela está dormindo.",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "uyu → uy + uyor (raiz termina em vogal: remove-se)",
+      "audio_hint": "oo-YOO-yor"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynuyoruz.",
+      "pt": "Nós estamos jogando / brincando.",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "pt_infinitive": "jogar / brincar",
+      "conjugation_note": "oyna → oyn + uyor + uz (vogal traseira arredondada: u)",
+      "audio_hint": "oy-NOO-yo-ruz"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yapıyorsun?",
+      "pt": "O que você está fazendo?",
+      "verb_root": "yap",
+      "verb_infinitive": "yapmak",
+      "pt_infinitive": "fazer",
+      "conjugation_note": "yap + ıyor + sun (vogal traseira não-arredondada: ı)",
+      "audio_hint": "yah-PUH-yor-sun"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Türkçe öğreniyorum.",
+      "pt": "Eu estou aprendendo turco.",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "pt_infinitive": "aprender",
+      "conjugation_note": "öğren + iyor + um (vogal frontal arredondada: ö → i)",
+      "audio_hint": "ö-ren-ee-YO-rum"
+    },
+    {
+      "id": 12,
+      "tr": "O araba kullanıyor.",
+      "pt": "Ele/Ela está dirigindo. / Ele dirige.",
+      "verb_root": "kullan",
+      "verb_infinitive": "kullanmak",
+      "pt_infinitive": "dirigir / usar",
+      "conjugation_note": "kullan + ıyor (vogal traseira: ı)",
+      "audio_hint": "kul-lah-NUH-yor"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinliyoruz.",
+      "pt": "Nós estamos ouvindo música.",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "pt_infinitive": "ouvir / escutar",
+      "conjugation_note": "dinle → dinl + iyor + uz (raiz termina em vogal: remove-se)",
+      "audio_hint": "din-lee-YO-ruz"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okuyorsun.",
+      "pt": "Você está lendo um livro.",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "pt_infinitive": "ler",
+      "conjugation_note": "oku → ok + uyor + sun (raiz termina em vogal: remove-se)",
+      "audio_hint": "o-KOO-yor-sun"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmiyorum.",
+      "pt": "Eu não estou indo. / Eu não vou.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "pt_infinitive": "ir (negativo)",
+      "conjugation_note": "git + me + iyor + um → gitMİyorum (negação: -me/-ma antes de -iyor)",
+      "audio_hint": "git-mee-YO-rum",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmiyor.",
+      "pt": "Ele/Ela não está vindo. / Ele não vem.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "pt_infinitive": "vir (negativo)",
+      "conjugation_note": "gel + me + iyor → gelMİyor (negação 3ª pessoa)",
+      "audio_hint": "gel-mee-YOR",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen geliyor musun?",
+      "pt": "Você está vindo? / Você vem?",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "pt_infinitive": "vir (pergunta)",
+      "conjugation_note": "geliyor + musun? (partícula de pergunta 'mu' separada do verbo)",
+      "audio_hint": "geh-lee-YOR moo-sun",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu görüyorum.",
+      "pt": "Eu estou vendo ele/ela. / Eu o/a vejo.",
+      "verb_root": "gör",
+      "verb_infinitive": "görmek",
+      "pt_infinitive": "ver",
+      "conjugation_note": "gör + üyor + um (vogal frontal arredondada: ü)",
+      "audio_hint": "gö-rü-YO-rum"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar güülüyor.",
+      "pt": "Eles/Elas estão rindo.",
+      "verb_root": "gül",
+      "verb_infinitive": "gülmek",
+      "pt_infinitive": "rir",
+      "conjugation_note": "gül + üyor + lar (vogal frontal arredondada: ü)",
+      "audio_hint": "gü-lü-YOR-lar"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekliyoruz.",
+      "pt": "Nós estamos esperando aqui.",
+      "verb_root": "bekle",
+      "verb_infinitive": "beklemek",
+      "pt_infinitive": "esperar",
+      "conjugation_note": "bekle → bekl + iyor + uz (raiz termina em vogal: remove-se)",
+      "audio_hint": "bek-lee-YO-ruz"
+    }
+  ],
+  "vowel_harmony_guide": {
+    "title": "Guia de Harmonia Vocálica para -iyor",
+    "pt_explanation": "A última vogal da raiz do verbo determina qual forma de -iyor usar:",
+    "rules": [
+      { "last_vowel": "e, i", "suffix": "-iyor", "example": "gel → geliyor" },
+      { "last_vowel": "a, ı", "suffix": "-ıyor", "example": "yap → yapıyor" },
+      { "last_vowel": "o, u", "suffix": "-uyor", "example": "koş → koşuyor" },
+      { "last_vowel": "ö, ü", "suffix": "-üyor", "example": "gör → görüyor" }
+    ]
+  },
+  "personal_suffixes": [
+    { "pronoun": "Ben", "pt": "Eu", "suffix": "-um / -ım / -um / -üm" },
+    { "pronoun": "Sen", "pt": "Você", "suffix": "-sun / -sın / -sun / -sün" },
+    { "pronoun": "O", "pt": "Ele/Ela", "suffix": "(sem sufixo)" },
+    { "pronoun": "Biz", "pt": "Nós", "suffix": "-uz / -ız / -uz / -üz" },
+    { "pronoun": "Siz", "pt": "Vocês", "suffix": "-sunuz / -sınız / -sunuz / -sünüz" },
+    { "pronoun": "Onlar", "pt": "Eles/Elas", "suffix": "-lar / -ler" }
+  ]
+}
+
+
+
