@@ -1,0 +1,343 @@
+{
+  "level": 10,
+  "topic": "Portekizce Şimdiki Zaman Sürekli (Presente Contínuo)",
+  "language_pair": "tr-pt",
+  "target_language": "pt",
+  "native_language": "tr",
+  "description": "Portekizce'de şimdiki zaman sürekli kip (estar + -ando/-endo/-indo) – Türk konuşmacılar için",
+  "grammar_focus": {
+    "rule": "estar (şimdiki zaman) + fiilin -ando / -endo / -indo hali",
+    "suffixes": {
+      "ben (eu)": "estou",
+      "sen (tu/você)": "estás",
+      "o (ele/ela/você)": "está",
+      "biz (nós)": "estamos",
+      "siz (vocês)": "estão",
+      "onlar (eles/elas)": "estão"
+    },
+    "note_pt": "Portekizce'de 'estou fazendo' yapısı Türkçedeki '-iyor' kipine çok benzer. Hem şu anda devam eden eylemleri hem de yakın gelecekteki planları anlatır. Günlük hayatta bazen sadece geniş zaman da kullanılır ama 'şu anda' vurgusu için mutlaka 'estar + gerund' kullanılır."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben gidiyorum.",
+      "pt": "Estou indo.",
+      "verb_root": "ir",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "ir (düzensiz) → indo",
+      "audio_hint": "es-TOH EEN-doo"
+    },
+    {
+      "id": 2,
+      "tr": "Sen geliyorsun.",
+      "pt": "Estás vindo.",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "vir (düzensiz) → vindo",
+      "audio_hint": "es-TASH VEEN-doo"
+    },
+    {
+      "id": 3,
+      "tr": "O yiyor.",
+      "pt": "Está comendo.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer (-er) → comendo",
+      "audio_hint": "es-TAH koo-MEN-doo"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içiyoruz.",
+      "pt": "Estamos bebendo.",
+      "verb_root": "beb",
+      "verb_infinitive": "beber",
+      "pt_infinitive": "beber",
+      "conjugation_note": "beber (-er) → bebendo",
+      "audio_hint": "es-TAH-moos beh-BEN-doo"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşuyorsunuz.",
+      "pt": "Estão falando.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar (-ar) → falando",
+      "audio_hint": "es-TOWN fah-LAN-doo"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışıyorlar.",
+      "pt": "Estão trabalhando.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "trabalhar (-ar) → trabalhando",
+      "audio_hint": "es-TOWN trah-bahl-YAN-doo"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni seviyorum.",
+      "pt": "Estou te amando.",
+      "verb_root": "am",
+      "verb_infinitive": "amar",
+      "pt_infinitive": "amar",
+      "conjugation_note": "amar (-ar) → amando",
+      "audio_hint": "es-TOH chee ah-MAN-doo"
+    },
+    {
+      "id": 8,
+      "tr": "O uyuyor.",
+      "pt": "Está dormindo.",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "dormir (-ir) → dormindo",
+      "audio_hint": "es-TAH door-MEEN-doo"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynuyoruz.",
+      "pt": "Estamos jogando.",
+      "verb_root": "jog",
+      "verb_infinitive": "jogar",
+      "pt_infinitive": "jogar",
+      "conjugation_note": "jogar (-ar) → jogando",
+      "audio_hint": "es-TAH-moos zhoo-GAN-doo"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yapıyorsun?",
+      "pt": "O que estás fazendo?",
+      "verb_root": "faz",
+      "verb_infinitive": "fazer",
+      "pt_infinitive": "fazer",
+      "conjugation_note": "fazer (-er) → fazendo",
+      "audio_hint": "oo keh es-TASH fah-ZEN-doo",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Türkçe öğreniyorum.",
+      "pt": "Estou aprendendo português.",
+      "verb_root": "aprend",
+      "verb_infinitive": "aprender",
+      "pt_infinitive": "aprender",
+      "conjugation_note": "aprender (-er) → aprendendo",
+      "audio_hint": "es-TOH ah-pren-DEN-doo"
+    },
+    {
+      "id": 12,
+      "tr": "O araba kullanıyor.",
+      "pt": "Está dirigindo.",
+      "verb_root": "dirig",
+      "verb_infinitive": "dirigir",
+      "pt_infinitive": "dirigir",
+      "conjugation_note": "dirigir (-ir) → dirigindo",
+      "audio_hint": "es-TAH dee-ree-ZHEEN-doo"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinliyoruz.",
+      "pt": "Estamos ouvindo música.",
+      "verb_root": "ouv",
+      "verb_infinitive": "ouvir",
+      "pt_infinitive": "ouvir",
+      "conjugation_note": "ouvir (-ir) → ouvindo",
+      "audio_hint": "es-TAH-moos oh-VEEN-doo"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okuyorsun.",
+      "pt": "Estás lendo um livro.",
+      "verb_root": "l",
+      "verb_infinitive": "ler",
+      "pt_infinitive": "ler",
+      "conjugation_note": "ler (-er) → lendo",
+      "audio_hint": "es-TASH LEN-doo"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmiyorum.",
+      "pt": "Não estou indo.",
+      "verb_root": "ir",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "olumsuz: não + estou + indo",
+      "audio_hint": "NOW es-TOH EEN-doo",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmiyor.",
+      "pt": "Não está vindo.",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "olumsuz: não + está + vindo",
+      "audio_hint": "NOW es-TAH VEEN-doo",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen geliyor musun?",
+      "pt": "Estás vindo?",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "soru: estás + vindo?",
+      "audio_hint": "es-TASH VEEN-doo?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu görüyorum.",
+      "pt": "Estou vendo ele/ela.",
+      "verb_root": "v",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "conjugation_note": "ver (-er) → vendo",
+      "audio_hint": "es-TOH VEN-doo"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar gülüyorlar.",
+      "pt": "Estão rindo.",
+      "verb_root": "r",
+      "verb_infinitive": "rir",
+      "pt_infinitive": "rir",
+      "conjugation_note": "rir (-ir) → rindo",
+      "audio_hint": "es-TOWN HEEN-doo"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekliyoruz.",
+      "pt": "Estamos esperando aqui.",
+      "verb_root": "esper",
+      "verb_infinitive": "esperar",
+      "pt_infinitive": "esperar",
+      "conjugation_note": "esperar (-ar) → esperando",
+      "audio_hint": "es-TAH-moos es-peh-RAN-doo"
+    },
+    {
+      "id": 21,
+      "tr": "Ben yemek yiyorum.",
+      "pt": "Estou comendo.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer (-er) → comendo",
+      "audio_hint": "es-TOH koo-MEN-doo"
+    },
+    {
+      "id": 22,
+      "tr": "Sen kitap yazıyorsun.",
+      "pt": "Estás escrevendo um livro.",
+      "verb_root": "escrev",
+      "verb_infinitive": "escrever",
+      "pt_infinitive": "escrever",
+      "conjugation_note": "escrever (-er) → escrevendo",
+      "audio_hint": "es-TASH es-kreh-VEN-doo"
+    },
+    {
+      "id": 23,
+      "tr": "O koşuyor.",
+      "pt": "Está correndo.",
+      "verb_root": "corr",
+      "verb_infinitive": "correr",
+      "pt_infinitive": "correr",
+      "conjugation_note": "correr (-er) → correndo",
+      "audio_hint": "es-TAH koo-HEN-doo"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzüyoruz.",
+      "pt": "Estamos nadando.",
+      "verb_root": "nad",
+      "verb_infinitive": "nadar",
+      "pt_infinitive": "nadar",
+      "conjugation_note": "nadar (-ar) → nadando",
+      "audio_hint": "es-TAH-moos nah-DAN-doo"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söylüyorsunuz.",
+      "pt": "Estão cantando.",
+      "verb_root": "cant",
+      "verb_infinitive": "cantar",
+      "pt_infinitive": "cantar",
+      "conjugation_note": "cantar (-ar) → cantando",
+      "audio_hint": "es-TOWN kan-TAN-doo"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmıyorum.",
+      "pt": "Não estou trabalhando.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "olumsuz: não + estou + trabalhando",
+      "audio_hint": "NOW es-TOH trah-bahl-YAN-doo",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumuyor mu?",
+      "pt": "Não está dormindo?",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "soru + olumsuz",
+      "audio_hint": "NOW es-TAH door-MEEN-doo?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz müzik dinlemiyor muyuz?",
+      "pt": "Não estamos ouvindo música?",
+      "verb_root": "ouv",
+      "verb_infinitive": "ouvir",
+      "pt_infinitive": "ouvir",
+      "conjugation_note": "soru + olumsuz",
+      "audio_hint": "NOW es-TAH-moos oh-VEEN-doo?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans ediyor musun?",
+      "pt": "Estás dançando?",
+      "verb_root": "danç",
+      "verb_infinitive": "dançar",
+      "pt_infinitive": "dançar",
+      "conjugation_note": "dançar (-ar) → dançando",
+      "audio_hint": "es-TASH dan-SAN-doo?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Türkçe konuşmuyorlar.",
+      "pt": "Não estão falando turco.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "olumsuz: não + estão + falando",
+      "audio_hint": "NOW es-TOWN fah-LAN-doo",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "pt": "Eu", "suffix": "estou" },
+    { "pronoun": "Sen", "pt": "Tu / Você", "suffix": "estás" },
+    { "pronoun": "O", "pt": "Ele/Ela/Você", "suffix": "está" },
+    { "pronoun": "Biz", "pt": "Nós", "suffix": "estamos" },
+    { "pronoun": "Siz", "pt": "Vocês", "suffix": "estão" },
+    { "pronoun": "Onlar", "pt": "Eles/Elas", "suffix": "estão" }
+  ],
+  "vowel_harmony_guide": {
+    "title": "Not: Portekizce'de harmoni yok",
+    "pt_explanation": "Portekizce'de Türkçedeki gibi ünlü uyumu yoktur. Sadece -ar / -er / -ir fiil gruplarına göre gerund eki değişir."
+  }
+}
