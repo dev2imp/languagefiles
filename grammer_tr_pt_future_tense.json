@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Portekizce Gelecek Zaman (Futuro do Presente)",
+  "language_pair": "tr-pt",
+  "target_language": "pt",
+  "native_language": "tr",
+  "description": "Portekizce'de gelecek zaman (Futuro do Presente) – Türk konuşmacılar için. Yakın veya genel gelecekteki eylemleri anlatır. Türkçedeki '-ecek/-acak' kipine benzer.",
+  "grammar_focus": {
+    "rule": "Fiilin mastar hali + ekler: -ei, -ás, -á, -emos, -eis, -ão",
+    "suffixes": {
+      "ben (eu)": "-ei",
+      "sen (tu)": "-ás",
+      "o (ele/ela/você)": "-á",
+      "biz (nós)": "-emos",
+      "siz (vós/vocês)": "-eis / -ão",
+      "onlar (eles/elas)": "-ão"
+    },
+    "note_pt": "Portekizce'de Futuro do Presente, fiilin mastarına doğrudan ekler eklenerek yapılır. Neredeyse tüm fiiller düzenli çekilir. Sadece 3 yaygın düzensiz fiil var: fazer → farei, dizer → direi, trazer → trarei. Günlük konuşmada 'ir + mastar' (vou fazer) daha sık kullanılır ama bu kip daha resmi veya kesin gelecek için tercih edilir. Olumsuzluk: não + fiil (não falarei). Soru: entonasyon veya inversion ile (Falarás?)."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben gideceğim.",
+      "pt": "Eu irei.",
+      "verb_root": "ir",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "ir + ei → irei",
+      "audio_hint": "eh-oo ee-RAY"
+    },
+    {
+      "id": 2,
+      "tr": "Sen geleceksin.",
+      "pt": "Tu virás.",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "vir + ás → virás",
+      "audio_hint": "too vee-RAHS"
+    },
+    {
+      "id": 3,
+      "tr": "O yiyecek.",
+      "pt": "Ele/Ela comerá.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + á → comerá",
+      "audio_hint": "EH-lee koo-meh-RA"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içeceğiz.",
+      "pt": "Nós beberemos.",
+      "verb_root": "beb",
+      "verb_infinitive": "beber",
+      "pt_infinitive": "beber",
+      "conjugation_note": "beber + emos → beberemos",
+      "audio_hint": "NOHS beh-beh-REH-moos"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşacaksınız.",
+      "pt": "Vocês falarão.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + ão → falarão",
+      "audio_hint": "vo-SAYS fah-lah-ROW"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışacaklar.",
+      "pt": "Eles trabalharão.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "trabalhar + ão → trabalharão",
+      "audio_hint": "EH-leesh trah-bahl-yah-ROW"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni seveceğim.",
+      "pt": "Eu te amarei.",
+      "verb_root": "am",
+      "verb_infinitive": "amar",
+      "pt_infinitive": "amar",
+      "conjugation_note": "amar + ei → amarei",
+      "audio_hint": "eh-oo chee ah-mah-RAY"
+    },
+    {
+      "id": 8,
+      "tr": "O uyuyacak.",
+      "pt": "Ele/Ela dormirá.",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "dormir + á → dormirá",
+      "audio_hint": "EH-lee door-mee-RA"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynayacağız.",
+      "pt": "Nós jogaremos.",
+      "verb_root": "jog",
+      "verb_infinitive": "jogar",
+      "pt_infinitive": "jogar",
+      "conjugation_note": "jogar + emos → jogaremos",
+      "audio_hint": "NOHS zhoo-gah-REH-moos"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yapacaksın?",
+      "pt": "O que tu farás?",
+      "verb_root": "far (düzensiz)",
+      "verb_infinitive": "fazer",
+      "pt_infinitive": "fazer",
+      "conjugation_note": "fazer → far + ás → farás (düzensiz)",
+      "audio_hint": "oo keh too fah-RAHS?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Portekizce öğreneceğim.",
+      "pt": "Eu aprenderei português.",
+      "verb_root": "aprend",
+      "verb_infinitive": "aprender",
+      "pt_infinitive": "aprender",
+      "conjugation_note": "aprender + ei → aprenderei",
+      "audio_hint": "eh-oo ah-pren-deh-RAY"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürecek.",
+      "pt": "Ele/Ela dirigirá.",
+      "verb_root": "dirig",
+      "verb_infinitive": "dirigir",
+      "pt_infinitive": "dirigir",
+      "conjugation_note": "dirigir + á → dirigirá",
+      "audio_hint": "EH-lee dee-ree-zhee-RA"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinleyeceğiz.",
+      "pt": "Nós ouviremos música.",
+      "verb_root": "ouv",
+      "verb_infinitive": "ouvir",
+      "pt_infinitive": "ouvir",
+      "conjugation_note": "ouvir + emos → ouviremos",
+      "audio_hint": "NOHS oh-vee-REH-moos"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okuyacaksın.",
+      "pt": "Tu lerás um livro.",
+      "verb_root": "l",
+      "verb_infinitive": "ler",
+      "pt_infinitive": "ler",
+      "conjugation_note": "ler → ler + ás → lerás",
+      "audio_hint": "too leh-RAHS"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmeyeceğim.",
+      "pt": "Eu não irei.",
+      "verb_root": "ir",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "não + irei",
+      "audio_hint": "eh-oo NOW ee-RAY",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmeyecek.",
+      "pt": "Ele/Ela não virá.",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "não + virá",
+      "audio_hint": "EH-lee NOW vee-RA",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen gelecek misin?",
+      "pt": "Tu virás?",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "virás? (soru entonasyonu)",
+      "audio_hint": "too vee-RAHS?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu göreceğim.",
+      "pt": "Eu o verei.",
+      "verb_root": "v",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "conjugation_note": "ver + ei → verei",
+      "audio_hint": "eh-oo oo veh-RAY"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar gülecekler.",
+      "pt": "Eles rirão.",
+      "verb_root": "r",
+      "verb_infinitive": "rir",
+      "pt_infinitive": "rir",
+      "conjugation_note": "rir + ão → rirão",
+      "audio_hint": "EH-leesh hee-ROW"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekleyeceğiz.",
+      "pt": "Nós esperaremos aqui.",
+      "verb_root": "esper",
+      "verb_infinitive": "esperar",
+      "pt_infinitive": "esperar",
+      "conjugation_note": "esperar + emos → esperaremos",
+      "audio_hint": "NOHS es-peh-rah-REH-moos"
+    },
+    {
+      "id": 21,
+      "tr": "Ben yemek yiyeceğim.",
+      "pt": "Eu comerei.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + ei → comerei",
+      "audio_hint": "eh-oo koo-meh-RAY"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazacaksın.",
+      "pt": "Tu escreverás.",
+      "verb_root": "escrev",
+      "verb_infinitive": "escrever",
+      "pt_infinitive": "escrever",
+      "conjugation_note": "escrever + ás → escreverás",
+      "audio_hint": "too es-kreh-veh-RAHS"
+    },
+    {
+      "id": 23,
+      "tr": "O koşacak.",
+      "pt": "Ele/Ela correrá.",
+      "verb_root": "corr",
+      "verb_infinitive": "correr",
+      "pt_infinitive": "correr",
+      "conjugation_note": "correr + á → correrá",
+      "audio_hint": "EH-lee koo-heh-RA"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzeceğiz.",
+      "pt": "Nós nadaremos.",
+      "verb_root": "nad",
+      "verb_infinitive": "nadar",
+      "pt_infinitive": "nadar",
+      "conjugation_note": "nadar + emos → nadaremos",
+      "audio_hint": "NOHS nah-dah-REH-moos"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söyleyeceksiniz.",
+      "pt": "Vocês cantarão.",
+      "verb_root": "cant",
+      "verb_infinitive": "cantar",
+      "pt_infinitive": "cantar",
+      "conjugation_note": "cantar + ão → cantarão",
+      "audio_hint": "vo-SAYS kan-tah-ROW"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmayacağım.",
+      "pt": "Eu não trabalharei.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "não + trabalharei",
+      "audio_hint": "eh-oo NOW trah-bahl-yah-RAY",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumayacak mı?",
+      "pt": "Ele/Ela não dormirá?",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "não dormirá?",
+      "audio_hint": "EH-lee NOW door-mee-RA?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz dinlemeyecek miyiz?",
+      "pt": "Nós não ouviremos?",
+      "verb_root": "ouv",
+      "verb_infinitive": "ouvir",
+      "pt_infinitive": "ouvir",
+      "conjugation_note": "não ouviremos?",
+      "audio_hint": "NOHS NOW oh-vee-REH-moos?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans edecek misin?",
+      "pt": "Tu dançarás?",
+      "verb_root": "danç",
+      "verb_infinitive": "dançar",
+      "pt_infinitive": "dançar",
+      "conjugation_note": "dançarás?",
+      "audio_hint": "too dahn-sah-RAHS?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Türkçe konuşmayacaklar.",
+      "pt": "Eles não falarão turco.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "não falarão",
+      "audio_hint": "EH-leesh NOW fah-lah-ROW",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "pt": "Eu", "suffix": "-ei" },
+    { "pronoun": "Sen", "pt": "Tu", "suffix": "-ás" },
+    { "pronoun": "O", "pt": "Ele/Ela/Você", "suffix": "-á" },
+    { "pronoun": "Biz", "pt": "Nós", "suffix": "-emos" },
+    { "pronoun": "Siz", "pt": "Vocês", "suffix": "-ão" },
+    { "pronoun": "Onlar", "pt": "Eles/Elas", "suffix": "-ão" }
+  ],
+  "extra_note_tr": "Portekizce'de gelecek zaman mastara ek eklenerek yapılır. Düzensiz fiiller azdır (fazer → farei, dizer → direi, trazer → trarei). Günlük konuşmada 'vou + mastar' (vou falar) daha yaygındır ama bu kip daha resmi veya yazılı dilde kullanılır."
+}
