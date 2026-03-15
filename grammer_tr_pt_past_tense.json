@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Portekizce Geçmiş Zaman - Pretérito Perfeito (Tamamlanmış Geçmiş)",
+  "language_pair": "tr-pt",
+  "target_language": "pt",
+  "native_language": "tr",
+  "description": "Portekizce'de Pretérito Perfeito (basit geçmiş zaman) – Türk konuşmacılar için. Tamamlanmış, bitmiş eylemleri anlatır.",
+  "grammar_focus": {
+    "rule": "Fiil köküne göre düzenli çekim: -ar → -ei/-aste/-ou/... | -er → -i/-este/-eu/... | -ir → -i/-iste/-iu/... (düzensiz fiiller farklı olur)",
+    "suffixes": {
+      "ben (eu)": "-ei / -i / -i",
+      "sen (tu)": "-aste / -este / -iste",
+      "o (ele/ela/você)": "-ou / -eu / -iu",
+      "biz (nós)": "-amos / -emos / -imos",
+      "siz (vós/vocês)": "-astes / -estes / -istes / -aram / -eram / -iram",
+      "onlar (eles/elas)": "-aram / -eram / -iram"
+    },
+    "note_pt": "Pretérito Perfeito, dün, geçen hafta, bir kez olup biten eylemleri anlatmak için kullanılır. Türkçedeki '-di' geçmiş zamanına çok benzer. Örnek: 'Eu falei' = 'Konuştum' (dün konuştum, bitti). Düzensiz fiiller (fazer → fiz, ser → fui, ter → tive vb.) çok sık kullanılır, onları ayrı ayrı ezberlemek gerekir."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben konuştum.",
+      "pt": "Eu falei.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "-ar fiil → -ei",
+      "audio_hint": "eh-oo fah-LAY"
+    },
+    {
+      "id": 2,
+      "tr": "Sen yedin.",
+      "pt": "Tu comeste.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "-er fiil → -este",
+      "audio_hint": "too koo-MESH-tee"
+    },
+    {
+      "id": 3,
+      "tr": "O gitti.",
+      "pt": "Ele/Ela foi.",
+      "verb_root": "ir (düzensiz)",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "düzensiz: fui, foste, foi...",
+      "audio_hint": "EH-lee foy"
+    },
+    {
+      "id": 4,
+      "tr": "Biz uyuduk.",
+      "pt": "Nós dormimos.",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "-ir fiil → -imos",
+      "audio_hint": "NOHS door-MEE-moos"
+    },
+    {
+      "id": 5,
+      "tr": "Siz çalıştınız.",
+      "pt": "Vocês trabalharam.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "-ar fiil → -aram",
+      "audio_hint": "vo-SAYS trah-bahl-YAH-rão"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar geldi.",
+      "pt": "Eles vieram.",
+      "verb_root": "vi (düzensiz)",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "düzensiz: vim, vieste, veio...",
+      "audio_hint": "EH-leesh VYEH-rão"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni aradım.",
+      "pt": "Eu te liguei.",
+      "verb_root": "lig",
+      "verb_infinitive": "ligar",
+      "pt_infinitive": "ligar",
+      "conjugation_note": "-ar fiil → -uei",
+      "audio_hint": "eh-oo chee lee-GAY"
+    },
+    {
+      "id": 8,
+      "tr": "O gördü.",
+      "pt": "Ele/Ela viu.",
+      "verb_root": "v (düzensiz)",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "conjugation_note": "düzensiz: vi, viste, viu",
+      "audio_hint": "EH-lee VEE-oo"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynadık.",
+      "pt": "Nós jogamos.",
+      "verb_root": "jog",
+      "verb_infinitive": "jogar",
+      "pt_infinitive": "jogar",
+      "conjugation_note": "-ar → -amos",
+      "audio_hint": "NOHS zhoo-GAH-moos"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yaptın?",
+      "pt": "O que tu fizeste?",
+      "verb_root": "fiz (düzensiz)",
+      "verb_infinitive": "fazer",
+      "pt_infinitive": "fazer",
+      "conjugation_note": "düzensiz: fiz, fizeste...",
+      "audio_hint": "oo keh too fee-ZESH-tee?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Portekizce öğrendim.",
+      "pt": "Eu aprendi português.",
+      "verb_root": "aprend",
+      "verb_infinitive": "aprender",
+      "pt_infinitive": "aprender",
+      "conjugation_note": "-er → -i",
+      "audio_hint": "eh-oo ah-pren-DEE"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürdü.",
+      "pt": "Ele/Ela dirigiu.",
+      "verb_root": "dirig",
+      "verb_infinitive": "dirigir",
+      "pt_infinitive": "dirigir",
+      "conjugation_note": "-ir → -iu",
+      "audio_hint": "EH-lee dee-ree-ZHEE-oo"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinledik.",
+      "pt": "Nós ouvimos música.",
+      "verb_root": "ouv",
+      "verb_infinitive": "ouvir",
+      "pt_infinitive": "ouvir",
+      "conjugation_note": "-ir → -imos",
+      "audio_hint": "NOHS oh-VEE-moos"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okudun.",
+      "pt": "Tu leste um livro.",
+      "verb_root": "l",
+      "verb_infinitive": "ler",
+      "pt_infinitive": "ler",
+      "conjugation_note": "düzensiz: li, leste, leu",
+      "audio_hint": "too LESHT-ee"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmedim.",
+      "pt": "Eu não fui.",
+      "verb_root": "fui (düzensiz)",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "olumsuz: não + fui",
+      "audio_hint": "eh-oo NOW FOO-ee",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmedi.",
+      "pt": "Ele/Ela não veio.",
+      "verb_root": "veio (düzensiz)",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "olumsuz: não + veio",
+      "audio_hint": "EH-lee NOW VAY-oo",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen geldin mi?",
+      "pt": "Tu vieste?",
+      "verb_root": "vieste (düzensiz)",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "soru: vieste?",
+      "audio_hint": "too VYESH-tee?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu gördüm.",
+      "pt": "Eu o vi.",
+      "verb_root": "vi (düzensiz)",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "conjugation_note": "düzensiz: vi",
+      "audio_hint": "eh-oo oo VEE"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar güldüler.",
+      "pt": "Eles riram.",
+      "verb_root": "r",
+      "verb_infinitive": "rir",
+      "pt_infinitive": "rir",
+      "conjugation_note": "-ir → -iram",
+      "audio_hint": "EH-leesh HEE-rão"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekledik.",
+      "pt": "Nós esperamos aqui.",
+      "verb_root": "esper",
+      "verb_infinitive": "esperar",
+      "pt_infinitive": "esperar",
+      "conjugation_note": "-ar → -amos",
+      "audio_hint": "NOHS es-peh-RAH-moos"
+    },
+    {
+      "id": 21,
+      "tr": "Ben yemek yedim.",
+      "pt": "Eu comi.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "-er → -i",
+      "audio_hint": "eh-oo koo-MEE"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazdın.",
+      "pt": "Tu escreveste.",
+      "verb_root": "escrev",
+      "verb_infinitive": "escrever",
+      "pt_infinitive": "escrever",
+      "conjugation_note": "-er → -este",
+      "audio_hint": "too es-kreh-VESH-tee"
+    },
+    {
+      "id": 23,
+      "tr": "O koştu.",
+      "pt": "Ele/Ela correu.",
+      "verb_root": "corr",
+      "verb_infinitive": "correr",
+      "pt_infinitive": "correr",
+      "conjugation_note": "-er → -eu",
+      "audio_hint": "EH-lee koo-HEW"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzdük.",
+      "pt": "Nós nadamos.",
+      "verb_root": "nad",
+      "verb_infinitive": "nadar",
+      "pt_infinitive": "nadar",
+      "conjugation_note": "-ar → -amos",
+      "audio_hint": "NOHS nah-DAH-moos"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söylediniz.",
+      "pt": "Vocês cantaram.",
+      "verb_root": "cant",
+      "verb_infinitive": "cantar",
+      "pt_infinitive": "cantar",
+      "conjugation_note": "-ar → -aram",
+      "audio_hint": "vo-SAYS kan-TAH-rão"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmadım.",
+      "pt": "Eu não trabalhei.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "olumsuz: não + trabalhei",
+      "audio_hint": "eh-oo NOW trah-bahl-YAY",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumadı mı?",
+      "pt": "Ele/Ela não dormiu?",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "soru + olumsuz",
+      "audio_hint": "EH-lee NOW door-MEE-oo?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz müzik dinlemedik mi?",
+      "pt": "Nós não ouvimos música?",
+      "verb_root": "ouv",
+      "verb_infinitive": "ouvir",
+      "pt_infinitive": "ouvir",
+      "conjugation_note": "soru + olumsuz",
+      "audio_hint": "NOHS NOW oh-VEE-moos?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans ettin mi?",
+      "pt": "Tu dançaste?",
+      "verb_root": "danç",
+      "verb_infinitive": "dançar",
+      "pt_infinitive": "dançar",
+      "conjugation_note": "-ar → -aste",
+      "audio_hint": "too dahn-SASH-tee?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Türkçe konuşmadılar.",
+      "pt": "Eles não falaram turco.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "olumsuz: não + falaram",
+      "audio_hint": "EH-leesh NOW fah-LAH-rão",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "pt": "Eu", "suffix": "-ei / -i" },
+    { "pronoun": "Sen", "pt": "Tu", "suffix": "-aste / -este / -iste" },
+    { "pronoun": "O", "pt": "Ele/Ela", "suffix": "-ou / -eu / -iu" },
+    { "pronoun": "Biz", "pt": "Nós", "suffix": "-amos / -emos / -imos" },
+    { "pronoun": "Siz", "pt": "Vocês", "suffix": "-aram / -eram / -iram" },
+    { "pronoun": "Onlar", "pt": "Eles/Elas", "suffix": "-aram / -eram / -iram" }
+  ],
+  "extra_note_tr": "Pretérito Perfeito, Türkçedeki '-di' geçmiş zamanına benzer. Düzensiz fiiller (ser, estar, ter, vir, fazer, dizer, pôr vb.) çok sık çıkar, onları öncelikli öğren."
+}
