@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Türkçe Görülen Geçmiş Zaman (-dı, -di, -du, -dü, -tı, -ti, -tu, -tü)",
+  "language_pair": "pt-tr",
+  "target_language": "tr",
+  "native_language": "pt",
+  "description": "Türkçe'de görülen geçmiş zaman (-dı'lı geçmiş) – Portekizce konuşanlar için. Bitmiş, tamamlanmış ve konuşanın bizzat gördüğü / tanık olduğu eylemleri anlatır.",
+  "grammar_focus": {
+    "rule": "Fiil kökü + zaman eki (-dı/-di/-du/-dü veya -tı/-ti/-tu/-tü) + kişi eki",
+    "suffixes": {
+      "ben (eu)": "-dım / -dim / -dum / -düm / -tım / -tim / -tum / -tüm",
+      "sen (tu/você)": "-dın / -din / -dun / -dün / -tın / -tin / -tun / -tün",
+      "o (ele/ela)": "-dı / -di / -du / -dü / -tı / -ti / -tu / -tü",
+      "biz (nós)": "-dık / -dik / -duk / -dük / -tık / -tik / -tuk / -tük",
+      "siz (vocês)": "-dınız / -diniz / -dunuz / -dünüz / -tınız / -tiniz / -tunuz / -tünüz",
+      "onlar (eles/elas)": "-dı(lar) / -di(ler) / -du(lar) / -dü(ler) / -tı(lar) / -ti(ler) / -tu(lar) / -tü(ler)"
+    },
+    "note_pt": "Türkçe'de '-dı'lı geçmiş zaman, Portekizce'deki Pretérito Perfeito Simples'e (falei, comi, parti) çok benzer. Konuşan eylemi bizzat görmüş veya kesin olarak biliyor olmalıdır. Olumsuzluk için fiilden hemen sonra '-ma/-me' eklenir. Soru için 'mi/mı/mu/mü' eki kişi ekinden sonra gelir."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "pt": "Eu fui.",
+      "tr": "Ben gittim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + ti + m → gittim (ünsüz yumuşaması: t → d)",
+      "audio_hint": "ben git-TIM"
+    },
+    {
+      "id": 2,
+      "pt": "Tu comeste.",
+      "tr": "Sen yedin.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + di + n → yedin",
+      "audio_hint": "sen ye-DIN"
+    },
+    {
+      "id": 3,
+      "pt": "Ele/Ela comeu.",
+      "tr": "O yedi.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + di → yedi",
+      "audio_hint": "o ye-DI"
+    },
+    {
+      "id": 4,
+      "pt": "Nós bebemos.",
+      "tr": "Biz içtik.",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + ti + k → içtik",
+      "audio_hint": "biz iç-TIK"
+    },
+    {
+      "id": 5,
+      "pt": "Vocês falaram.",
+      "tr": "Siz konuştunuz.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + tu + nuz → konuştunuz",
+      "audio_hint": "siz ko-nuş-TU-nuz"
+    },
+    {
+      "id": 6,
+      "pt": "Eles trabalharam.",
+      "tr": "Onlar çalıştılar.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + tı + lar → çalıştılar",
+      "audio_hint": "on-lar ça-lış-TI-lar"
+    },
+    {
+      "id": 7,
+      "pt": "Eu te amei.",
+      "tr": "Ben seni sevdim.",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + di + m → sevdim",
+      "audio_hint": "ben sev-DIM"
+    },
+    {
+      "id": 8,
+      "pt": "Ele/Ela dormiu.",
+      "tr": "O uyudu.",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + du → uyudu",
+      "audio_hint": "o u-yu-DU"
+    },
+    {
+      "id": 9,
+      "pt": "Nós jogamos.",
+      "tr": "Biz oynadık.",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + dı + k → oynadık",
+      "audio_hint": "biz oy-na-DIK"
+    },
+    {
+      "id": 10,
+      "pt": "O que tu fizeste?",
+      "tr": "Sen ne yaptın?",
+      "verb_root": "yap",
+      "verb_infinitive": "yapmak",
+      "tr_infinitive": "yapmak",
+      "conjugation_note": "yap + tı + n → yaptın",
+      "audio_hint": "sen yap-TIN?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "pt": "Eu aprendi turco.",
+      "tr": "Ben Türkçe öğrendim.",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + di + m → öğrendim",
+      "audio_hint": "ben öğ-ren-DIM"
+    },
+    {
+      "id": 12,
+      "pt": "Ele/Ela dirigiu.",
+      "tr": "O araba sürdü.",
+      "verb_root": "sür",
+      "verb_infinitive": "sürmek",
+      "tr_infinitive": "sürmek",
+      "conjugation_note": "sür + dü → sürdü",
+      "audio_hint": "o sür-DÜ"
+    },
+    {
+      "id": 13,
+      "pt": "Nós ouvimos música.",
+      "tr": "Biz müzik dinledik.",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + di + k → dinledik",
+      "audio_hint": "biz din-le-DIK"
+    },
+    {
+      "id": 14,
+      "pt": "Tu leste um livro.",
+      "tr": "Sen kitap okudun.",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + du + n → okudun",
+      "audio_hint": "sen o-ku-DUN"
+    },
+    {
+      "id": 15,
+      "pt": "Eu não fui.",
+      "tr": "Ben gitmedim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + di + m → gitmedim",
+      "audio_hint": "ben git-me-DIM",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "pt": "Ele/Ela não veio.",
+      "tr": "O gelmedi.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + me + di → gelmedi",
+      "audio_hint": "o gel-me-DI",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "pt": "Tu vieste?",
+      "tr": "Sen geldin mi?",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + di + n + mi → geldin mi?",
+      "audio_hint": "sen gel-DIN mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "pt": "Eu o vi.",
+      "tr": "Ben onu gördüm.",
+      "verb_root": "gör",
+      "verb_infinitive": "görmek",
+      "tr_infinitive": "görmek",
+      "conjugation_note": "gör + dü + m → gördüm",
+      "audio_hint": "ben gör-DÜM"
+    },
+    {
+      "id": 19,
+      "pt": "Eles riram.",
+      "tr": "Onlar güldüler.",
+      "verb_root": "gül",
+      "verb_infinitive": "gülmek",
+      "tr_infinitive": "gülmek",
+      "conjugation_note": "gül + dü + ler → güldüler",
+      "audio_hint": "on-lar gül-DÜ-ler"
+    },
+    {
+      "id": 20,
+      "pt": "Nós esperamos aqui.",
+      "tr": "Biz burada bekledik.",
+      "verb_root": "bekle",
+      "verb_infinitive": "beklemek",
+      "tr_infinitive": "beklemek",
+      "conjugation_note": "bekle + di + k → bekledik",
+      "audio_hint": "biz bek-le-DIK"
+    },
+    {
+      "id": 21,
+      "pt": "Eu comi.",
+      "tr": "Ben yemek yedim.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + di + m → yedim",
+      "audio_hint": "ben ye-DIM"
+    },
+    {
+      "id": 22,
+      "pt": "Tu escreveste.",
+      "tr": "Sen yazdın.",
+      "verb_root": "yaz",
+      "verb_infinitive": "yazmak",
+      "tr_infinitive": "yazmak",
+      "conjugation_note": "yaz + dı + n → yazdın",
+      "audio_hint": "sen yaz-DIN"
+    },
+    {
+      "id": 23,
+      "pt": "Ele/Ela correu.",
+      "tr": "O koştu.",
+      "verb_root": "koş",
+      "verb_infinitive": "koşmak",
+      "tr_infinitive": "koşmak",
+      "conjugation_note": "koş + tu → koştu",
+      "audio_hint": "o koş-TU"
+    },
+    {
+      "id": 24,
+      "pt": "Nós nadamos.",
+      "tr": "Biz yüzdük.",
+      "verb_root": "yüz",
+      "verb_infinitive": "yüzmek",
+      "tr_infinitive": "yüzmek",
+      "conjugation_note": "yüz + dü + k → yüzdük",
+      "audio_hint": "biz yüz-DÜK"
+    },
+    {
+      "id": 25,
+      "pt": "Vocês cantaram.",
+      "tr": "Siz şarkı söylediniz.",
+      "verb_root": "söyle",
+      "verb_infinitive": "söylemek",
+      "tr_infinitive": "söylemek",
+      "conjugation_note": "söyle + di + niz → söylediniz",
+      "audio_hint": "siz söy-le-DI-niz"
+    },
+    {
+      "id": 26,
+      "pt": "Eu não trabalhei.",
+      "tr": "Ben çalışmadım.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + ma + dı + m → çalışmadım",
+      "audio_hint": "ben ça-lış-ma-DIM",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "pt": "Ele/Ela não dormiu?",
+      "tr": "O uyumadı mı?",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + ma + dı + mı → uyumadı mı?",
+      "audio_hint": "o u-yu-ma-DI mı?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "pt": "Nós não ouvimos?",
+      "tr": "Biz dinlemedik mi?",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + me + dik + mi → dinlemedik mi?",
+      "audio_hint": "biz din-le-me-DIK mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "pt": "Tu dançaste?",
+      "tr": "Sen dans ettin mi?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + ti + n + mi → dans ettin mi?",
+      "audio_hint": "sen dans et-TIN mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "pt": "Eles não falaram turco.",
+      "tr": "Onlar Türkçe konuşmadılar.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ma + dı + lar → konuşmadılar",
+      "audio_hint": "on-lar ko-nuş-ma-DI-lar",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "pt": "Eu", "suffix": "-dım / -dim / -dum / -düm" },
+    { "pronoun": "Sen", "pt": "Tu / Você", "suffix": "-dın / -din / -dun / -dün" },
+    { "pronoun": "O", "pt": "Ele/Ela", "suffix": "-dı / -di / -du / -dü" },
+    { "pronoun": "Biz", "pt": "Nós", "suffix": "-dık / -dik / -duk / -dük" },
+    { "pronoun": "Siz", "pt": "Vocês", "suffix": "-dınız / -diniz / -dunuz / -dünüz" },
+    { "pronoun": "Onlar", "pt": "Eles/Elas", "suffix": "-dı(lar) / -di(ler)" }
+  ],
+  "extra_note_tr": "Türkçe'de ünlü uyumu nedeniyle ekler -ı/-i/-u/-ü şeklinde değişir. Olumsuzluk her zaman '-ma/-me' ile yapılır. Soru eki 'mi/mı/mu/mü' kişi ekinden sonra gelir."
+}
