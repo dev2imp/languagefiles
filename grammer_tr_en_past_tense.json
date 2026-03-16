@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "İngilizce Past Simple Tense",
+  "language_pair": "tr-en",
+  "target_language": "en",
+  "native_language": "tr",
+  "description": "İngilizce'de Past Simple (geçmiş zaman) – Türkçe konuşanlar için. Tamamlanmış, geçmişteki tekil olaylar, hikayeler, bitmiş durumlar için kullanılır. Türkçe'deki '-dı/-di/-du/-dü / -tı/-ti/-tu/-tü' ekine çok benzer.",
+  "grammar_focus": {
+    "rule": "Düzenli fiiller: fiil + -ed / -d / -ied\nDüzensiz fiiller: 2. hali kullanılır (go → went, eat → ate, see → saw vb.)",
+    "suffixes": {
+      "I": "-ed / 2. hal",
+      "You": "-ed / 2. hal",
+      "He/She/It": "-ed / 2. hal",
+      "We": "-ed / 2. hal",
+      "You (plural)": "-ed / 2. hal",
+      "They": "-ed / 2. hal"
+    },
+    "note_tr": "Türkçe'de tek bir geçmiş zaman eki varken İngilizce'de düzenli ve düzensiz fiiller ayrılır. Düzenli fiillerde -ed eklenir: work → worked, play → played, study → studied. Düzensiz fiillerin 2. halini ezberlemek gerekir. Olumsuzluk: did not (didn't) + fiilin yalın hali. Soru: Did + özne + fiilin yalın hali? Zaman ifadeleri: yesterday, last night/week/year, ago, in 2020, when I was a child vb."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben gittim.",
+      "en": "I went.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "go → went (düzensiz)",
+      "audio_hint": "I went"
+    },
+    {
+      "id": 2,
+      "tr": "Sen geldin.",
+      "en": "You came.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "come → came (düzensiz)",
+      "audio_hint": "you came"
+    },
+    {
+      "id": 3,
+      "tr": "O yemek yedi.",
+      "en": "He/She ate.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "eat → ate (düzensiz)",
+      "audio_hint": "he ate"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içtik.",
+      "en": "We drank.",
+      "verb_root": "drink",
+      "verb_infinitive": "to drink",
+      "en_infinitive": "to drink",
+      "conjugation_note": "drink → drank (düzensiz)",
+      "audio_hint": "we drank"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuştunuz.",
+      "en": "You spoke.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "speak → spoke (düzensiz)",
+      "audio_hint": "you spoke"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalıştılar.",
+      "en": "They worked.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "work + ed → worked (düzenli)",
+      "audio_hint": "they worked"
+    },
+    {
+      "id": 7,
+      "tr": "Seni sevdim.",
+      "en": "I loved you.",
+      "verb_root": "love",
+      "verb_infinitive": "to love",
+      "en_infinitive": "to love",
+      "conjugation_note": "love + d → loved (düzenli)",
+      "audio_hint": "I loved you"
+    },
+    {
+      "id": 8,
+      "tr": "O uyudu.",
+      "en": "He/She slept.",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "sleep → slept (düzensiz)",
+      "audio_hint": "he slept"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynadık.",
+      "en": "We played.",
+      "verb_root": "play",
+      "verb_infinitive": "to play",
+      "en_infinitive": "to play",
+      "conjugation_note": "play + ed → played (düzenli)",
+      "audio_hint": "we played"
+    },
+    {
+      "id": 10,
+      "tr": "Ne yaptın?",
+      "en": "What did you do?",
+      "verb_root": "do",
+      "verb_infinitive": "to do",
+      "en_infinitive": "to do",
+      "conjugation_note": "did + you + do (soru)",
+      "audio_hint": "what did you do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Türkçe öğrendim.",
+      "en": "I learned Turkish.",
+      "verb_root": "learn",
+      "verb_infinitive": "to learn",
+      "en_infinitive": "to learn",
+      "conjugation_note": "learn + ed → learned (düzenli)",
+      "audio_hint": "I learned Turkish"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürdü.",
+      "en": "He/She drove.",
+      "verb_root": "drive",
+      "verb_infinitive": "to drive",
+      "en_infinitive": "to drive",
+      "conjugation_note": "drive → drove (düzensiz)",
+      "audio_hint": "she drove"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinledik.",
+      "en": "We listened to music.",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "listen + ed → listened (düzenli)",
+      "audio_hint": "we listened to music"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okudun.",
+      "en": "You read a book.",
+      "verb_root": "read",
+      "verb_infinitive": "to read",
+      "en_infinitive": "to read",
+      "conjugation_note": "read → read (düzensiz, telaffuz değişir: /ri:d/ → /red/) ",
+      "audio_hint": "you read a book"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmedim.",
+      "en": "I didn't go.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "did not + go → didn't go",
+      "audio_hint": "I didn't go",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmedi.",
+      "en": "He/She didn't come.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "didn't come",
+      "audio_hint": "he didn't come",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Geldin mi?",
+      "en": "Did you come?",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "Did + you + come",
+      "audio_hint": "did you come?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu gördüm.",
+      "en": "I saw him/her.",
+      "verb_root": "see",
+      "verb_infinitive": "to see",
+      "en_infinitive": "to see",
+      "conjugation_note": "see → saw (düzensiz)",
+      "audio_hint": "I saw him"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar güldüler.",
+      "en": "They laughed.",
+      "verb_root": "laugh",
+      "verb_infinitive": "to laugh",
+      "en_infinitive": "to laugh",
+      "conjugation_note": "laugh + ed → laughed (düzenli)",
+      "audio_hint": "they laughed"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekledik.",
+      "en": "We waited here.",
+      "verb_root": "wait",
+      "verb_infinitive": "to wait",
+      "en_infinitive": "to wait",
+      "conjugation_note": "wait + ed → waited (düzenli)",
+      "audio_hint": "we waited here"
+    },
+    {
+      "id": 21,
+      "tr": "Yemek yedim.",
+      "en": "I ate food.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "eat → ate",
+      "audio_hint": "I ate"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazdın.",
+      "en": "You wrote.",
+      "verb_root": "write",
+      "verb_infinitive": "to write",
+      "en_infinitive": "to write",
+      "conjugation_note": "write → wrote (düzensiz)",
+      "audio_hint": "you wrote"
+    },
+    {
+      "id": 23,
+      "tr": "O koştu.",
+      "en": "He/She ran.",
+      "verb_root": "run",
+      "verb_infinitive": "to run",
+      "en_infinitive": "to run",
+      "conjugation_note": "run → ran (düzensiz)",
+      "audio_hint": "she ran"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzdük.",
+      "en": "We swam.",
+      "verb_root": "swim",
+      "verb_infinitive": "to swim",
+      "en_infinitive": "to swim",
+      "conjugation_note": "swim → swam (düzensiz)",
+      "audio_hint": "we swam"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söylediniz.",
+      "en": "You sang songs.",
+      "verb_root": "sing",
+      "verb_infinitive": "to sing",
+      "en_infinitive": "to sing",
+      "conjugation_note": "sing → sang (düzensiz)",
+      "audio_hint": "you sang"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmadım.",
+      "en": "I didn't work.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "didn't work",
+      "audio_hint": "I didn't work",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumadı mı?",
+      "en": "Didn't he/she sleep?",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "Did not + he/she + sleep",
+      "audio_hint": "didn't he sleep?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz dinlemedik mi?",
+      "en": "Didn't we listen?",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "Didn't + we + listen",
+      "audio_hint": "didn't we listen?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans ettin mi?",
+      "en": "Did you dance?",
+      "verb_root": "dance",
+      "verb_infinitive": "to dance",
+      "en_infinitive": "to dance",
+      "conjugation_note": "Did + you + dance",
+      "audio_hint": "did you dance?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Türkçe konuşmadılar.",
+      "en": "They didn't speak Turkish.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "didn't speak",
+      "audio_hint": "they didn't speak Turkish",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "I", "tr": "Ben", "suffix": "-ed / 2. hal" },
+    { "pronoun": "You", "tr": "Sen / Siz", "suffix": "-ed / 2. hal" },
+    { "pronoun": "He/She/It", "tr": "O", "suffix": "-ed / 2. hal" },
+    { "pronoun": "We", "tr": "Biz", "suffix": "-ed / 2. hal" },
+    { "pronoun": "You (plural)", "tr": "Siz", "suffix": "-ed / 2. hal" },
+    { "pronoun": "They", "tr": "Onlar", "suffix": "-ed / 2. hal" }
+  ],
+  "extra_note_tr": "Past Simple'da tüm şahıslar için aynı fiil hali kullanılır (I/you/he/she/it/we/they worked). Düzenli fiillerde: -e ile bitiyorsa sadece -d (like → liked), tek heceli ve sonu ünsüz+ünlü+ünsüz ise son ünsüz çiftlenir (stop → stopped). -y'den önce ünsüz varsa -ied (study → studied). En çok kullanılan düzensiz fiiller: be (was/were), have (had), do (did), say (said), get (got), make (made), know (knew), think (thought), take (took), see (saw), come (came), want (wanted – düzenli), go (went) vb. Zaman ifadeleri: yesterday, last..., ...ago, in + yıl, when..., while..."
+}

@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "İngilizce Future Tenses (will, be going to, present continuous for future)",
+  "language_pair": "tr-en",
+  "target_language": "en",
+  "native_language": "tr",
+  "description": "İngilizce'de gelecek zaman – Türkçe konuşanlar için. 'Will' (anlık kararlar, tahminler), 'be going to' (planlanmış niyetler, kanıtlı tahminler) ve 'present continuous' (kesinleşmiş planlar, randevular) yapıları kullanılır. Türkçe'deki '-ecek/-acak' eki genelde hepsine karşılık gelir ama İngilizce'de nüanslar vardır.",
+  "grammar_focus": {
+    "rule": "will + fiil / be (am/is/are) going to + fiil / am/is/are + fiil-ing",
+    "suffixes": {
+      "I": "will / am going to / am ...ing",
+      "You": "will / are going to / are ...ing",
+      "He/She/It": "will / is going to / is ...ing",
+      "We": "will / are going to / are ...ing",
+      "You (plural)": "will / are going to / are ...ing",
+      "They": "will / are going to / are ...ing"
+    },
+    "note_tr": "Türkçe'de tek bir gelecek zaman eki varken İngilizce'de bağlama göre farklı yapılar kullanılır. 'Will': ani kararlar, spontane teklifler, genel tahminler. 'Be going to': önceden planlanmış niyetler, dışarıdan görülen kanıtlı gelecek olaylar. Present Continuous (gelecek için): kesinleşmiş planlar, takvimdeki olaylar. Olumsuz: won't / isn't going to / isn't ...ing. Soru: Will you...? Are you going to...? Are you ...ing...?"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Yarın gideceğim.",
+      "en": "I will go tomorrow. / I'm going to go tomorrow.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "will go (karar) / be going to go (niyet)",
+      "audio_hint": "I will go / I'm going to go"
+    },
+    {
+      "id": 2,
+      "tr": "Sen yarın geleceksin.",
+      "en": "You will come tomorrow.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "will come (tahmin)",
+      "audio_hint": "you will come"
+    },
+    {
+      "id": 3,
+      "tr": "O yemek yiyecek.",
+      "en": "He/She is going to eat.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "is going to eat (plan)",
+      "audio_hint": "he is going to eat"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içeceğiz.",
+      "en": "We are going to drink.",
+      "verb_root": "drink",
+      "verb_infinitive": "to drink",
+      "en_infinitive": "to drink",
+      "conjugation_note": "are going to drink",
+      "audio_hint": "we are going to drink"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşacaksınız.",
+      "en": "You will speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "will speak (teklif veya tahmin)",
+      "audio_hint": "you will speak"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışacak(lar).",
+      "en": "They are going to work.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "are going to work (niyet)",
+      "audio_hint": "they are going to work"
+    },
+    {
+      "id": 7,
+      "tr": "Seni seveceğim.",
+      "en": "I will love you.",
+      "verb_root": "love",
+      "verb_infinitive": "to love",
+      "en_infinitive": "to love",
+      "conjugation_note": "will love (söz / vaat)",
+      "audio_hint": "I will love you"
+    },
+    {
+      "id": 8,
+      "tr": "O uyuyacak.",
+      "en": "He/She is going to sleep early tonight.",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "is going to sleep (plan)",
+      "audio_hint": "he is going to sleep"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynayacağız.",
+      "en": "We are playing football tomorrow.",
+      "verb_root": "play",
+      "verb_infinitive": "to play",
+      "en_infinitive": "to play",
+      "conjugation_note": "present continuous for future (kesin plan)",
+      "audio_hint": "we are playing"
+    },
+    {
+      "id": 10,
+      "tr": "Ne yapacaksın?",
+      "en": "What are you going to do?",
+      "verb_root": "do",
+      "verb_infinitive": "to do",
+      "en_infinitive": "to do",
+      "conjugation_note": "be going to (niyet sorusu)",
+      "audio_hint": "what are you going to do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Türkçe öğreneceğim.",
+      "en": "I am going to learn Turkish.",
+      "verb_root": "learn",
+      "verb_infinitive": "to learn",
+      "en_infinitive": "to learn",
+      "conjugation_note": "am going to learn (niyet)",
+      "audio_hint": "I am going to learn Turkish"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürecek.",
+      "en": "He/She will drive.",
+      "verb_root": "drive",
+      "verb_infinitive": "to drive",
+      "en_infinitive": "to drive",
+      "conjugation_note": "will drive (tahmin)",
+      "audio_hint": "she will drive"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinleyeceğiz.",
+      "en": "We are listening to music tonight.",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "present continuous (planlanmış)",
+      "audio_hint": "we are listening to music"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okuyacaksın.",
+      "en": "You are going to read a book.",
+      "verb_root": "read",
+      "verb_infinitive": "to read",
+      "en_infinitive": "to read",
+      "conjugation_note": "are going to read",
+      "audio_hint": "you are going to read"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmeyeceğim.",
+      "en": "I won't go.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "will not → won't",
+      "audio_hint": "I won't go",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmeyecek.",
+      "en": "He/She isn't going to come.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "is not going to",
+      "audio_hint": "he isn't going to come",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen gelecek misin?",
+      "en": "Are you coming tomorrow?",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "present continuous soru (plan)",
+      "audio_hint": "are you coming?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu göreceğim.",
+      "en": "I will see him/her.",
+      "verb_root": "see",
+      "verb_infinitive": "to see",
+      "en_infinitive": "to see",
+      "conjugation_note": "will see",
+      "audio_hint": "I will see him"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar gülecek(ler).",
+      "en": "They are going to laugh.",
+      "verb_root": "laugh",
+      "verb_infinitive": "to laugh",
+      "en_infinitive": "to laugh",
+      "conjugation_note": "are going to laugh",
+      "audio_hint": "they are going to laugh"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekleyeceğiz.",
+      "en": "We will wait here.",
+      "verb_root": "wait",
+      "verb_infinitive": "to wait",
+      "en_infinitive": "to wait",
+      "conjugation_note": "will wait (karar)",
+      "audio_hint": "we will wait here"
+    },
+    {
+      "id": 21,
+      "tr": "Yemek yiyeceğim.",
+      "en": "I'm going to eat.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "am going to eat",
+      "audio_hint": "I'm going to eat"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazacaksın.",
+      "en": "You will write.",
+      "verb_root": "write",
+      "verb_infinitive": "to write",
+      "en_infinitive": "to write",
+      "conjugation_note": "will write",
+      "audio_hint": "you will write"
+    },
+    {
+      "id": 23,
+      "tr": "O koşacak.",
+      "en": "He/She is going to run.",
+      "verb_root": "run",
+      "verb_infinitive": "to run",
+      "en_infinitive": "to run",
+      "conjugation_note": "is going to run",
+      "audio_hint": "she is going to run"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzeceğiz.",
+      "en": "We are swimming tomorrow.",
+      "verb_root": "swim",
+      "verb_infinitive": "to swim",
+      "en_infinitive": "to swim",
+      "conjugation_note": "present continuous for future",
+      "audio_hint": "we are swimming"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söyleyeceksiniz.",
+      "en": "You are going to sing.",
+      "verb_root": "sing",
+      "verb_infinitive": "to sing",
+      "en_infinitive": "to sing",
+      "conjugation_note": "are going to sing",
+      "audio_hint": "you are going to sing"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmayacağım.",
+      "en": "I won't work tomorrow.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "will not work",
+      "audio_hint": "I won't work",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumayacak mı?",
+      "en": "Isn't he/she going to sleep?",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "is not going to",
+      "audio_hint": "isn't he going to sleep?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz dinlemeyecek miyiz?",
+      "en": "Aren't we going to listen?",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "are not going to",
+      "audio_hint": "aren't we going to listen?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans edecek misin?",
+      "en": "Are you going to dance?",
+      "verb_root": "dance",
+      "verb_infinitive": "to dance",
+      "en_infinitive": "to dance",
+      "conjugation_note": "be going to soru",
+      "audio_hint": "are you going to dance?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Türkçe konuşmayacak(lar).",
+      "en": "They won't speak Turkish.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "will not speak",
+      "audio_hint": "they won't speak Turkish",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "I", "tr": "Ben", "suffix": "will / am going to / am ...ing" },
+    { "pronoun": "You", "tr": "Sen / Siz", "suffix": "will / are going to / are ...ing" },
+    { "pronoun": "He/She/It", "tr": "O", "suffix": "will / is going to / is ...ing" },
+    { "pronoun": "We", "tr": "Biz", "suffix": "will / are going to / are ...ing" },
+    { "pronoun": "You (plural)", "tr": "Siz", "suffix": "will / are going to / are ...ing" },
+    { "pronoun": "They", "tr": "Onlar", "suffix": "will / are going to / are ...ing" }
+  ],
+  "extra_note_tr": "İngilizce gelecek zaman nüansları: 1. Will → ani karar, tahmin, vaat (It will rain. I'll help you!). 2. Be going to → niyet, plan, kanıt (Look at the clouds! It's going to rain. I'm going to study tonight). 3. Present Continuous → kesinleşmiş plan, randevu (I'm meeting her at 5 pm tomorrow). Zaman ifadeleri: tomorrow, next week, soon, in the future, tonight vb. 'Will' kısaltması: I'll, you'll, he'll, she'll, it'll, we'll, they'll. Olumsuz: won't, isn't/aren't going to."
+}

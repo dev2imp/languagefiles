@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "İngilizce Present Simple Tense",
+  "language_pair": "tr-en",
+  "target_language": "en",
+  "native_language": "tr",
+  "description": "İngilizce'de Present Simple (geniş zaman) – Türkçe konuşanlar için. Alışkanlıklar, genel gerçekler, tekrar eden eylemler, duygular, durumlar ve zaman çizelgeleri için kullanılır. Türkçe'deki geniş zaman (-r, -ar, -er, -ır vb.) yapısına çok benzer.",
+  "grammar_focus": {
+    "rule": "Fiil + (3. tekil şahıs için -s / -es / -ies) + diğer kelimeler",
+    "suffixes": {
+      "I": "",
+      "You": "",
+      "He/She/It": "-s / -es / -ies",
+      "We": "",
+      "You (plural)": "",
+      "They": ""
+    },
+    "note_tr": "Türkçe geniş zamana çok benzer: 'Her gün koşarım' → 'I run every day'. 3. tekil şahısta (he, she, it) fiile -s eklenir. Olumsuzluk için do/does + not kullanılır: I don't like..., He doesn't play... Soru için Do/Does + özne + fiil: Do you speak...? Does she live...?"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben giderim.",
+      "en": "I go.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "I + go (no -s)",
+      "audio_hint": "I go"
+    },
+    {
+      "id": 2,
+      "tr": "Sen gelirsin.",
+      "en": "You come.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "You + come",
+      "audio_hint": "you come"
+    },
+    {
+      "id": 3,
+      "tr": "O yemek yer.",
+      "en": "He/She eats.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "He/She + eat + s → eats",
+      "audio_hint": "he eats / she eats"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içeriz.",
+      "en": "We drink.",
+      "verb_root": "drink",
+      "verb_infinitive": "to drink",
+      "en_infinitive": "to drink",
+      "conjugation_note": "We + drink",
+      "audio_hint": "we drink"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşursunuz.",
+      "en": "You speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "You (plural) + speak",
+      "audio_hint": "you speak"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışır(lar).",
+      "en": "They work.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "They + work",
+      "audio_hint": "they work"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni severim.",
+      "en": "I love you.",
+      "verb_root": "love",
+      "verb_infinitive": "to love",
+      "en_infinitive": "to love",
+      "conjugation_note": "I + love",
+      "audio_hint": "I love you"
+    },
+    {
+      "id": 8,
+      "tr": "O uyur.",
+      "en": "He/She sleeps.",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "He/She + sleep + s → sleeps",
+      "audio_hint": "he sleeps"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynarız.",
+      "en": "We play.",
+      "verb_root": "play",
+      "verb_infinitive": "to play",
+      "en_infinitive": "to play",
+      "conjugation_note": "We + play",
+      "audio_hint": "we play"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yaparsın?",
+      "en": "What do you do?",
+      "verb_root": "do",
+      "verb_infinitive": "to do",
+      "en_infinitive": "to do",
+      "conjugation_note": "Do + you + do",
+      "audio_hint": "what do you do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Türkçe öğrenirim.",
+      "en": "I learn Turkish.",
+      "verb_root": "learn",
+      "verb_infinitive": "to learn",
+      "en_infinitive": "to learn",
+      "conjugation_note": "I + learn",
+      "audio_hint": "I learn Turkish"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürer.",
+      "en": "He/She drives.",
+      "verb_root": "drive",
+      "verb_infinitive": "to drive",
+      "en_infinitive": "to drive",
+      "conjugation_note": "He/She + drive + s → drives",
+      "audio_hint": "she drives"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinleriz.",
+      "en": "We listen to music.",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "We + listen",
+      "audio_hint": "we listen to music"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okursun.",
+      "en": "You read books.",
+      "verb_root": "read",
+      "verb_infinitive": "to read",
+      "en_infinitive": "to read",
+      "conjugation_note": "You + read",
+      "audio_hint": "you read books"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmem.",
+      "en": "I don't go.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "I + do + not + go → don't go",
+      "audio_hint": "I don't go",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmez.",
+      "en": "He/She doesn't come.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "He/She + does + not + come → doesn't come",
+      "audio_hint": "he doesn't come",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen gelecek misin? (genel)",
+      "en": "Do you come here often?",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "Do + you + come",
+      "audio_hint": "do you come...?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu görürüm.",
+      "en": "I see him/her.",
+      "verb_root": "see",
+      "verb_infinitive": "to see",
+      "en_infinitive": "to see",
+      "conjugation_note": "I + see",
+      "audio_hint": "I see him"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar güler(ler).",
+      "en": "They laugh.",
+      "verb_root": "laugh",
+      "verb_infinitive": "to laugh",
+      "en_infinitive": "to laugh",
+      "conjugation_note": "They + laugh",
+      "audio_hint": "they laugh"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekleriz.",
+      "en": "We wait here.",
+      "verb_root": "wait",
+      "verb_infinitive": "to wait",
+      "en_infinitive": "to wait",
+      "conjugation_note": "We + wait",
+      "audio_hint": "we wait here"
+    },
+    {
+      "id": 21,
+      "tr": "Ben yemek yerim.",
+      "en": "I eat food.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "I + eat",
+      "audio_hint": "I eat"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazarsın.",
+      "en": "You write.",
+      "verb_root": "write",
+      "verb_infinitive": "to write",
+      "en_infinitive": "to write",
+      "conjugation_note": "You + write",
+      "audio_hint": "you write"
+    },
+    {
+      "id": 23,
+      "tr": "O koşar.",
+      "en": "He/She runs.",
+      "verb_root": "run",
+      "verb_infinitive": "to run",
+      "en_infinitive": "to run",
+      "conjugation_note": "He/She + run + s → runs",
+      "audio_hint": "she runs"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzeriz.",
+      "en": "We swim.",
+      "verb_root": "swim",
+      "verb_infinitive": "to swim",
+      "en_infinitive": "to swim",
+      "conjugation_note": "We + swim",
+      "audio_hint": "we swim"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söylersiniz.",
+      "en": "You sing songs.",
+      "verb_root": "sing",
+      "verb_infinitive": "to sing",
+      "en_infinitive": "to sing",
+      "conjugation_note": "You + sing",
+      "audio_hint": "you sing"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmam.",
+      "en": "I don't work.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "I + do + not + work",
+      "audio_hint": "I don't work",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumaz mı?",
+      "en": "Doesn't he/she sleep?",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "Does + not + he/she + sleep",
+      "audio_hint": "doesn't he sleep?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz dinlemez miyiz?",
+      "en": "Don't we listen?",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "Do + not + we + listen",
+      "audio_hint": "don't we listen?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans eder misin?",
+      "en": "Do you dance?",
+      "verb_root": "dance",
+      "verb_infinitive": "to dance",
+      "en_infinitive": "to dance",
+      "conjugation_note": "Do + you + dance",
+      "audio_hint": "do you dance?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Türkçe konuşmaz(lar).",
+      "en": "They don't speak Turkish.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "They + do + not + speak",
+      "audio_hint": "they don't speak Turkish",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "I", "tr": "Ben", "suffix": "" },
+    { "pronoun": "You", "tr": "Sen / Siz", "suffix": "" },
+    { "pronoun": "He/She/It", "tr": "O", "suffix": "-s / -es / -ies" },
+    { "pronoun": "We", "tr": "Biz", "suffix": "" },
+    { "pronoun": "You (plural)", "tr": "Siz", "suffix": "" },
+    { "pronoun": "They", "tr": "Onlar", "suffix": "" }
+  ],
+  "extra_note_tr": "Present Simple, Türkçe geniş zamana çok benzer. 3. tekil şahısta fiilin sonuna -s eklenir (plays, watches, studies). -s eklenirken: o → es (go → goes), y → ies (study → studies), ch/sh/s/x/o ile bitiyorsa -es eklenir. Olumsuz ve soru cümlelerinde do/does yardımcı fiili zorunludur. Zaman ifadeleri: always, usually, often, sometimes, never, every day, on Mondays vb."
+}

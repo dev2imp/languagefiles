@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Türkçe Geniş Zaman (Simple Present equivalent)",
+  "language_pair": "en-tr",
+  "target_language": "tr",
+  "native_language": "en",
+  "description": "Turkish Geniş Zaman (habitual/general present) – for English speakers. Used for habits, general truths, repeated actions, feelings, states, and schedules. Very similar to English Present Simple: 'I go every day' → 'Her gün giderim'.",
+  "grammar_focus": {
+    "rule": "Verb stem + geniş zaman suffix (-r / -ar / -er / -ır / -ir / -ur / -ür) + personal ending",
+    "suffixes": {
+      "ben (I)": "-ım / -im / -um / -üm / -am / -em (vowel harmony)",
+      "sen (you)": "-sın / -sin / -sun / -sün",
+      "o (he/she/it)": "no personal ending, just the tense suffix (-ar/-er/-ır/-ir/-ur/-ür)",
+      "biz (we)": "-ız / -iz / -uz / -üz",
+      "siz (you plural)": "-sınız / -siniz / -sunuz / -sünüz",
+      "onlar (they)": "-lar / -ler (added after the tense suffix)"
+    },
+    "note_en": "Turkish geniş zaman works almost exactly like English Present Simple. Pay attention to vowel harmony: back vowels → -ar/-ır/-ur, front vowels → -er/-ir/-ür. Some verbs are irregular (gel → gelir, ver → verir, bil → bilir). Negation: use -maz/-mez instead of the positive suffix: gitmez, gelmez. Questions: add mi/mı/mu/mü after the personal ending: Gider misin?"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "en": "I go.",
+      "tr": "Giderim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + er + im → giderim",
+      "audio_hint": "gi-de-rim"
+    },
+    {
+      "id": 2,
+      "en": "You come.",
+      "tr": "Gelirsin.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ir + sin → gelirsin",
+      "audio_hint": "ge-lir-sin"
+    },
+    {
+      "id": 3,
+      "en": "He/She eats.",
+      "tr": "Yer.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + r → yer (no personal ending for 3rd person singular)",
+      "audio_hint": "yer"
+    },
+    {
+      "id": 4,
+      "en": "We drink.",
+      "tr": "İçeriz.",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + er + iz → içeriz",
+      "audio_hint": "i-çe-riz"
+    },
+    {
+      "id": 5,
+      "en": "You (plural) speak.",
+      "tr": "Konuşursunuz.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ur + sunuz → konuşursunuz",
+      "audio_hint": "ko-nu-şur-su-nuz"
+    },
+    {
+      "id": 6,
+      "en": "They work.",
+      "tr": "Çalışırlar.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + ır + lar → çalışırlar",
+      "audio_hint": "ça-lış-lar"
+    },
+    {
+      "id": 7,
+      "en": "I love you.",
+      "tr": "Seni severim.",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + er + im → severim",
+      "audio_hint": "se-ve-rim"
+    },
+    {
+      "id": 8,
+      "en": "He/She sleeps.",
+      "tr": "Uyur.",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + r → uyur",
+      "audio_hint": "u-yur"
+    },
+    {
+      "id": 9,
+      "en": "We play.",
+      "tr": "Oynarız.",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + r + ız → oynarız",
+      "audio_hint": "oy-na-rız"
+    },
+    {
+      "id": 10,
+      "en": "What do you do?",
+      "tr": "Ne yaparsın?",
+      "verb_root": "yap",
+      "verb_infinitive": "yapmak",
+      "tr_infinitive": "yapmak",
+      "conjugation_note": "yap + ar + sın → yaparsın",
+      "audio_hint": "ne ya-par-sın?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "en": "I learn Turkish.",
+      "tr": "Türkçe öğrenirim.",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + ir + im → öğrenirim",
+      "audio_hint": "öğ-re-ni-rim"
+    },
+    {
+      "id": 12,
+      "en": "He/She drives.",
+      "tr": "Sürer.",
+      "verb_root": "sür",
+      "verb_infinitive": "sürmek",
+      "tr_infinitive": "sürmek",
+      "conjugation_note": "sür + er → sürer",
+      "audio_hint": "sü-rer"
+    },
+    {
+      "id": 13,
+      "en": "We listen to music.",
+      "tr": "Müzik dinleriz.",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + r + iz → dinleriz",
+      "audio_hint": "din-le-riz"
+    },
+    {
+      "id": 14,
+      "en": "You read books.",
+      "tr": "Kitap okursun.",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + r + sun → okursun",
+      "audio_hint": "o-kur-sun"
+    },
+    {
+      "id": 15,
+      "en": "I don't go.",
+      "tr": "Gitmem.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + z → gitmem (negation with -mez)",
+      "audio_hint": "git-mem",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "en": "He/She doesn't come.",
+      "tr": "Gelmez.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + me + z → gelmez",
+      "audio_hint": "gel-mez",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "en": "Do you come here often?",
+      "tr": "Sık sık buraya gelir misin?",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ir + mi + sin → gelir misin?",
+      "audio_hint": "ge-lir mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "en": "I see him/her.",
+      "tr": "Onu görürüm.",
+      "verb_root": "gör",
+      "verb_infinitive": "görmek",
+      "tr_infinitive": "görmek",
+      "conjugation_note": "gör + ür + üm → görürüm",
+      "audio_hint": "gö-rü-rüm"
+    },
+    {
+      "id": 19,
+      "en": "They laugh.",
+      "tr": "Gülerler.",
+      "verb_root": "gül",
+      "verb_infinitive": "gülmek",
+      "tr_infinitive": "gülmek",
+      "conjugation_note": "gül + er + ler → gülerler",
+      "audio_hint": "gü-ler-ler"
+    },
+    {
+      "id": 20,
+      "en": "We wait here.",
+      "tr": "Burada bekleriz.",
+      "verb_root": "bekle",
+      "verb_infinitive": "beklemek",
+      "tr_infinitive": "beklemek",
+      "conjugation_note": "bekle + r + iz → bekleriz",
+      "audio_hint": "bek-le-riz"
+    },
+    {
+      "id": 21,
+      "en": "I eat.",
+      "tr": "Yerim.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + r + im → yerim",
+      "audio_hint": "ye-rim"
+    },
+    {
+      "id": 22,
+      "en": "You write.",
+      "tr": "Yazarsın.",
+      "verb_root": "yaz",
+      "verb_infinitive": "yazmak",
+      "tr_infinitive": "yazmak",
+      "conjugation_note": "yaz + ar + sın → yazarsın",
+      "audio_hint": "ya-zar-sın"
+    },
+    {
+      "id": 23,
+      "en": "He/She runs.",
+      "tr": "Koşar.",
+      "verb_root": "koş",
+      "verb_infinitive": "koşmak",
+      "tr_infinitive": "koşmak",
+      "conjugation_note": "koş + ar → koşar",
+      "audio_hint": "ko-şar"
+    },
+    {
+      "id": 24,
+      "en": "We swim.",
+      "tr": "Yüzeriz.",
+      "verb_root": "yüz",
+      "verb_infinitive": "yüzmek",
+      "tr_infinitive": "yüzmek",
+      "conjugation_note": "yüz + er + iz → yüzeriz",
+      "audio_hint": "yü-ze-riz"
+    },
+    {
+      "id": 25,
+      "en": "You sing songs.",
+      "tr": "Şarkı söylersiniz.",
+      "verb_root": "söyle",
+      "verb_infinitive": "söylemek",
+      "tr_infinitive": "söylemek",
+      "conjugation_note": "söyle + r + siniz → söylersiniz",
+      "audio_hint": "söy-ler-si-niz"
+    },
+    {
+      "id": 26,
+      "en": "I don't work.",
+      "tr": "Çalışmam.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + ma + m → çalışmam",
+      "audio_hint": "ça-lış-mam",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "en": "Doesn't he/she sleep?",
+      "tr": "Uyumaz mı?",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + ma + z + mı → uyumaz mı?",
+      "audio_hint": "u-yu-maz mı?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "en": "Don't we listen?",
+      "tr": "Dinlemez miyiz?",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + me + z + miyiz → dinlemez miyiz?",
+      "audio_hint": "din-le-mez mi-yiz?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "en": "Do you dance?",
+      "tr": "Dans eder misin?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + er + mi + sin → dans eder misin?",
+      "audio_hint": "dans e-der mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "en": "They don't speak Turkish.",
+      "tr": "Türkçe konuşmazlar.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ma + z + lar → konuşmazlar",
+      "audio_hint": "ko-nuş-maz-lar",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "en": "I", "suffix": "-ım / -im / -um / -üm / -am / -em" },
+    { "pronoun": "Sen", "en": "You", "suffix": "-sın / -sin / -sun / -sün" },
+    { "pronoun": "O", "en": "He/She/It", "suffix": "no personal ending" },
+    { "pronoun": "Biz", "en": "We", "suffix": "-ız / -iz / -uz / -üz" },
+    { "pronoun": "Siz", "en": "You (plural)", "suffix": "-sınız / -siniz / -sunuz / -sünüz" },
+    { "pronoun": "Onlar", "en": "They", "suffix": "-lar / -ler" }
+  ],
+  "extra_note_en": "Vowel harmony is very important in Turkish. The geniş zaman suffix changes based on the last vowel of the verb stem. For most verbs it's predictable, but some common verbs are slightly irregular (e.g., gelmek → gelir, vermek → verir, bilmek → bilir, olmak → olur). Time expressions: her gün (every day), genellikle (usually), bazen (sometimes), her zaman (always), nadiren (rarely), Pazartesi günleri (on Mondays), sabahları (in the mornings), etc."
+}

@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Türkçe Gelecek Zaman (-ecek / -acak)",
+  "language_pair": "en-tr",
+  "target_language": "tr",
+  "native_language": "en",
+  "description": "Turkish Future Tense (-ecek/-acak) – for English speakers. Used for future actions, plans, predictions, and intentions. Similar to English 'will' + verb or 'be going to' + verb, but Turkish has one main structure for most future meanings: 'I will go' / 'I'm going to go' → 'Gideceğim'.",
+  "grammar_focus": {
+    "rule": "Verb stem + -ecek / -acak (vowel harmony) + personal ending",
+    "suffixes": {
+      "ben (I)": "-eceğim / -acağım",
+      "sen (you)": "-eceksin / -acaksın",
+      "o (he/she/it)": "-ecek / -acak",
+      "biz (we)": "-eceğiz / -acağız",
+      "siz (you plural)": "-eceksiniz / -acaksınız",
+      "onlar (they)": "-ecekler / -acaklar"
+    },
+    "note_en": "The future suffix follows vowel harmony: last vowel is back → -acak, front → -ecek. Negation: add -me/-ma before the future suffix: gitmeyeceğim, gelmeyecek. Questions: add mi/mı/mu/mü after the personal ending: Gidecek misin? No separate 'will' or 'going to' distinction like in English – one form covers most future situations (plans, predictions, spontaneous decisions)."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "en": "I will go. / I'm going to go.",
+      "tr": "Gideceğim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + ecek + im → gideceğim",
+      "audio_hint": "gi-de-CE-ğim"
+    },
+    {
+      "id": 2,
+      "en": "You will come.",
+      "tr": "Geleceksin.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ecek + sin → geleceksin",
+      "audio_hint": "ge-le-CEK-sin"
+    },
+    {
+      "id": 3,
+      "en": "He/She will eat.",
+      "tr": "Yiyecek.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + yecek → yiyecek (y → yi)",
+      "audio_hint": "yi-ye-CEK"
+    },
+    {
+      "id": 4,
+      "en": "We will drink.",
+      "tr": "İçeceğiz.",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + ecek + iz → içeceğiz",
+      "audio_hint": "i-çe-CE-ğiz"
+    },
+    {
+      "id": 5,
+      "en": "You (plural) will speak.",
+      "tr": "Konuşacaksınız.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + acak + sınız → konuşacaksınız",
+      "audio_hint": "ko-nu-şa-CAK-sı-nız"
+    },
+    {
+      "id": 6,
+      "en": "They will work.",
+      "tr": "Çalışacaklar.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + acak + lar → çalışacaklar",
+      "audio_hint": "ça-lı-şa-CAK-lar"
+    },
+    {
+      "id": 7,
+      "en": "I will love you.",
+      "tr": "Seni seveceğim.",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + ecek + im → seveceğim",
+      "audio_hint": "se-ve-CE-ğim"
+    },
+    {
+      "id": 8,
+      "en": "He/She will sleep.",
+      "tr": "Uyuyacak.",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + yacak → uyuyacak",
+      "audio_hint": "u-yu-ya-CAK"
+    },
+    {
+      "id": 9,
+      "en": "We will play.",
+      "tr": "Oynayacağız.",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + yacak + ız → oynayacağız",
+      "audio_hint": "oy-na-ya-ÇA-ğız"
+    },
+    {
+      "id": 10,
+      "en": "What will you do?",
+      "tr": "Ne yapacaksın?",
+      "verb_root": "yap",
+      "verb_infinitive": "yapmak",
+      "tr_infinitive": "yapmak",
+      "conjugation_note": "yap + acak + sın → yapacaksın",
+      "audio_hint": "ne yap-a-CAK-sın?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "en": "I will learn Turkish.",
+      "tr": "Türkçe öğreneceğim.",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + ecek + im → öğreneceğim",
+      "audio_hint": "öğ-re-ne-CE-ğim"
+    },
+    {
+      "id": 12,
+      "en": "He/She will drive.",
+      "tr": "Sürecek.",
+      "verb_root": "sür",
+      "verb_infinitive": "sürmek",
+      "tr_infinitive": "sürmek",
+      "conjugation_note": "sür + ecek → sürecek",
+      "audio_hint": "sü-re-CEK"
+    },
+    {
+      "id": 13,
+      "en": "We will listen to music.",
+      "tr": "Müzik dinleyeceğiz.",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + yecek + iz → dinleyeceğiz",
+      "audio_hint": "din-le-ye-CE-ğiz"
+    },
+    {
+      "id": 14,
+      "en": "You will read a book.",
+      "tr": "Kitap okuyacaksın.",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + yacak + sın → okuyacaksın",
+      "audio_hint": "o-ku-ya-CAK-sın"
+    },
+    {
+      "id": 15,
+      "en": "I won't go.",
+      "tr": "Gitmeyeceğim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + yecek + im → gitmeyeceğim",
+      "audio_hint": "git-me-ye-CE-ğim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "en": "He/She won't come.",
+      "tr": "Gelmeyecek.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + me + yecek → gelmeyecek",
+      "audio_hint": "gel-me-ye-CEK",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "en": "Will you come?",
+      "tr": "Gelecek misin?",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ecek + sin + mi → gelecek misin?",
+      "audio_hint": "ge-le-CEK mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "en": "I will see him/her.",
+      "tr": "Onu göreceğim.",
+      "verb_root": "gör",
+      "verb_infinitive": "görmek",
+      "tr_infinitive": "görmek",
+      "conjugation_note": "gör + ecek + im → göreceğim",
+      "audio_hint": "gö-re-CE-ğim"
+    },
+    {
+      "id": 19,
+      "en": "They will laugh.",
+      "tr": "Gülecekler.",
+      "verb_root": "gül",
+      "verb_infinitive": "gülmek",
+      "tr_infinitive": "gülmek",
+      "conjugation_note": "gül + ecek + ler → gülecekler",
+      "audio_hint": "gü-le-CEK-ler"
+    },
+    {
+      "id": 20,
+      "en": "We will wait here.",
+      "tr": "Burada bekleyeceğiz.",
+      "verb_root": "bekle",
+      "verb_infinitive": "beklemek",
+      "tr_infinitive": "beklemek",
+      "conjugation_note": "bekle + yecek + iz → bekleyeceğiz",
+      "audio_hint": "bek-le-ye-CE-ğiz"
+    },
+    {
+      "id": 21,
+      "en": "I will eat.",
+      "tr": "Yiyeceğim.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + yecek + im → yiyeceğim",
+      "audio_hint": "yi-ye-CE-ğim"
+    },
+    {
+      "id": 22,
+      "en": "You will write.",
+      "tr": "Yazacaksın.",
+      "verb_root": "yaz",
+      "verb_infinitive": "yazmak",
+      "tr_infinitive": "yazmak",
+      "conjugation_note": "yaz + acak + sın → yazacaksın",
+      "audio_hint": "ya-za-CAK-sın"
+    },
+    {
+      "id": 23,
+      "en": "He/She will run.",
+      "tr": "Koşacak.",
+      "verb_root": "koş",
+      "verb_infinitive": "koşmak",
+      "tr_infinitive": "koşmak",
+      "conjugation_note": "koş + acak → koşacak",
+      "audio_hint": "ko-şa-CAK"
+    },
+    {
+      "id": 24,
+      "en": "We will swim.",
+      "tr": "Yüzeceğiz.",
+      "verb_root": "yüz",
+      "verb_infinitive": "yüzmek",
+      "tr_infinitive": "yüzmek",
+      "conjugation_note": "yüz + ecek + iz → yüzeceğiz",
+      "audio_hint": "yü-ze-CE-ğiz"
+    },
+    {
+      "id": 25,
+      "en": "You will sing songs.",
+      "tr": "Şarkı söyleyeceksiniz.",
+      "verb_root": "söyle",
+      "verb_infinitive": "söylemek",
+      "tr_infinitive": "söylemek",
+      "conjugation_note": "söyle + yecek + siniz → söyleyeceksiniz",
+      "audio_hint": "söy-le-ye-CEK-si-niz"
+    },
+    {
+      "id": 26,
+      "en": "I won't work.",
+      "tr": "Çalışmayacağım.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + ma + yacak + ım → çalışmayacağım",
+      "audio_hint": "ça-lış-ma-ya-ÇA-ğım",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "en": "Won't he/she sleep?",
+      "tr": "Uyumayacak mı?",
+      "verb_root": "uyu",
+      "verb_infinitive": "uyumak",
+      "tr_infinitive": "uyumak",
+      "conjugation_note": "uyu + ma + yacak + mı → uyumayacak mı?",
+      "audio_hint": "u-yu-ma-ya-CAK mı?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "en": "Won't we listen?",
+      "tr": "Dinlemeyecek miyiz?",
+      "verb_root": "dinle",
+      "verb_infinitive": "dinlemek",
+      "tr_infinitive": "dinlemek",
+      "conjugation_note": "dinle + me + yecek + miyiz → dinlemeyecek miyiz?",
+      "audio_hint": "din-le-me-ye-CEK mi-yiz?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "en": "Will you dance?",
+      "tr": "Dans edecek misin?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + ecek + sin + mi → dans edecek misin?",
+      "audio_hint": "dans e-de-CEK mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "en": "They won't speak Turkish.",
+      "tr": "Türkçe konuşmayacaklar.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ma + yacak + lar → konuşmayacaklar",
+      "audio_hint": "ko-nuş-ma-ya-CAK-lar",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "en": "I", "suffix": "-eceğim / -acağım" },
+    { "pronoun": "Sen", "en": "You", "suffix": "-eceksin / -acaksın" },
+    { "pronoun": "O", "en": "He/She/It", "suffix": "-ecek / -acak" },
+    { "pronoun": "Biz", "en": "We", "suffix": "-eceğiz / -acağız" },
+    { "pronoun": "Siz", "en": "You (plural)", "suffix": "-eceksiniz / -acaksınız" },
+    { "pronoun": "Onlar", "en": "They", "suffix": "-ecekler / -acaklar" }
+  ],
+  "extra_note_en": "Vowel harmony determines -ecek or -acak. Most future meanings use this one structure (unlike English which splits into 'will' and 'be going to'). Time expressions: yarın (tomorrow), gelecek hafta (next week), yakında (soon), bir saat sonra (in an hour), 2026'da (in 2026), etc. The future tense is very regular – just learn vowel harmony and negation with -me/-ma."
+}

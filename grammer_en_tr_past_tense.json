@@ -1,0 +1,311 @@
+{
+  "level": 10,
+  "topic": "Türkçe Geçmiş Zamanlar (-dı / -di / -du / -dü / -tı / -ti / -tu / -tü & -miş / -mış / -muş / -müş)",
+  "language_pair": "en-tr",
+  "target_language": "tr",
+  "native_language": "en",
+  "description": "Turkish Past Tenses – for English speakers. Turkish has two main past tenses: 1. Definite Past (-dı/-di/-du/-dü etc.) for witnessed, certain, completed events you saw or experienced personally. 2. Reported/Evidential Past (-miş/-mış/-muş/-müş) for events you heard from others, inferred, or didn't witness directly. Both are very common – similar to English simple past, but with an important evidential distinction.",
+  "grammar_focus": {
+    "rule_definite": "Verb stem + -dı / -di / -du / -dü / -tı / -ti / -tu / -tü (vowel harmony & consonant change) + personal ending",
+    "rule_reported": "Verb stem + -mış / -mış / -muş / -müş (vowel harmony) + personal ending",
+    "suffixes": {
+      "ben (I)": "-ım / -im / -um / -üm",
+      "sen (you)": "-ın / -in / -un / -ün",
+      "o (he/she/it)": "no personal ending",
+      "biz (we)": "-ık / -ik / -uk / -ük",
+      "siz (you plural)": "-ınız / -iniz / -unuz / -ünüz",
+      "onlar (they)": "-lar / -ler"
+    },
+    "note_en": "Definite past (-dı) = I know it happened because I saw/was there (like English simple past in most cases). Reported past (-miş) = I heard about it / it seems / apparently / I just found out / surprise discovery. Negation: -ma/-me before the past suffix: gitmedim, gitmemişim. Questions: mi/mı/mu/mü after personal ending: Gittin mi? Gitmiş mi?"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "en": "I went. (I know / I was there)",
+      "tr": "Gittim.",
+      "verb_root": "git",
+      "tense": "definite",
+      "conjugation_note": "git + ti + m → gittim",
+      "audio_hint": "git-tim"
+    },
+    {
+      "id": 2,
+      "en": "You came. (definite)",
+      "tr": "Geldin.",
+      "verb_root": "gel",
+      "tense": "definite",
+      "conjugation_note": "gel + din → geldin",
+      "audio_hint": "gel-din"
+    },
+    {
+      "id": 3,
+      "en": "He/She ate. (definite)",
+      "tr": "Yedi.",
+      "verb_root": "ye",
+      "tense": "definite",
+      "conjugation_note": "ye + di → yedi",
+      "audio_hint": "ye-di"
+    },
+    {
+      "id": 4,
+      "en": "We drank. (definite)",
+      "tr": "İçtik.",
+      "verb_root": "iç",
+      "tense": "definite",
+      "conjugation_note": "iç + tik → içtik",
+      "audio_hint": "iç-tik"
+    },
+    {
+      "id": 5,
+      "en": "They worked yesterday. (definite)",
+      "tr": "Dün çalıştılar.",
+      "verb_root": "çalış",
+      "tense": "definite",
+      "conjugation_note": "çalış + tı + lar → çalıştılar",
+      "audio_hint": "ça-lış-tı-lar"
+    },
+    {
+      "id": 6,
+      "en": "I saw him. (definite)",
+      "tr": "Onu gördüm.",
+      "verb_root": "gör",
+      "tense": "definite",
+      "conjugation_note": "gör + düm → gördüm",
+      "audio_hint": "gör-düm"
+    },
+    {
+      "id": 7,
+      "en": "Apparently he went. / It seems he went. (reported)",
+      "tr": "Gitmiş.",
+      "verb_root": "git",
+      "tense": "reported",
+      "conjugation_note": "git + miş → gitmiş",
+      "audio_hint": "git-miş"
+    },
+    {
+      "id": 8,
+      "en": "You (apparently) came. (reported)",
+      "tr": "Gelmişsin.",
+      "verb_root": "gel",
+      "tense": "reported",
+      "conjugation_note": "gel + miş + sin → gelmişsin",
+      "audio_hint": "gel-miş-sin"
+    },
+    {
+      "id": 9,
+      "en": "She ate. (I heard / it seems)",
+      "tr": "Yemiş.",
+      "verb_root": "ye",
+      "tense": "reported",
+      "conjugation_note": "ye + miş → yemiş",
+      "audio_hint": "ye-miş"
+    },
+    {
+      "id": 10,
+      "en": "We drank. (reported)",
+      "tr": "İçmişiz.",
+      "verb_root": "iç",
+      "tense": "reported",
+      "conjugation_note": "iç + miş + iz → içmişiz",
+      "audio_hint": "iç-miş-iz"
+    },
+    {
+      "id": 11,
+      "en": "They worked. (reported)",
+      "tr": "Çalışmışlar.",
+      "verb_root": "çalış",
+      "tense": "reported",
+      "conjugation_note": "çalış + mış + lar → çalışmışlar",
+      "audio_hint": "ça-lış-mış-lar"
+    },
+    {
+      "id": 12,
+      "en": "I learned Turkish. (definite)",
+      "tr": "Türkçe öğrendim.",
+      "verb_root": "öğren",
+      "tense": "definite",
+      "conjugation_note": "öğren + dim → öğrendim",
+      "audio_hint": "öğ-ren-dim"
+    },
+    {
+      "id": 13,
+      "en": "He drove. (definite)",
+      "tr": "Sürdü.",
+      "verb_root": "sür",
+      "tense": "definite",
+      "conjugation_note": "sür + dü → sürdü",
+      "audio_hint": "sür-dü"
+    },
+    {
+      "id": 14,
+      "en": "We listened. (definite)",
+      "tr": "Dinledik.",
+      "verb_root": "dinle",
+      "tense": "definite",
+      "conjugation_note": "dinle + dik → dinledik",
+      "audio_hint": "din-le-dik"
+    },
+    {
+      "id": 15,
+      "en": "You read the book. (definite)",
+      "tr": "Kitabı okudun.",
+      "verb_root": "oku",
+      "tense": "definite",
+      "conjugation_note": "oku + dun → okudun",
+      "audio_hint": "o-ku-dun"
+    },
+    {
+      "id": 16,
+      "en": "I didn't go. (definite)",
+      "tr": "Gitmedim.",
+      "verb_root": "git",
+      "tense": "definite",
+      "conjugation_note": "git + me + dim → gitmedim",
+      "audio_hint": "git-me-dim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "en": "He apparently didn't come. (reported)",
+      "tr": "Gelmemiş.",
+      "verb_root": "gel",
+      "tense": "reported",
+      "conjugation_note": "gel + me + miş → gelmemiş",
+      "audio_hint": "gel-me-miş",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 18,
+      "en": "Did you go? (definite)",
+      "tr": "Gittin mi?",
+      "verb_root": "git",
+      "tense": "definite",
+      "conjugation_note": "git + tin + mi → gittin mi?",
+      "audio_hint": "git-tin mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 19,
+      "en": "Has she eaten? / Did she eat? (reported)",
+      "tr": "Yemiş mi?",
+      "verb_root": "ye",
+      "tense": "reported",
+      "conjugation_note": "ye + miş + mi → yemiş mi?",
+      "audio_hint": "ye-miş mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 20,
+      "en": "I loved you. (definite)",
+      "tr": "Seni sevdim.",
+      "verb_root": "sev",
+      "tense": "definite",
+      "conjugation_note": "sev + dim → sevdim",
+      "audio_hint": "sev-dim"
+    },
+    {
+      "id": 21,
+      "en": "They apparently laughed. (reported)",
+      "tr": "Gülmüşler.",
+      "verb_root": "gül",
+      "tense": "reported",
+      "conjugation_note": "gül + müş + ler → gülmüşler",
+      "audio_hint": "gül-müş-ler"
+    },
+    {
+      "id": 22,
+      "en": "We waited. (definite)",
+      "tr": "Bekledik.",
+      "verb_root": "bekle",
+      "tense": "definite",
+      "conjugation_note": "bekle + dik → bekledik",
+      "audio_hint": "bek-le-dik"
+    },
+    {
+      "id": 23,
+      "en": "He ran. (definite)",
+      "tr": "Koştu.",
+      "verb_root": "koş",
+      "tense": "definite",
+      "conjugation_note": "koş + tu → koştu",
+      "audio_hint": "koş-tu"
+    },
+    {
+      "id": 24,
+      "en": "We swam. (definite)",
+      "tr": "Yüzdük.",
+      "verb_root": "yüz",
+      "tense": "definite",
+      "conjugation_note": "yüz + dük → yüzdük",
+      "audio_hint": "yüz-dük"
+    },
+    {
+      "id": 25,
+      "en": "You sang. (definite)",
+      "tr": "Söyledin.",
+      "verb_root": "söyle",
+      "tense": "definite",
+      "conjugation_note": "söyle + din → söyledin",
+      "audio_hint": "söy-le-din"
+    },
+    {
+      "id": 26,
+      "en": "I didn't work yesterday. (definite)",
+      "tr": "Dün çalışmadım.",
+      "verb_root": "çalış",
+      "tense": "definite",
+      "conjugation_note": "çalış + ma + dım → çalışmadım",
+      "audio_hint": "ça-lış-ma-dım",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "en": "Apparently he didn't sleep. (reported)",
+      "tr": "Uyumamış.",
+      "verb_root": "uyu",
+      "tense": "reported",
+      "conjugation_note": "uyu + ma + mış → uyumamış",
+      "audio_hint": "u-yu-ma-mış",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 28,
+      "en": "Didn't we listen? (definite)",
+      "tr": "Dinlemedik mi?",
+      "verb_root": "dinle",
+      "tense": "definite",
+      "conjugation_note": "dinle + me + dik + mi → dinlemedik mi?",
+      "audio_hint": "din-le-me-dik mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "en": "Has she danced? (reported)",
+      "tr": "Dans etmiş mi?",
+      "verb_root": "dans et",
+      "tense": "reported",
+      "conjugation_note": "dans et + miş + mi → dans etmiş mi?",
+      "audio_hint": "dans et-miş mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "en": "They apparently didn't speak Turkish. (reported)",
+      "tr": "Türkçe konuşmamışlar.",
+      "verb_root": "konuş",
+      "tense": "reported",
+      "conjugation_note": "konuş + ma + mış + lar → konuşmamışlar",
+      "audio_hint": "ko-nuş-ma-mış-lar",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "en": "I", "definite": "-ım / -im / -um / -üm", "reported": "-ım / -im / -um / -üm" },
+    { "pronoun": "Sen", "en": "You", "definite": "-ın / -in / -un / -ün", "reported": "-sın / -sin / -sun / -sün" },
+    { "pronoun": "O", "en": "He/She/It", "definite": "", "reported": "" },
+    { "pronoun": "Biz", "en": "We", "definite": "-ık / -ik / -uk / -ük", "reported": "-ız / -iz / -uz / -üz" },
+    { "pronoun": "Siz", "en": "You (plural)", "definite": "-ınız / -iniz / -unuz / -ünüz", "reported": "-sınız / -siniz / -sunuz / -sünüz" },
+    { "pronoun": "Onlar", "en": "They", "definite": "-lar / -ler", "reported": "-lar / -ler" }
+  ],
+  "extra_note_en": "Definite past (-dı) is used for events you personally witnessed or are sure about. Reported past (-miş) expresses hearsay, inference, surprise, or new discovery. Vowel harmony applies to both. Consonant change: -t after voiceless consonants (git-ti, bak-tı). Common time expressions: dün (yesterday), geçen hafta (last week), sabah (this morning), az önce (just now), 2020'de (in 2020), çocukken (when I was a child) for definite; and apparently, it seems, I heard that... for reported."
+}
