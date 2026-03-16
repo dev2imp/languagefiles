@@ -1,0 +1,373 @@
+{
+  "level": 10,
+  "topic": "Portuguese Past Tenses (Pretérito Perfeito & Pretérito Imperfeito)",
+  "language_pair": "en-pt",
+  "target_language": "pt",
+  "native_language": "en",
+  "description": "Portuguese Past Tenses – for English speakers. Portuguese has two main simple past tenses: 1. Pretérito Perfeito (Preterite/Simple Past) for completed, specific actions in the past (like English simple past: 'I ate'). 2. Pretérito Imperfeito (Imperfect) for ongoing, habitual, repeated, or descriptive past actions (like 'I used to eat' or 'I was eating'). Understanding the difference is key – similar to Spanish preterite vs. imperfect.",
+  "grammar_focus": {
+    "rule_perfeito": "Verb stem + endings (regular -ar: -ei, -aste/-aste, -ou/-ou, -amos, -aram; -er: -i, -este, -eu, -emos, -eram; -ir: -i, -iste, -iu, -imos, -iram)",
+    "rule_imperfeito": "Verb stem + endings (regular -ar: -ava, -avas, -ava, -ávamos, -avam; -er/-ir: -ia, -ias, -ia, -íamos, -iam)",
+    "suffixes_perfeito": {
+      "eu (I)": "-ei / -i",
+      "tu (you informal)": "-aste / -este / -iste",
+      "você/ele/ela (you formal/he/she/it)": "-ou / -eu / -iu",
+      "nós (we)": "-amos / -emos / -imos",
+      "vocês/eles/elas (you plural/they)": "-aram / -eram / -iram"
+    },
+    "suffixes_imperfeito": {
+      "eu (I)": "-ava / -ia",
+      "tu (you informal)": "-avas / -ias",
+      "você/ele/ela (you formal/he/she/it)": "-ava / -ia",
+      "nós (we)": "-ávamos / -íamos",
+      "vocês/eles/elas (you plural/they)": "-avam / -iam"
+    },
+    "note_en": "Pretérito Perfeito = completed actions with definite beginning/end (yesterday, last week, once). Pretérito Imperfeito = background, descriptions, habits in the past, ongoing situations, 'used to'. Many common verbs are irregular in Perfeito (ser/ir/ter/vir/fazer/dizer/poder/querer/saber/estar etc.). Negation: não + verb. Questions: intonation or subject-verb inversion."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "en": "I spoke. (completed)",
+      "pt": "Falei.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "falar → falei (eu)",
+      "audio_hint": "fa-LEI"
+    },
+    {
+      "id": 2,
+      "en": "You spoke. (tu informal)",
+      "pt": "Falaste.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "fal + aste → falaste",
+      "audio_hint": "fa-LAS-te"
+    },
+    {
+      "id": 3,
+      "en": "He/She spoke.",
+      "pt": "Falou.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "fal + ou → falou",
+      "audio_hint": "fa-LOU"
+    },
+    {
+      "id": 4,
+      "en": "We spoke.",
+      "pt": "Falamos.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "fal + amos → falamos",
+      "audio_hint": "fa-LA-mos"
+    },
+    {
+      "id": 5,
+      "en": "They spoke.",
+      "pt": "Falaram.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "fal + aram → falaram",
+      "audio_hint": "fa-LA-ram"
+    },
+    {
+      "id": 6,
+      "en": "I ate. (completed)",
+      "pt": "Comi.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "perfeito",
+      "conjugation_note": "comer → comi (eu)",
+      "audio_hint": "co-MI"
+    },
+    {
+      "id": 7,
+      "en": "You ate. (tu)",
+      "pt": "Comeste.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "perfeito",
+      "conjugation_note": "com + este → comeste",
+      "audio_hint": "co-MES-te"
+    },
+    {
+      "id": 8,
+      "en": "He/She ate.",
+      "pt": "Comeu.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "perfeito",
+      "conjugation_note": "com + eu → comeu",
+      "audio_hint": "co-MEU"
+    },
+    {
+      "id": 9,
+      "en": "We ate.",
+      "pt": "Comemos.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "perfeito",
+      "conjugation_note": "com + emos → comemos",
+      "audio_hint": "co-ME-mos"
+    },
+    {
+      "id": 10,
+      "en": "They ate.",
+      "pt": "Comeram.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "perfeito",
+      "conjugation_note": "com + eram → comeram",
+      "audio_hint": "co-ME-ram"
+    },
+    {
+      "id": 11,
+      "en": "I used to speak. / I was speaking.",
+      "pt": "Falava.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "imperfeito",
+      "conjugation_note": "fal + ava → falava",
+      "audio_hint": "fa-LA-va"
+    },
+    {
+      "id": 12,
+      "en": "You used to eat. (tu)",
+      "pt": "Comias.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "imperfeito",
+      "conjugation_note": "com + ias → comias",
+      "audio_hint": "co-MI-as"
+    },
+    {
+      "id": 13,
+      "en": "He/She used to live.",
+      "pt": "Vivia.",
+      "verb_root": "viv",
+      "verb_infinitive": "viver",
+      "pt_infinitive": "viver",
+      "tense": "imperfeito",
+      "conjugation_note": "viv + ia → vivia",
+      "audio_hint": "vi-VI-a"
+    },
+    {
+      "id": 14,
+      "en": "I loved you. (completed)",
+      "pt": "Te amei.",
+      "verb_root": "am",
+      "verb_infinitive": "amar",
+      "pt_infinitive": "amar",
+      "tense": "perfeito",
+      "conjugation_note": "amar → amei",
+      "audio_hint": "a-MEI"
+    },
+    {
+      "id": 15,
+      "en": "I didn't go. (completed)",
+      "pt": "Não fui.",
+      "verb_root": "ir",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "tense": "perfeito",
+      "conjugation_note": "ir (irregular) → fui (eu)",
+      "audio_hint": "não FUI",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "en": "He/She was eating. / used to eat.",
+      "pt": "Comia.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "imperfeito",
+      "conjugation_note": "com + ia → comia",
+      "audio_hint": "co-MI-a"
+    },
+    {
+      "id": 17,
+      "en": "Did you speak yesterday?",
+      "pt": "Falaste ontem?",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "falaste (tu) + question intonation",
+      "audio_hint": "fa-LAS-te on-TEM?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "en": "I saw him. (completed)",
+      "pt": "Eu o vi.",
+      "verb_root": "ver",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "tense": "perfeito",
+      "conjugation_note": "ver (irregular) → vi (eu)",
+      "audio_hint": "vi"
+    },
+    {
+      "id": 19,
+      "en": "They used to laugh.",
+      "pt": "Riam.",
+      "verb_root": "r",
+      "verb_infinitive": "rir",
+      "pt_infinitive": "rir",
+      "tense": "imperfeito",
+      "conjugation_note": "rir → r + iam → riam",
+      "audio_hint": "RI-am"
+    },
+    {
+      "id": 20,
+      "en": "We waited. (completed)",
+      "pt": "Esperamos.",
+      "verb_root": "esper",
+      "verb_infinitive": "esperar",
+      "pt_infinitive": "esperar",
+      "tense": "perfeito",
+      "conjugation_note": "esperar → esperamos",
+      "audio_hint": "es-pe-RA-mos"
+    },
+    {
+      "id": 21,
+      "en": "I ate food. (completed)",
+      "pt": "Comi.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "tense": "perfeito",
+      "conjugation_note": "comi",
+      "audio_hint": "co-MI"
+    },
+    {
+      "id": 22,
+      "en": "You wrote. (tu, completed)",
+      "pt": "Escreveste.",
+      "verb_root": "escrev",
+      "verb_infinitive": "escrever",
+      "pt_infinitive": "escrever",
+      "tense": "perfeito",
+      "conjugation_note": "escrever → escreveste",
+      "audio_hint": "es-cre-VES-te"
+    },
+    {
+      "id": 23,
+      "en": "He/She ran. (completed)",
+      "pt": "Correu.",
+      "verb_root": "corr",
+      "verb_infinitive": "correr",
+      "pt_infinitive": "correr",
+      "tense": "perfeito",
+      "conjugation_note": "correr → correu",
+      "audio_hint": "cor-REU"
+    },
+    {
+      "id": 24,
+      "en": "We swam. (completed)",
+      "pt": "Nadamos.",
+      "verb_root": "nad",
+      "verb_infinitive": "nadar",
+      "pt_infinitive": "nadar",
+      "tense": "perfeito",
+      "conjugation_note": "nadar → nadamos",
+      "audio_hint": "na-DA-mos"
+    },
+    {
+      "id": 25,
+      "en": "You used to sing. (você plural)",
+      "pt": "Cantavam.",
+      "verb_root": "cant",
+      "verb_infinitive": "cantar",
+      "pt_infinitive": "cantar",
+      "tense": "imperfeito",
+      "conjugation_note": "cantar → cant + avam → cantavam",
+      "audio_hint": "can-TA-vam"
+    },
+    {
+      "id": 26,
+      "en": "I didn't work yesterday. (completed)",
+      "pt": "Não trabalhei ontem.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "tense": "perfeito",
+      "conjugation_note": "trabalhar → trabalhei",
+      "audio_hint": "não tra-ba-LHEI on-TEM",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "en": "He/She used to sleep late.",
+      "pt": "Dormia tarde.",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "tense": "imperfeito",
+      "conjugation_note": "dormir → dorm + ia → dormia",
+      "audio_hint": "dor-MI-a TAR-de"
+    },
+    {
+      "id": 28,
+      "en": "Didn't we listen? (imperfect context)",
+      "pt": "Não escutávamos?",
+      "verb_root": "escut",
+      "verb_infinitive": "escutar",
+      "pt_infinitive": "escutar",
+      "tense": "imperfeito",
+      "conjugation_note": "escutar → escut + ávamos → escutávamos",
+      "audio_hint": "não es-cu-TÁ-va-mos?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "en": "Did you dance last night? (completed)",
+      "pt": "Dançaste ontem à noite?",
+      "verb_root": "danç",
+      "verb_infinitive": "dançar",
+      "pt_infinitive": "dançar",
+      "tense": "perfeito",
+      "conjugation_note": "dançar → dançaste (tu)",
+      "audio_hint": "dan-ÇAS-te on-TEM a NOI-te?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "en": "They didn't speak Portuguese. (completed)",
+      "pt": "Não falaram português.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "tense": "perfeito",
+      "conjugation_note": "falaram (eles) + não",
+      "audio_hint": "não fa-LA-ram por-tu-GUÊS",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Eu", "en": "I", "perfeito": "-ei / -i", "imperfeito": "-ava / -ia" },
+    { "pronoun": "Tu", "en": "You (informal)", "perfeito": "-aste / -este / -iste", "imperfeito": "-avas / -ias" },
+    { "pronoun": "Você / Ele / Ela", "en": "You (formal) / He / She / It", "perfeito": "-ou / -eu / -iu", "imperfeito": "-ava / -ia" },
+    { "pronoun": "Nós", "en": "We", "perfeito": "-amos / -emos / -imos", "imperfeito": "-ávamos / -íamos" },
+    { "pronoun": "Vocês / Eles / Elas", "en": "You (plural) / They", "perfeito": "-aram / -eram / -iram", "imperfeito": "-avam / -iam" }
+  ],
+  "extra_note_en": "Pretérito Perfeito: specific, finished actions (yesterday, last year, once upon a time). Pretérito Imperfeito: descriptions, background, habits (when I was young, it was raining, he used to play). Irregulars in Perfeito are very common: ser (fui, foste, foi, fomos, foram), ir (fui, foste, foi, fomos, foram), ter (tive, tiveste, teve, tivemos, tiveram), fazer (fiz, fizeste, fez, fizemos, fizeram), dizer (disse, disseste, disse, dissemos, disseram), ver (vi, viste, viu, vimos, viram), vir (vim, vieste, veio, viemos, vieram), estar (estive, estiveste, esteve, estivemos, estiveram), poder (pude, pudeste, pôde, pudemos, puderam). Time expressions: ontem (yesterday), na semana passada (last week), quando era criança (when I was a child), sempre (always – for habits in imperfeito), etc."
+}

@@ -1,0 +1,310 @@
+{
+  "level": 10,
+  "topic": "English Future Tenses (will & be going to)",
+  "language_pair": "pt-en",
+  "target_language": "en",
+  "native_language": "pt",
+  "description": "English Future Tenses – para falantes de português. Em inglês usamos principalmente duas formas para falar do futuro: 'will' (decisões espontâneas, previsões, promessas, fatos futuros) e 'be going to' (intenções/planos prévios, evidências claras de que algo vai acontecer). Não existe um futuro simples como o '-ei/-á' em português; as duas formas cobrem a maioria das situações.",
+  "grammar_focus": {
+    "rule_will": "will + verbo base (I will go, you will see, he will come…)",
+    "rule_going_to": "am/is/are + going to + verbo base (I am going to study, she is going to rain…)",
+    "suffixes": {
+      "I": "will / am going to",
+      "You": "will / are going to",
+      "He/She/It": "will / is going to",
+      "We": "will / are going to",
+      "You (plural)": "will / are going to",
+      "They": "will / are going to"
+    },
+    "note_pt": "'Will' → decisões no momento, previsões sem evidência forte, promessas, ofertas espontâneas, verdades gerais no futuro. 'Be going to' → planos já decididos antes, intenções claras, quando vemos sinais no presente que indicam o futuro (ex: está nublado → vai chover). Contração comum: I'll, you'll, he'll, she'll, it'll, we'll, they'll. Negação: won't / isn't/aren't going to. Pergunta: Will you…? Are you going to…?"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "pt": "Eu vou (decisão espontânea).",
+      "en": "I'll go.",
+      "verb_root": "go",
+      "tense": "will",
+      "conjugation_note": "will + go → I'll go",
+      "audio_hint": "I'll go"
+    },
+    {
+      "id": 2,
+      "pt": "Eu vou estudar esta noite (plano).",
+      "en": "I'm going to study tonight.",
+      "verb_root": "study",
+      "tense": "going_to",
+      "conjugation_note": "am going to + study",
+      "audio_hint": "I'm going to study"
+    },
+    {
+      "id": 3,
+      "pt": "Vai chover (previsão com evidência).",
+      "en": "It's going to rain.",
+      "verb_root": "rain",
+      "tense": "going_to",
+      "conjugation_note": "is going to + rain",
+      "audio_hint": "It's going to rain"
+    },
+    {
+      "id": 4,
+      "pt": "Vai chover amanhã (previsão geral).",
+      "en": "It will rain tomorrow.",
+      "verb_root": "rain",
+      "tense": "will",
+      "conjugation_note": "will + rain",
+      "audio_hint": "It will rain"
+    },
+    {
+      "id": 5,
+      "pt": "Eu te ajudo! (decisão no momento).",
+      "en": "I'll help you!",
+      "verb_root": "help",
+      "tense": "will",
+      "conjugation_note": "will + help → I'll help",
+      "audio_hint": "I'll help you"
+    },
+    {
+      "id": 6,
+      "pt": "Eu vou comprar um carro novo (intenção).",
+      "en": "I'm going to buy a new car.",
+      "verb_root": "buy",
+      "tense": "going_to",
+      "conjugation_note": "am going to + buy",
+      "audio_hint": "I'm going to buy"
+    },
+    {
+      "id": 7,
+      "pt": "Ela vai ter um bebê (evidência / plano).",
+      "en": "She is going to have a baby.",
+      "verb_root": "have",
+      "tense": "going_to",
+      "conjugation_note": "is going to + have",
+      "audio_hint": "She's going to have"
+    },
+    {
+      "id": 8,
+      "pt": "Eu prometo que vou ligar.",
+      "en": "I will call you. / I'll call you.",
+      "verb_root": "call",
+      "tense": "will",
+      "conjugation_note": "will + call",
+      "audio_hint": "I'll call you"
+    },
+    {
+      "id": 9,
+      "pt": "Olha as nuvens! Vai chover.",
+      "en": "Look at the clouds! It's going to rain.",
+      "verb_root": "rain",
+      "tense": "going_to",
+      "conjugation_note": "is going to + rain",
+      "audio_hint": "It's going to rain"
+    },
+    {
+      "id": 10,
+      "pt": "O que você vai fazer amanhã? (plano)",
+      "en": "What are you going to do tomorrow?",
+      "verb_root": "do",
+      "tense": "going_to",
+      "conjugation_note": "are you going to + do",
+      "audio_hint": "What are you going to do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "pt": "Eu acho que ela vai ganhar.",
+      "en": "I think she will win.",
+      "verb_root": "win",
+      "tense": "will",
+      "conjugation_note": "will + win",
+      "audio_hint": "she will win"
+    },
+    {
+      "id": 12,
+      "pt": "Nós vamos viajar em julho (plano).",
+      "en": "We are going to travel in July.",
+      "verb_root": "travel",
+      "tense": "going_to",
+      "conjugation_note": "are going to + travel",
+      "audio_hint": "We're going to travel"
+    },
+    {
+      "id": 13,
+      "pt": "Eu vou te ajudar agora (decisão).",
+      "en": "I'll help you now.",
+      "verb_root": "help",
+      "tense": "will",
+      "conjugation_note": "will + help",
+      "audio_hint": "I'll help you"
+    },
+    {
+      "id": 14,
+      "pt": "Ele não vai vir (decisão/previsão).",
+      "en": "He won't come.",
+      "verb_root": "come",
+      "tense": "will",
+      "conjugation_note": "will not → won't + come",
+      "audio_hint": "He won't come",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 15,
+      "pt": "Eles não vão estudar (plano cancelado).",
+      "en": "They aren't going to study.",
+      "verb_root": "study",
+      "tense": "going_to",
+      "conjugation_note": "are not going to + study",
+      "audio_hint": "They aren't going to study",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "pt": "Você vai viajar de férias?",
+      "en": "Are you going to travel on vacation?",
+      "verb_root": "travel",
+      "tense": "going_to",
+      "conjugation_note": "Are you going to + travel",
+      "audio_hint": "Are you going to travel?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 17,
+      "pt": "Vai chover ou não? (previsão)",
+      "en": "Will it rain or not?",
+      "verb_root": "rain",
+      "tense": "will",
+      "conjugation_note": "Will + it + rain",
+      "audio_hint": "Will it rain?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "pt": "Eu vou aprender inglês rápido (intenção).",
+      "en": "I'm going to learn English fast.",
+      "verb_root": "learn",
+      "tense": "going_to",
+      "conjugation_note": "am going to + learn",
+      "audio_hint": "I'm going to learn"
+    },
+    {
+      "id": 19,
+      "pt": "Eu prometo: eu vou chegar cedo.",
+      "en": "I promise: I'll arrive early.",
+      "verb_root": "arrive",
+      "tense": "will",
+      "conjugation_note": "will + arrive",
+      "audio_hint": "I'll arrive early"
+    },
+    {
+      "id": 20,
+      "pt": "Olha o céu escuro! Vai chover forte.",
+      "en": "Look at the dark sky! It's going to rain hard.",
+      "verb_root": "rain",
+      "tense": "going_to",
+      "conjugation_note": "is going to + rain",
+      "audio_hint": "It's going to rain hard"
+    },
+    {
+      "id": 21,
+      "pt": "Nós vamos assistir um filme hoje à noite (plano).",
+      "en": "We are going to watch a movie tonight.",
+      "verb_root": "watch",
+      "tense": "going_to",
+      "conjugation_note": "are going to + watch",
+      "audio_hint": "We're going to watch"
+    },
+    {
+      "id": 22,
+      "pt": "Eu vou te ligar mais tarde (decisão).",
+      "en": "I'll call you later.",
+      "verb_root": "call",
+      "tense": "will",
+      "conjugation_note": "will + call",
+      "audio_hint": "I'll call you"
+    },
+    {
+      "id": 23,
+      "pt": "O bebê vai nascer em março (plano/evidência).",
+      "en": "The baby is going to be born in March.",
+      "verb_root": "be born",
+      "tense": "going_to",
+      "conjugation_note": "is going to + be born",
+      "audio_hint": "The baby is going to be born"
+    },
+    {
+      "id": 24,
+      "pt": "Acho que vamos ganhar o jogo.",
+      "en": "I think we will win the game.",
+      "verb_root": "win",
+      "tense": "will",
+      "conjugation_note": "will + win",
+      "audio_hint": "We will win"
+    },
+    {
+      "id": 25,
+      "pt": "Você vai fazer o quê no final de semana?",
+      "en": "What are you going to do this weekend?",
+      "verb_root": "do",
+      "tense": "going_to",
+      "conjugation_note": "are you going to + do",
+      "audio_hint": "What are you going to do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 26,
+      "pt": "Eu não vou comer isso (decisão).",
+      "en": "I won't eat that.",
+      "verb_root": "eat",
+      "tense": "will",
+      "conjugation_note": "will not + eat → won't eat",
+      "audio_hint": "I won't eat that",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "pt": "Ela não vai viajar sozinha.",
+      "en": "She isn't going to travel alone.",
+      "verb_root": "travel",
+      "tense": "going_to",
+      "conjugation_note": "is not going to + travel",
+      "audio_hint": "She isn't going to travel",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 28,
+      "pt": "Você vai me ajudar ou não?",
+      "en": "Will you help me or not?",
+      "verb_root": "help",
+      "tense": "will",
+      "conjugation_note": "Will + you + help",
+      "audio_hint": "Will you help me?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "pt": "Nós vamos chegar atrasados se não sairmos agora.",
+      "en": "We are going to be late if we don't leave now.",
+      "verb_root": "be",
+      "tense": "going_to",
+      "conjugation_note": "are going to + be",
+      "audio_hint": "We're going to be late"
+    },
+    {
+      "id": 30,
+      "pt": "Eu juro: eu vou mudar de vida.",
+      "en": "I swear: I will change my life.",
+      "verb_root": "change",
+      "tense": "will",
+      "conjugation_note": "will + change",
+      "audio_hint": "I will change my life"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "I", "pt": "Eu", "will": "will", "going_to": "am going to" },
+    { "pronoun": "You", "pt": "Você / Vocês", "will": "will", "going_to": "are going to" },
+    { "pronoun": "He/She/It", "pt": "Ele / Ela", "will": "will", "going_to": "is going to" },
+    { "pronoun": "We", "pt": "Nós", "will": "will", "going_to": "are going to" },
+    { "pronoun": "They", "pt": "Eles / Elas", "will": "will", "going_to": "are going to" }
+  ],
+  "extra_note_pt": "Resumo rápido das diferenças:\n• Will → decisão espontânea, previsão sem prova forte, promessa, oferta (I'll do it now! / It will be difficult. / I'll love you forever.)\n• Be going to → plano já decidido, intenção clara, previsão com evidência visível (I'm going to visit my family next week. / Look! The glass is falling → It's going to break!)\nEm conversas do dia a dia os falantes nativos usam muito mais 'going to' para planos e 'will' para promessas/decisões no momento. Expressões comuns: tomorrow (amanhã), next week/month/year, soon (em breve), in the future (no futuro), in 2030, etc."
+}

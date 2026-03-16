@@ -1,0 +1,336 @@
+{
+  "level": 10,
+  "topic": "Portuguese Future Tense (Futuro do Presente)",
+  "language_pair": "en-pt",
+  "target_language": "pt",
+  "native_language": "en",
+  "description": "Portuguese Future Tense (Futuro do Presente) – for English speakers. Used for future actions, predictions, intentions, promises, and spontaneous decisions. It is very similar to English 'will' + verb, but Portuguese has its own regular endings and many irregular verbs. In spoken Brazilian Portuguese, people often use 'ir + infinitive' (vou fazer) for near future / plans instead of the synthetic future.",
+  "grammar_focus": {
+    "rule": "Infinitive stem + future endings (-ei, -ás, -á, -emos, -ão) added directly to the full infinitive (regular pattern)",
+    "suffixes": {
+      "eu (I)": "-ei",
+      "tu (you informal)": "-ás",
+      "você/ele/ela (you formal/he/she/it)": "-á",
+      "nós (we)": "-emos",
+      "vocês/eles/elas (you plural/they)": "-ão"
+    },
+    "note_en": "The future tense is formed by adding endings directly to the infinitive (falar → falarei, comer → comerei, partir → partirei). Very common irregular stems: dizer → direi, fazer → farei, trazer → trarei, poder → poderei, saber → saberei, caber → caberei, haver → haverei, etc. In everyday Brazilian Portuguese, 'vou + infinitive' is much more frequent for plans and near future (Vou comer = I'm going to eat / I'll eat). The synthetic future (falarei) is more formal, literary, or used for predictions and promises. Negation: não + future verb. Questions: intonation or inversion (Você virá?)."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "en": "I will speak.",
+      "pt": "Falarei.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + ei → falarei",
+      "audio_hint": "fa-la-REI"
+    },
+    {
+      "id": 2,
+      "en": "You will speak. (tu informal)",
+      "pt": "Falarás.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + ás → falarás",
+      "audio_hint": "fa-la-RÁS"
+    },
+    {
+      "id": 3,
+      "en": "He/She will speak.",
+      "pt": "Falará.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + á → falará",
+      "audio_hint": "fa-la-RÁ"
+    },
+    {
+      "id": 4,
+      "en": "We will speak.",
+      "pt": "Falaremos.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + emos → falaremos",
+      "audio_hint": "fa-la-RE-mos"
+    },
+    {
+      "id": 5,
+      "en": "They will speak.",
+      "pt": "Falarão.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + ão → falarão",
+      "audio_hint": "fa-la-RÃO"
+    },
+    {
+      "id": 6,
+      "en": "I will eat.",
+      "pt": "Comerei.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + ei → comerei",
+      "audio_hint": "co-me-REI"
+    },
+    {
+      "id": 7,
+      "en": "You will eat. (tu)",
+      "pt": "Comerás.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + ás → comerás",
+      "audio_hint": "co-me-RÁS"
+    },
+    {
+      "id": 8,
+      "en": "He/She will eat.",
+      "pt": "Comerá.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + á → comerá",
+      "audio_hint": "co-me-RÁ"
+    },
+    {
+      "id": 9,
+      "en": "We will eat.",
+      "pt": "Comeremos.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + emos → comeremos",
+      "audio_hint": "co-me-RE-mos"
+    },
+    {
+      "id": 10,
+      "en": "They will eat.",
+      "pt": "Comerão.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer + ão → comerão",
+      "audio_hint": "co-me-RÃO"
+    },
+    {
+      "id": 11,
+      "en": "I will live.",
+      "pt": "Viverei.",
+      "verb_root": "viv",
+      "verb_infinitive": "viver",
+      "pt_infinitive": "viver",
+      "conjugation_note": "viver + ei → viverei",
+      "audio_hint": "vi-ve-REI"
+    },
+    {
+      "id": 12,
+      "en": "He/She will live.",
+      "pt": "Viverá.",
+      "verb_root": "viv",
+      "verb_infinitive": "viver",
+      "pt_infinitive": "viver",
+      "conjugation_note": "viver + á → viverá",
+      "audio_hint": "vi-ve-RÁ"
+    },
+    {
+      "id": 13,
+      "en": "I will love you.",
+      "pt": "Te amarei.",
+      "verb_root": "am",
+      "verb_infinitive": "amar",
+      "pt_infinitive": "amar",
+      "conjugation_note": "amar + ei → amarei",
+      "audio_hint": "a-ma-REI"
+    },
+    {
+      "id": 14,
+      "en": "I will not go.",
+      "pt": "Não irei.",
+      "verb_root": "ir",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "ir (irregular) → irei",
+      "audio_hint": "não i-REI",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 15,
+      "en": "He/She will come.",
+      "pt": "Virá.",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "vir (irregular) → virá",
+      "audio_hint": "vi-RÁ"
+    },
+    {
+      "id": 16,
+      "en": "Will you come? (você)",
+      "pt": "Você virá?",
+      "verb_root": "vir",
+      "verb_infinitive": "vir",
+      "pt_infinitive": "vir",
+      "conjugation_note": "virá + question intonation",
+      "audio_hint": "vo-CÊ vi-RÁ?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 17,
+      "en": "I will see you.",
+      "pt": "Te verei.",
+      "verb_root": "ver",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "conjugation_note": "ver (irregular) → verei",
+      "audio_hint": "ve-REI"
+    },
+    {
+      "id": 18,
+      "en": "They will laugh.",
+      "pt": "Rirão.",
+      "verb_root": "r",
+      "verb_infinitive": "rir",
+      "pt_infinitive": "rir",
+      "conjugation_note": "rir (irregular stem) → rirão",
+      "audio_hint": "ri-RÃO"
+    },
+    {
+      "id": 19,
+      "en": "We will wait.",
+      "pt": "Esperaremos.",
+      "verb_root": "esper",
+      "verb_infinitive": "esperar",
+      "pt_infinitive": "esperar",
+      "conjugation_note": "esperar + emos → esperaremos",
+      "audio_hint": "es-pe-ra-RE-mos"
+    },
+    {
+      "id": 20,
+      "en": "I will eat tomorrow.",
+      "pt": "Comerei amanhã.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comerei",
+      "audio_hint": "co-me-REI a-ma-NHÃ"
+    },
+    {
+      "id": 21,
+      "en": "You will write. (tu)",
+      "pt": "Escreverás.",
+      "verb_root": "escrev",
+      "verb_infinitive": "escrever",
+      "pt_infinitive": "escrever",
+      "conjugation_note": "escrever + ás → escreverás",
+      "audio_hint": "es-cre-ve-RÁS"
+    },
+    {
+      "id": 22,
+      "en": "He/She will run.",
+      "pt": "Correrá.",
+      "verb_root": "corr",
+      "verb_infinitive": "correr",
+      "pt_infinitive": "correr",
+      "conjugation_note": "correr + á → correrá",
+      "audio_hint": "cor-re-RÁ"
+    },
+    {
+      "id": 23,
+      "en": "We will swim.",
+      "pt": "Nataremos.",
+      "verb_root": "nat",
+      "verb_infinitive": "nadar",
+      "pt_infinitive": "nadar",
+      "conjugation_note": "nadar + emos → nadaremos",
+      "audio_hint": "na-da-RE-mos"
+    },
+    {
+      "id": 24,
+      "en": "You will sing. (vocês)",
+      "pt": "Cantarão.",
+      "verb_root": "cant",
+      "verb_infinitive": "cantar",
+      "pt_infinitive": "cantar",
+      "conjugation_note": "cantar + ão → cantarão",
+      "audio_hint": "can-ta-RÃO"
+    },
+    {
+      "id": 25,
+      "en": "I will not work tomorrow.",
+      "pt": "Não trabalharei amanhã.",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "trabalhar + ei → trabalharei",
+      "audio_hint": "não tra-ba-lha-REI a-ma-NHÃ",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 26,
+      "en": "Will he sleep early?",
+      "pt": "Ele dormirá cedo?",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "dormir + á → dormirá",
+      "audio_hint": "e-LE dor-mi-RÁ CE-do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 27,
+      "en": "We will not listen.",
+      "pt": "Não escutaremos.",
+      "verb_root": "escut",
+      "verb_infinitive": "escutar",
+      "pt_infinitive": "escutar",
+      "conjugation_note": "escutar + emos → escutaremos",
+      "audio_hint": "não es-cu-ta-RE-mos",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 28,
+      "en": "Will you dance with me?",
+      "pt": "Dançarás comigo?",
+      "verb_root": "danç",
+      "verb_infinitive": "dançar",
+      "pt_infinitive": "dançar",
+      "conjugation_note": "dançar + ás → dançarás (tu)",
+      "audio_hint": "dan-ça-RÁS co-MI-go?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "en": "They will not speak Portuguese.",
+      "pt": "Não falarão português.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar + ão → falarão",
+      "audio_hint": "não fa-la-RÃO por-tu-GUÊS",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 30,
+      "en": "I will do it.",
+      "pt": "Farei isso.",
+      "verb_root": "faz",
+      "verb_infinitive": "fazer",
+      "pt_infinitive": "fazer",
+      "conjugation_note": "fazer (irregular) → farei",
+      "audio_hint": "fa-REI Í-sso"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Eu", "en": "I", "suffix": "-ei" },
+    { "pronoun": "Tu", "en": "You (informal)", "suffix": "-ás" },
+    { "pronoun": "Você / Ele / Ela", "en": "You (formal) / He / She / It", "suffix": "-á" },
+    { "pronoun": "Nós", "en": "We", "suffix": "-emos" },
+    { "pronoun": "Vocês / Eles / Elas", "en": "You (plural) / They", "suffix": "-ão" }
+  ],
+  "extra_note_en": "The synthetic future (falarei) is less common in spoken Brazilian Portuguese — most people say 'vou falar' instead (near/planned future). Use the synthetic form more in formal writing, predictions ('Choverá amanhã' = It will rain tomorrow), promises, or European Portuguese. Very frequent irregulars: dizer → direi, fazer → farei, trazer → trarei, poder → poderei, saber → saberei, querer → quererei, caber → caberei, haver → haverei, pôr → porei, valer → valerei. Time expressions: amanhã (tomorrow), na próxima semana (next week), logo (soon), daqui a pouco (in a little while), no futuro (in the future), etc."
+}

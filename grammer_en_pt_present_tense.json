@@ -1,0 +1,336 @@
+{
+  "level": 10,
+  "topic": "Portuguese Present Tense (Presente do Indicativo)",
+  "language_pair": "en-pt",
+  "target_language": "pt",
+  "native_language": "en",
+  "description": "Portuguese Present Tense (Presente do Indicativo) – for English speakers. Used for habits, general truths, repeated actions, current states, feelings, near future (with time expressions), and sometimes ongoing actions (especially in Brazil). Very similar to English Present Simple, but with important differences in verb endings and some verbs that use the present for 'I am doing' meanings.",
+  "grammar_focus": {
+    "rule": "Verb stem + present tense endings (regular verbs change according to conjugation group: -ar, -er, -ir)",
+    "suffixes": {
+      "eu (I)": "-o",
+      "tu (you informal)": "-as / -es / -is",
+      "você/ele/ela (you formal/he/she/it)": "-a / -e / -e",
+      "nós (we)": "-amos / -emos / -imos",
+      "vocês/eles/elas (you plural/they)": "-am / -em / -em"
+    },
+    "note_en": "Most regular verbs follow one of three patterns: -AR (falar), -ER (comer), -IR (partir). Irregular verbs are very common (ser, estar, ter, ir, fazer, dizer, etc.). In Brazilian Portuguese the present is often used for both 'I do' and 'I am doing' (Eu falo português = I speak Portuguese / I am speaking Portuguese right now). In European Portuguese 'estar + gerúndio' is more common for ongoing actions. Negation: não + verb. Questions: just intonation or inversion (Você fala inglês?)."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "en": "I speak.",
+      "pt": "Falo.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "falar → fal + o → falo (eu)",
+      "audio_hint": "FA-lo"
+    },
+    {
+      "id": 2,
+      "en": "You speak. (tu informal)",
+      "pt": "Falas.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "fal + as → falas",
+      "audio_hint": "FA-las"
+    },
+    {
+      "id": 3,
+      "en": "He/She speaks.",
+      "pt": "Fala.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "fal + a → fala",
+      "audio_hint": "FA-la"
+    },
+    {
+      "id": 4,
+      "en": "We speak.",
+      "pt": "Falamos.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "fal + amos → falamos",
+      "audio_hint": "fa-LA-mos"
+    },
+    {
+      "id": 5,
+      "en": "You (plural) / They speak.",
+      "pt": "Falam.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "fal + am → falam",
+      "audio_hint": "FA-lam"
+    },
+    {
+      "id": 6,
+      "en": "I eat.",
+      "pt": "Como.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "comer → com + o → como",
+      "audio_hint": "CO-mo"
+    },
+    {
+      "id": 7,
+      "en": "You eat. (tu)",
+      "pt": "Comes.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "com + es → comes",
+      "audio_hint": "CO-mes"
+    },
+    {
+      "id": 8,
+      "en": "He/She eats.",
+      "pt": "Come.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "com + e → come",
+      "audio_hint": "CO-me"
+    },
+    {
+      "id": 9,
+      "en": "We eat.",
+      "pt": "Comemos.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "com + emos → comemos",
+      "audio_hint": "co-ME-mos"
+    },
+    {
+      "id": 10,
+      "en": "They eat.",
+      "pt": "Comem.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "com + em → comem",
+      "audio_hint": "CO-mem"
+    },
+    {
+      "id": 11,
+      "en": "I live.",
+      "pt": "Vivo.",
+      "verb_root": "viv",
+      "verb_infinitive": "viver",
+      "pt_infinitive": "viver",
+      "conjugation_note": "viver → viv + o → vivo",
+      "audio_hint": "VI-vo"
+    },
+    {
+      "id": 12,
+      "en": "You live. (você)",
+      "pt": "Vive.",
+      "verb_root": "viv",
+      "verb_infinitive": "viver",
+      "pt_infinitive": "viver",
+      "conjugation_note": "viv + e → vive",
+      "audio_hint": "VI-ve"
+    },
+    {
+      "id": 13,
+      "en": "We live.",
+      "pt": "Vivemos.",
+      "verb_root": "viv",
+      "verb_infinitive": "viver",
+      "pt_infinitive": "viver",
+      "conjugation_note": "viv + emos → vivimos",
+      "audio_hint": "vi-VE-mos"
+    },
+    {
+      "id": 14,
+      "en": "I love you.",
+      "pt": "Eu te amo.",
+      "verb_root": "am",
+      "verb_infinitive": "amar",
+      "pt_infinitive": "amar",
+      "conjugation_note": "amar → am + o → amo",
+      "audio_hint": "A-mo"
+    },
+    {
+      "id": 15,
+      "en": "I don't speak Portuguese.",
+      "pt": "Não falo português.",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "não + falo",
+      "audio_hint": "NÃO FA-lo",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "en": "Do you speak English?",
+      "pt": "Você fala inglês?",
+      "verb_root": "fal",
+      "verb_infinitive": "falar",
+      "pt_infinitive": "falar",
+      "conjugation_note": "question with intonation or inversion",
+      "audio_hint": "vo-CÊ FA-la in-glês?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 17,
+      "en": "He drinks water.",
+      "pt": "Ele bebe água.",
+      "verb_root": "beb",
+      "verb_infinitive": "beber",
+      "pt_infinitive": "beber",
+      "conjugation_note": "beber → beb + e → bebe",
+      "audio_hint": "BE-be"
+    },
+    {
+      "id": 18,
+      "en": "We play soccer.",
+      "pt": "Nós jogamos futebol.",
+      "verb_root": "jog",
+      "verb_infinitive": "jogar",
+      "pt_infinitive": "jogar",
+      "conjugation_note": "jogar → jog + amos → jogamos",
+      "audio_hint": "jo-GA-mos"
+    },
+    {
+      "id": 19,
+      "en": "They sleep late.",
+      "pt": "Eles dormem tarde.",
+      "verb_root": "dorm",
+      "verb_infinitive": "dormir",
+      "pt_infinitive": "dormir",
+      "conjugation_note": "dormir → dorm + em → dormem",
+      "audio_hint": "DOR-mem"
+    },
+    {
+      "id": 20,
+      "en": "I don't eat meat.",
+      "pt": "Não como carne.",
+      "verb_root": "com",
+      "verb_infinitive": "comer",
+      "pt_infinitive": "comer",
+      "conjugation_note": "não + como",
+      "audio_hint": "NÃO CO-mo",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 21,
+      "en": "You (plural) study Portuguese.",
+      "pt": "Vocês estudam português.",
+      "verb_root": "estud",
+      "verb_infinitive": "estudar",
+      "pt_infinitive": "estudar",
+      "conjugation_note": "estudar → estud + am → estudam",
+      "audio_hint": "es-tu-DAM"
+    },
+    {
+      "id": 22,
+      "en": "She writes emails.",
+      "pt": "Ela escreve e-mails.",
+      "verb_root": "escrev",
+      "verb_infinitive": "escrever",
+      "pt_infinitive": "escrever",
+      "conjugation_note": "escrever → escrev + e → escreve",
+      "audio_hint": "es-CRE-ve"
+    },
+    {
+      "id": 23,
+      "en": "We understand.",
+      "pt": "Entendemos.",
+      "verb_root": "entend",
+      "verb_infinitive": "entender",
+      "pt_infinitive": "entender",
+      "conjugation_note": "entender → entend + emos → entendemos",
+      "audio_hint": "en-ten-DE-mos"
+    },
+    {
+      "id": 24,
+      "en": "I go to school.",
+      "pt": "Eu vou à escola.",
+      "verb_root": "v",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "ir (irregular) → vou (eu)",
+      "audio_hint": "vou"
+    },
+    {
+      "id": 25,
+      "en": "You have a car. (você)",
+      "pt": "Você tem um carro.",
+      "verb_root": "t",
+      "verb_infinitive": "ter",
+      "pt_infinitive": "ter",
+      "conjugation_note": "ter (irregular) → tem (você/ele/ela)",
+      "audio_hint": "tem"
+    },
+    {
+      "id": 26,
+      "en": "I am not going.",
+      "pt": "Não vou.",
+      "verb_root": "v",
+      "verb_infinitive": "ir",
+      "pt_infinitive": "ir",
+      "conjugation_note": "não + vou",
+      "audio_hint": "não VOU",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "en": "Do they work here?",
+      "pt": "Eles trabalham aqui?",
+      "verb_root": "trabalh",
+      "verb_infinitive": "trabalhar",
+      "pt_infinitive": "trabalhar",
+      "conjugation_note": "trabalhar → trabalham",
+      "audio_hint": "tra-ba-LHAM a-KI?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "en": "She doesn't like coffee.",
+      "pt": "Ela não gosta de café.",
+      "verb_root": "gost",
+      "verb_infinitive": "gostar",
+      "pt_infinitive": "gostar",
+      "conjugation_note": "gostar → gosta (irregular stem change)",
+      "audio_hint": "NÃO GOS-ta",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 29,
+      "en": "We see the movie.",
+      "pt": "Nós vemos o filme.",
+      "verb_root": "v",
+      "verb_infinitive": "ver",
+      "pt_infinitive": "ver",
+      "conjugation_note": "ver (irregular) → vemos (nós)",
+      "audio_hint": "VE-mos"
+    },
+    {
+      "id": 30,
+      "en": "You (tu) know the answer?",
+      "pt": "Sabes a resposta?",
+      "verb_root": "sab",
+      "verb_infinitive": "saber",
+      "pt_infinitive": "saber",
+      "conjugation_note": "saber (irregular) → sabes (tu)",
+      "audio_hint": "SA-bes?",
+      "grammar_tag": "question"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Eu", "en": "I", "suffix": "-o" },
+    { "pronoun": "Tu", "en": "You (informal)", "suffix": "-as / -es / -is" },
+    { "pronoun": "Você / Ele / Ela", "en": "You (formal) / He / She / It", "suffix": "-a / -e / -e" },
+    { "pronoun": "Nós", "en": "We", "suffix": "-amos / -emos / -imos" },
+    { "pronoun": "Vocês / Eles / Elas", "en": "You (plural) / They", "suffix": "-am / -em / -em" }
+  ],
+  "extra_note_en": "Regular -ar verbs: falar → falo, falas, fala, falamos, falam. -er: comer → como, comes, come, comemos, comem. -ir: partir → parto, partes, parte, partimos, partem. Very common irregulars: ser (sou, és, é, somos, são), estar (estou, estás, está, estamos, estão), ter (tenho, tens, tem, temos, têm), ir (vou, vais, vai, vamos, vão), fazer (faço, fazes, faz, fazemos, fazem), dizer (digo, dizes, diz, dizemos, dizem). Time expressions: todo dia (every day), sempre (always), geralmente (usually), às vezes (sometimes), agora (now – can mean ongoing action in BR-PT), hoje (today), etc."
+}

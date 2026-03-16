@@ -1,0 +1,339 @@
+{
+  "level": 10,
+  "topic": "English Present Simple Tense",
+  "language_pair": "pt-en",
+  "target_language": "en",
+  "native_language": "pt",
+  "description": "English Present Simple (Simple Present) – para falantes de português. Usado para hábitos, verdades gerais, rotinas, sentimentos, estados permanentes e horários fixos. Muito parecido com o Presente do Indicativo em português, mas com regras diferentes para a 3ª pessoa do singular.",
+  "grammar_focus": {
+    "rule": "Verbo base + (s/es/ies na 3ª pessoa do singular: he/she/it)",
+    "suffixes": {
+      "I": "",
+      "You": "",
+      "He/She/It": "-s / -es / -ies",
+      "We": "",
+      "You (plural)": "",
+      "They": ""
+    },
+    "note_pt": "Em inglês, só a 3ª pessoa do singular ganha -s (he plays, she watches, it goes). Verbos terminados em -ch, -sh, -s, -x, -o → +es (watches, kisses, goes). Verbos terminados em consoante + y → -ies (study → studies). Negação: do/does not + verbo base (I don't like, he doesn't play). Pergunta: Do/Does + sujeito + verbo base? (Do you speak...? Does she live...?)"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "pt": "Eu falo.",
+      "en": "I speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "I + speak (sem -s)",
+      "audio_hint": "I speak"
+    },
+    {
+      "id": 2,
+      "pt": "Tu falas. / Você fala.",
+      "en": "You speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "You + speak",
+      "audio_hint": "you speak"
+    },
+    {
+      "id": 3,
+      "pt": "Ele/Ela fala.",
+      "en": "He/She speaks.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "He/She + speak + s → speaks",
+      "audio_hint": "he speaks / she speaks"
+    },
+    {
+      "id": 4,
+      "pt": "Nós falamos.",
+      "en": "We speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "We + speak",
+      "audio_hint": "we speak"
+    },
+    {
+      "id": 5,
+      "pt": "Vocês falam.",
+      "en": "You speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "You (plural) + speak",
+      "audio_hint": "you speak"
+    },
+    {
+      "id": 6,
+      "pt": "Eles falam.",
+      "en": "They speak.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "They + speak",
+      "audio_hint": "they speak"
+    },
+    {
+      "id": 7,
+      "pt": "Eu como.",
+      "en": "I eat.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "I + eat",
+      "audio_hint": "I eat"
+    },
+    {
+      "id": 8,
+      "pt": "Ele/Ela come.",
+      "en": "He/She eats.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "He/She + eat + s → eats",
+      "audio_hint": "he eats"
+    },
+    {
+      "id": 9,
+      "pt": "Eu amo você.",
+      "en": "I love you.",
+      "verb_root": "love",
+      "verb_infinitive": "to love",
+      "en_infinitive": "to love",
+      "conjugation_note": "I + love",
+      "audio_hint": "I love you"
+    },
+    {
+      "id": 10,
+      "pt": "O que você faz?",
+      "en": "What do you do?",
+      "verb_root": "do",
+      "verb_infinitive": "to do",
+      "en_infinitive": "to do",
+      "conjugation_note": "Do + you + do",
+      "audio_hint": "what do you do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "pt": "Eu aprendo inglês.",
+      "en": "I learn English.",
+      "verb_root": "learn",
+      "verb_infinitive": "to learn",
+      "en_infinitive": "to learn",
+      "conjugation_note": "I + learn",
+      "audio_hint": "I learn English"
+    },
+    {
+      "id": 12,
+      "pt": "Ele dirige.",
+      "en": "He drives.",
+      "verb_root": "drive",
+      "verb_infinitive": "to drive",
+      "en_infinitive": "to drive",
+      "conjugation_note": "He + drive + s → drives",
+      "audio_hint": "he drives"
+    },
+    {
+      "id": 13,
+      "pt": "Nós ouvimos música.",
+      "en": "We listen to music.",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "We + listen",
+      "audio_hint": "we listen to music"
+    },
+    {
+      "id": 14,
+      "pt": "Você lê livros.",
+      "en": "You read books.",
+      "verb_root": "read",
+      "verb_infinitive": "to read",
+      "en_infinitive": "to read",
+      "conjugation_note": "You + read",
+      "audio_hint": "you read books"
+    },
+    {
+      "id": 15,
+      "pt": "Eu não vou.",
+      "en": "I don't go.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "I + do not + go → don't go",
+      "audio_hint": "I don't go",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "pt": "Ele não vem.",
+      "en": "He doesn't come.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "He + does not + come → doesn't come",
+      "audio_hint": "he doesn't come",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "pt": "Você vem aqui sempre?",
+      "en": "Do you come here often?",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "Do + you + come",
+      "audio_hint": "do you come...?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "pt": "Eu vejo ele.",
+      "en": "I see him.",
+      "verb_root": "see",
+      "verb_infinitive": "to see",
+      "en_infinitive": "to see",
+      "conjugation_note": "I + see",
+      "audio_hint": "I see him"
+    },
+    {
+      "id": 19,
+      "pt": "Eles riem.",
+      "en": "They laugh.",
+      "verb_root": "laugh",
+      "verb_infinitive": "to laugh",
+      "en_infinitive": "to laugh",
+      "conjugation_note": "They + laugh",
+      "audio_hint": "they laugh"
+    },
+    {
+      "id": 20,
+      "pt": "Nós esperamos aqui.",
+      "en": "We wait here.",
+      "verb_root": "wait",
+      "verb_infinitive": "to wait",
+      "en_infinitive": "to wait",
+      "conjugation_note": "We + wait",
+      "audio_hint": "we wait here"
+    },
+    {
+      "id": 21,
+      "pt": "Eu escrevo.",
+      "en": "I write.",
+      "verb_root": "write",
+      "verb_infinitive": "to write",
+      "en_infinitive": "to write",
+      "conjugation_note": "I + write",
+      "audio_hint": "I write"
+    },
+    {
+      "id": 22,
+      "pt": "Você corre.",
+      "en": "You run.",
+      "verb_root": "run",
+      "verb_infinitive": "to run",
+      "en_infinitive": "to run",
+      "conjugation_note": "You + run",
+      "audio_hint": "you run"
+    },
+    {
+      "id": 23,
+      "pt": "Ela nada.",
+      "en": "She swims.",
+      "verb_root": "swim",
+      "verb_infinitive": "to swim",
+      "en_infinitive": "to swim",
+      "conjugation_note": "She + swim + s → swims",
+      "audio_hint": "she swims"
+    },
+    {
+      "id": 24,
+      "pt": "Eu canto.",
+      "en": "I sing.",
+      "verb_root": "sing",
+      "verb_infinitive": "to sing",
+      "en_infinitive": "to sing",
+      "conjugation_note": "I + sing",
+      "audio_hint": "I sing"
+    },
+    {
+      "id": 25,
+      "pt": "Nós dançamos.",
+      "en": "We dance.",
+      "verb_root": "dance",
+      "verb_infinitive": "to dance",
+      "en_infinitive": "to dance",
+      "conjugation_note": "We + dance",
+      "audio_hint": "we dance"
+    },
+    {
+      "id": 26,
+      "pt": "Eu não trabalho.",
+      "en": "I don't work.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "I + do not + work",
+      "audio_hint": "I don't work",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "pt": "Ele não dorme?",
+      "en": "Doesn't he sleep?",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "Does not + he + sleep",
+      "audio_hint": "doesn't he sleep?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "pt": "Nós não ouvimos?",
+      "en": "Don't we listen?",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "Do not + we + listen",
+      "audio_hint": "don't we listen?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "pt": "Você dança?",
+      "en": "Do you dance?",
+      "verb_root": "dance",
+      "verb_infinitive": "to dance",
+      "en_infinitive": "to dance",
+      "conjugation_note": "Do + you + dance",
+      "audio_hint": "do you dance?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "pt": "Eles não falam inglês.",
+      "en": "They don't speak English.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "They + do not + speak",
+      "audio_hint": "they don't speak English",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "I", "pt": "Eu", "suffix": "" },
+    { "pronoun": "You", "pt": "Tu / Você / Vocês", "suffix": "" },
+    { "pronoun": "He/She/It", "pt": "Ele / Ela", "suffix": "-s / -es / -ies" },
+    { "pronoun": "We", "pt": "Nós", "suffix": "" },
+    { "pronoun": "They", "pt": "Eles / Elas", "suffix": "" }
+  ],
+  "extra_note_pt": "Present Simple em inglês é muito parecido com o presente em português para hábitos e verdades gerais. Atenção: só he/she/it ganha -s. Expressões de frequência comuns: always (sempre), usually (geralmente), often (frequentemente), sometimes (às vezes), never (nunca), every day (todo dia), on Mondays (nas segundas-feiras), in the morning (de manhã). Exemplos de irregularidades no -s: go → goes, do → does, have → has. Use do/does para negação e perguntas em todos os verbos (exceto be e have em alguns casos)."
+}

@@ -1,0 +1,339 @@
+{
+  "level": 10,
+  "topic": "English Past Simple Tense",
+  "language_pair": "pt-en",
+  "target_language": "en",
+  "native_language": "pt",
+  "description": "English Past Simple (Simple Past) – para falantes de português. Usado para ações concluídas no passado, eventos específicos com início e fim definidos, histórias, experiências passadas. Muito parecido com o Pretérito Perfeito em português (-ei, -i, -aste, -ou etc.), mas em inglês todos os sujeitos usam a mesma forma (exceto o verbo to be).",
+  "grammar_focus": {
+    "rule": "Verbos regulares: verbo base + -ed / -d\nVerbos irregulares: forma específica do passado (go → went, eat → ate, see → saw, etc.)",
+    "suffixes": {
+      "I": "-ed / forma irregular",
+      "You": "-ed / forma irregular",
+      "He/She/It": "-ed / forma irregular",
+      "We": "-ed / forma irregular",
+      "You (plural)": "-ed / forma irregular",
+      "They": "-ed / forma irregular"
+    },
+    "note_pt": "Todos os pronomes usam a mesma forma do verbo no passado (I/you/he/she/it/we/they worked). Regras para -ed: verbo termina em -e → só +d (like → liked); termina em consoante + y → -ied (study → studied); uma sílaba com consoante-vogal-consoante → dobra a consoante (stop → stopped). Negação: did not (didn't) + verbo base. Pergunta: Did + sujeito + verbo base? (Did you go...? Did she eat...?)"
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "pt": "Eu fui.",
+      "en": "I went.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "go → went (irregular)",
+      "audio_hint": "I went"
+    },
+    {
+      "id": 2,
+      "pt": "Você veio.",
+      "en": "You came.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "come → came (irregular)",
+      "audio_hint": "you came"
+    },
+    {
+      "id": 3,
+      "pt": "Ele/Ela comeu.",
+      "en": "He/She ate.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "eat → ate (irregular)",
+      "audio_hint": "he ate"
+    },
+    {
+      "id": 4,
+      "pt": "Nós bebemos.",
+      "en": "We drank.",
+      "verb_root": "drink",
+      "verb_infinitive": "to drink",
+      "en_infinitive": "to drink",
+      "conjugation_note": "drink → drank (irregular)",
+      "audio_hint": "we drank"
+    },
+    {
+      "id": 5,
+      "pt": "Vocês trabalharam.",
+      "en": "You worked.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "work + ed → worked (regular)",
+      "audio_hint": "you worked"
+    },
+    {
+      "id": 6,
+      "pt": "Eles trabalharam.",
+      "en": "They worked.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "They + worked",
+      "audio_hint": "they worked"
+    },
+    {
+      "id": 7,
+      "pt": "Eu te amei.",
+      "en": "I loved you.",
+      "verb_root": "love",
+      "verb_infinitive": "to love",
+      "en_infinitive": "to love",
+      "conjugation_note": "love + d → loved (regular)",
+      "audio_hint": "I loved you"
+    },
+    {
+      "id": 8,
+      "pt": "Ele/Ela dormiu.",
+      "en": "He/She slept.",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "sleep → slept (irregular)",
+      "audio_hint": "he slept"
+    },
+    {
+      "id": 9,
+      "pt": "Nós jogamos.",
+      "en": "We played.",
+      "verb_root": "play",
+      "verb_infinitive": "to play",
+      "en_infinitive": "to play",
+      "conjugation_note": "play + ed → played",
+      "audio_hint": "we played"
+    },
+    {
+      "id": 10,
+      "pt": "O que você fez?",
+      "en": "What did you do?",
+      "verb_root": "do",
+      "verb_infinitive": "to do",
+      "en_infinitive": "to do",
+      "conjugation_note": "Did + you + do",
+      "audio_hint": "what did you do?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "pt": "Eu aprendi inglês.",
+      "en": "I learned English.",
+      "verb_root": "learn",
+      "verb_infinitive": "to learn",
+      "en_infinitive": "to learn",
+      "conjugation_note": "learn + ed → learned",
+      "audio_hint": "I learned English"
+    },
+    {
+      "id": 12,
+      "pt": "Ele dirigiu.",
+      "en": "He drove.",
+      "verb_root": "drive",
+      "verb_infinitive": "to drive",
+      "en_infinitive": "to drive",
+      "conjugation_note": "drive → drove (irregular)",
+      "audio_hint": "he drove"
+    },
+    {
+      "id": 13,
+      "pt": "Nós ouvimos música.",
+      "en": "We listened to music.",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "listen + ed → listened",
+      "audio_hint": "we listened to music"
+    },
+    {
+      "id": 14,
+      "pt": "Você leu o livro.",
+      "en": "You read the book.",
+      "verb_root": "read",
+      "verb_infinitive": "to read",
+      "en_infinitive": "to read",
+      "conjugation_note": "read → read (irregular, pronúncia muda: /ri:d/ → /red/)",
+      "audio_hint": "you read the book"
+    },
+    {
+      "id": 15,
+      "pt": "Eu não fui.",
+      "en": "I didn't go.",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "did not + go → didn't go",
+      "audio_hint": "I didn't go",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "pt": "Ela não veio.",
+      "en": "She didn't come.",
+      "verb_root": "come",
+      "verb_infinitive": "to come",
+      "en_infinitive": "to come",
+      "conjugation_note": "didn't come",
+      "audio_hint": "she didn't come",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "pt": "Você foi ontem?",
+      "en": "Did you go yesterday?",
+      "verb_root": "go",
+      "verb_infinitive": "to go",
+      "en_infinitive": "to go",
+      "conjugation_note": "Did + you + go",
+      "audio_hint": "did you go yesterday?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "pt": "Eu vi ele.",
+      "en": "I saw him.",
+      "verb_root": "see",
+      "verb_infinitive": "to see",
+      "en_infinitive": "to see",
+      "conjugation_note": "see → saw (irregular)",
+      "audio_hint": "I saw him"
+    },
+    {
+      "id": 19,
+      "pt": "Eles riram.",
+      "en": "They laughed.",
+      "verb_root": "laugh",
+      "verb_infinitive": "to laugh",
+      "en_infinitive": "to laugh",
+      "conjugation_note": "laugh + ed → laughed",
+      "audio_hint": "they laughed"
+    },
+    {
+      "id": 20,
+      "pt": "Nós esperamos aqui.",
+      "en": "We waited here.",
+      "verb_root": "wait",
+      "verb_infinitive": "to wait",
+      "en_infinitive": "to wait",
+      "conjugation_note": "wait + ed → waited",
+      "audio_hint": "we waited here"
+    },
+    {
+      "id": 21,
+      "pt": "Eu comi.",
+      "en": "I ate.",
+      "verb_root": "eat",
+      "verb_infinitive": "to eat",
+      "en_infinitive": "to eat",
+      "conjugation_note": "eat → ate",
+      "audio_hint": "I ate"
+    },
+    {
+      "id": 22,
+      "pt": "Você escreveu.",
+      "en": "You wrote.",
+      "verb_root": "write",
+      "verb_infinitive": "to write",
+      "en_infinitive": "to write",
+      "conjugation_note": "write → wrote (irregular)",
+      "audio_hint": "you wrote"
+    },
+    {
+      "id": 23,
+      "pt": "Ela correu.",
+      "en": "She ran.",
+      "verb_root": "run",
+      "verb_infinitive": "to run",
+      "en_infinitive": "to run",
+      "conjugation_note": "run → ran (irregular)",
+      "audio_hint": "she ran"
+    },
+    {
+      "id": 24,
+      "pt": "Nós nadamos.",
+      "en": "We swam.",
+      "verb_root": "swim",
+      "verb_infinitive": "to swim",
+      "en_infinitive": "to swim",
+      "conjugation_note": "swim → swam (irregular)",
+      "audio_hint": "we swam"
+    },
+    {
+      "id": 25,
+      "pt": "Vocês cantaram.",
+      "en": "You sang.",
+      "verb_root": "sing",
+      "verb_infinitive": "to sing",
+      "en_infinitive": "to sing",
+      "conjugation_note": "sing → sang (irregular)",
+      "audio_hint": "you sang"
+    },
+    {
+      "id": 26,
+      "pt": "Eu não trabalhei ontem.",
+      "en": "I didn't work yesterday.",
+      "verb_root": "work",
+      "verb_infinitive": "to work",
+      "en_infinitive": "to work",
+      "conjugation_note": "didn't work",
+      "audio_hint": "I didn't work yesterday",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "pt": "Ele não dormiu?",
+      "en": "Didn't he sleep?",
+      "verb_root": "sleep",
+      "verb_infinitive": "to sleep",
+      "en_infinitive": "to sleep",
+      "conjugation_note": "Did not + he + sleep",
+      "audio_hint": "didn't he sleep?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "pt": "Nós não ouvimos?",
+      "en": "Didn't we listen?",
+      "verb_root": "listen",
+      "verb_infinitive": "to listen",
+      "en_infinitive": "to listen",
+      "conjugation_note": "Didn't + we + listen",
+      "audio_hint": "didn't we listen?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "pt": "Você dançou ontem?",
+      "en": "Did you dance yesterday?",
+      "verb_root": "dance",
+      "verb_infinitive": "to dance",
+      "en_infinitive": "to dance",
+      "conjugation_note": "Did + you + dance",
+      "audio_hint": "did you dance yesterday?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "pt": "Eles não falaram inglês.",
+      "en": "They didn't speak English.",
+      "verb_root": "speak",
+      "verb_infinitive": "to speak",
+      "en_infinitive": "to speak",
+      "conjugation_note": "didn't speak",
+      "audio_hint": "they didn't speak English",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "I", "pt": "Eu", "suffix": "-ed / irregular" },
+    { "pronoun": "You", "pt": "Tu / Você / Vocês", "suffix": "-ed / irregular" },
+    { "pronoun": "He/She/It", "pt": "Ele / Ela", "suffix": "-ed / irregular" },
+    { "pronoun": "We", "pt": "Nós", "suffix": "-ed / irregular" },
+    { "pronoun": "They", "pt": "Eles / Elas", "suffix": "-ed / irregular" }
+  ],
+  "extra_note_pt": "Past Simple é usado para ações terminadas no passado (ontem, na semana passada, em 2020, quando eu era criança). Expressões comuns: yesterday (ontem), last night/week/year (ontem à noite / semana passada / ano passado), ago (atrás – two days ago), in 1995, when I was young, etc. Verbos irregulares mais comuns precisam ser memorizados: be (was/were), have (had), do (did), say (said), get (got), make (made), know (knew), think (thought), take (took), see (saw), come (came), go (went), eat (ate), drink (drank), etc. Sempre use 'did' para negação e perguntas (exceto com o verbo to be)."
+}
