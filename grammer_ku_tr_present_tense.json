@@ -1,0 +1,343 @@
+{
+  "level": 10,
+  "topic": "Türkçe Şimdiki Zaman û Geniş Zaman (Present Simple & Continuous)",
+  "language_pair": "ku-tr",
+  "target_language": "tr",
+  "native_language": "ku",
+  "description": "Türkçe Şimdiki Zaman (-iyor) û Geniş Zaman (-r/-ar/-er) – Kurdî axivîn ji bo. Her du dem jî pir girîng in. Geniş Zaman ji bo adet, rastiyên giştî û karên dubare tê bikaranîn (her roj diçim). Şimdiki Zaman ji bo karên ku niha diqewimin tê bikaranîn (ez niha diçim). Di Kurdî de her du jî bi 'di-' pêşgirê tên çêkirin, lê di Tirkî de cudane.",
+  "grammar_focus": {
+    "rule": "Geniş Zaman: fiil + -r / -ar / -er + şahıs eki\nŞimdiki Zaman: fiil + -iyor + şahıs eki",
+    "suffixes": {
+      "ben": "Geniş: -ım/-im/-um/-üm | Şimdiki: -uyorum",
+      "sen": "Geniş: -sın/-sin | Şimdiki: -uyorsun",
+      "o": "Geniş: -ır/-ir/-ar/-er | Şimdiki: -uyor",
+      "biz": "Geniş: -ız/-iz | Şimdiki: -uyoruz",
+      "siz": "Geniş: -sınız/-siniz | Şimdiki: -uyorsunuz",
+      "onlar": "Geniş: -lar/-ler | Şimdiki: -uyorlar"
+    },
+    "note_ku": "Di Tirkî de Geniş Zaman ji bo adet û rastiyên herdemî ye (her roj diçim = her roj giderim). Şimdiki Zaman ji bo niha ye (ez niha diçim = şu anda gidiyorum). Olumsuzluk: Geniş Zaman'da -me/-ma, Şimdiki Zaman'da -muyorum. Soru: mi/mı eklenir. Piraniya fiilên bi -mek diqedin."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "ku": "Ez her roj diçim.",
+      "tr": "Ben her gün giderim. (Geniş Zaman)",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + er + im → giderim (Geniş)",
+      "audio_hint": "gi-de-rim"
+    },
+    {
+      "id": 2,
+      "ku": "Ez niha diçim.",
+      "tr": "Ben şimdi gidiyorum. (Şimdiki Zaman)",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + iyor + um → gidiyorum",
+      "audio_hint": "gi-di-yo-rum"
+    },
+    {
+      "id": 3,
+      "ku": "Tu her roj têyî.",
+      "tr": "Sen her gün gelirsin. (Geniş)",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ir + sin → gelirsin",
+      "audio_hint": "ge-lir-sin"
+    },
+    {
+      "id": 4,
+      "ku": "Tu niha têyî.",
+      "tr": "Sen şimdi geliyorsun. (Şimdiki)",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + iyor + sun → geliyorsun",
+      "audio_hint": "ge-li-yor-sun"
+    },
+    {
+      "id": 5,
+      "ku": "Ew her roj dixwe.",
+      "tr": "O her gün yer. (Geniş)",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + r → yer",
+      "audio_hint": "yer"
+    },
+    {
+      "id": 6,
+      "ku": "Ew niha dixwe.",
+      "tr": "O şimdi yiyor. (Şimdiki)",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + iyor → yiyor",
+      "audio_hint": "yi-yor"
+    },
+    {
+      "id": 7,
+      "ku": "Em her roj vedixwin.",
+      "tr": "Biz her gün içeriz. (Geniş)",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + er + iz → içeriz",
+      "audio_hint": "i-çe-riz"
+    },
+    {
+      "id": 8,
+      "ku": "Em niha vedixwin.",
+      "tr": "Biz şimdi içiyoruz. (Şimdiki)",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + iyor + uz → içiyoruz",
+      "audio_hint": "i-çi-yo-ruz"
+    },
+    {
+      "id": 9,
+      "ku": "Hûn her roj diaxivin.",
+      "tr": "Siz her gün konuşursunuz. (Geniş)",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ur + sunuz → konuşursunuz",
+      "audio_hint": "ko-nu-şur-su-nuz"
+    },
+    {
+      "id": 10,
+      "ku": "Hûn niha diaxivin.",
+      "tr": "Siz şimdi konuşuyorsunuz. (Şimdiki)",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + uyor + sunuz → konuşuyorsunuz",
+      "audio_hint": "ko-nu-şu-yor-su-nuz"
+    },
+    {
+      "id": 11,
+      "ku": "Ez ji te hez dikim (herdem).",
+      "tr": "Ben seni severim. (Geniş)",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + er + im → severim",
+      "audio_hint": "se-ve-rim"
+    },
+    {
+      "id": 12,
+      "ku": "Ez niha ji te hez dikim.",
+      "tr": "Ben seni seviyorum. (Şimdiki)",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + iyor + um → seviyorum",
+      "audio_hint": "se-vi-yo-rum"
+    },
+    {
+      "id": 13,
+      "ku": "Ez Kurdî fêr dibim.",
+      "tr": "Ben Türkçe öğreniyorum. (Şimdiki)",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + iyor + um → öğreniyorum",
+      "audio_hint": "ög-re-ni-yo-rum"
+    },
+    {
+      "id": 14,
+      "ku": "Ez her roj Kurdî fêr dibim.",
+      "tr": "Ben her gün Türkçe öğrenirim. (Geniş)",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + ir + im → öğrenirim",
+      "audio_hint": "ög-re-ni-rim"
+    },
+    {
+      "id": 15,
+      "ku": "Ez naçim (Geniş).",
+      "tr": "Ben gitmem.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + m → gitmem",
+      "audio_hint": "git-mem",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "ku": "Ez naçim (Şimdiki).",
+      "tr": "Ben gitmiyorum.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + mi + yor + um → gitmiyorum",
+      "audio_hint": "git-mi-yo-rum",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "ku": "Tu diçî?",
+      "tr": "Sen gidiyor musun?",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + iyor + sun + mu → gidiyor musun?",
+      "audio_hint": "gi-di-yor mu-sun?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "ku": "Tu diçî her roj?",
+      "tr": "Sen her gün gider misin?",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + er + mi + sin → gider misin?",
+      "audio_hint": "gi-der mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 19,
+      "ku": "Ew dixwîne.",
+      "tr": "O okuyor. (Şimdiki)",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + yor → okuyor",
+      "audio_hint": "o-ku-yor"
+    },
+    {
+      "id": 20,
+      "ku": "Ew her roj dixwîne.",
+      "tr": "O her gün okur. (Geniş)",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + r → okur",
+      "audio_hint": "o-kur"
+    },
+    {
+      "id": 21,
+      "ku": "Em dilîzin.",
+      "tr": "Biz oynuyoruz. (Şimdiki)",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + yor + uz → oynuyoruz",
+      "audio_hint": "oy-nu-yo-ruz"
+    },
+    {
+      "id": 22,
+      "ku": "Em her roj dilîzin.",
+      "tr": "Biz her gün oynarız. (Geniş)",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + r + ız → oynarız",
+      "audio_hint": "oy-na-rız"
+    },
+    {
+      "id": 23,
+      "ku": "Ez naxwim.",
+      "tr": "Ben yemiyorum. (Şimdiki)",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + mi + yor + um → yemiyorum",
+      "audio_hint": "ye-mi-yo-rum",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 24,
+      "ku": "Ez naxwim (adet).",
+      "tr": "Ben yemem. (Geniş)",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + me + m → yemem",
+      "audio_hint": "ye-mem",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 25,
+      "ku": "Hûn diaxivin?",
+      "tr": "Siz konuşuyor musunuz?",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + uyor + sunuz + mu",
+      "audio_hint": "ko-nu-şu-yor mu-su-nuz?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 26,
+      "ku": "Hûn diaxivin her roj?",
+      "tr": "Siz her gün konuşur musunuz?",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + ur + mu + sunuz",
+      "audio_hint": "ko-nu-şur mu-su-nuz?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 27,
+      "ku": "Ew naxebite.",
+      "tr": "O çalışmıyor.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + mı + yor → çalışmıyor",
+      "audio_hint": "ça-lış-mı-yor",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 28,
+      "ku": "Ew naxebit e (adet).",
+      "tr": "O çalışmaz.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + maz → çalışmaz",
+      "audio_hint": "ça-lış-maz",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 29,
+      "ku": "Tu dans dikî?",
+      "tr": "Sen dans ediyor musun?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + iyor + sun + mu",
+      "audio_hint": "dans e-di-yor mu-sun?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "ku": "Tu her roj dans dikî?",
+      "tr": "Sen her gün dans eder misin?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + er + mi + sin",
+      "audio_hint": "dans e-der mi-sin?",
+      "grammar_tag": "question"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "ku": "Ez", "geniş": "-ım/-im", "şimdiki": "-iyorum" },
+    { "pronoun": "Sen", "ku": "Tu", "geniş": "-sın", "şimdiki": "-uyorsun" },
+    { "pronoun": "O", "ku": "Ew", "geniş": "-ır/-ir", "şimdiki": "-uyor" },
+    { "pronoun": "Biz", "ku": "Em", "geniş": "-ız/-iz", "şimdiki": "-uyoruz" },
+    { "pronoun": "Siz", "ku": "Hûn", "geniş": "-sınız", "şimdiki": "-uyorsunuz" },
+    { "pronoun": "Onlar", "ku": "Ew", "geniş": "-lar/-ler", "şimdiki": "-uyorlar" }
+  ],
+  "extra_note_ku": "Di Tirkî de her du dem jî pir bikêr in. Geniş Zaman ji bo adet û rastiyên giştî ye (her roj, her sal). Şimdiki Zaman ji bo niha ye (niha, vê gavê). Olumsuzluk û pirs bi mi/mı/mu/mü tê çêkirin. Fiilên pir caran têne bikaranîn: gitmek, gelmek, yemek, içmek, konuşmak, öğrenmek, sevmek, çalışmak, dans etmek, okumak. Demên demê: her gün (her roj), şimdi (niha), her zaman (her tim), bazen (car caran), bugün (îro), yarın (sibê) hwd."
+}

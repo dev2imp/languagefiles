@@ -1,0 +1,215 @@
+{
+  "level": 10,
+  "topic": "Türkçe Geçmiş Zaman (-DI û -miş’li)",
+  "language_pair": "ku-tr",
+  "target_language": "tr",
+  "native_language": "ku",
+  "description": "Türkçe'de iki tane temel geçmiş zaman var: **-DI** (görülen geçmiş / bîranîya kesane ya bi çav dîtî) û **-miş** (duyulan / öğrenilen geçmiş / tiştên ku bi guh bihîstî an jî encamê tê texmînkirin). Her du jî pir girîng in. -DI ji bo tiştên ku tu bi xwe dîtî an jî bi temamî piştrast î tê bikaranîn (ez çûm). -miş ji bo tiştên ku te bi xwe nedîtî, kesekî got an jî nîşaneyên wê hene tê bikaranîn (ew çûye). Di Kurdî de her du jî bi gelemperî bi 'bûn' an 'di ... bû' têne vegotin, lê di Tirkî de cudahiyeke mezin heye.",
+  "grammar_focus": {
+    "rule": "-DI (Görülen Geçmiş): fiil + -dı / -di / -du / -dü + şahıs eki\n-miş (Duyulan / Öğrenilen Geçmiş): fiil + -mış / -miş / -muş / -müş + şahıs eki",
+    "suffixes": {
+      "ben": "-DI: -dım/-dim/-dum/-düm | -miş: -mışım/-mişim/-muşum/-müşüm",
+      "sen": "-DI: -dın/-din/-dun/-dün | -miş: -mışsın/-mişsin/-muşsun/-müşsün",
+      "o": "-DI: -dı/-di/-du/-dü | -miş: -mış/-miş/-muş/-müş",
+      "biz": "-DI: -dık/-dik/-duk/-dük | -miş: -mışız/-mişiz/-muşuz/-müşüz",
+      "siz": "-DI: -dınız/-diniz/-dunuz/-dünüz | -miş: -mışsınız/-mişsiniz/-muşsunuz/-müşsünüz",
+      "onlar": "-DI: -dılar/-diler/-dular/-düler | -miş: -mışlar/-mişler/-muşlar/-müşler"
+    },
+    "note_ku": "Di Tirkî de -DI ji bo bûyerên ku axaftvan bi xwe şahid bûye an jî bi temamî piştrast e (dün gittim = min duh dît). -miş ji bo tiştên ku axaftvan bi xwe nedîtî, tenê bihîstî an jî nîşane hene (gitmiş = çûye, lê min nedît). Olumsuzluk: Her ikisinde de -ma/-me eklenir (-madı, -memiş). Soru: mi/mı/mu/mü eklenir. Fiilên pir caran têne bikaranîn: gitmek, gelmek, yemek, içmek, görmek, yapmak, olmak."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "ku": "Ez duh çûm.",
+      "tr": "Ben dün gittim. (-DI – görülen)",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + ti + m → gittim",
+      "audio_hint": "git-tim"
+    },
+    {
+      "id": 2,
+      "ku": "Ew çûye (min nedît).",
+      "tr": "O gitmiş. (-miş – duyulan)",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + miş → gitmiş",
+      "audio_hint": "git-miş"
+    },
+    {
+      "id": 3,
+      "ku": "Tu sibê hatî.",
+      "tr": "Sen dün geldin. (-DI)",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + din → geldin",
+      "audio_hint": "gel-din"
+    },
+    {
+      "id": 4,
+      "ku": "Tu hatî (kesekî got).",
+      "tr": "Sen gelmişsin. (-miş)",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + miş + sin → gelmişsin",
+      "audio_hint": "gel-miş-sin"
+    },
+    {
+      "id": 5,
+      "ku": "Ew nan xwar.",
+      "tr": "O ekmek yedi. (-DI)",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + di → yedi",
+      "audio_hint": "ye-di"
+    },
+    {
+      "id": 6,
+      "ku": "Ew nan xwariye.",
+      "tr": "O ekmek yemiş. (-miş)",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + miş → yemiş",
+      "audio_hint": "ye-miş"
+    },
+    {
+      "id": 7,
+      "ku": "Em çay vexwarin.",
+      "tr": "Biz çay içtik. (-DI)",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + tik → içtik",
+      "audio_hint": "iç-tik"
+    },
+    {
+      "id": 8,
+      "ku": "Em çay vexwarine.",
+      "tr": "Biz çay içmişiz. (-miş)",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + miş + iz → içmişiz",
+      "audio_hint": "iç-miş-iz"
+    },
+    {
+      "id": 9,
+      "ku": "Hûn pir diaxivîn.",
+      "tr": "Siz çok konuştunuz. (-DI)",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + tunuz → konuştunuz",
+      "audio_hint": "ko-nuş-tu-nuz"
+    },
+    {
+      "id": 10,
+      "ku": "Hûn pir diaxivîne.",
+      "tr": "Siz çok konuşmuşsunuz. (-miş)",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + muş + sunuz → konuşmuşsunuz",
+      "audio_hint": "ko-nuş-muş-su-nuz"
+    },
+    {
+      "id": 11,
+      "ku": "Min ew dît (bi çavên xwe).",
+      "tr": "Ben onu gördüm. (-DI)",
+      "verb_root": "gör",
+      "verb_infinitive": "görmek",
+      "tr_infinitive": "görmek",
+      "conjugation_note": "gör + düm → gördüm",
+      "audio_hint": "gör-düm"
+    },
+    {
+      "id": 12,
+      "ku": "Ew hatiye (min nedît, lê nîşane hene).",
+      "tr": "O gelmiş. (-miş)",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + miş → gelmiş",
+      "audio_hint": "gel-miş"
+    },
+    {
+      "id": 13,
+      "ku": "Ez Kurdî fêr bûm (salê borî).",
+      "tr": "Ben Kürtçe öğrendim. (-DI)",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + dim → öğrendim",
+      "audio_hint": "ög-ren-dim"
+    },
+    {
+      "id": 14,
+      "ku": "Ew Kurdî fêr bûye (kesekî got).",
+      "tr": "O Kürtçe öğrenmiş. (-miş)",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + miş → öğrenmiş",
+      "audio_hint": "ög-ren-miş"
+    },
+    {
+      "id": 15,
+      "ku": "Ez neçûm.",
+      "tr": "Ben gitmedim. (-DI olumsuz)",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + dim → gitmedim",
+      "audio_hint": "git-me-dim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "ku": "Ew neçûye.",
+      "tr": "O gitmemiş. (-miş olumsuz)",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + miş → gitmemiş",
+      "audio_hint": "git-me-miş",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "ku": "Tu çûyî?",
+      "tr": "Sen gittin mi?",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + tin + mi → gittin mi?",
+      "audio_hint": "git-tin mi?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "ku": "Ew çûye?",
+      "tr": "O gitmiş mi?",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + miş + mi → gitmiş mi?",
+      "audio_hint": "git-miş mi?",
+      "grammar_tag": "question"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "ku": "Ez", "-DI": "-dım/-dim", "-miş": "-mışım/-mişim" },
+    { "pronoun": "Sen", "ku": "Tu", "-DI": "-dın/-din", "-miş": "-mışsın/-mişsin" },
+    { "pronoun": "O", "ku": "Ew", "-DI": "-dı/-di", "-miş": "-mış/-miş" },
+    { "pronoun": "Biz", "ku": "Em", "-DI": "-dık/-dik", "-miş": "-mışız/-mişiz" },
+    { "pronoun": "Siz", "ku": "Hûn", "-DI": "-dınız/-diniz", "-miş": "-mışsınız/-mişsiniz" },
+    { "pronoun": "Onlar", "ku": "Ew", "-DI": "-dılar/-diler", "-miş": "-mışlar/-mişler" }
+  ],
+  "extra_note_ku": "Di Tirkî de -DI ji bo bûyerên ku bi çavan hatine dîtin an jî bi dilê xwe piştrast in tê bikaranîn (dün, geçen hafta, saat 5’te...). -miş ji bo agahiyên ku ji kesên din hatine bihîstin, nîşane hene an jî texmîn e (herhalde gitmiştir, demek ki yapmış). Zaman zarfları: dün (duh), geçen yıl (sala borî), sabah (sibeh), az önce (nêzîk), herhalde (belkî), demek ki (ango) hwd. Fiilên din ên baş: yapmak (kirin), olmak (bûn), vermek (dan), almak (standin), söylemek (gotin)."
+}

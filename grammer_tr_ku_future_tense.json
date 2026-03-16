@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Kürtçe Gelecek Zaman (Dema Pêşerojê / Future Tense)",
+  "language_pair": "tr-ku",
+  "target_language": "ku",
+  "native_language": "tr",
+  "description": "Kürtçe Gelecek Zaman (Dema Pêşerojê) – Türkçe konuşanlar için. Yakın veya kesin gelecekteki eylemler, planlar, niyetler, tahminler ve vaatler için kullanılır. Kurmanci'de en yaygın yapı 'dê + fiil' (dê biçim) şeklindedir ve Türkçe'deki '-ecek/-acak' ekiyle neredeyse birebir aynı mantıktadır.",
+  "grammar_focus": {
+    "rule": "dê + şimdiki zaman fiili (veya bazı durumlarda bi- + fiil kökü)",
+    "suffixes": {
+      "ez (ben)": "dê ... -im",
+      "tu (sen)": "dê ... -î / -yî",
+      "ew (o)": "dê ... -e",
+      "em (biz)": "dê ... -in",
+      "hûn (siz)": "dê ... -in",
+      "ew (onlar)": "dê ... -in"
+    },
+    "note_tr": "Kurmanci'de gelecek zaman genellikle 'dê' yardımcı fiili + şimdiki zaman çekimiyle yapılır (dê biçim, dê têyî, dê bixwe). 'dê' Türkçe'deki '-ecek/-acak' anlamına çok yakındır. Olumsuzluk: dê ne- + fiil (dê neçim). Soru: dê + fiil + tonlama veya 'gelo dê ...?' şeklinde. Yakın gelecek için bazen 'êzê / tu yê / ew ê + fiil' kısaltması da kullanılır (êzê biçim = ben gideceğim). Planlanmış eylemlerde çok sık kullanılır."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben gideceğim.",
+      "ku": "Ez dê biçim.",
+      "verb_root": "çûn",
+      "verb_infinitive": "çûn",
+      "ku_infinitive": "çûn",
+      "conjugation_note": "dê + diçim → dê biçim",
+      "audio_hint": "dê bi-çim"
+    },
+    {
+      "id": 2,
+      "tr": "Sen geleceksin.",
+      "ku": "Tu dê têyî.",
+      "verb_root": "hatin",
+      "verb_infinitive": "hatin",
+      "ku_infinitive": "hatin",
+      "conjugation_note": "dê + têyî → dê têyî",
+      "audio_hint": "dê tê-yî"
+    },
+    {
+      "id": 3,
+      "tr": "O yiyecek.",
+      "ku": "Ew dê bixwe.",
+      "verb_root": "xwarin",
+      "verb_infinitive": "xwarin",
+      "ku_infinitive": "xwarin",
+      "conjugation_note": "dê + dixwe → dê bixwe",
+      "audio_hint": "dê bi-xwe"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içeceğiz.",
+      "ku": "Em dê vexwin.",
+      "verb_root": "vexwarin",
+      "verb_infinitive": "vexwarin",
+      "ku_infinitive": "vexwarin",
+      "conjugation_note": "dê + vedixwin → dê vexwin",
+      "audio_hint": "dê vex-win"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşacaksınız.",
+      "ku": "Hûn dê biaxivin.",
+      "verb_root": "axaftin",
+      "verb_infinitive": "axaftin",
+      "ku_infinitive": "axaftin",
+      "conjugation_note": "dê + diaxivin → dê biaxivin",
+      "audio_hint": "dê bi-a-xi-vin"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışacaklar.",
+      "ku": "Ew dê bixebitin.",
+      "verb_root": "xebitîn",
+      "verb_infinitive": "xebitîn",
+      "ku_infinitive": "xebitîn",
+      "conjugation_note": "dê + dixebitin → dê bixebitin",
+      "audio_hint": "dê bi-xe-bi-tin"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni seveceğim.",
+      "ku": "Ez dê ji te hez bikim.",
+      "verb_root": "hez kirin",
+      "verb_infinitive": "hez kirin",
+      "ku_infinitive": "hez kirin",
+      "conjugation_note": "dê + hez dikim → dê hez bikim",
+      "audio_hint": "dê hez bi-kim"
+    },
+    {
+      "id": 8,
+      "tr": "O uyuyacak.",
+      "ku": "Ew dê razê.",
+      "verb_root": "razan",
+      "verb_infinitive": "razan",
+      "ku_infinitive": "razan",
+      "conjugation_note": "dê + radizê → dê razê",
+      "audio_hint": "dê ra-zê"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynayacağız.",
+      "ku": "Em dê bilîzin.",
+      "verb_root": "lîstin",
+      "verb_infinitive": "lîstin",
+      "ku_infinitive": "lîstin",
+      "conjugation_note": "dê + dilîzin → dê bilîzin",
+      "audio_hint": "dê bi-lî-zin"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yapacaksın?",
+      "ku": "Tu dê çi bikî?",
+      "verb_root": "kirin",
+      "verb_infinitive": "kirin",
+      "ku_infinitive": "kirin",
+      "conjugation_note": "dê + dikî → dê bikî",
+      "audio_hint": "dê çi bi-kî?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Kürtçe öğreneceğim.",
+      "ku": "Ez dê Kurdî fêr bibim.",
+      "verb_root": "fêr bûn",
+      "verb_infinitive": "fêr bûn",
+      "ku_infinitive": "fêr bûn",
+      "conjugation_note": "dê + fêr dibim → dê fêr bibim",
+      "audio_hint": "dê fêr bi-bim"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürecek.",
+      "ku": "Ew dê otomobîlê biajo.",
+      "verb_root": "ajotin",
+      "verb_infinitive": "ajotin",
+      "ku_infinitive": "ajotin",
+      "conjugation_note": "dê + diajo → dê biajo",
+      "audio_hint": "dê bi-a-jo"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinleyeceğiz.",
+      "ku": "Em dê muzîkê guhdarî bikin.",
+      "verb_root": "guhdarî kirin",
+      "verb_infinitive": "guhdarî kirin",
+      "ku_infinitive": "guhdarî kirin",
+      "conjugation_note": "dê + guhdarî dikin → dê guhdarî bikin",
+      "audio_hint": "dê guh-da-rî bi-kin"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okuyacaksın.",
+      "ku": "Tu dê pirtûkê bixwînî.",
+      "verb_root": "xwendin",
+      "verb_infinitive": "xwendin",
+      "ku_infinitive": "xwendin",
+      "conjugation_note": "dê + dixwînî → dê bixwînî",
+      "audio_hint": "dê bi-xwî-nî"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmeyeceğim.",
+      "ku": "Ez dê neçim.",
+      "verb_root": "çûn",
+      "verb_infinitive": "çûn",
+      "ku_infinitive": "çûn",
+      "conjugation_note": "dê + neçim",
+      "audio_hint": "dê ne-çim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmeyecek.",
+      "ku": "Ew dê neyê.",
+      "verb_root": "hatin",
+      "verb_infinitive": "hatin",
+      "ku_infinitive": "hatin",
+      "conjugation_note": "dê + neyê",
+      "audio_hint": "dê ne-yê",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen gelecek misin?",
+      "ku": "Tu dê têyî?",
+      "verb_root": "hatin",
+      "verb_infinitive": "hatin",
+      "ku_infinitive": "hatin",
+      "conjugation_note": "dê têyî + tonlama",
+      "audio_hint": "dê tê-yî?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu göreceğim.",
+      "ku": "Ez dê wî/wê bibînim.",
+      "verb_root": "dîtin",
+      "verb_infinitive": "dîtin",
+      "ku_infinitive": "dîtin",
+      "conjugation_note": "dê + dibînim → dê bibînim",
+      "audio_hint": "dê bi-bî-nim"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar gülecekler.",
+      "ku": "Ew dê bikenin.",
+      "verb_root": "kenîn",
+      "verb_infinitive": "kenîn",
+      "ku_infinitive": "kenîn",
+      "conjugation_note": "dê + dikenin → dê bikenin",
+      "audio_hint": "dê bi-ke-nin"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekleyeceğiz.",
+      "ku": "Em dê li vir li bendê bin.",
+      "verb_root": "bend bûn",
+      "verb_infinitive": "bend bûn",
+      "ku_infinitive": "bend bûn",
+      "conjugation_note": "dê + li bendê ne → dê li bendê bin",
+      "audio_hint": "dê li ben-dê bin"
+    },
+    {
+      "id": 21,
+      "tr": "Ben yemek yiyeceğim.",
+      "ku": "Ez dê bixwim.",
+      "verb_root": "xwarin",
+      "verb_infinitive": "xwarin",
+      "ku_infinitive": "xwarin",
+      "conjugation_note": "dê + dixwim → dê bixwim",
+      "audio_hint": "dê bi-xwim"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazacaksın.",
+      "ku": "Tu dê binivîsî.",
+      "verb_root": "nivîsandin",
+      "verb_infinitive": "nivîsandin",
+      "ku_infinitive": "nivîsandin",
+      "conjugation_note": "dê + dinivîsî → dê binivîsî",
+      "audio_hint": "dê bi-ni-vî-sî"
+    },
+    {
+      "id": 23,
+      "tr": "O koşacak.",
+      "ku": "Ew dê bireve.",
+      "verb_root": "revîn",
+      "verb_infinitive": "revîn",
+      "ku_infinitive": "revîn",
+      "conjugation_note": "dê + direve → dê bireve",
+      "audio_hint": "dê bi-re-ve"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzeceğiz.",
+      "ku": "Em dê avjeniyê bikin.",
+      "verb_root": "avjenî kirin",
+      "verb_infinitive": "avjenî kirin",
+      "ku_infinitive": "avjenî kirin",
+      "conjugation_note": "dê + avjeniyê dikin → dê avjeniyê bikin",
+      "audio_hint": "dê av-je-ni-yê bi-kin"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söyleyeceksiniz.",
+      "ku": "Hûn dê stranê bibêjin.",
+      "verb_root": "gotin",
+      "verb_infinitive": "gotin",
+      "ku_infinitive": "gotin",
+      "conjugation_note": "dê + dibêjin → dê bibêjin",
+      "audio_hint": "dê bi-bê-jin"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmayacağım.",
+      "ku": "Ez dê naxebitim.",
+      "verb_root": "xebitîn",
+      "verb_infinitive": "xebitîn",
+      "ku_infinitive": "xebitîn",
+      "conjugation_note": "dê + naxebitim",
+      "audio_hint": "dê na-xe-bi-tim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumayacak mı?",
+      "ku": "Ew dê neraze?",
+      "verb_root": "razan",
+      "verb_infinitive": "razan",
+      "ku_infinitive": "razan",
+      "conjugation_note": "dê + nerazê + tonlama",
+      "audio_hint": "dê ne-ra-zê?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz dinlemeyecek miyiz?",
+      "ku": "Em dê guhdarî nekin?",
+      "verb_root": "guhdarî kirin",
+      "verb_infinitive": "guhdarî kirin",
+      "ku_infinitive": "guhdarî kirin",
+      "conjugation_note": "dê + nakin + tonlama",
+      "audio_hint": "dê guh-da-rî ne-kin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans edecek misin?",
+      "ku": "Tu dê dilîzî?",
+      "verb_root": "lîstin",
+      "verb_infinitive": "lîstin",
+      "ku_infinitive": "lîstin",
+      "conjugation_note": "dê + dilîzî + tonlama",
+      "audio_hint": "dê di-lî-zî?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Kürtçe konuşmayacaklar.",
+      "ku": "Ew dê Kurdî neaxivin.",
+      "verb_root": "axaftin",
+      "verb_infinitive": "axaftin",
+      "ku_infinitive": "axaftin",
+      "conjugation_note": "dê + naxivîn → dê neaxivin",
+      "audio_hint": "dê ne-a-xi-vin",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ez", "tr": "Ben", "suffix": "dê ... -im" },
+    { "pronoun": "Tu", "tr": "Sen", "suffix": "dê ... -î / -yî" },
+    { "pronoun": "Ew", "tr": "O", "suffix": "dê ... -e" },
+    { "pronoun": "Em", "tr": "Biz", "suffix": "dê ... -in" },
+    { "pronoun": "Hûn", "tr": "Siz", "suffix": "dê ... -in" },
+    { "pronoun": "Ew", "tr": "Onlar", "suffix": "dê ... -in" }
+  ],
+  "extra_note_tr": "Kurmanci'de gelecek zamanın en yaygın ve doğal yolu 'dê + şimdiki zaman' yapısıdır. Türkçe'deki '-ecek/-acak' ile neredeyse aynı hissettirir. Yakın gelecek için bazen 'êzê biçim' (ben gideceğim), 'tu yê têyî' (sen geleceksin) gibi kısaltmalar da duyulur. Zaman ifadeleri: sibê (yarın), roja din (öbür gün), sala bê (gelecek yıl), piştî demekê (birazdan), zû (yakında), di demek nêz de (yakın zamanda) vb. Planlanmış eylemlerde çok doğal gelir."
+}

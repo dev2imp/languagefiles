@@ -1,0 +1,340 @@
+{
+  "level": 10,
+  "topic": "Kürtçe Şimdiki Zaman (Dema Niha / Present Tense)",
+  "language_pair": "tr-ku",
+  "target_language": "ku",
+  "native_language": "tr",
+  "description": "Kürtçe Şimdiki Zaman (Dema Niha) – Türkçe konuşanlar için. Günlük alışkanlıklar, genel gerçekler, şu anda devam eden eylemler ve tekrar eden durumlar için kullanılır. Türkçe geniş zamana (-r, -ar, -er) benzer, ancak Kurmanci'de 'di-' önekiyle yapılır ve fiil çekimleri farklıdır.",
+  "grammar_focus": {
+    "rule": "Fiil kökü + di- öneki + fiil kökü + şahıs eki",
+    "suffixes": {
+      "ez (ben)": "-im",
+      "tu (sen)": "-î / -yî",
+      "ew (o)": "-e",
+      "em (biz)": "-in",
+      "hûn (siz)": "-in",
+      "ew (onlar)": "-in"
+    },
+    "note_tr": "Kurmanci'de şimdiki zaman her zaman 'di-' önekiyle başlar (diçim, dixwim). Olumsuzluk için 'na-' kullanılır: naçim (gitmiyorum). Soru cümleleri genelde aynı yapı + yükselen tonlama ile yapılır, bazen 'gelo' veya 'ma' soru eki eklenir. Türkçe'deki gibi ünlü uyumu vardır ama daha az katıdır. En yaygın fiillerde düzensizlikler olabilir (hatin → têm, çûn → diçim)."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "tr": "Ben gidiyorum.",
+      "ku": "Ez diçim.",
+      "verb_root": "çûn",
+      "verb_infinitive": "çûn",
+      "ku_infinitive": "çûn",
+      "conjugation_note": "di- + ç + im → diçim",
+      "audio_hint": "di-çim"
+    },
+    {
+      "id": 2,
+      "tr": "Sen geliyorsun.",
+      "ku": "Tu têyî.",
+      "verb_root": "hatin",
+      "verb_infinitive": "hatin",
+      "ku_infinitive": "hatin",
+      "conjugation_note": "di- + t + yî → têyî (düzensiz)",
+      "audio_hint": "tê-yî"
+    },
+    {
+      "id": 3,
+      "tr": "O yiyor.",
+      "ku": "Ew dixwe.",
+      "verb_root": "xwarin",
+      "verb_infinitive": "xwarin",
+      "ku_infinitive": "xwarin",
+      "conjugation_note": "di- + xw + e → dixwe",
+      "audio_hint": "di-xwe"
+    },
+    {
+      "id": 4,
+      "tr": "Biz içiyoruz.",
+      "ku": "Em vedixwin.",
+      "verb_root": "vedixwarin",
+      "verb_infinitive": "vedixwarin",
+      "ku_infinitive": "vedixwarin",
+      "conjugation_note": "di- + vexw + in → vedixwin",
+      "audio_hint": "ve-di-xwin"
+    },
+    {
+      "id": 5,
+      "tr": "Siz konuşuyorsunuz.",
+      "ku": "Hûn diaxivin.",
+      "verb_root": "axaftin",
+      "verb_infinitive": "axaftin",
+      "ku_infinitive": "axaftin",
+      "conjugation_note": "di- + axiv + in → diaxivin",
+      "audio_hint": "di-a-xi-vin"
+    },
+    {
+      "id": 6,
+      "tr": "Onlar çalışıyorlar.",
+      "ku": "Ew dixebitin.",
+      "verb_root": "xebitîn",
+      "verb_infinitive": "xebitîn",
+      "ku_infinitive": "xebitîn",
+      "conjugation_note": "di- + xeb + it + in → dixebitin",
+      "audio_hint": "di-xe-bi-tin"
+    },
+    {
+      "id": 7,
+      "tr": "Ben seni seviyorum.",
+      "ku": "Ez ji te hez dikim.",
+      "verb_root": "hez kirin",
+      "verb_infinitive": "hez kirin",
+      "ku_infinitive": "hez kirin",
+      "conjugation_note": "di- + kim → hez dikim",
+      "audio_hint": "hez di-kim"
+    },
+    {
+      "id": 8,
+      "tr": "O uyuyor.",
+      "ku": "Ew radizê.",
+      "verb_root": "razan",
+      "verb_infinitive": "razan",
+      "ku_infinitive": "razan",
+      "conjugation_note": "di- + raz + ê → radizê (düzensiz)",
+      "audio_hint": "ra-di-zê"
+    },
+    {
+      "id": 9,
+      "tr": "Biz oynuyoruz.",
+      "ku": "Em dilîzin.",
+      "verb_root": "lîstin",
+      "verb_infinitive": "lîstin",
+      "ku_infinitive": "lîstin",
+      "conjugation_note": "di- + lîz + in → dilîzin",
+      "audio_hint": "di-lî-zin"
+    },
+    {
+      "id": 10,
+      "tr": "Sen ne yapıyorsun?",
+      "ku": "Tu çi dikî?",
+      "verb_root": "kirin",
+      "verb_infinitive": "kirin",
+      "ku_infinitive": "kirin",
+      "conjugation_note": "di- + k + î → dikî",
+      "audio_hint": "çi di-kî?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "tr": "Ben Kürtçe öğreniyorum.",
+      "ku": "Ez Kurdî fêr dibim.",
+      "verb_root": "fêr bûn",
+      "verb_infinitive": "fêr bûn",
+      "ku_infinitive": "fêr bûn",
+      "conjugation_note": "di- + bim → fêr dibim",
+      "audio_hint": "fêr di-bim"
+    },
+    {
+      "id": 12,
+      "tr": "O araba sürüyor.",
+      "ku": "Ew otomobîlê diajo.",
+      "verb_root": "ajotin",
+      "verb_infinitive": "ajotin",
+      "ku_infinitive": "ajotin",
+      "conjugation_note": "di- + aj + o → diajo",
+      "audio_hint": "di-a-jo"
+    },
+    {
+      "id": 13,
+      "tr": "Biz müzik dinliyoruz.",
+      "ku": "Em muzîkê guhdarî dikin.",
+      "verb_root": "guhdarî kirin",
+      "verb_infinitive": "guhdarî kirin",
+      "ku_infinitive": "guhdarî kirin",
+      "conjugation_note": "di- + kin → guhdarî dikin",
+      "audio_hint": "guh-da-rî di-kin"
+    },
+    {
+      "id": 14,
+      "tr": "Sen kitap okuyorsun.",
+      "ku": "Tu pirtûkê dixwînî.",
+      "verb_root": "xwendin",
+      "verb_infinitive": "xwendin",
+      "ku_infinitive": "xwendin",
+      "conjugation_note": "di- + xwîn + î → dixwînî",
+      "audio_hint": "di-xwî-nî"
+    },
+    {
+      "id": 15,
+      "tr": "Ben gitmiyorum.",
+      "ku": "Ez naçim.",
+      "verb_root": "çûn",
+      "verb_infinitive": "çûn",
+      "ku_infinitive": "çûn",
+      "conjugation_note": "na- + ç + im → naçim",
+      "audio_hint": "na-çim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 16,
+      "tr": "O gelmiyor.",
+      "ku": "Ew nayê.",
+      "verb_root": "hatin",
+      "verb_infinitive": "hatin",
+      "ku_infinitive": "hatin",
+      "conjugation_note": "na- + tê → nayê",
+      "audio_hint": "na-yê",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 17,
+      "tr": "Sen geliyor musun?",
+      "ku": "Tu têyî?",
+      "verb_root": "hatin",
+      "verb_infinitive": "hatin",
+      "ku_infinitive": "hatin",
+      "conjugation_note": "têyî + tonlama ile soru",
+      "audio_hint": "tê-yî?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 18,
+      "tr": "Ben onu görüyorum.",
+      "ku": "Ez wî/wê dibînim.",
+      "verb_root": "dîtin",
+      "verb_infinitive": "dîtin",
+      "ku_infinitive": "dîtin",
+      "conjugation_note": "di- + bîn + im → dibînim",
+      "audio_hint": "di-bî-nim"
+    },
+    {
+      "id": 19,
+      "tr": "Onlar gülüyorlar.",
+      "ku": "Ew dikenin.",
+      "verb_root": "kenîn",
+      "verb_infinitive": "kenîn",
+      "ku_infinitive": "kenîn",
+      "conjugation_note": "di- + ken + in → dikenin",
+      "audio_hint": "di-ke-nin"
+    },
+    {
+      "id": 20,
+      "tr": "Biz burada bekliyoruz.",
+      "ku": "Em li vir li bendê ne.",
+      "verb_root": "bend bûn",
+      "verb_infinitive": "bend bûn",
+      "ku_infinitive": "bend bûn",
+      "conjugation_note": "li bendê ne (şimdiki zaman yapısı)",
+      "audio_hint": "li ben-dê ne"
+    },
+    {
+      "id": 21,
+      "tr": "Ben yemek yiyorum.",
+      "ku": "Ez dixwim.",
+      "verb_root": "xwarin",
+      "verb_infinitive": "xwarin",
+      "ku_infinitive": "xwarin",
+      "conjugation_note": "di- + xw + im → dixwim",
+      "audio_hint": "di-xwim"
+    },
+    {
+      "id": 22,
+      "tr": "Sen yazıyorsun.",
+      "ku": "Tu dinivîsî.",
+      "verb_root": "nivîsandin",
+      "verb_infinitive": "nivîsandin",
+      "ku_infinitive": "nivîsandin",
+      "conjugation_note": "di- + nivîs + î → dinivîsî",
+      "audio_hint": "di-ni-vî-sî"
+    },
+    {
+      "id": 23,
+      "tr": "O koşuyor.",
+      "ku": "Ew direve.",
+      "verb_root": "revîn",
+      "verb_infinitive": "revîn",
+      "ku_infinitive": "revîn",
+      "conjugation_note": "di- + rev + e → direve",
+      "audio_hint": "di-re-ve"
+    },
+    {
+      "id": 24,
+      "tr": "Biz yüzüyoruz.",
+      "ku": "Em avjeniyê dikin.",
+      "verb_root": "avjenî kirin",
+      "verb_infinitive": "avjenî kirin",
+      "ku_infinitive": "avjenî kirin",
+      "conjugation_note": "di- + kin → avjeniyê dikin",
+      "audio_hint": "av-je-ni-yê di-kin"
+    },
+    {
+      "id": 25,
+      "tr": "Siz şarkı söylüyorsunuz.",
+      "ku": "Hûn stranê dibêjin.",
+      "verb_root": "gotin",
+      "verb_infinitive": "gotin",
+      "ku_infinitive": "gotin",
+      "conjugation_note": "di- + bêj + in → dibêjin",
+      "audio_hint": "di-bê-jin"
+    },
+    {
+      "id": 26,
+      "tr": "Ben çalışmıyorum.",
+      "ku": "Ez naxebitim.",
+      "verb_root": "xebitîn",
+      "verb_infinitive": "xebitîn",
+      "ku_infinitive": "xebitîn",
+      "conjugation_note": "na- + xebit + im → naxebitim",
+      "audio_hint": "na-xe-bi-tim",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 27,
+      "tr": "O uyumuyor mu?",
+      "ku": "Ew nareve?",
+      "verb_root": "razan",
+      "verb_infinitive": "razan",
+      "ku_infinitive": "razan",
+      "conjugation_note": "na- + raz + e → nareve?",
+      "audio_hint": "na-re-ve?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 28,
+      "tr": "Biz dinlemiyor muyuz?",
+      "ku": "Em guhdarî nakin?",
+      "verb_root": "guhdarî kirin",
+      "verb_infinitive": "guhdarî kirin",
+      "ku_infinitive": "guhdarî kirin",
+      "conjugation_note": "na- + kin → nakin?",
+      "audio_hint": "guh-da-rî na-kin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 29,
+      "tr": "Sen dans ediyor musun?",
+      "ku": "Tu dilîzî?",
+      "verb_root": "lîstin",
+      "verb_infinitive": "lîstin",
+      "ku_infinitive": "lîstin",
+      "conjugation_note": "di- + lîz + î → dilîzî?",
+      "audio_hint": "di-lî-zî?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 30,
+      "tr": "Onlar Kürtçe konuşmuyorlar.",
+      "ku": "Ew Kurdî naxivîn.",
+      "verb_root": "axaftin",
+      "verb_infinitive": "axaftin",
+      "ku_infinitive": "axaftin",
+      "conjugation_note": "na- + axiv + în → naxivîn",
+      "audio_hint": "na-xi-vîn",
+      "grammar_tag": "negation"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ez", "tr": "Ben", "suffix": "-im" },
+    { "pronoun": "Tu", "tr": "Sen", "suffix": "-î / -yî" },
+    { "pronoun": "Ew", "tr": "O", "suffix": "-e" },
+    { "pronoun": "Em", "tr": "Biz", "suffix": "-in" },
+    { "pronoun": "Hûn", "tr": "Siz", "suffix": "-in" },
+    { "pronoun": "Ew", "tr": "Onlar", "suffix": "-in" }
+  ],
+  "extra_note_tr": "Kurmanci'de şimdiki zaman hem 'yapıyorum' hem de 'yaparım' anlamını taşıyabilir (bağlama göre). 'di-' eki şimdiki zamanın en önemli işaretidir. Olumsuzlukta 'di-' yerine 'na-' gelir. Çok sık kullanılan düzensiz fiiller: hatin (gelmek → têm/têyî/tê), çûn (gitmek → diçim), kirin (yapmak → dikim), xwarin (yemek → dixwim), vexwarin (içmek → vedixwim), dîtin (görmek → dibînim). Zaman ifadeleri: niha (şimdi), her roj (her gün), car caran (bazen), her tim (her zaman), sibê (yarın – gelecek zamanla da kullanılır)."
+}

@@ -1,0 +1,156 @@
+{
+  "level": 10,
+  "topic": "Türkçe Gelecek Zaman (-ecek / -acak)",
+  "language_pair": "ku-tr",
+  "target_language": "tr",
+  "native_language": "ku",
+  "description": "Türkçe'de Gelecek Zaman (gelecek zaman) bi tenê formekê sereke heye: fiil + -ecek an -acak + şexsê kesê. Ev dem ji bo plan, niyet, pêşbîniyên li ser pêşerojê, soz û bûyerên ku têne texmînkirin tê bikaranîn (yarın gideceğim). Di Kurdî de bi gelemperî bi 'dê' (dê biçim) tê nîşandan (ez dê biçim), lê di Tirkî de ev yek bi -ecek/-acak tê çêkirin. Pir caran di axaftinê de kurtkirin jî heye: -cem, -cen, -cek, -cen... lê forma fermî her tim -ecek/-acak e.",
+  "grammar_focus": {
+    "rule": "Gelecek Zaman: fiil + -ecek / -acak + şahıs eki\n(-ecek → fiilên ku bi ünlüsü dar sesli biterse, -acak → geniş sesli biterse)",
+    "suffixes": {
+      "ben": "-acağım / -eceğim",
+      "sen": "-acaksın / -eceksin",
+      "o": "-acak / -ecek",
+      "biz": "-acağız / -eceğiz",
+      "siz": "-acaksınız / -eceksiniz",
+      "onlar": "-acaklar / -ecekler"
+    },
+    "note_ku": "Di Tirkî de Gelecek Zaman ji bo pêşerojê tê bikaranîn (yarın, hafta sonu, önümüzdeki ay...). Cudahiya di navbera niyet (niyet) û pêşbîniyê (tahmin) de heye. Olumsuzluk: -meyecek / -mayacak. Soru: mi/mı/mu/mü li dawiyê tê zêdekirin. Di axaftina rojane de gelek caran kurt dibe: yarın gidicem, yapacam... lê di nivîs û dersan de forma dirêj tê bikaranîn. Fiilên pir têne bikaranîn: gitmek, gelmek, yapmak, olmak, yemek, içmek, öğrenmek, konuşmak."
+  },
+  "pairs": [
+    {
+      "id": 1,
+      "ku": "Ez sibê dê biçim.",
+      "tr": "Ben yarın gideceğim.",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + ecek + im → gideceğim",
+      "audio_hint": "gi-de-ce-ğim"
+    },
+    {
+      "id": 2,
+      "ku": "Tu sibê têyî.",
+      "tr": "Sen yarın geleceksin.",
+      "verb_root": "gel",
+      "verb_infinitive": "gelmek",
+      "tr_infinitive": "gelmek",
+      "conjugation_note": "gel + ecek + sin → geleceksin",
+      "audio_hint": "ge-lec-ek-sin"
+    },
+    {
+      "id": 3,
+      "ku": "Ew ê nan bixwe.",
+      "tr": "O yemek yiyecek.",
+      "verb_root": "ye",
+      "verb_infinitive": "yemek",
+      "tr_infinitive": "yemek",
+      "conjugation_note": "ye + yecek → yiyecek",
+      "audio_hint": "yi-ye-cek"
+    },
+    {
+      "id": 4,
+      "ku": "Em çayê vexwin.",
+      "tr": "Biz çay içeceğiz.",
+      "verb_root": "iç",
+      "verb_infinitive": "içmek",
+      "tr_infinitive": "içmek",
+      "conjugation_note": "iç + ecek + iz → içeceğiz",
+      "audio_hint": "i-çe-ce-ğiz"
+    },
+    {
+      "id": 5,
+      "ku": "Hûn ê diaxivin.",
+      "tr": "Siz konuşacaksınız.",
+      "verb_root": "konuş",
+      "verb_infinitive": "konuşmak",
+      "tr_infinitive": "konuşmak",
+      "conjugation_note": "konuş + acak + sınız → konuşacaksınız",
+      "audio_hint": "ko-nu-şa-cak-sı-nız"
+    },
+    {
+      "id": 6,
+      "ku": "Ez Kurdî fêr bibim.",
+      "tr": "Ben Türkçe öğreneceğim.",
+      "verb_root": "öğren",
+      "verb_infinitive": "öğrenmek",
+      "tr_infinitive": "öğrenmek",
+      "conjugation_note": "öğren + ecek + im → öğreneceğim",
+      "audio_hint": "ög-re-ne-ce-ğim"
+    },
+    {
+      "id": 7,
+      "ku": "Ez ji te hez bikim (dê hez bikim).",
+      "tr": "Ben seni seveceğim.",
+      "verb_root": "sev",
+      "verb_infinitive": "sevmek",
+      "tr_infinitive": "sevmek",
+      "conjugation_note": "sev + ecek + im → seveceğim",
+      "audio_hint": "se-ve-ce-ğim"
+    },
+    {
+      "id": 8,
+      "ku": "Ew naxwîne.",
+      "tr": "O okumayacak.",
+      "verb_root": "oku",
+      "verb_infinitive": "okumak",
+      "tr_infinitive": "okumak",
+      "conjugation_note": "oku + ma + yacak → okumayacak",
+      "audio_hint": "o-ku-ma-ya-cak",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 9,
+      "ku": "Tu naçî?",
+      "tr": "Sen gitmeyecek misin?",
+      "verb_root": "git",
+      "verb_infinitive": "gitmek",
+      "tr_infinitive": "gitmek",
+      "conjugation_note": "git + me + yecek + mi + sin → gitmeyecek misin?",
+      "audio_hint": "git-me-ye-cek mi-sin?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 10,
+      "ku": "Em dilîzin?",
+      "tr": "Biz oynayacak mıyız?",
+      "verb_root": "oyna",
+      "verb_infinitive": "oynamak",
+      "tr_infinitive": "oynamak",
+      "conjugation_note": "oyna + ya + cak + mıyız → oynayacak mıyız?",
+      "audio_hint": "oy-na-ya-cak mı-yız?",
+      "grammar_tag": "question"
+    },
+    {
+      "id": 11,
+      "ku": "Ew naxebite.",
+      "tr": "O çalışmayacak.",
+      "verb_root": "çalış",
+      "verb_infinitive": "çalışmak",
+      "tr_infinitive": "çalışmak",
+      "conjugation_note": "çalış + ma + yacak → çalışmayacak",
+      "audio_hint": "ça-lış-ma-ya-cak",
+      "grammar_tag": "negation"
+    },
+    {
+      "id": 12,
+      "ku": "Tu dans dikî?",
+      "tr": "Sen dans edecek misin?",
+      "verb_root": "dans et",
+      "verb_infinitive": "dans etmek",
+      "tr_infinitive": "dans etmek",
+      "conjugation_note": "dans et + ecek + mi + sin",
+      "audio_hint": "dans e-de-cek mi-sin?",
+      "grammar_tag": "question"
+    }
+  ],
+  "personal_suffixes": [
+    { "pronoun": "Ben", "ku": "Ez", "gelecek": "-acağım / -eceğim" },
+    { "pronoun": "Sen", "ku": "Tu", "gelecek": "-acaksın / -eceksin" },
+    { "pronoun": "O", "ku": "Ew", "gelecek": "-acak / -ecek" },
+    { "pronoun": "Biz", "ku": "Em", "gelecek": "-acağız / -eceğiz" },
+    { "pronoun": "Siz", "ku": "Hûn", "gelecek": "-acaksınız / -eceksiniz" },
+    { "pronoun": "Onlar", "ku": "Ew", "gelecek": "-acaklar / -ecekler" }
+  ],
+  "extra_note_ku": "Di Tirkî de Gelecek Zaman bi awayekî zelal ji bo pêşerojê tê bikaranîn. Zaman zarfları yên pir têne bikaranîn: yarın (sibê), bu akşam (îşev), hafta sonu (dawiya hefteyê), önümüzdeki ay (mehê pêş), yakında (nêzîk), belki (belkî), kesin (bê guman), sanırım (ez bawer im) hwd. Di axaftina rojane de gelek caran kurt dibe: -cem yerine -ceğim, -cen yerine -ceksin... Lê di nivîs, ders û imtahanan de forma tam tê xwestin. Fiilên din: görmek (dîtin), yapmak (kirin), vermek (dan), almak (standin), söylemek (gotin), başlamak (dest pê kirin)."
+}
