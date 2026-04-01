@@ -1,0 +1,73 @@
+**Privacy Policy for Geo Board Game**
+Last updated: April 1, 2026
+
+This Privacy Policy explains how Geo Board Game ("we", "us", or "our") handles information from users ("you" or "your") of the Geo Board Game mobile application (the "App").
+
+---
+
+### 1. Information We Collect
+
+We do not require users to create an account or provide personal information.
+
+The App may automatically collect limited information, including:
+
+* **Device identifiers** (such as Advertising ID), used only to display ads.
+
+We do not collect names, emails, or any personally identifiable information.
+
+---
+
+### 2. Use of Ads
+
+The App uses **Google AdMob** to display advertisements.
+
+AdMob may collect and use device identifiers to provide ads. These ads are designed to be **non-intrusive and not disruptive to gameplay**.
+
+You can choose to opt out of personalized advertising by adjusting your device’s ad settings.
+
+---
+
+### 3. Data Sharing
+
+We do not sell or share user data.
+
+Device identifiers may be shared with **Google AdMob** solely for the purpose of delivering advertisements.
+
+---
+
+### 4. Gameplay and Data
+
+Geo Board Game is a simple puzzle game where players draw triangles and progress through levels.
+
+* No gameplay data is stored externally
+* No personal data is linked to your progress
+
+---
+
+### 5. Children’s Privacy
+
+The App is not directed to children under the age of 13.
+We do not knowingly collect personal information from children.
+
+---
+
+### 6. Data Security
+
+We take reasonable steps to protect the limited data used within the App.
+However, no method of electronic storage or transmission is completely secure.
+
+---
+
+### 7. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+Any changes will be reflected on this page with an updated date.
+
+---
+
+### 8. Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us at:
+**[lingoroj@gmail.com](mailto:lingoroj@gmail.com)**
+
+---
